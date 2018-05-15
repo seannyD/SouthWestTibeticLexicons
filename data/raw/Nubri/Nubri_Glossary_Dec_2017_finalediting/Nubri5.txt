@@ -1,0 +1,3152 @@
+\_sh v3.0  400  Text
+
+\ref 001
+\ELANBegin 1.100
+\ELANEnd 3.400
+\ELANParticipant TEK
+\ut ibi ʈasidhele thaŋbo jøta
+\tx ibi         ʈasidhele    thaŋbo jøta
+\mb ibi         ʈasidhele    thaŋbo jøta
+\ge grandmother greeting.word fine    COP
+
+\ft
+\ftn
+\ftn बज्यै नमस्कार, सन्चै हुनुहुन्छ?
+
+\ref 002
+\ELANBegin 3.540
+\ELANEnd 5.000
+\ELANParticipant DAM
+\ut dhana aruŋ duk
+\tx dhana aruŋ duk
+\mb dhana aruŋ duk
+\ge now   much  COP
+
+\ft
+\ftn अहिले अलि राम्रो छ।
+
+\ref 003
+\ELANBegin 5.040
+\ELANEnd 6.760
+\ELANParticipant TEK
+\ut ibi lo maŋlø lep jø da
+\tx ibi         lo   maŋlø  lep    jø da
+\mb ibi         lo   maŋlø  lep    jø da
+\ge grandmother year how.much become COP now
+
+\ft
+\ftn बज्यै कति वर्ष हुनु भयो अब?
+
+\ref 004
+\ELANBegin 7.060
+\ELANEnd 10.160
+\ELANParticipant DAM
+\ut dha lo ghjatʃu a dhʏntʃudhungu
+\tx dha lo ghjatʃu a    dhʏntʃudhungu
+\mb dha lo ghjatʃu a    dhʏntʃudhungu
+\ge now yeaeighty   EXCL seventy nine
+
+\ft
+\ftn
+
+\ftn अब वर्ष असी ए उनान्असी (भएँ)।
+
+\ref 005
+\ELANBegin 11.629
+\ELANEnd 14.709
+\ELANParticipant TEK
+\ut dhene ibi dhanda su mula dhe jø
+\tx dhene    ibi         dhanda su mula dhe jø
+\mb dhene    ibi         dhanda su mula dhe jø
+\ge and then grandmother now    whowith sit COP
+
+\ft
+\ftn
+
+\ftn अनि बज्यै अब को सँग बस्नु हुन्छ?
+
+\ref 006
+\ELANBegin 14.720
+\ELANEnd 16.650
+\ELANParticipant DAM
+\ut ŋaraŋ tʃikpe tʃik
+\tx ŋaraŋ   tʃikpe tʃik
+\mb ŋa -raŋ tʃikpe tʃik
+\ge I   -EMPH lonely  one
+
+\ft
+\ftn म एक्लै हो।
+
+\ref 007
+\ELANBegin 16.650
+\ELANEnd 19.451
+\ELANParticipant DAM
+\ut ŋaraŋ sode medi dhana tsiã me
+\tx ŋaraŋ   sode    medi           dhana tʃiã me
+\mb ŋa -raŋ sode    me  -di        dhana tʃiã me
+\ge I   -EMPH fortune NEG -CVB (SEQ) now   any     NEG
+
+\ft
+\ftn
+
+\ftn आँफु अभागी भएकोले अहिले कोही पनि छैन।
+
+\ref 008
+\ELANBegin 19.451
+\ELANEnd 21.671
+\ELANParticipant DAM
+\ut ŋa tʃikpe tʃik le de
+\tx ŋa tʃikpe tʃik le     de
+\mb ŋa tʃikpe tʃik le     de
+\ge I   lonely  one   become sit
+
+\ft
+\ftn म एक्लै बाँकी भएँ।
+
+\ref 009
+\ELANBegin 24.596
+\ELANEnd 26.636
+\ELANParticipant TEK
+\ut tʃikpu de hina
+\tx tʃikpu de  hina
+\mb tʃikpu de  hina
+\ge alone   DEF possibility
+
+\ft
+\ftn एक्लै बस्‍नु हुन्छ हो?
+
+\ref 010
+\ELANBegin 25.760
+\ELANEnd 28.440
+\ELANParticipant DAM
+\ut ŋa tʃikpe tale
+\tx ŋa tʃikpe tale
+\mb ŋa tʃikpe tale
+\ge I   lonely  only
+
+\ft
+\ftn म एक्लै हो।
+
+\ref 011
+\ELANBegin 28.770
+\ELANEnd 32.410
+\ELANParticipant TEK
+\ut khadziŋ saŋgul tʃhombo lepkaŋ i tʃi dzhe de jø
+\tx khadziŋ             saŋgul    tʃhombo lepkaŋ     i           tʃi dzhe   de  jø
+\mb khadziŋ             saŋgul    tʃhombo lep  - kaŋ i           tʃi dzhe   de  jø
+\ge day before yesterday earthquake big      come - time grandmother what become sit COP
+
+\ft
+\ftn
+
+\ftn अस्ति भुकम्प आउने बेला बज्यै के गर्दै हुनुहुन्थ्यो?
+
+\ref 012
+\ELANBegin 32.760
+\ELANEnd 34.760
+\ELANParticipant DAM
+\ut ŋa røme sirde khim naŋla
+\tx ŋa røme sir            de  khim  naŋla
+\mb ŋa røme sir            de  khim  naŋla
+\ge I   alone particle (EMPH)DEF house inside
+
+\ft
+\ftn म एक्लै बस्छु, घर भित्र।
+
+\ref 013
+\ELANBegin 34.950
+\ELANEnd 40.190
+\ELANParticipant DAM
+\ut ɲimu saptuŋ ʃɛ kaŋla khim naŋla saptuŋ tʃik ʃɛdi
+\tx ɲimu     saptuŋ ʃɛ kaŋla    khim  naŋla saptuŋ tʃik
+\mb ɲimu     saptuŋ ʃɛ kaŋ -la  khim  naŋla saptuŋ tʃik
+\ge afternoon food    eat  time -LOC house inside food    one
+
+\tx ʃɛdi
+\mb ʃɛ -di
+\ge eat  -CVB (SEQ)
+
+\ft
+\ftn
+
+\ftn दिउँसो खाना खाने बेला घर भित्र एउटा खाना खाएर
+
+\ref 014
+\ELANBegin 40.520
+\ELANEnd 44.860
+\ELANParticipant DAM
+\ut melak tʃikpe tʃik jø ʃiŋ ɖhuken melak tʃik hodi saptuŋ ʃɛ de
+\tx melak           tʃikpe tʃik jø ʃiŋ    ɖhuken
+\mb melak           tʃikpe tʃik jø ʃiŋ    ɖhu   -ken
+\ge labour exchange lonely  one   COP firewood gather -NMLZ
+
+\tx melak           tʃik ho di  saptuŋ ʃɛ de
+\mb melak           tʃik ho di  saptuŋ ʃɛ de
+\ge labour exchange one   thaDEF food    eat  sit
+
+\ft
+\ftn
+
+\ftn पर्म एउटा थियो, दाउरा टिप्ने पर्म, त्यो चाहिँ खाना खाँदै थियो।
+
+\ref 015
+\ELANBegin 45.150
+\ELANEnd 46.730
+\ELANParticipant DAM
+\ut dẽ hoŋ du dẽ be
+\tx dẽ     hoŋ du  dẽ     be
+\mb dẽ     hoŋ du  dẽ     be
+\ge and.then come COP and.then particle (unexpectedly)
+
+\ft
+\ftn अनि आयो, अनि अब,
+
+\ref 016
+\ELANBegin 46.780
+\ELANEnd 49.980
+\ELANParticipant DAM
+\ut ɖhøtʃi daŋ moɖhøtʃia me hone be khim dʒheptak tale gul du
+\tx ɖhøtʃi      daŋ moɖhøtʃi         a    me  hone
+\mb ɖhø    -tʃi daŋ mo-  ɖhø    -tʃi a    me  hone
+\ge run away -INF  and  NEG- run away -INF  EMPH NEG like that
+
+\tx be  khim  dʒheptak tale gul   du
+\mb be  khim  dʒheptak tale gul   du
+\ge now house all       only shake COP
+
+\ft
+\ftn
+
+\ftn भाग्‍ने नभाग्‍ने नै थिएन, यस्तो अब घर सबै हल्ल्यो।
+
+\ref 017
+\ELANBegin 50.090
+\ELANEnd 53.870
+\ELANParticipant DAM
+\ut saŋdaŋsiŋdiŋ tale gul du uni ni dẽ tʃikpa giri ʃik busoŋ
+\tx saŋdaŋsiŋdiŋ tale gul   du  uni
+\mb saŋdaŋsiŋdiŋ tale gul   du  uni
+\ge ONO              only shake COP and.then
+
+\tx ni                dẽ     tsikpa giri ʃik busoŋ
+\mb ni                dẽ     tsikpa giri ʃik bu  -soŋ
+\ge particle (as for) and.then wall   all  fall son -PST
+
+\ft
+\ftn साङ्ताङ् सिङ्तिङ्गरेर हल्ल्यो, अनि त्यसपछि पर्खाल (गाह्रो) सबै भत्केर 
+गयो।
+
+\ref 018
+\ELANBegin 54.040
+\ELANEnd 57.180
+\ELANParticipant DAM
+\ut u wak tsikpa ʃik utshu uma ʃik
+\tx u    wak   tsikpa ʃik utshu      uma        ʃik
+\mb u    wak   tsikpa ʃik utshu      uma        ʃik
+\ge that below wall   fall from there from there fall
+
+\ft
+\ftn
+
+\ftn यो तल गाह्रो भत्क्यो, त्यहाँ बाट त्यो मुनि बाट भत्क्यो।
+
+\ref 019
+\ELANBegin 57.220
+\ELANEnd 58.680
+\ELANParticipant DAM
+\ut oda mala ʃik hoŋ du
+\tx oda   mala       ʃik hoŋ du
+\mb oda   ma    -la  ʃik hoŋ du
+\ge there maize -LOC fall come COP
+
+\ft
+\ftn त्यहाँ बाट पनि भत्केर आयो।
+
+\ref 020
+\ELANBegin 58.680
+\ELANEnd 61.380
+\ELANParticipant DAM
+\ut u ghjakuŋ tshula ʃik hala ʃik
+\tx u    ghjakuŋ tshula ʃik hala           ʃik
+\mb u    ghjakuŋ tshula ʃik ha        -la  ʃik
+\ge that back     from   fall that side -DAT fall
+
+\ft
+\ftn
+
+\ftn त्यो पछाडि बाट यता भत्क्यो, उता भत्क्यो।
+
+\ref 021
+\ELANBegin 61.460
+\ELANEnd 63.820
+\ELANParticipant DAM
+\ut dhẽ u epsala tsikpa di mala ʃik
+\tx dhẽ u    epsala     tsikpa di  mala      ʃik
+\mb dhẽ u    epsa  -la  tsikpa di  mala      ʃik
+\ge now   that porch -LOC wall   DEF below     fall
+
+\ft
+\ftn
+
+\ftn अनि त्यो पिँढीको गारो पनि तल भत्केर आयो।
+
+\ref 022
+\ELANBegin 63.960
+\ELANEnd 66.300
+\ELANParticipant DAM
+\ut dhẽ unini u epsa
+\tx dhẽ unini         u    epsa
+\mb dhẽ uni      -ni  u    epsa
+\ge now   and.then -ABL that porch
+
+\ft
+\ftn अनि त्यसपछि त्यो पिँढी
+
+\ref 023
+\ELANBegin 66.530
+\ELANEnd 71.080
+\ELANParticipant DAM
+\ut tsikpa do maŋbo soŋ dẽ epsa wak ɖhap wak duŋma jø muni
+didi
+\tx tsikpa do    maŋbo soŋ   dẽ     epsa  wak
+\mb tsikpa do    maŋbo soŋ   dẽ     epsa  wak
+\ge wall   stone much   go.PST and.then porch below
+
+\tx ɖhap wak   duŋma jø məi              di   di
+\mb ɖhap wak   duŋma jø məi              di   di
+\ge plank below beam   COP particle (right?) this DEF
+
+\ft
+\ftn गारो ढुङ्गा धेरै भएकोले अनि पिँढी तल ओछ्याएको फल्याक तल धुङ्मा 
+(बिमजस्तै तल ओछ्याउने)छ नि त्यो चाहिँ,
+
+\ref 024
+\ELANBegin 71.080
+\ELANEnd 72.360
+\ELANParticipant DAM
+\ut u dhuŋma tʃhak
+\tx u    duŋma tʃhak
+\mb u    duŋma tʃhak
+\ge that beam   break
+
+\ft
+\ftn त्यो काठ (धुङ्मा) भाँचियो।
+
+\ref 025
+\ELANBegin 72.440
+\ELANEnd 75.380
+\ELANParticipant DAM
+\ut dhẽ epsa ɖhap giri mala phuknak talesoŋ
+\tx dhẽ epsa  ɖhap giri mala  phuknak talesoŋ
+\mb dhẽ epsa  ɖhap giri mala  phuknak tale -soŋ
+\ge now   porch plank all  below all     only -PST
+
+\ft
+\ftn
+
+\ftn अनि पिँढिको फल्याकहरू सबै तल झर्‍याम्मै गयो।
+
+\ref 026
+\ELANBegin 75.460
+\ELANEnd 77.260
+\ELANParticipant DAM
+\ut ɖhø ɖhosa me
+\tx ɖhø    ɖhosa     me
+\mb ɖhø    ɖho -sa   me
+\ge run away go   -NMLZ NEG
+
+\ft
+\ftn भाग्‍ने ठाउँ पनि भिएन।
+
+\ref 027
+\ELANBegin 77.260
+\ELANEnd 79.100
+\ELANParticipant DAM
+\ut hone ledzoŋ be
+\tx hone      ledzoŋ       be
+\mb hone      le     -dzoŋ be
+\ge like that become -PST   now
+
+\ft
+\ftn यस्तो रहिरह्यो अब।
+
+\ref 028
+\ELANBegin 79.099
+\ELANEnd 83.779
+\ELANParticipant TEK
+\ut dhene ugaŋla saŋgul lepkaŋla lamsaŋ phedala ɖhø thup soŋ
+thup masoŋ
+\tx
+\ft
+\ftn
+
+\tx dhene    u    gaŋla saŋgul    lep  kaŋla
+\mb dhene    u    gaŋla saŋgul    lep  kaŋ -la
+\ge and then that time   earthquake come time -LOC
+
+\tx lamsaŋ     phedala      ɖhø    thupsoŋ      thup
+\mb lamsaŋ     pheda   -la  ɖhø    thup    -soŋ thup
+\ge immediately outside -LOC run away be able -PST  be able
+
+\tx masoŋ
+\mb ma  -soŋ
+\ge NEG -PST
+
+\ftn अनि त्यो बेला भुकम्प आए पछिउत्तिखेरै बाहिर भाग्न सक्‍नु भयो कि भएन?
+
+\ref 029
+\ELANBegin 83.701
+\ELANEnd 87.841
+\ELANParticipant DAM
+\ut uka dhẽ lamsaŋ dhẽ aruŋni peptʃakla hone sumdi dhẽ pheta
+thøn phĩ
+\tx
+
+\tx uka       dhẽ lamsaŋ     dhẽ aruŋni
+\mb uka       dhẽ lamsaŋ     dhẽ aruŋ      -ni
+\ge that one  now   immediately now   after.that -ABL
+
+\tx peptʃakla        hone      sumdi           dhẽ
+\mb peptʃak     -la  hone      sum  -di        dhẽ
+\ge wooden fence -LOC like that hold -CVB (SEQ) now
+
+\tx pheda   thøn  phĩ
+\mb pheda   thøn  phĩ
+\ge outside appear go.PST
+
+\ft
+\ftn अनि त उत्तिखेरै अनि त्यसपछि पेप्च्याक (काठको बार, पिँडीमा राख्ने 
+काठको बार)मा यस्तो समातेर अनि बाहिर निस्केर गएँ।
+
+\ref 030
+\ELANBegin 88.590
+\ELANEnd 92.430
+\ELANParticipant TEK
+\ut dhene do ɖhana paŋlep ɖhana ʃiŋ duŋma ɖhana phok aɲe
+ɖhana tʃaŋ  dʒuŋmwã
+\tx dhene    do    ɖhana paŋlep ɖhana ʃiŋ duŋma
+\mb dhene    do    ɖhana paŋlep ɖhana ʃiŋ duŋma
+\ge and then stone like   plank   like   field beam
+
+\tx ɖhana phok aɲe  ɖhana tʃaŋ dʒuŋmwã
+\mb ɖhana phok aɲe  ɖhana tʃaŋ dʒuŋ - ma
+\ge like   hit  wound like   any    get    - NEG
+
+\ft
+\ftn अनि ढुङ्गा जस्तो फल्याक जस्तो दाउरा अनि बिम (तल ओछ्याउने) लगाएर 
+चोटपटक जस्तो केही लागेन।
+
+\ref 031
+\ELANBegin 92.000
+\ELANEnd 93.540
+\ELANParticipant DAM
+\ut aɲe dzhe majuŋ
+\tx aɲe  dzhe   majuŋ
+\mb aɲe  dzhe   majuŋ
+\ge wound become NEG
+
+\ft
+\ftn चोटपटक लागेन।
+
+\ref 032
+\ELANBegin 93.580
+\ELANEnd 95.820
+\ELANParticipant DAM
+\ut ŋaraŋ u di kuntsok kaʈinla
+\tx ŋaraŋ   u    di  kuntsok
+\mb ŋa -raŋ u    di  kuntsok
+\ge I   -EMPH that DEF god
+
+\tx kaʈinla
+\mb kaʈin   -la
+\ge blessing -LOC
+
+\ft
+\ftn
+
+\ftn म आफै पनि त्यो चाहिँ भगवानको कृपाले।
+
+\ref 033
+\ELANBegin 96.160
+\ELANEnd 99.000
+\ELANParticipant DAM
+\ut aɲe di dzhe majuŋ ŋaraŋ pheda thøn phin
+\tx aɲe  di   dzhe   majuŋ ŋaraŋ   pheda   thøn  phin
+\mb aɲe  di   dzhe   majuŋ ŋa -raŋ pheda   thøn  phin
+\ge wound this become NEG    I   -EMPH outside appear go
+
+\ft
+\ftn
+
+\ftn त्यो चोटपटक चाहिँ लागेन, म आफै बाहिर निस्केर गएँ।
+
+\ref 034
+\ELANBegin 99.060
+\ELANEnd 103.040
+\ELANParticipant TEK
+\ut hẽ dhene hokaŋ i semla i tʃine du dhata ʃisoŋ semla ʃsinesoŋ
+\tx hẽ dhene    hokaŋ      i            semla
+\mb hẽ dhene    ho   - kaŋ i            sem  -la
+\ge EXCL and then that - time Particle (Q) soul -LOC
+
+\tx i           tʃi ne    du  dhata ʃisoŋ
+\mb i           tʃi ne    du  dhata ʃi -soŋ
+\ge grandmother what think COP now   die -PST
+
+\tx semla     tʃi nesoŋ
+\mb sem  -la  tʃi ne    -soŋ
+\ge soul -DAT what think -PST
+
+\ft
+\ftn ए अनि त्यो बेला बज्यैको मनमा के सोच्नुभयो अब त मरेँ (भन्ने) मनमा के 
+सोच्नुभयो?
+
+\ref 035
+\ELANBegin 103.080
+\ELANEnd 106.840
+\ELANParticipant DAM
+\ut ʃisoŋ ne dha ŋa di khim di tshop taŋdi dha ŋa di khim naŋla
+\tx ʃisoŋ   ne    dha ŋa di  khim  di  tshop  taŋdi           dha ŋa di  khim  naŋla
+\mb ʃi -soŋ ne    dha ŋa di  khim  di  tshop  taŋ  -di        dha ŋa di  khim  naŋla
+\ge die -PST  think now I   DEF house DEF fall   light -CVB (SEQ) now I   DEF house inside
+
+\ft
+\ftn
+
+\ftn अब मरेँ (भन्ने) सोचेँ, अब यो घर चाहिँ पूरै भत्किएर अब म यो घरमा
+
+\ref 036
+\ELANBegin 106.860
+\ELANEnd 109.460
+\ELANParticipant DAM
+\ut ʃisoŋ ne dha di khim di tʃop taŋdi dha ŋa di khim naŋ
+\tx ʃisoŋ   ne    dha di   khim  di  tʃhop taŋdi           dha ŋa di   khim  naŋ
+\mb ʃi -soŋ ne    dha di   khim  di  tʃhop taŋ  -di        dha ŋa di   khim  naŋ
+\ge die -PST  think now this house DEF fall   light -CVB (SEQ) now I   this house inside
+
+\ft
+\ftn
+
+\ftn मरेर त्यहिँ रहने भएँ भन्ने सोचेर बसेँ।
+
+\ref 037
+\ELANBegin 109.460
+\ELANEnd 111.560
+\ELANParticipant DAM
+\ut dhẽ ho mana minduk bhe khim giri
+\tx dhẽ ho   mana    minduk  bhe      khim  giri
+\mb dhẽ ho   mana    minduk  bhe      khim  giri
+\ge now   that without NEG.COP and.then house all
+
+\ft
+\ftn
+
+\ftn अब त्यो बाहेक छैन अनि घर सवै
+
+\ref 038
+\ELANBegin 111.560
+\ELANEnd 113.900
+\ELANParticipant DAM
+\ut honi saŋdaŋsiŋdiŋ tale dzheduk dẽ
+\tx honi      saŋdaŋsiŋdiŋ tale dzheduk     dẽ
+\mb ho   -ni  saŋdaŋsiŋdiŋ tale dzhe   -duk dẽ
+\ge that -ABL ONO              only become -COP and.then
+
+\ft
+\ftn हो नि यताउता हल्लियो अनि,
+
+\ref 039
+\ELANBegin 114.040
+\ELANEnd 115.980
+\ELANParticipant DAM
+\ut dhẽ tʃikpani tsikpa  ʃikduk
+\tx dhẽ tsikpani    tsikpa ʃikduk
+\mb dhẽ tsikpa -ni  tsikpa ʃik -duk
+\ge now   wall   -ABL wall   fall -COP
+
+\ft
+\ftn
+
+\ftn अनि गारोहरू गारो पनि भत्क्यो।
+
+\ref 040
+\ELANBegin 116.020
+\ELANEnd 119.660
+\ELANParticipant TEK
+\ut dhene ʈok hatshu pun ɖhana da jøɖo dhene
+\tx dhene    ʈok         hatshu           pun      ɖhana da
+\mb dhene    ʈok         ha        - tshu pun      ɖhana da
+\ge and then Prok.village that side - here relative like   now
+
+\tx jøɖo           dhene
+\mb jøɖo           dhene
+\ge be (possibility) and then
+
+\ft
+\ftn
+
+\ftn अनि टोक यता उता नाताहरू छन् होला नि, अनि?
+
+\ref 041
+\ELANBegin 119.669
+\ELANEnd 122.729
+\ELANParticipant DAM
+\ut pun pun da jø di ŋa pun l̥a tʃik pe tsik jø
+\tx pun      pun      da  jø di  ŋa pun      l̥a        tʃik pe   tʃik jø
+\mb pun      pun      da  jø di  ŋa pun      l̥a        tʃik pe   tʃik jø
+\ge relative relative now COP DEF I   relative maize grain one   only one   COP
+
+\ft
+\ftn
+
+\ftn नाता नाता त छन् मेरा नाता एक जना मात्र छन्।
+
+\ref 042
+\ELANBegin 122.740
+\ELANEnd 124.680
+\ELANParticipant DAM
+\ut hudija kho ha hodi
+\tx hudija     kho ha        hodi
+\mb hudi -ja   kho ha        ho   -di
+\ge that -also he  that side that -PERF
+
+\ft
+\ftn त्यो पनि  उ पनि त्यही हो।
+
+\ref 043
+\ELANBegin 124.710
+\ELANEnd 127.530
+\ELANParticipant DAM
+\ut hone gjur siŋ kho khima ʃik siŋ
+\tx hone      gjur   siŋ   kho khima        ʃik siŋ
+\mb hone      gjur   siŋ   kho khim  - a    ʃik siŋ
+\ge like that become finish he  house - EMPH fall finish
+
+\ft
+\ftn
+
+\ftn यस्तो भइ सक्यो, उस्को घर पनि भत्कि सक्यो।
+
+\ref 044
+\ELANBegin 128.600
+\ELANEnd 132.900
+\ELANParticipant TEK
+\ut dhene ho ghoŋmo saŋgul lep ɲimu di ghoma di dhene
+\tx dhene    ho   ghoŋmo saŋgul    lep  ɲimu     di
+\mb dhene    ho   ghoŋmo saŋgul    lep  ɲimu     di
+\ge and then that evening earthquake come afternoon DEF
+
+\tx ghoma di  dhene
+\mb ghoma di  dhene
+\ge first DEF and then
+
+\ft
+\ftn
+
+\ftn अनि त्यो रातमा भुकम्प आएको दिनको बेलुका चाहिँ अनि
+
+\ref 045
+\ELANBegin 132.960
+\ELANEnd 134.080
+\ELANParticipant TEK
+\ut phedala ɲal de hina
+\tx phedala      ɲal  de  hina
+\mb pheda   -la  ɲal  de  hina
+\ge outside -LOC sleep DEF possibility
+
+\ft
+\ftn बाहिर सुत्‍नु भयो?
+
+\ref 046
+\ELANBegin 134.123
+\ELANEnd 136.603
+\ELANParticipant DAM
+\ut dhẽ maraŋ utshurtap phedala saŋsaŋ tale ɲalsa
+\tx dhẽ maraŋ   utshurtap  phedala      saŋsaŋ tale ɲalsa
+\mb dhẽ maraŋ   utshurtap  pheda   -la  saŋsaŋ tale ɲal  -sa
+\ge now   EMPH     after that outside -LOC emphasis only sleep -NMLZ
+
+\ft
+\ftn
+
+\ftn अनि धेरै त्यसपछि बाट बाहिरको बाहिरै सुत्यौँ।
+
+\ref 047
+\ELANBegin 136.603
+\ELANEnd 137.840
+\ELANParticipant DAM
+\ut sapduŋa phedala ʃø
+\tx sapduŋa       phedala      ʃø
+\mb sapduŋ - a    pheda   -la  ʃø
+\ge food    - EMPH outside -LOC prepare
+
+\ft
+\ftn खान पनि बाहिरै बनाएँ।
+
+\ref 048
+\ELANBegin 137.881
+\ELANEnd 140.081
+\ELANParticipant DAM
+\ut elok hau thãla ʃø
+\tx elok hau       thãla    ʃø
+\mb elok hau       thã -la  ʃø
+\ge yard that side edge  -LOC build
+
+\ft
+\ftn
+
+\ftn आगनको त्यहाँ कुनामा बनाएँ।
+
+\ref 049
+\ELANBegin 140.240
+\ELANEnd 142.780
+\ELANParticipant DAM
+\ut dhẽ ɲaldaŋ phedala ɲal hin
+\tx dhẽ ɲaldaŋ    phedala      ɲal  hin
+\mb dhẽ ɲal  -daŋ pheda   -la  ɲal  hin
+\ge now   sleep -time outside -LOC sleep PST
+
+\ft
+\ftn
+
+\ftn अनि सुत्ने बेला बाहिरै सुतेँ।
+
+\ref 050
+\ELANBegin 143.175
+\ELANEnd 146.300
+\ELANParticipant TEK
+\ut dẽ ukaŋ dukpu maŋlø ɲaŋ dhene nam ghjap saptuŋ dʏtseela
+marak
+\tx
+
+\tx dẽ     ukaŋ       dukpu     maŋlø  ɲaŋ      dhene
+\mb dẽ     u    - kaŋ dukpu     maŋlø  ɲaŋ      dhene
+\ge and.then that - time suffering how.much experience and then
+
+\tx nam  ghjap saptuŋ dʏtsela    marak
+\mb nam  ghjap saptuŋ dʏtse -la  ma-  rak
+\ge rain hit   food    time   -LOC NEG- get
+
+\ft
+\ftn अनि त्यो बेला कति दुख पाउनु भयो?अनि पानि पर्‍यो, खाना बेलामा खान 
+नपाएर,
+
+\ref 051
+\ELANBegin 146.300
+\ELANEnd 148.080
+\ELANParticipant TEK
+\ut raŋ ge ɲuŋ tʃha saptuŋ ʃɛ mukhu
+\tx raŋ geɲuŋ    tʃha  saptuŋ ʃɛ mukhu
+\mb raŋ geɲuŋ    tʃha  saptuŋ ʃɛ mukhu
+\ge own  aged woman become food    eat  not able
+
+\ft
+\ftn
+
+\ftn आफु बुढी हुनु भयो, खाना बनाउन नसक्‍ने,
+
+\ref 052
+\ELANBegin 148.100
+\ELANEnd 150.980
+\ELANParticipant DAM
+\ut unini dhẽ ho di ɲa
+\tx unini         dhẽ ho di    ɲa
+\mb uni      -ni  dhẽ ho di    ɲa
+\ge and.then -ABL now   thaDEF   above
+
+\ft
+\ftn
+
+\ftn अनि त्यसपछि अनि उ त्यो माथि
+
+\ref 053
+\ELANBegin 151.300
+\ELANEnd 153.680
+\ELANParticipant DAM
+\ut ɲa khimdze ti dẽ
+\tx ɲa   khimdze   di  dẽ
+\mb ɲa   khimdze   di  dẽ
+\ge above neighbour DEF and.then
+
+\ft
+\ftn माथि छिमेकी चाहिँ अनि
+
+\ref 054
+\ELANBegin 153.840
+\ELANEnd 157.320
+\ELANParticipant DAM
+\ut udẽ khim ʈapliŋ kapdi jødi
+\tx udẽ           khim  ʈapliŋ
+\mb u    - dẽ     khim  ʈapliŋ
+\ge that - and.then house tent
+
+\tx kapdi                                  jødi
+\mb kap   -di                              jø -di
+\ge cover -CVB (SEQ)                       COP -PERF
+
+\ft
+\ftn
+
+\ftn त्यो घर त्रिपाल छाएको थियो।
+
+\ref 055
+\ELANBegin 157.360
+\ELANEnd 160.780
+\ELANParticipant DAM
+\ut atʃi khim horaŋ tʃakər thok kapdi jøti
+\tx atʃi khim  horaŋ     tʃakər thok
+\mb atʃi khim  ho   -raŋ tʃakər thok
+\ge EXCL  house that -EMPH tin      roof
+
+\tx kapdi jøti
+\mb kap   jøti
+\ge cover COP
+
+\ft
+\ftn
+
+\ftn ए के रे! घर त्यो जस्ता (ले) छाना छाएको छ।
+
+\ref 056
+\ELANBegin 160.940
+\ELANEnd 164.780
+\ELANParticipant DAM
+\ut dhẽ kho nam ghjapkjadi kho epsa hwala ɲal phin hin
+\tx dhẽ kho nam  ghjapkjadi     kho epsa  hwala ɲal  phin hin
+\mb dhẽ kho nam  ghjap - kjadi  kho epsa  hwala ɲal  phin hin
+\ge now   he  rain hit   - time   he  porch below sleep go   PST
+
+\ft
+\ftn
+
+\ftn अनि उ पानि परेको बेला उसको पिँढी तल सुत्‍न गएँ।
+
+\ref 057
+\ELANBegin 165.795
+\ELANEnd 170.760
+\ELANParticipant DAM
+\ut nam meghjapkja di dhẽ ɲiraŋ hone ʈapliŋ hapera u ɲala
+\tx nam  meghjapkja      di  dhẽ ɲiraŋ hone
+\mb nam  me-  ghjap -kja di  dhẽ ɲiraŋ hone
+\ge rain NEG- hit   -PL  DEF now   we      like that
+
+\tx ʈapliŋ hapera u    ɲala
+\mb ʈapliŋ hapera u    ɲala
+\ge tent     bad    that above
+
+\ft
+\ftn पानी नपरेको बेला चाहिँ अनि आफ्नै यस्तो नराम्रा त्रिपालहरू छन्, त्यो 
+माथि,
+
+\ref 058
+\ELANBegin 170.760
+\ELANEnd 172.980
+\ELANParticipant DAM
+\ut ghondi dhẽ elokla ɲalhin
+\tx ghondi          dhẽ elokla    ɲalhin
+\mb ghon -di        dhẽ elok -la  ɲal  - hin
+\ge wear -CVB (SEQ) now   yard -LOC sleep - PST
+
+\ft
+\ftn ओढेर अनि आगनमा सुत्यौँ।
+
+\ref 059
+\ELANBegin 173.260
+\ELANEnd 178.360
+\ELANParticipant TEK
+\ut dhene khim ʃikaŋla dhene khim buluk tale soŋdu hjaŋ phe
+pheka ɖhana  ʃik ghane ʃikdu
+\tx dhene    khim  ʃikaŋla        dhene    khim
+\mb dhene    khim  ʃi  - kaŋ -la  dhene    khim
+\ge and then house four - time -LOC and then house
+
+\tx buluk tale soŋdu      hjaŋ phe  pheka ɖhana
+\mb buluk tale soŋ   -du  hjaŋ phe  pheka ɖhana
+\ge fall  only go.PST -COP again half half  like
+
+\tx ʃik ghane ʃikdu
+\mb ʃik ghane ʃik -du
+\ge fall how   fall -COP
+
+\ft
+\ftn अनि घर भत्केको बेला घर बुङ्ङै गयो कि फेरि आधा जस्तो भत्क्यो कि कस्तो 
+भत्क्यो?
+
+\ref 060
+\ELANBegin 178.380
+\ELANEnd 183.800
+\ELANParticipant DAM
+\ut di pheka dʒheptak tale di odala tsatsa tʃik ʃikme duk
+\tx di   pheka dʒheptak tale di  odala       tsatsa tʃik ʃikme     duk
+\mb di   pheka dʒheptak tale di  oda   -la   tsatsa tʃik ʃik - me  duk
+\ge this half  all       only DEF there -LOC  more   one   fall - NEG COP
+
+\ft
+\ftn
+
+\ftn यो आधा सबै अनि त्यहाँ अलिकति चाहिँ नभत्केको अनि त्यो
+
+\ref 061
+\ELANBegin 183.860
+\ELANEnd 187.080
+\ELANParticipant DAM
+\ut di ɲadila di pal ho hwakdila
+\tx di   ɲadila               di   pal  ho
+\mb di   ɲa   -di        -la  di   pal  ho
+\ge this above -CVB (SEQ) -LOC this beam that
+
+\tx hwakdila
+\mb hwakdila
+\ge lower side
+
+\ft
+\ftn
+
+\ftn यो माथि पट्टि यो बलो त्यो तल चाहिँ
+
+\ref 062
+\ELANBegin 187.080
+\ELANEnd 190.740
+\ELANParticipant DAM
+\ut u wak di maʃik di ɲamala laŋma tʃap tale ʃik siŋ medi
+\tx u    wak di   maʃik    di  ɲamala    laŋma    tʃap
+\mb u    wak di   ma-  ʃik di  ɲama -la  laŋma    tʃap
+\ge that beloDEF  NEG- fall DEF above -LOC remaining all
+
+\tx tale ʃik siŋ   medi
+\mb tale ʃik siŋ   medi
+\ge only fall finish COP.NEG
+
+\ft
+\ftn
+
+\ftn त्यो तल चाहिँ भत्किएन, अरू चाहिँ भत्किएर केही छैन।
+
+\ref 063
+\ELANBegin 190.740
+\ELANEnd 194.260
+\ELANParticipant TEK
+\ut dhene khim naŋla tʃelak ɖhana maŋbo tʃhak
+\tx dhene    khim  naŋla tʃelak ɖhana maŋbo tʃhak
+\mb dhene    khim  naŋla tʃelak ɖhana maŋbo tʃhak
+\ge and then house inside thing   like   much   break
+
+\ft
+\ftn
+
+\ftn अनि घर भित्र सामानहरू जस्तो धेरै फुटेको
+
+\ref 064
+\ELANBegin 194.299
+\ELANEnd 197.040
+\ELANParticipant TEK
+\ut əni dhene ʃamla dhene khim naŋla ɖhonani dʒi hjaŋ
+\tx əni     dhene    ʃamla dhene    khim  naŋla
+\mb əni     dhene    ʃamla dhene    khim  naŋla
+\ge and.then and then later  and then house inside
+
+\tx ɖhonani             dʒi      hjaŋ
+\mb ɖho - na       -ni  dʒi      hjaŋ
+\ge go   - marriage -ABL be afraid again
+
+\ft
+\ftn
+
+\ftn अनि पछि अनि घर भित्र गयो भने डर लाग्‍ने फेरि
+
+\ref 065
+\ELANBegin 197.040
+\ELANEnd 199.180
+\ELANParticipant TEK
+\ut saŋgul le hom ne tʃelak pheta tøn mukhu
+\tx saŋgul    le   hom         ne    tʃelak pheta
+\mb saŋgul    le   hom         ne    tʃelak pheta
+\ge earthquake come possibility think thing   outside
+
+\tx tøn              mukhu
+\mb tøn              mukhu
+\ge make one come out not able
+
+\ft
+\ftn
+
+\ftn भुकम्प आउँछ कि (भन्ने) सोचेर सामानहरू बाहिर निकाल्न नसक्‍ने
+
+\ref 066
+\ELANBegin 199.180
+\ELANEnd 201.080
+\ELANParticipant TEK
+\ut o dhene tʃelak ɖhana norme ɖhana ghane soŋ
+\tx o    dhene    tʃelak ɖhana norme   ɖhana ghane
+\mb o    dhene    tʃelak ɖhana norme   ɖhana ghane
+\ge that and then thing   like   destroy like   how
+
+\tx soŋ
+\mb soŋ
+\ge go.PST
+
+\ft
+\ftn
+
+\ftn उ सामानहरू जस्तो असर कस्तो भएछ?
+
+\ref 067
+\ELANBegin 201.060
+\ELANEnd 204.300
+\ELANParticipant DAM
+\ut normeni artsa ghaŋtsen tʃik jø di sa hjamuni artsa
+\tx normeni      artsa                 ghaŋtsen tʃik jø
+\mb norme   -ni  artsa                 ghaŋtsen tʃik jø
+\ge destroy -ABL pot for making liquor nice      one   COP
+
+\tx di  sa  hjamuni        artsa
+\mb di  sa  hjamu     -ni  artsa
+\ge DEF eat Kathmandu -ABL pot for making liquor
+
+\ft
+\ftn असर त आर्चा (पानी फेर्ने भाँडा भन्दा तल्लो भाँडो्दा माथि पानी
+फेर्ने  भाँडा) राम्रो एउटा थियो, काठमान्डु बाट ल्याएको
+आर्चा।
+
+\ref 068
+\ELANBegin 204.340
+\ELANEnd 205.587
+\ELANParticipant DAM
+\ut khur hoŋdi
+\tx khur  hoŋdi
+\mb khur  hoŋ -di
+\ge carry come -PERF
+
+\ft
+\ftn ल्याएकी थिएँ।
+
+\ref 069
+\ELANBegin 205.587
+\ELANEnd 209.360
+\ELANParticipant DAM
+\ut artsa hajaŋ artsa ɖhana be hjaŋmo dhẽ ghaŋtsen tʃik jø
+\tx artsa                 hajaŋ
+\mb artsa                 hajaŋ
+\ge pot for making liquor almunium
+
+\tx artsa                 ɖhana be  hjaŋmo     dhẽ
+\mb artsa                 ɖhana be  hjaŋ - mo  dhẽ
+\ge pot for making liquor like   now again - she now
+
+\tx ghaŋtsen tʃik jø
+\mb ghaŋtsen tʃik jø
+\ge nice      one   COP
+
+\ft
+\ftn
+
+\ftn आर्चा आल्मुनियमको जस्तो यस्तो हलुका अनि राम्रो एउटा थियो।
+
+\ref 070
+\ELANBegin 209.360
+\ELANEnd 212.320
+\ELANParticipant DAM
+\ut u diti tshoraŋ tshormela tʃhak siŋ du
+\tx u    diti          tshoraŋ        tshormela            tʃhak siŋ
+\mb u    diti          tshor     -raŋ tshor     - me  -la  tʃhak siŋ
+\ge that in particular knowledge -EMPH knowledge - NEG -LOC break  finish
+
+\tx du
+\mb du
+\ge COP
+
+\ft
+\ftn
+
+\ftn त्यो चाहिँ थाहै नभएकन फुटिसकेछ।
+
+\ref 071
+\ELANBegin 212.320
+\ELANEnd 214.760
+\ELANParticipant DAM
+\ut do dophokdi tʃhak siŋ du
+\tx do    dophokdi                tʃhak siŋ   du
+\mb do    do    - phok -di        tʃhak siŋ   du
+\ge stone stone - hit  -CVB (SEQ) break  finish COP
+
+\ft
+\ftn
+
+\ftn ढुङ्गा ढुङ्गा लागेर फुटिसकेछ।
+
+\ref 072
+\ELANBegin 215.340
+\ELANEnd 219.180
+\ELANParticipant DAM
+\ut dhẽ tʃelak tʃidaŋ tʃija medi lapdʒø ʃaktsøa me tʃhak siŋ du
+\tx dhẽ tʃelak tʃidaŋ   tʃija     medi    lapdʒø
+\mb dhẽ tʃelak tʃi -daŋ tʃi -ja   medi    lap -dʒø
+\ge now   thing   what -time what -also COP.NEG say -INF
+
+\tx ʃakdʒø   me  tʃhak siŋ   du
+\mb ʃak -dʒø me  tʃhak siŋ   du
+\ge keep -INF   NEG break  finish COP
+
+\ft
+\ftn
+
+\ftn अनि सामान निकै धेरै धेरै फुटिसकेछ।
+
+\ref 073
+\ELANBegin 220.680
+\ELANEnd 223.280
+\ELANParticipant DAM
+\ut do phokdi tʃhak kjaŋ ho khim saŋsiŋ
+\tx do    phokdi          tʃhak kjaŋ           ho                  khim
+\mb do    phok -di        tʃhak kjaŋ           ho                  khim
+\ge stone hit  -CVB (SEQ) break  aux (immediate) particle (emphasis) house
+
+\tx saŋsiŋ
+\mb saŋsiŋ
+\ge disorder
+
+\ft
+\ftn
+
+\ftn ढुङ्गा लागेर पछि फुटि हाल्छ नि घर नै भत्याङ्भुतुङ् भए पछि।
+
+\ref 074
+\ELANBegin 223.420
+\ELANEnd 225.911
+\ELANParticipant DAM
+\ut di thok ŋa khim di tʃhombo jø di
+\tx di   thok ŋa khim  di  tʃhombo jø di
+\mb di   thok ŋa khim  di  tʃhombo jø di
+\ge this roof I   house DEF big      COP DEF
+
+\ft
+\ftn यो छानो मेरो घर ठूलो छ।
+
+\ref 075
+\ELANBegin 225.911
+\ELANEnd 229.600
+\ELANParticipant DAM
+\ut di thokkja be hone taŋ hone tale dzheduk dhẽ hone hone
+\tx di   thokkja   be  hone      taŋ  hone      tale
+\mb di   thok -kja be  hone      taŋ  hone      tale
+\ge this roof -PL  now like that light like that only
+
+\tx dzheduk     dhẽ hone      hone
+\mb dzhe   -duk dhẽ hone      hone
+\ge become -COP now   like that like that
+
+\ft
+\ftn
+
+\ftn यी छानाहरू यस्तो यस्तो नै गर्‍यो, अनि यस्तो यस्तो
+
+\ref 076
+\ELANBegin 229.600
+\ELANEnd 231.400
+\ELANParticipant DAM
+\ut hone hone dzheduk
+\tx hone      hone      dzheduk
+\mb hone      hone      dzhe   -duk
+\ge like that like that become -COP
+
+\ft
+\ftn यस्तो यस्तो गर्छ।
+
+\ref 077
+\ELANBegin 231.400
+\ELANEnd 235.000
+\ELANParticipant DAM
+\ut dha dhiriŋ ŋa khim naŋla ʃopdi dhẽ ʃikere nedzoŋ
+\tx dha dhiriŋ ŋa khim  naŋla ʃopdi                   dhẽ
+\mb dha dhiriŋ ŋa khim  naŋla ʃop          -di        dhẽ
+\ge now today   I   house inside be imprisoned -CVB (SEQ) now
+
+\tx ʃikere   nedzoŋ
+\mb ʃi -kere ne    -dzoŋ
+\ge die -NPST think -PST
+
+\ft
+\ftn
+
+\ftn अब आज म घर भित्र थुनिएर अनि मर्ने भएँ (भन्ने) सोचेँ।
+
+\ref 078
+\ELANBegin 235.000
+\ELANEnd 238.580
+\ELANParticipant DAM
+\ut dẽ unini adẽ tʃi dzhekẽ dẽ laŋdi hoŋ
+\tx dẽ     unini         adẽ tʃi dzhekẽ
+\mb dẽ     uni      -ni  adẽ tʃi dzhe   - ke
+\ge and.then and.then -ABL EXCL  what become - be.born
+
+\tx dẽ     laŋdi           hoŋ
+\mb dẽ     laŋ  -di        hoŋ
+\ge and.then stand -CVB (SEQ) come
+
+\ft
+\ftn
+
+\ftn अनि अब के गर्ने त (भनेर)अनि उठेर आएँ।
+
+\ref 079
+\ELANBegin 238.580
+\ELANEnd 241.540
+\ELANParticipant DAM
+\ut gho di pepe tale jø gho pedi
+\tx gho  di  pepe tale jø gho  pedi
+\mb gho  di  pepe tale jø gho  pe   -di
+\ge door DEF open EMPH COP door open -CVB (SEQ)
+
+\ft
+\ftn
+
+\ftn ढोका चाहिँ खुलै थियो, ढोका खोलेर
+
+\ref 080
+\ELANBegin 242.073
+\ELANEnd 246.740
+\ELANParticipant DAM
+\ut gho pe phindi dhẽ epsala mala ɖhosa minduk dhẽ
+\tx gho  pe   phindi          dhẽ epsala     mala
+\mb gho  pe   phin -di        dhẽ epsa  -la  mala
+\ge door open go   -CVB (SEQ) now   porch -LOC below
+
+\tx ɖhosa     minduk  dhẽ
+\mb ɖho -sa   minduk  dhẽ
+\ge go   -NMLZ NEG.COP now
+
+\ft
+\ftn
+
+\ftn ढोका खोल्न गएको त अनि पिँढीमा बाट जाने ठाउँ छैन रहेछ, अनि
+
+\ref 081
+\ELANBegin 246.740
+\ELANEnd 250.800
+\ELANParticipant DAM
+\ut di duŋma di tʃhakdi di ɖhap giri tʃhak uwakma dzharsoŋ
+\tx di   duŋma di  tʃhakdi          di  ɖhap giri tʃhak uwakma                 dzharsoŋ
+\mb di   duŋma di  tʃhak -di        di  ɖhap giri tʃhak u    - wak   -ma       dzhar     -soŋ
+\ge this beam   DEF break  -CVB (SEQ) DEF plank all  break  that - below -towards  fall down -PST
+
+\ft
+\ftn यो बिम (बलो, धुङ्‍मा) चाहिँ भाँचिएर अनिन त्यो फल्याकहरू सबै भाँचिएर 
+त्यहाँबाट खसेछ।
+
+\ref 082
+\ELANBegin 250.820
+\ELANEnd 254.060
+\ELANParticipant DAM
+\ut aruŋ peptʃakla hone sumdi dhẽ
+\tx aruŋ      peptʃakla        hone      sumdi
+\mb aruŋ      peptʃak     -la  hone      sum  -di
+\ge after.that wooden fence -LOC like that hold -CVB (SEQ)
+
+\tx dhẽ
+\mb dhẽ
+\ge now
+
+\ft
+\ftn
+
+\ftn अनि पिँढिको बलो (पेप्च्याक)मा यसरी समातेर अनि,
+
+\ref 083
+\ELANBegin 254.080
+\ELANEnd 255.885
+\ELANParticipant DAM
+\ut dhẽ elokma thøn phĩ hin
+\tx dhẽ elokma        thøn  phĩ  hin
+\mb dhẽ elok -ma      thøn  phĩ  hin
+\ge now   yard -towards appear go.PST PST
+
+\ft
+\ftn अनि आगनतिर निस्केर गएँ।
+
+\ref 084
+\ELANBegin 255.885
+\ELANEnd 258.720
+\ELANParticipant DAM
+\ut dhẽ khim naŋ ʃakpa ɲi sum khim naŋ ʃua ʃume
+\tx dhẽ khim naŋ   ʃakpa ɲi sum   khim  naŋ   ʃua
+\mb dhẽ khim naŋ   ʃakpa ɲi sum   khim  naŋ   ʃu   - a
+\ge now   houseinside day    two three house inside enter -NEG.EMPH
+
+\tx ʃume
+\mb ʃu   - me
+\ge enter - NEG
+
+\ft
+\ftn
+
+\ftn अनि घर भित्र दुई तीन दिन जति घर भित्र पस्दा पनि पसिन
+(छिर्दा पनि छिरिन)।
+
+\ref 085
+\ELANBegin 258.720
+\ELANEnd 260.200
+\ELANParticipant DAM
+\ut la ɖhera khjaldi
+\tx la                   ɖhøra          khjaldi
+\mb la                   ɖhø    - ra    khjal -di
+\ge consciousness (fear) run away - INDEF lose  -CVB (SEQ)
+
+\ft
+\ftn सातो नै गएर।
+
+\ref 086
+\ELANBegin 260.210
+\ELANEnd 264.150
+\ELANParticipant TEK
+\ut dhẽ uŋula be thaptʃa tʃik pheta thøn khusoŋ dhene pheda
+lepkaŋ
+\tx dhẽ uŋula     be  thaptʃa tʃik
+\mb dhẽ uŋula     be  thaptʃa tʃik
+\ge now   after that now finally  one
+
+\tx pheta   thøn    khusoŋ       dhene    pheda   lepkaŋ
+\mb pheta   thøn    khu     -soŋ dhene    pheda   lep  - kaŋ
+\ge outside come out be able -PST  and then outside come - time
+
+\ft
+\ftn
+
+\ftn अनि बल्ल बाहिर निस्कन सक्यौँ, अनि बाहिर निस्किइ सके पछि
+
+\ref 087
+\ELANBegin 264.151
+\ELANEnd 268.471
+\ELANParticipant TEK
+\ut mikja tʃi ɖhana dzhe de du horaŋ ʈok hjul mikja khoraŋ ŋui
+ke ɖhana ghjap
+\tx mikja    tʃi ɖhana dzhe   de  du  horaŋ ʈok         hjul    mikja          khoraŋ   ŋui ke      ɖhana ghjap
+\mb mi  -kja tʃi ɖhana dzhe   de  du  horaŋ ʈok         hjul    mi  -kja       kho -raŋ ŋui ke      ɖhana ghjap
+\ge man -PL  what like   become DEF COP our    Prok.village village man -PL        he  -EMPH weep be.born like   hit
+
+\tx
+
+\ft
+\ftn मान्छेहरू के चाहिँ गर्दै थिए, हाम्रो टोक गाउँको मान्छेहरू अब रूँदै, 
+चिच्याउँदै,
+
+\ref 088
+\ELANBegin 269.000
+\ELANEnd 270.540
+\ELANParticipant DAM
+\ut dzhe duk udi
+\tx dzhe   duk udi
+\mb dzhe   duk udi
+\ge become COP that
+
+\ft
+\ftn गरेको थिए त्यो चाहिँ।
+
+\ref 089
+\ELANBegin 270.580
+\ELANEnd 272.160
+\ELANParticipant DAM
+\ut ke tøn ala tʃire
+\tx ke    tøn              ala  tʃire
+\mb ke    tøn              ala  tʃi - re
+\ge voice make one come out what what - COP
+
+\ft
+\ftn (कोहि) चिच्याउँदै थिए।
+
+\ref 090
+\ELANBegin 272.880
+\ELANEnd 276.300
+\ELANParticipant DAM
+\ut dhẽ tʃidaŋtʃime hone mi giri dhẽ ke tøn du
+\tx dhẽ tʃidaŋtʃime hone      mi  giri dhẽ ke
+\mb dhẽ tʃidaŋtʃime hone      mi  giri dhẽ ke
+\ge now   very much      like that man all  now   voice
+
+\tx tøn              du
+\mb tøn              du
+\ge make one come out COP
+
+\ft
+\ftn
+
+\ftn अनि एक दमै धेरै यस्तो मान्छेहरू सबै चिच्याउँदै
+
+\ref 091
+\ELANBegin 276.646
+\ELANEnd 279.780
+\ELANParticipant DAM
+\ut tam tʃidaŋtʃime keni ke tʃidaŋtʃime ghjapdu
+\tx tam  tʃidaŋtʃime keni       ke    tʃidaŋtʃime ghjapdu
+\mb tam  tʃidaŋtʃime ke    -ni  ke    tʃidaŋtʃime ghjap -du
+\ge talk very much      voice -ABL voice very much      hit   -COP
+
+\ft
+\ftn
+
+\ftn कुराकानी धेरै निकै धेरै, बोलाउन पनि धेरै बोलाएको थियो।
+
+\ref 092
+\ELANBegin 279.780
+\ELANEnd 287.160
+\ELANParticipant DAM
+\ut dhẽ ŋaraŋ a honela dhẽ ŋaraŋ ŋa midza de ɖhotsia medi ŋaraŋ
+a hone ghjurtila de
+\tx
+
+\tx dhẽ ŋaraŋ a    honela         dhẽ ŋaraŋ ŋa midza    de  ɖhotsi   a    medi    ŋaraŋ a    hone      ghjurdila         de
+\mb dhẽ ŋaraŋ a    hone      -la  dhẽ ŋaraŋ ŋa mi  -dza de  ɖho -tsi a    medi    ŋaraŋ a    hone      ghjur  -dila      de
+\ge now   self    EMPH like this -LOC now   self    I   man -loc DEF go   -INF EMPH COP.NEG self    EMPH like this become -CVB (SEQ) DEF
+
+\ft
+\ftn अनि आफै पनि यस्तै हो, म मान्छेहरूकोमा हेर्न जाने अवस्था पनि थिएन, आफै 
+नै यस्तो भएर।
+
+\ref 093
+\ELANBegin 287.440
+\ELANEnd 290.920
+\ELANParticipant DAM
+\ut midzaa te phin tʃi dzheke ŋaraŋa ghaŋunsoŋ
+\tx midza    te  phin tʃi dzheke
+\mb mi  -dza te  phin tʃi dzhe   -ke
+\ge man -LOC see go   what become -FUT
+
+\tx ŋaraŋ a    ghaŋun    soŋ
+\mb ŋaraŋ a    ghaŋun    soŋ
+\ge self    EMPH old (aged) go.PST
+
+\ft
+\ftn
+
+\ftn मान्छेहरूकोमा हेर्न गएर के गर्ने, आफै पनि बुढि भएँ।
+
+\ref 094
+\ELANBegin 290.940
+\ELANEnd 292.160
+\ELANParticipant DAM
+\ut ɖhoa mukhu
+\tx ɖho a    mukhu
+\mb ɖho a    mukhu
+\ge go   EMPH not able
+
+\ft
+\ftn जान पनि सक्दिन।
+
+\ref 095
+\ELANBegin 292.220
+\ELANEnd 295.040
+\ELANParticipant DAM
+\ut tʃaŋ kaŋ ha gho mejoŋ tʃi dzhedzi ni me
+\tx tʃaŋ kaŋ ha        gho  mejoŋ     tʃi dzhedzi
+\mb tʃaŋ kaŋ ha        gho  me  - hoŋ tʃi dzhe   -dzi
+\ge any    time that side door NEG - come what become -INF
+
+\tx ni                me
+\mb ni                me
+\ge particle (as for) NEG
+
+\ft
+\ftn
+
+\ftn केही थाहा हुँदैन, के गर्ने मिल्दैन।
+
+\ref 096
+\ELANBegin 295.080
+\ELANEnd 296.800
+\ELANParticipant DAM
+\ut dhẽ mi pheme ja hjaŋ
+\tx dhẽ mi  pheme     ja   hjaŋ
+\mb dhẽ mi  pheme     ja   hjaŋ
+\ge now   man relative  also again
+
+\ft
+\ftn अनि मान्छे नाताहरू फेरि
+
+\ref 097
+\ELANBegin 296.820
+\ELANEnd 298.340
+\ELANParticipant DAM
+\ut kjon ra dzhe jøtom ne
+\tx kjon   ra    dzhe   jøtom      ne
+\mb kjon   ra    dzhe   jøtom      ne
+\ge effect INDEF become possibility think
+
+\ft
+\ftn
+
+\ftn असर पर्‍यो कि (भन्ने) सोचेँ।
+
+\ref 098
+\ELANBegin 298.340
+\ELANEnd 302.160
+\ELANParticipant DAM
+\ut te ɖho teja ɖhome tʃi ŋarã a latok kutok tale soŋdi be
+\tx te  ɖho teja      ɖhome     tʃi ŋarã     a    latokkutok           tale soŋdi    be
+\mb te  ɖho te  -ja   ɖho - me  tʃi ŋa - ra    a    latokkutok           tale soŋdi    be
+\ge see go   see -also go   - NEG what I   - INDEF EMPH consciousness (fear) EMPH CVB (SEQ) now
+
+\ft
+\ftn
+
+\ftn हेर्न गएनौँ, हेर्न पनि गएनौँ, आँफै नै सातो गएर अनि
+
+\ref 099
+\ELANBegin 302.216
+\ELANEnd 305.096
+\ELANParticipant DAM
+\ut l̥a kher sa ʃakpa dhawa ɖhona
+\tx l̥a kher      sa        ʃakpa dhawa ɖhona
+\mb l̥a kher      sa        ʃakpa dhawa ɖho -na
+\ge fear take away like this day    month go   -CONC
+
+\ft
+\ftn
+
+\ftn सातो गएर यस्तो दिन महिना गएर पनि
+
+\ref 100
+\ELANBegin 305.100
+\ELANEnd 307.380
+\ELANParticipant DAM
+\ut sempa naŋ sirsirsir dhartuk
+\tx sempa naŋ
+\mb sempa naŋ
+\ge soul  inside
+
+\tx sirsirsirsir
+\mb sirsirsirsir
+\ge feeling scared
+
+\tx dhar    duk
+\mb dhar    duk
+\ge tremble COP
+
+\ft
+\ftn
+
+\ftn मनमा शिर्शिर्शिर् यस्तो (हुन्छ)।
+
+\ref 101
+\ELANBegin 308.820
+\ELANEnd 311.220
+\ELANParticipant TEK
+\ut dhene ʃamla dhene
+\tx dhene    ʃamla dhene
+\mb dhene    ʃamla dhene
+\ge and then later  and then
+
+\ft
+\ftn अनि पछि अनि
+
+\ref 102
+\ELANBegin 312.070
+\ELANEnd 314.330
+\ELANParticipant TEK
+\ut ʃaŋma maŋbo tʃik phetala ɲal ei
+\tx ʃaŋma maŋbo tʃik phetala      ɲal  ei
+\mb ʃaŋma maŋbo tʃik pheta   -la  ɲal  ei
+\ge day     much   one   outside -LOC sleep particle (Q)
+
+\ft
+\ftn
+
+\ftn पछि धेरै दिन बाहिर सुत्‍नु भयो, होइन?
+
+\ref 103
+\ELANBegin 314.360
+\ELANEnd 316.400
+\ELANParticipant DAM
+\ut dhawa ɲi sum phetala ɲal
+\tx dhawa ɲi sum   phetala      ɲal
+\mb dhawa ɲi sum   pheta   -la  ɲal
+\ge month two three outside -LOC sleep
+
+\ft
+\ftn दुई तीन महिना बाहिर सुतेँ।
+
+\ref 104
+\ELANBegin 316.410
+\ELANEnd 319.350
+\ELANParticipant TEK
+\ut ho kaŋla dhukpo maŋʃo tʃi maŋʃo dhene raŋ ʃɛtsi
+\tx ho   kaŋla    dhukpo    maŋʃo     tʃi maŋʃo     dhene    raŋ ʃɛtsi
+\mb ho   kaŋ -la  dhukpo    maŋ -ʃo   tʃi maŋ -ʃo   dhene    raŋ ʃɛ -tsi
+\ge that time -LOC suffering more -SUPER what more -SUPER and then own  eat  -INF
+
+\ft
+\ftn
+
+\ftn त्यो बेला सबै भन्दा बढी दुख के भयो? आफ्नो खाना,
+
+\ref 105
+\ELANBegin 319.360
+\ELANEnd 322.220
+\ELANParticipant TEK
+\ut bhe tshomiʈik dhene be nam ghjap khja
+\tx bhe      tshomiɖik    dhene    be  nam  ghjap
+\mb bhe      tshomiɖik    dhene    be  nam  ghjap
+\ge and.then not fulfilled and then now rain hit
+
+\tx khja
+\mb khja
+\ge feeling cold
+
+\ft
+\ftn
+
+\ftn अनि नभएर अनि पानि परेर जाडो भएको?
+
+\ref 106
+\ELANBegin 322.278
+\ELANEnd 327.698
+\ELANParticipant DAM
+\ut dhẽ hodi tʃi nam ghjap khja na dha tʃi gholak ɲuŋpa bəbəbəp
+gondi  hina ɲal
+\tx dhẽ ho di    tʃi nam  ghjap khja         na       dha tʃi gholak  ɲuŋpa bəbəbəp gondi hina        ɲal
+\mb dhẽ ho di    tʃi nam  ghjap khja         na       dha tʃi gholak  ɲuŋpa bəbəbəp gondi hina        ɲal
+\ge now   thaDEF   what rain hit   feeling cold marriage now what clothes old     many       wear  possibility sleep
+
+\ft
+\ftn अनि त्यही हो, अनि पानि परेर जाडो भए पनि पुरानो लुगाहरू धेरै ओढेर भए 
+पनि सुतेँ।
+
+\ref 107
+\ELANBegin 328.040
+\ELANEnd 331.160
+\ELANParticipant DAM
+\ut sempa diraŋ saptuŋ ʃɛ mukhu heka me
+\tx sempa diraŋ     saptuŋ ʃɛ mukhu
+\mb sempa di   -raŋ saptuŋ ʃɛ mukhu
+\ge soul  this -EMPH food    eat  not able
+
+\tx heka   me
+\mb heka   me
+\ge hunger NEG
+
+\ft
+\ftn
+
+\ftn अनि मन नै खान पनि सक्दिन, मन पनि लाग्दैन।
+
+\ref 108
+\ELANBegin 331.360
+\ELANEnd 333.340
+\ELANParticipant DAM
+\ut dhẽ ʃɛ mukhu
+\tx dhẽ ʃɛ mukhu
+\mb dhẽ ʃɛ mukhu
+\ge now   eat  not able
+
+\ft
+\ftn अनि खान पनि सक्दिन।
+
+\ref 109
+\ELANBegin 333.360
+\ELANEnd 337.440
+\ELANParticipant DAM
+\ut dhẽ u khim naŋla ni tsamba elajulu tʃik laŋ
+\tx dhẽ u    khim  naŋla ni
+\mb dhẽ u    khim  naŋla ni
+\ge now   that house inside particle (as for)
+
+\tx tsamba elajulu tʃik laŋ
+\mb tsamba elajulu tʃik laŋ
+\ge flour  little  one   stand
+
+\ft
+\ftn
+
+\ftn अनि घर भित्र चाहिँ चाम्पा अलिकति लिएँ (खाएँ)।
+
+\ref 110
+\ELANBegin 337.441
+\ELANEnd 340.461
+\ELANParticipant DAM
+\ut mi u natsa sembokja laŋ tsaŋ
+\tx mi  u    natsa sembokja
+\mb mi  u    natsa sembo -kja
+\ge man that young young -PL
+
+\tx laŋ dzsaŋ
+\mb laŋ dzsaŋ
+\ge take send
+
+\ft
+\ftn
+
+\ftn मान्छेहरू त्यो तन्नेरी (तरूनी)हरूलाई लिन पठाएँ।
+
+\ref 111
+\ELANBegin 340.536
+\ELANEnd 342.580
+\ELANParticipant DAM
+\ut dhẽ phedala ʃø
+\tx dhẽ phedala      ʃø
+\mb dhẽ pheda   -la  ʃø
+\ge now   outside -LOC build
+
+\ft
+\ftn अनि बाहिर बनाएँ।
+
+\ref 112
+\ELANBegin 342.580
+\ELANEnd 344.960
+\ELANParticipant DAM
+\ut phedala ʃødi ʃɛ
+\tx phedala      ʃødi           ʃɛ
+\mb pheda   -la  ʃø  -di        ʃɛ
+\ge outside -LOC build -CVB (SEQ) eat
+
+\ft
+\ftn बाहिर बनाएर खाएँ।
+
+\ref 113
+\ELANBegin 346.081
+\ELANEnd 348.921
+\ELANParticipant DAM
+\ut sempa di raŋ la kherse kherdi be
+\tx sempa di  raŋ la                   kher se
+\mb sempa di  raŋ la                   kher se
+\ge soul  DEF EMPH consciousness (fear) take EMPH
+
+\tx kherdi           be
+\mb kher  -di        be
+\ge carry -CVB (SEQ) now
+
+\ft
+\ftn मन नै सातोले लगेर अनि
+
+\ref 114
+\ELANBegin 349.040
+\ELANEnd 352.380
+\ELANParticipant DAM
+\ut sempa siŋ siŋ siŋ taŋ du be
+\tx sempa siŋ   siŋ   siŋ   taŋ  du  be
+\mb sempa siŋ   siŋ   siŋ   taŋ  du  be
+\ge soul  finish finish finish light COP particle (unexpectedly)
+
+\ft
+\ftn
+
+\ftn मन नै सिरिङ्ग (सिमसिमसिम) गर्छ।
+
+\ref 115
+\ELANBegin 352.460
+\ELANEnd 354.160
+\ELANParticipant DAM
+\ut supu dar de duk naŋ
+\tx supu dar     de  duk naŋ
+\mb supu dar     de  duk naŋ
+\ge body tremble DEF COP inside
+
+\ft
+\ftn शरिर कामीरहेको छ।
+
+\ref 116
+\ELANBegin 354.180
+\ELANEnd 356.620
+\ELANParticipant DAM
+\ut phi darme semba naŋ dar duk
+\tx phi     darme         semba naŋ   dar     duk
+\mb phi     dar     - me  semba naŋ   dar     duk
+\ge outside tremble - NEG soul  inside tremble COP
+
+\ft
+\ftn
+
+\ftn बाहिर काम्दैन,मन भित्र काम्छ।
+
+\ref 117
+\ELANBegin 356.660
+\ELANEnd 358.880
+\ELANParticipant DAM
+\ut ʈhuk ʈhuk ʈhuk dhar du
+\tx ʈhuk ʈhuk ʈhuk dhar    du
+\mb ʈhuk ʈhuk ʈhuk dhar    du
+\ge ONO   ONO   ONO   tremble COP
+
+\ft
+\ftn
+
+\ftn ठुक ठुक ठुक (गरेर शरिर) काम्छ।
+
+\ref 118
+\ELANBegin 358.880
+\ELANEnd 361.480
+\ELANParticipant TEK
+\ut dhẽ ibi dhana lo da ghjatsu sumkala jødi ei
+\tx dhẽ ibi         dhana lo   da  ghjatʃu
+\mb dhẽ ibi         dhana lo   da  ghjatʃu
+\ge now   grandmother now   year now eighty
+
+\tx sumkala        jødi
+\mb sum  -kala     jø -di
+\ge hold -about to COP -CVB (SEQ)
+
+\tx ei
+\mb ei
+\ge particle (Q)
+
+\ft
+\ftn
+
+\ftn अनि बज्यै अजिले असी वर्ष लाग्‍न आँट्यौ हैन?
+
+\ref 119
+\ELANBegin 361.537
+\ELANEnd 362.717
+\ELANParticipant DAM
+\ut dha ghjatʃu sumkala jøti
+\tx dha ghjatʃu sumkala        jøti
+\mb dha ghjatʃu sum  -kala     jøti
+\ge now eighty   hold -about to COP
+
+\ft
+\ftn अब असी लाग्‍न थालेँ।
+
+\ref 120
+\ELANBegin 362.647
+\ELANEnd 365.767
+\ELANParticipant TEK
+\ut dhoŋpuni dʒheni dhana bhartu mi mitshe naŋla kituk dha
+maŋbo ɲuŋ hina
+\tx dhoŋpuni      dzheni      dhana bhartu mi
+\mb dhoŋpu   -ni  dzhe   -ni  dhana bhartu mi
+\ge long.back -ABL become -ABL now   till   man
+
+\tx mitshe naŋla kituk                  dha maŋbo ɲuŋ      hina
+\mb mitshe naŋla kituk                  dha maŋbo ɲuŋ      hina
+\ge life   inside happiness and hardness now much   experience possibility
+
+\ft
+\ftn
+
+\ftn पहिला पहिला अहिले सम्म मान्छेको जिन्गदिमा सुख दुख धेरै पर्‍यो।
+
+\ref 121
+\ELANBegin 365.767
+\ELANEnd 368.420
+\ELANParticipant TEK
+\ut dhana dhanɖa dhene dhukpu dhene ŋama ɲuŋ hinam
+\tx dhana dhanɖa dhene     dukpu
+\mb dhana dhanɖa dhene     dukpu
+\ge now   like    like this suffering
+
+\tx dhene     ŋama  ɲuŋ      hinam
+\mb dhene     ŋama  ɲuŋ      hinam
+\ge like this before experience possibility
+
+\ft
+\ftn
+
+\ftn अहिले जस्तोत्यस्तै दुख पाए (अनुभव गरे)।
+
+\ref 122
+\ELANBegin 368.420
+\ELANEnd 369.500
+\ELANParticipant TEK
+\ut ɲuŋ ɲuŋ we
+\tx ɲuŋ      ɲuŋ      a
+\mb ɲuŋ      ɲuŋ      a
+\ge experience experience EMPH
+
+\ft
+\ftn दुख पाए (पायौ)?
+
+\ref 123
+\ELANBegin 369.490
+\ELANEnd 371.740
+\ELANParticipant DAM
+\ut maɲuŋ masi
+\tx maɲuŋ         masi
+\mb ma-  ɲuŋ      masi
+\ge NEG- experience in reality
+
+\ft
+\ftn पाएका छैनन्, खासै।
+
+\ref 124
+\ELANBegin 371.740
+\ELANEnd 374.700
+\ELANParticipant DAM
+\ut di saŋgul lapken di balak balakla
+\tx di   saŋgul    lapken    di  balak      balakla
+\mb di   saŋgul    lap -ken  di  balak      balak      -la
+\ge this earthquake say -NMLZ DEF in between in between -LOC
+
+\ft
+\ftn
+
+\ftn यो भुकम्प भनेको कहिले कहिले
+
+\ref 125
+\ELANBegin 374.700
+\ELANEnd 377.340
+\ELANParticipant DAM
+\ut hone tʃema tʃema ta hoŋ jøti
+\tx hone      tʃema tʃema ta
+\mb hone      tʃema tʃema ta
+\ge like this small  small  particle (as for)
+
+\tx hoŋ jøti
+\mb hoŋ jøti
+\ge come COP
+
+\ft
+\ftn
+
+\ftn सानो सानो त आउँछ (आउने गर्छ)।
+
+\ref 126
+\ELANBegin 377.460
+\ELANEnd 378.900
+\ELANParticipant DAM
+\ut hoŋ thoŋtsu
+\tx hoŋ thoŋtsu
+\mb hoŋ thoŋ -tsu
+\ge come see   -PST
+
+\ft
+\ftn आएको देख्यौँ।
+
+\ref 127
+\ELANBegin 378.900
+\ELANEnd 382.800
+\ELANParticipant DAM
+\ut hone honi di ta dhana mana da lo hotsøsoŋ
+\tx hone honi     dita   dhana mana    da  lo   hotsøsoŋ
+\mb hone ho   -ni dita   dhana mana    da  lo   hotsø    -soŋ
+\ge like that -ABLas for now   without now year this much -go.PST
+
+\ft
+\ftn यस्तो त म यति साल पुगेँ
+
+\ref 128
+\ELANBegin 382.800
+\ELANEnd 385.240
+\ELANParticipant DAM
+\ut dhana mana hoŋ thoŋ maɲuŋ
+\tx dhana mana    hoŋ thoŋ maɲuŋ
+\mb dhana mana    hoŋ thoŋ ma-  ɲuŋ
+\ge now   without come see   NEG- experience
+
+\ft
+\ftn
+
+\ftn यस्तो त अहिले जस्तो आएको देखिन।
+
+\ref 129
+\ELANBegin 385.270
+\ELANEnd 389.250
+\ELANParticipant TEK
+\ut dhene ghjaŋungjala ŋama ta lo ghjaʃu ghjaɲi ŋola dhanta
+tsamʈa
+\tx dhene    ghjaŋungjala           ŋama  ta                lo   ghjaʃughjaɲi ŋola  dhanda tsamɖa
+\mb dhene    ghjaŋun      -gja -la  ŋama  ta                lo   ghjaʃughjaɲi ŋola  dhanda tsamɖa
+\ge and then old men women -PL  -LOC before particle (as for) year eighty two     before now    like
+
+\ft
+\ftn
+
+\ftn अनि बुढा बुढि पहिला उमेर (वर्ष) बयासी वर्ष अगाडि अहिले जस्तो
+
+\ref 130
+\ELANBegin 389.260
+\ELANEnd 391.660
+\ELANParticipant TEK
+\ut sajum tʃhempo tʃik horaŋ hjompula lepre horoŋdi
+\tx sajum      tʃhempo tʃik horaŋ
+\mb sajum      tʃhempo tʃik horaŋ
+\ge earthquake big      one   our
+
+\tx hjombula       lep  re
+\mb hjombu    -la  lep  re
+\ge Kathmandu -LOC come COP
+
+\tx horoŋ di
+\mb horoŋ di
+\ge our    DEF
+
+\ft
+\ftn
+
+\ftn ठूलो भुकम्प अनि काठमान्डुमा पनि आयो।
+
+\ref 131
+\ELANBegin 391.680
+\ELANEnd 395.800
+\ELANParticipant TEK
+\ut nubriki satʃa dila mi khim maŋbo ʃik nadø ra duk
+\tx nubriki    satʃa dila      mi  khim  maŋbo ʃik nadø ra    duk
+\mb nubri -ki  satʃa di   -la  mi  khim  maŋbo ʃik nadø ra    duk
+\ge Nubri -GEN place  this -LOC man house much   fall heard INDEF COP
+
+\ft
+\ftn
+
+\ftn नुब्रिको ठाउँ तिर घर धेरै भत्केको इतिहास पनि छ।
+
+\ref 132
+\ELANBegin 395.800
+\ELANEnd 399.900
+\ELANParticipant TEK
+\ut i khø nema saŋgul tʃhempo lep nadø ra gho ɲuŋa dhana dha
+\tx i           khø nema   saŋgul    tʃhempo lep  nadø
+\mb i           khø nema   saŋgul    tʃhempo lep  nadø
+\ge grandmother you  before earthquake big      come heard
+
+\tx ra    gho  ɲuŋ      a    dhana dha
+\mb ra    gho  ɲuŋ      a    dhana dha
+\ge INDEF hear experience EMPH now   now
+
+\ft
+\ftn
+
+\ftn हजुरआमा, तपाइँ पहिला यस्तो भुकम्प आएको केही सुन्नु भएको थियो?
+
+\ref 133
+\ELANBegin 399.900
+\ELANEnd 403.000
+\ELANParticipant DAM
+\ut gho maɲuŋ a ŋada udi gho a ghome
+\tx gho  maɲuŋ         a    ŋada     udi  gho  a
+\mb gho  ma-  ɲuŋ      a    ŋa - da  udi  gho  a
+\ge door NEG- experience EMPH I   - now that hear EMPH
+
+\tx ghome
+\mb gho  - me
+\ge hear - NEG
+
+\ft
+\ftn
+
+\ftn सुनेकी छैन,म त यो सुनेकी थिइन।
+
+\ref 134
+\ELANBegin 403.000
+\ELANEnd 406.260
+\ELANParticipant DAM
+\ut honda medi tshəɲi medi
+\tx honda medi    tshəɲi
+\mb honda medi    tshəɲi
+\ge care  COP.NEG tshəɲi
+
+\tx medi
+\mb medi
+\ge COP.NEG
+
+\ft
+\ftn
+
+\ftn बुढेसकाल भएर (केही ) गर्न सकिँदैन,विश्वास पनि गर्दैनन्,
+
+\ref 135
+\ELANBegin 406.260
+\ELANEnd 408.760
+\ELANParticipant DAM
+\ut mi rali ni ghodzooŋ lapdu ŋa
+\tx mi  rali ni                ghodzoŋ    lapdu    ŋa
+\mb mi  rali ni                gho  -dzoŋ lap -du  ŋa
+\ge man some particle (as for) hear -PST   say -COP I
+
+\ft
+\ftn कोहीले सुनेको छ भन्छन्? म
+
+\ref 136
+\ELANBegin 408.760
+\ELANEnd 410.240
+\ELANParticipant DAM
+\ut ɲaltaŋ tshokja ni
+\tx ɲaldaŋ              tshokja    ni
+\mb ɲaldaŋ              tsho  -kja ni
+\ge born in the same year group -PL  particle (as for)
+
+\ft
+\ftn
+
+\ftn एकैसाल जन्मेको साथी उनीहरूले।
+
+\ref 137
+\ELANBegin 410.260
+\ELANEnd 412.920
+\ELANParticipant DAM
+\ut sa daŋbo tʃema kaŋla hone tʃk lap dukmikja
+\tx sa        daŋbo    tʃema kaŋla    hone      tʃik lap
+\mb sa        daŋbo    tʃema kaŋ -la  hone      tʃik lap
+\ge long back long back small  time -LOC like this one   say
+
+\tx duk mikja
+\mb duk mi  -kja
+\ge COP man -PL
+
+\ft
+\ftn
+
+\ftn पहिला (सानो) बेलामा मान्छेहरूले यस्तै भन्छन्।
+
+\ref 138
+\ELANBegin 412.940
+\ELANEnd 414.320
+\ELANParticipant DAM
+\ut phedala ɲal duk hone lap duk
+\tx phedala      ɲal  duk hone      lap duk
+\mb pheda   -la  ɲal  duk hone      lap duk
+\ge outside -LOC sleep COP like this say COP
+
+\ft
+\ftn बाहिर घाम ताप्दै थिएँ।
+
+\ref 139
+\ELANBegin 414.320
+\ELANEnd 416.440
+\ELANParticipant DAM
+\ut ŋa udi ɖhampa minduk
+\tx ŋa udi  ɖhampa     minduk
+\mb ŋa udi  ɖhampa     minduk
+\ge I   that remembering NEG.COP
+
+\ft
+\ftn मलाई यो यादै छैन।
+
+\ref 140
+\ELANBegin 416.440
+\ELANEnd 419.200
+\ELANParticipant DAM
+\ut dhẽ dhanda hoŋken di mana ha ghome
+\tx dhẽ dhanda hoŋken    di  mana    ha
+\mb dhẽ dhanda hoŋ -ken  di  mana    ha
+\ge now   now    come -NMLZ DEF without that side
+
+\tx ghome
+\mb gho  - me
+\ge hear - NEG
+
+\ft
+\ftn
+
+\ftn अहिले आएको  बाहेक थाहा भएन।
+
+\ref 141
+\ELANBegin 419.240
+\ELANEnd 422.360
+\ELANParticipant TEK
+\ut gheŋunkja dheni tʃi daŋpo mikja
+\tx ghaŋunkja      dheni    tʃi daŋbo    mikja
+\mb ghaŋun    -kja dhe -ni  tʃi daŋbo    mi  -kja
+\ge old (aged) -PL  sit -ABL what long back man -PL
+
+\ft
+\ftn
+
+\ftn पहिला पहिलाका पुराना मान्छेहरू अनि यो
+
+\ref 142
+\ELANBegin 422.360
+\ELANEnd 425.820
+\ELANParticipant TEK
+\ut saŋgul lapna tʃi sa wala tʃik laŋgo ɖhanɖa ɖhenɖe jø lap du
+\tx saŋgul    lapna     tʃi sa    wala       tʃik laŋgo ɖhanɖa  ɖhenɖe  jø lap du
+\mb saŋgul    lap -na   tʃi sa    wa    -la  tʃik laŋgo ɖhanɖa  ɖhenɖe  jø lap du
+\ge earthquake say -CONC what earth below -LOC one   bull   like that like this COP say COP
+
+\ft
+\ftn
+
+\ftn भुकम्प भन्ने के जमिन मुनि गोरू जस्तै छ भन्छन्।
+
+\ref 143
+\ELANBegin 425.820
+\ELANEnd 428.880
+\ELANParticipant TEK
+\ut i khø semba dhaŋbo i mekja tʃi ɖhanɖa lap du dhene
+\tx i           khø semba dhaŋbo i
+\mb i           khø semba dhaŋbo i
+\ge grandmother you  soul  before  grandmother
+
+\tx mekja            tʃi ɖhanɖa  lap du  dhene
+\mb me          -kja tʃi ɖhanɖa  lap du  dhene
+\ge grandfather -PL  what like that say COP and then
+
+\ft
+\ftn
+
+\ftn हजुरआमाको बिचारमा पहिलाका हजुरबाआमालाई के जस्तो लाग्छ?
+
+\ref 144
+\ELANBegin 428.900
+\ELANEnd 431.000
+\ELANParticipant TEK
+\ut saŋgul di dhẽ tʃi dzhedi hoŋ lap du dhẽ u tʃik
+\tx saŋgul    di  dhẽ tʃi dzhedi            hoŋ
+\mb saŋgul    di  dhẽ tʃi dzhe   -di        hoŋ
+\ge earthquake DEF now   what become -CVB (SEQ) come
+
+\tx lap du  dhẽ u    tʃik
+\mb lap du  dhẽ u    tʃik
+\ge say COP now   that one
+
+\ft
+\ftn
+
+\ftn भुकम्प के के कारणले आएको जस्तो लाग्छ?
+
+\ref 145
+\ELANBegin 431.000
+\ELANEnd 432.800
+\ELANParticipant TEK
+\ut nadø ɖha gho ɲuŋ ɛ̃
+\tx nadø ɖha gho  ɲuŋ      ɛ̃
+\mb nadø ɖha gho  ɲuŋ      ɛ̃
+\ge heard like hear experience particle (Q)
+
+\ft
+\ftn केही कुरा सुन्नु भएको छ?
+
+\ref 146
+\ELANBegin 433.470
+\ELANEnd 435.490
+\ELANParticipant DAM
+\ut saŋgul di ka dhẽ
+\tx saŋgul    di  ka                  dhẽ
+\mb saŋgul    di  ka                  dhẽ
+\ge earthquake DEF Particle (contrast) now
+
+\ft
+\ftn भुकम्प भनेको चाहिँ
+
+\ref 147
+\ELANBegin 437.100
+\ELANEnd 439.440
+\ELANParticipant DAM
+\ut tjaŋla l̥a wakla lu lap du dhẽ
+\tx tjaŋla     l̥a wakla      lu        lap du  dhẽ
+\mb tjaŋ  -la  l̥a wak   -la  lu        lap du  dhẽ
+\ge aabove -LOC god  below -LOC snake god say COP now
+
+\ft
+\ftn
+
+\ftn माथि चाहिँ भगवान हुन्छ, तल चाहिँ नाग हुन्छ।
+
+\ref 148
+\ELANBegin 439.440
+\ELANEnd 442.720
+\ELANParticipant DAM
+\ut horaŋ di dehẽ bharki tsen hin lap du
+\tx horaŋ di  dehẽ    bharki                tsen      hin lap du
+\mb horaŋ di  dehẽ    bhar             -ki  tsen      hin lap du
+\ge our    DEF and then  place in between -GEN flat land PST say COP
+
+\ft
+\ftn
+
+\ftn हामी बसेको चाहिँ चेनमा (यो सतहमा) भन्छन्।
+
+\ref 149
+\ELANBegin 443.008
+\ELANEnd 444.720
+\ELANParticipant DAM
+\ut dhẽ wak ludi dhende jø dire
+\tx dhẽ wak ludi dhende jø dire
+\ft
+\ftn
+
+\ftn अनि तलको चाहिँ नाग छ, यस्तै छ भनिन्छ।
+
+\ref 150
+\ELANBegin 444.720
+\ELANEnd 448.080
+\ELANParticipant DAM
+\ut hondi jø dire
+\tx hondi jø dire
+\ft
+\ftn यस्तो छ भनिन्छ।
+
+\ref 151
+\ELANBegin 448.840
+\ELANEnd 451.580
+\ELANParticipant DAM
+\ut dhi hjompu liŋ satsa liŋla
+\tx dhi hjompu liŋ satsa liŋla
+\ft
+\ftn यो काठमान्डु जमिनको तल तिर
+
+\ref 152
+\ELANBegin 451.620
+\ELANEnd 453.760
+\ELANParticipant DAM
+\ut odi semtsin jøtire
+\tx odi semtsin jøtire
+\ft
+\ftn यो जनावर छ भनिन्छ।
+
+\ref 153
+\ELANBegin 453.760
+\ELANEnd 458.880
+\ELANParticipant DAM
+\ut dhẽ ɲamala tsi hoŋna khala sehoŋ
+\tx dhẽ ɲamala tsi hoŋna khala sehoŋ
+\ft
+\ftn
+
+\ftn अनि माथिबाट जे आएपनि उनीहरूले मुखमा खान्छन्।
+
+\ref 154
+\ELANBegin 458.880
+\ELANEnd 460.840
+\ELANParticipant DAM
+\ut do hoŋna hoŋ
+\tx do hoŋna hoŋ
+\ft
+\ftn ढुङ्गाआए पनि
+
+\ref 155
+\ELANBegin 460.840
+\ELANEnd 463.440
+\ELANParticipant DAM
+\ut simdzin hoŋna hoŋ se hoŋla
+\tx simdzin hoŋna hoŋ se hoŋla
+\ft
+\ftn
+
+\ftn जनावर आएपनि उनीहरूले खान्छन्।
+
+\ref 156
+\ELANBegin 463.520
+\ELANEnd 467.640
+\ELANParticipant DAM
+\ut semmen jala semtsen tsi hoŋna tshor mahoŋ
+\tx semmen jala semtsen tsi hoŋna tshor mahoŋ
+\ft
+\ftn
+
+\ftn अर्को तिर चाहिँ जनावर जस्तो आए पनि थाहा हुँदैन।
+
+\ref 157
+\ELANBegin 467.640
+\ELANEnd 469.940
+\ELANParticipant DAM
+\ut hodi di wadi
+\tx hodi di wadi
+\ft
+\ftn त्यो चाहिँ मुनिको हो।
+
+\ref 158
+\ELANBegin 469.971
+\ELANEnd 471.871
+\ELANParticipant DAM
+\ut hodi semtsen di
+\tx hodi semtsen di
+\ft
+\ftn त्यहि जनावर (हो)।
+
+\ref 159
+\ELANBegin 471.880
+\ELANEnd 474.240
+\ELANParticipant DAM
+\ut honde tsik lapdu
+\tx honde tsik lapdu
+\ft
+\ftn त्यस्तै भनिन्छ।
+
+\ref 160
+\ELANBegin 474.260
+\ELANEnd 477.560
+\ELANParticipant DAM
+\ut semmen ni hjala semtsen tsi sena tupna
+\tx semmen ni hjala semtsen tsi sena tupna
+\ft
+\ftn
+
+\ftn अर्को तिर चाहिँ जनावर केही खाए पनि काटे पनि
+
+\ref 161
+\ELANBegin 477.760
+\ELANEnd 480.380
+\ELANParticipant DAM
+\ut tsi dzhina ne majoŋ
+\tx tsi dzhina ne majoŋ
+\ft
+\ftn
+
+\ftn जे गरे पनि बिरामी पनि भइँदैन।
+
+\ref 162
+\ELANBegin 480.400
+\ELANEnd 482.400
+\ELANParticipant DAM
+\ut sena tshor hoŋ mahoŋla
+\tx sena tshor hoŋ mahoŋla
+\ft
+\ftn खाए पनि थाहा पनि हुँदैन।
+
+\ref 163
+\ELANBegin 482.400
+\ELANEnd 485.220
+\ELANParticipant DAM
+\ut semmen ja semtsen tsi sena tshor hjaŋ mahoŋla
+\tx semmen ja semtsen tsi sena tshor hjaŋ mahoŋla
+\ft
+\ftn
+
+\ftn अरु जनावरहरु (जेलाई) खाए पनि थाहै हुँदैन।
+
+\ref 164
+\ELANBegin 485.220
+\ELANEnd 487.960
+\ELANParticipant DAM
+\ut ɲane mala tsi hoŋna khala sehoŋ
+\tx ɲane mala tsi hoŋna khala sehoŋ
+\ft
+\ftn
+
+\ftn माथि बाट जे आए पनि मुखमा खान्छ।
+
+\ref 165
+\ELANBegin 487.960
+\ELANEnd 490.760
+\ELANParticipant DAM
+\ut seʃahoŋ enti nadʏ tsik ghodzoŋ
+\tx seʃahoŋ enti nadʏ tsik ghodzoŋ
+\ft
+\ftn
+
+\ftn खान्छ भनेर एउटा कुरा सुनेकी छु।
+
+\ref 166
+\ELANBegin 492.200
+\ELANEnd 494.760
+\ELANParticipant TEK
+\ut dhene saŋgul ʃamla dhene mikirimiri dhukpu ɲaŋ
+\tx dhene saŋgul ʃamla dhene mikirimiri dhukpu ɲaŋ
+\ft
+\ftn
+
+\ftn अनि सबै जना भुकम्प पछि दुख पाउनु भयो।
+
+\ref 167
+\ELANBegin 494.760
+\ELANEnd 497.260
+\ELANParticipant TEK
+\ut dhene tsine kjopsu ɖhanɖa tsik
+\tx dhene tsine kjopsu ɖhanɖa tsik
+\ft
+\ftn
+
+\ftn अनि यस्तै गरेर केही राहतहरू
+
+\ref 168
+\ELANBegin 497.280
+\ELANEnd 499.420
+\ELANParticipant TEK
+\ut gumpa ta hina horoŋ
+\tx gumpa ta hina horoŋ
+\ft
+\ftn गुम्बाबाट पनि अर्कै
+
+\ref 169
+\ELANBegin 499.420
+\ELANEnd 502.740
+\ELANParticipant TEK
+\ut ʃuŋ hina re ikjola kjopso ɖhanɖa ra tsuŋwe
+\tx ʃuŋ hina re ikjola kjopso ɖhanɖa ra tsuŋwe
+\ft
+\ftn
+
+\ftn सरकार बाट हजुर आमा तपाईँलाई केही राहत
+
+\ref 170
+\ELANBegin 502.900
+\ELANEnd 504.700
+\ELANParticipant DAM
+\ut dhanta ei
+\tx dhanta ei
+\ft
+\ftn अहिले भनेको?
+
+\ref 171
+\ELANBegin 504.690
+\ELANEnd 507.150
+\ELANParticipant TEK
+\ut dhanta mare khasiŋ saŋgul lepne tshurtap
+\tx dhanta mare khasiŋ saŋgul lepne tshurtap
+\ft
+\ftn
+
+\ftn अहिले होइन, अस्ति भुकम्प आए देखि
+
+\ref 172
+\ELANBegin 507.080
+\ELANEnd 509.280
+\ELANParticipant DAM
+\ut ẽ rakdzhuŋ rakdzhuŋ
+\tx ẽ rakdzhuŋ rakdzhuŋ
+\ft
+\ftn ए, पाएँ, पाएँ।
+
+\ref 173
+\ELANBegin 509.340
+\ELANEnd 512.220
+\ELANParticipant DAM
+\ut ta tsi ŋa sika lamo
+\tx ta tsi ŋa sika lamo
+\ft
+\ftn अब के मर्ने बेलामा
+
+\ref 174
+\ELANBegin 512.240
+\ELANEnd 516.020
+\ELANParticipant DAM
+\ut hina tsi hjala tshipa phul mukhu re
+\tx hina tsi hjala tshipa phul mukhu re
+\ft
+\ftn
+
+\ftn तर यो भगवानलाई पुजा गर्न सकिएन।
+
+\ref 175
+\ELANBegin 516.070
+\ELANEnd 518.370
+\ELANParticipant DAM
+\ut tale kjopso naŋ khin ghiri
+\tx tale kjopso naŋ khin ghiri
+\ft
+\ftn त्यस्तै राहत पाएको हरू
+
+\ref 176
+\ELANBegin 518.370
+\ELANEnd 521.000
+\ELANParticipant DAM
+\ut ŋa se te tale
+\tx ŋa se te tale
+\ft
+\ftn म खाएर बसेकी मात्र हुँ।
+
+\ref 177
+\ELANBegin 521.000
+\ELANEnd 524.260
+\ELANParticipant DAM
+\ut mane tsik ŋarpa ɖaŋ khu makhu tale
+\tx mane tsik ŋarpa ɖaŋ khu makhu tale
+\ft
+\ftn
+
+\ftn माने एउटा राम्रो गरेर मात्र हो।
+
+\ref 178
+\ELANBegin 524.400
+\ELANEnd 527.600
+\ELANParticipant DAM
+\ut mede dene
+\tx mede dene
+\ft
+\ftn छैन, त्यस्तै (हो)।
+
+\ref 179
+\ELANBegin 527.620
+\ELANEnd 529.360
+\ELANParticipant DAM
+\ut taksa khur tali ho
+\tx taksa khur tali ho
+\ft
+\ftn रिण बोकेको मात्रै हो।
+
+\ref 180
+\ELANBegin 529.380
+\ELANEnd 532.100
+\ELANParticipant TEK
+\ut dha raŋ gheɲuŋ tsha re khak me
+\tx dha raŋ gheɲuŋ tsha re khak me
+\ft
+\ftn
+
+\ftn बुढी भइ सक्‍नु भयो, केही हुँदैन।
+
+\ref 181
+\ELANBegin 532.100
+\ELANEnd 535.080
+\ELANParticipant TEK
+\ut tsi ɖhuŋo ghoŋmo mjolnam ra mane ɖaŋ
+\tx tsi ɖhuŋo ghoŋmo mjolnam ra mane ɖaŋ
+\ft
+\ftn
+
+\ftn यो बिहान बेलुका माने समर्पण (गरेको हो)।
+
+\ref 182
+\ELANBegin 535.131
+\ELANEnd 536.531
+\ELANParticipant TEK
+\ut dhene tsi ʈaŋ jøte
+\tx dhene tsi ʈaŋ jøte
+\ft
+\ftn माने जप्दै हुनुहुन्छ?
+
+\ref 183
+\ELANBegin 536.500
+\ELANEnd 540.240
+\ELANParticipant DAM
+\ut ɖaŋ mani ɖaŋ bhetsa guru ami dewa ɖaŋ
+\tx ɖaŋ mani ɖaŋ bhetsa guru ami dewa ɖaŋ
+\ft
+\ftn
+
+\ftn जप्छन्, माने भेजा गुरू आमि देवा जप्छन्।
+
+\ref 184
+\ELANBegin 540.240
+\ELANEnd 545.620
+\ELANParticipant DAM
+\ut ami dewa bhetsa guru mane ɖaŋ
+\tx ami dewa bhetsa guru mane ɖaŋ
+\ft
+\ftn
+
+\ftn आमिदेवा भेचा गुरू माने जप्छन्।
+
+\ref 185
+\ELANBegin 545.671
+\ELANEnd 548.560
+\ELANParticipant DAM
+\ut tsẽrek sik ghom bhatsa guru gom
+\tx tsẽrek sik ghom bhatsa guru gom
+\ft
+\ftn
+
+\ftn चेँरेसिक (भगवानको नाम) प्रार्थना गरेर भाचा गुरू मन्त्र,
+
+\ref 186
+\ELANBegin 548.560
+\ELANEnd 550.440
+\ELANParticipant DAM
+\ut guru rimburtshe ghom
+\tx guru rimburtshe ghom
+\ft
+\ftn
+
+\ftn गुरू रिम्बुर्छे (पद्मसम्भव) को प्रार्थना गर्ने।
+
+\ref 187
+\ELANBegin 550.902
+\ELANEnd 553.742
+\ELANParticipant DAM
+\ut əni dhaka siŋ hopak me ghom
+\tx əni dhaka siŋ hopak me ghom
+\ft
+\ftn
+
+\ftn अनि त्यस्तै होपाक् मे (बुध्द)जप्‍ने।
+
+\ref 188
+\ELANBegin 553.760
+\ELANEnd 557.020
+\ELANParticipant DAM
+\ut odi ŋa ɖhoŋkoŋ ghoŋmo ɖhaŋ
+\tx odi ŋa ɖhoŋkoŋ ghoŋmo ɖhaŋ
+\ft
+\ftn
+
+\ftn तिनीहरूलाई मैले बिहान बेलुका जप्छु।
+
+\ref 189
+\ELANBegin 557.020
+\ELANEnd 560.800
+\ELANParticipant DAM
+\ut tshamo ŋi menʈo duk ŋi menʈona tsok tsok de ni mani ɖhaŋ tsok duk
+\tx
+
+\tx tshamo ŋi menʈo duk ŋi menʈona tsok tsok de ni mani ɖhaŋ tsok duk
+
+\ft
+\ftn राती निद्रा नलाग्दो रहेछ, जागा (नसुतिकन सिधा) बसेर मानेहरू जपे पनि 
+हुन्छ।
+
+\ref 190
+\ELANBegin 560.800
+\ELANEnd 564.280
+\ELANParticipant DAM
+\ut hjaŋ tsok tsok dhene mane ɖaŋnane ɖhaŋ mikhu duk
+\tx hjaŋ tsok tsok dhene mane ɖaŋnane ɖhaŋ mikhu duk
+\ft
+\ftn
+
+\ftn फेरि उभिएर बसेर माने जप्यो भने फेरि (जप्‍न) सक्दिन।
+
+\ref 191
+\ELANBegin 564.313
+\ELANEnd 565.758
+\ELANParticipant DAM
+\ut hjaŋ r̥i tsik ʈaŋ
+\tx hjaŋ r̥i tsik ʈaŋ
+\ft
+\ftn फेरि अलिकति (माने) जपेँ।
+
+\ref 192
+\ELANBegin 565.758
+\ELANEnd 567.320
+\ELANParticipant DAM
+\ut hjaŋ r̥i tsik ɲal
+\tx hjaŋ r̥i tsik ɲal
+\ft
+\ftn फेरि अलिकति सुत्यो।
+
+\ref 193
+\ELANBegin 567.320
+\ELANEnd 568.220
+\ELANParticipant DAM
+\ut r̥i tsik ʈaŋ
+\tx r̥i tsik ʈaŋ
+\ft
+\ftn अलिकति जप्यो।
+
+\ref 194
+\ELANBegin 568.220
+\ELANEnd 571.280
+\ELANParticipant DAM
+\ut ŋi miɖhona tsok tsok ɖe ɖaŋtsø
+\tx ŋi miɖhona tsok tsok ɖe ɖaŋtsø
+\ft
+\ftn
+
+\ftn निद्रा लागेन भने अलिकति जागे पनि हुन्थ्यो।
+
+\ref 195
+\ELANBegin 571.280
+\ELANEnd 572.680
+\ELANParticipant DAM
+\ut hjaŋ ɖaŋ mikhu duk
+\tx hjaŋ ɖaŋ mikhu duk
+\ft
+\ftn फेरि चल्न सक्दिन।
+
+\ref 196
+\ELANBegin 572.680
+\ELANEnd 574.840
+\ELANParticipant DAM
+\ut hjŋ r̥i tsik ɲal khø duk
+\tx hjŋ r̥i tsik ɲal khø duk
+\ft
+\ftn
+
+\ftn फेरि अलिकति सुत्‍नु पर्ने रहेछ।
+
+\ref 197
+\ELANBegin 574.860
+\ELANEnd 578.120
+\ELANParticipant DAM
+\ut ɲalne aroŋne hjaŋ phleŋ laŋne mani ʈaŋ
+\tx ɲalne aroŋne hjaŋ phleŋ laŋne mani ʈaŋ
+\ft
+\ftn
+
+\ftn सुतेर फेरि एक छिन पछि उठेर माने जप्यौँ।
+
+\ref 198
+\ELANBegin 578.120
+\ELANEnd 579.720
+\ELANParticipant DAM
+\ut odi ɖhaŋ mana
+\tx odi ɖhaŋ mana
+\ft
+\ftn त्यो जागेर मात्र
+
+\ref 199
+\ELANBegin 579.740
+\ELANEnd 582.600
+\ELANParticipant DAM
+\ut dha hjala gombala ljaka dze tsena
+\tx dha hjala gombala ljaka dze tsena
+\ft
+\ftn अब माथि गुम्बामा काम गरे
+
+\ref 200
+\ELANBegin 582.600
+\ELANEnd 584.600
+\ELANParticipant DAM
+\ut ghewa ljaka tsi dzhenani
+\tx ghewa ljaka tsi dzhenani
+\ft
+\ftn
+
+\ftn धर्मको (राम्रो)काम जे गरे पनि
+
+\ref 201
+\ELANBegin 584.600
+\ELANEnd 586.060
+\ELANParticipant DAM
+\ut dho dhokdhok tsik kjak mikhu re
+\tx dho dhokdhok tsik kjak mikhu re
+\ft
+\ftn
+
+\ftn सानोतिनो ढुङ्गा पनि उठाउन सक्दिन।
+
+\ref 202
+\ELANBegin 586.060
+\ELANEnd 588.200
+\ELANParticipant DAM
+\ut ʃala oso tsik dzhe mukhu re
+\tx ʃala oso tsik dzhe mukhu re
+\ft
+\ftn
+
+\ftn सानो माटो एउटा पनि मुछ्न सक्दिन।
+
+\ref 203
+\ELANBegin 588.200
+\ELANEnd 590.940
+\ELANParticipant DAM
+\ut hjaŋ usu dzhe khunani
+\tx hjaŋ usu dzhe khunani
+\ft
+\ftn फेरि यस्तो गर्न सक्यो भने
+
+\ref 204
+\ELANBegin 590.940
+\ELANEnd 593.140
+\ELANParticipant DAM
+\ut raŋ phenjun hoŋ
+\tx raŋ phenjun hoŋ
+\ft
+\ftn आफुलाई फाईदा (धर्म) आउँछ।
+
+\ref 205
+\ELANBegin 593.140
+\ELANEnd 595.860
+\ELANParticipant DAM
+\ut o r̥i ʃaktsi mo
+\tx o r̥i ʃaktsi mo
+\ft
+\ftn
+
+\ftn त्यो अलिकति पाप हट्छ (पाप जान्छ)।
+
+\ref 206
+\ELANBegin 595.860
+\ELANEnd 598.840
+\ELANParticipant DAM
+\ut ʃak tsi me di dzhi məkhu
+\tx ʃak tsi me di dzhi məkhu
+\ft
+\ftn
+
+\ftn पाप हट्दैन, (काम) गर्न नसकेर,
+
+\ref 207
+\ELANBegin 598.840
+\ELANEnd 601.620
+\ELANParticipant DAM
+\ut lo raŋ oso lepsiŋ di tsi hoŋke
+\tx lo raŋ oso lepsiŋ di tsi hoŋke
+\ft
+\ftn
+
+\ftn उमेर पनि यति पुगि सक्यो,के हुन्छ र?
+
+\ref 208
+\ELANBegin 601.620
+\ELANEnd 604.480
+\ELANParticipant DAM
+\ut hinaŋ ŋalake ŋala ke
+\tx hinaŋ ŋalake ŋala ke
+\ft
+\ftn
+
+\ftn तर पनि म भन्दा बुढी म भन्दा बुढी।
+
+\ref 209
+\ELANBegin 604.490
+\ELANEnd 606.600
+\ELANParticipant DAM
+\ut maghen ra jø
+\tx maghen ra jø
+\ft
+\ftn कोही बुढी आमाहरू छन्।
+
+\ref 210
+\ELANBegin 606.600
+\ELANEnd 607.960
+\ELANParticipant DAM
+\ut hodigja
+\tx hodigja
+\ft
+\ftn तिनीहरू
+
+\ref 211
+\ELANBegin 607.960
+\ELANEnd 610.480
+\ELANParticipant DAM
+\ut namgja ɖona aruŋ thaŋpo tsik duk
+\tx namgja ɖona aruŋ thaŋpo tsik duk
+\ft
+\ftn
+
+\ftn बाटोमा हिँड्दा खेरि ठिकै रहेछ।
+
+\ref 212
+\ELANBegin 610.480
+\ELANEnd 613.100
+\ELANParticipant DAM
+\ut ljaka aruŋ taŋ khu du
+\tx ljaka aruŋ taŋ khu du
+\ft
+\ftn
+
+\ftn काम पनि अलिकति गर्न सकिँदो रहेछ।
+
+\ref 213
+\ELANBegin 613.100
+\ELANEnd 616.220
+\ELANParticipant DAM
+\ut ŋane taŋ mukhu du tsitsija mukhu du
+\tx ŋane taŋ mukhu du tsitsija mukhu du
+\ft
+\ftn
+
+\ftn गर्न पनि नसकिने रहेछ, अलिकति गर्न पनि नसकिने रहेछ।
+
+\ref 214
+\ELANBegin 616.220
+\ELANEnd 619.200
+\ELANParticipant DAM
+\ut dhene sitsini minduk
+\tx dhene sitsini minduk
+\ft
+\ftn
+
+\ftn अनि मोर्दा पनि मर्ने रहेनछ।
+
+\ref 215
+\ELANBegin 620.140
+\ELANEnd 622.260
+\ELANParticipant DAM
+\ut si ɲala hjulla dhikpa dhine
+\tx si ɲala hjulla dhikpa dhine
+\ft
+\ftn मरेपछि नर्कमा पापहरू
+
+\ref 216
+\ELANBegin 622.260
+\ELANEnd 624.700
+\ELANParticipant DAM
+\ut dhukpu dhine
+\tx dhukpu dhine
+\ft
+\ftn दुखको कुराहरू
+
+\ref 217
+\ELANBegin 624.726
+\ELANEnd 626.991
+\ELANParticipant DAM
+\ut nam si na dhukpu njuŋ tsi raŋ hin
+\tx nam si na dhukpu njuŋ tsi raŋ hin
+\ft
+\ftn
+
+\ftn जहिले मरे पनि दुख त दुख नै हुन्छ।
+
+\ref 218
+\ELANBegin 626.991
+\ELANEnd 628.100
+\ELANParticipant DAM
+\ut ɲuŋ gho tsi
+\tx ɲuŋ gho tsi
+\ft
+\ftn भोग्‍नु पर्छ।
+
+\ref 219
+\ELANBegin 628.100
+\ELANEnd 630.100
+\ELANParticipant DAM
+\ut raŋ madak ljaka tsi dzhe heno
+\tx raŋ madak ljaka tsi dzhe heno
+\ft
+\ftn
+
+\ftn आफूले जस्तो नराम्रो काम गरेका हरू
+
+\ref 220
+\ELANBegin 630.100
+\ELANEnd 632.300
+\ELANParticipant DAM
+\ut dzhe ɖhampa meti tse jøɖo
+\tx dzhe ɖhampa meti tse jøɖo
+\ft
+\ftn
+
+\ftn याद नभएको कामहरू पनि गरे हौँला।
+
+\ref 221
+\ELANBegin 632.300
+\ELANEnd 634.420
+\ELANParticipant DAM
+\ut raŋ sempa di
+\tx raŋ sempa di
+\ft
+\ftn आफ्नो मनलाई चाहिँ
+
+\ref 222
+\ELANBegin 634.420
+\ELANEnd 636.460
+\ELANParticipant DAM
+\ut dhikpa ljaka tsimi
+\tx dhikpa ljaka tsimi
+\ft
+\ftn पापी काम गरेन भने पनि
+
+\ref 223
+\ELANBegin 636.460
+\ELANEnd 638.976
+\ELANParticipant DAM
+\ut nena minenani
+\tx nena minenani
+\ft
+\ftn भने पनि नभने पनि
+
+\ref 224
+\ELANBegin 638.976
+\ELANEnd 641.220
+\ELANParticipant DAM
+\ut gha tso hjaŋ dzhe jøʈo
+\tx gha tso hjaŋ dzhe jøʈo
+\ft
+\ftn कति कति गरे होलान्?
+
+\ref 225
+\ELANBegin 641.220
+\ELANEnd 644.020
+\ELANParticipant DAM
+\ut dzhe di la odi
+\tx dzhe di la odi
+\ft
+\ftn गरेर त्यो चाहिँ
+
+\ref 226
+\ELANBegin 644.040
+\ELANEnd 647.120
+\ELANParticipant DAM
+\ut ɲalala ɲaŋ ɲaŋ ho
+\tx ɲalala ɲaŋ ɲaŋ ho
+\ft
+\ftn
+
+\ftn नर्कमा भोग्‍नु परी हाल्यो।
+
+\ref 227
+\ELANBegin 647.131
+\ELANEnd 649.611
+\ELANParticipant DAM
+\ut hodi nam ɲuŋ na ɲuŋ tsi raŋ
+\tx hodi nam ɲuŋ na ɲuŋ tsi raŋ
+\ft
+\ftn
+
+\ftn त्यो चाहिँ आखिर भोग्‍न परिहाल्छ।
+
+\ref 228
+\ELANBegin 650.220
+\ELANEnd 652.840
+\ELANParticipant DAM
+\ut sinani tok misi du
+\tx sinani tok misi du
+\ft
+\ftn चाँडै पनि नमरिँदो रहेछ।
+
+\ref 229
+\ELANBegin 654.780
+\ELANEnd 657.180
+\ELANParticipant TEK
+\ut dhene raŋ gheɲuŋ tsha ŋama raŋ suk
+\tx dhene raŋ gheɲuŋ tsha ŋama raŋ suk
+\ft
+\ftn अब बुढी भएँ, बल हुने बेलामा
+
+\ref 230
+\ELANBegin 657.180
+\ELANEnd 659.520
+\ELANParticipant TEK
+\ut namla jøkaŋ raŋ ŋarpa dzhesiŋ
+\tx namla jøkaŋ raŋ ŋarpa dzhesiŋ
+\ft
+\ftn
+
+\ftn समय हुँदा खेरि जति सक्दो काम गरेँ।
+
+\ref 231
+\ELANBegin 659.520
+\ELANEnd 662.780
+\ELANParticipant TEK
+\ut dhẽ dhanda tsi raŋ gheɲuŋ hotso tsha
+\tx dhẽ dhanda tsi raŋ gheɲuŋ hotso tsha
+\ft
+\ftn
+
+\ftn अनि अहिले यति बुढी भइ सक‍्‍नुभयो।
+
+\ref 232
+\ELANBegin 662.801
+\ELANEnd 664.820
+\ELANParticipant TEK
+\ut maneʈaŋ raŋ tsi kutsidi
+\tx maneʈaŋ raŋ tsi kutsidi
+\ft
+\ftn
+
+\ftn आफुले सक्‍ने जति माने जप्‍ने।
+
+\ref 233
+\ELANBegin 664.820
+\ELANEnd 667.680
+\ELANParticipant TEK
+\ut mane ʈaŋ bhedzar guru hina ŋarpa ʈaŋ
+\tx mane ʈaŋ bhedzar guru hina ŋarpa ʈaŋ
+\ft
+\ftn
+
+\ftn माने जप्‍ने, अनि भेजार गुरूहरू पनि जप्‍ने।
+
+\ref 234
+\ELANBegin 667.680
+\ELANEnd 669.620
+\ELANParticipant TEK
+\ut ʈaŋ tso raŋ sem tsaŋma dzhuŋsuna
+\tx ʈaŋ tso raŋ sem tsaŋma dzhuŋsuna
+\ft
+\ftn
+
+\ftn जप्‍ने,मूख्य मन चाहिँ शुध्द (सफा) हुनु पर्छ।
+
+\ref 235
+\ELANBegin 669.620
+\ELANEnd 671.890
+\ELANParticipant TEK
+\ut sem tsaŋma dzhuŋna dhene horoŋ
+\tx sem tsaŋma dzhuŋna dhene horoŋ
+\ft
+\ftn मन शुध्द भए पनि हाम्रो
+
+\ref 236
+\ELANBegin 671.890
+\ELANEnd 673.946
+\ELANParticipant TEK
+\ut lama kuntshok hina sike
+\tx lama kuntshok hina sike
+\ft
+\ftn
+
+\ftn लामाहरू देवताहरूले पनि (हामीलाई) हेर्छन्।
+
+\ref 237
+\ELANBegin 673.946
+\ELANEnd 676.446
+\ELANParticipant TEK
+\ut dhene lə ibi hortse mane ŋarpa ʈaŋ
+\tx dhene lə ibi hortse mane ŋarpa ʈaŋ
+\ft
+\ftn
+
+\ftn अनि अजुरआमा धन्यबाद, माने राम्रो सँग जप्‍नु होस्।
+
+
+
+\ELANMediaURL file:///E:/Annotation_Earthquake_dnd/Nubri_dnd/Tashi (Ebi)/ZOOM0011.wav
+\ELANMediaMIME audio/x-wav

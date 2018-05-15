@@ -1,0 +1,9744 @@
+\_sh v3.0  400  Lexicon
+
+\lx ã
+\ps conj.
+\ge or
+
+\lx ã
+\ps n.
+\ge mother [Sama]
+
+\lx ã
+\ps n.
+\ge feces
+\lxd ख
+
+\lx ai
+\ps n.
+\ge elder sister [Lho]
+
+\lx ai
+\ps part.
+\ge okay
+
+\lx aŋ
+\ps n.
+\ge power
+
+\lx aŋɖaŋ
+\ps n.
+\ge serial number
+
+\lx aŋpa
+\ps n.
+\ge last born child
+
+\lx aŋsaŋ
+\ps adj.
+\ge much more
+
+\lx atso
+\ps n.
+\ge brother
+
+\lx atsu
+\ps n.
+\ge brother [Lho]
+
+\lx aɲe
+\ps n.
+\ge wound
+\lxd कक
+
+\lx ata
+\ps n.
+\ge elder brother
+
+\lx ani
+\ps n.
+\ge father's sister
+
+\lx ani
+\ps gra.
+\ge also
+
+\lx ani
+\ps n.
+\ge nun
+
+\lx ano
+\ps n.
+\ge religiously bonded friend (female)
+\lxd ख
+
+\lx anoro
+\ps n.
+\ge friend
+
+\lx apa
+\ps n.
+\ge father [Tib.]
+
+\lx apʃak
+\ps n.
+\ge sword; traditional sword
+\lxd ककक
+
+\lx ama
+\ps n.
+\ge mother
+
+\lx amaɖintse
+\ps excl.
+\ge exclamation
+
+\lx amidewa
+\ps n.
+\ge hymn (a kind of Chinese hymn)
+
+\lx amidewari
+\ps n.
+\ge hymn (of a kind)
+
+\lx amtsi
+\ps n.
+\ge traditional doctor
+\lxd कक
+
+\lx amtso
+\ps n.
+\ge ear [var. amtsok]
+
+\lx amtsok
+\ps n.
+\ge ear
+\lxd ख
+
+\lx amtsok sokpa
+\ps n.
+\ge earlobe
+\lxd ककक
+
+\lx arak
+\ps n.
+\ge liquor [var. ara]
+
+\lx aroŋ
+\ps adj.
+\ge mediocre
+
+\lx aruŋ
+\ps adj.
+\ge much
+
+\lx aruŋ
+\ps adv.
+\ge after a while
+\lxd ककक
+
+\lx aruŋ tʃime
+\ps adv.
+\ge very badly
+\lxd ककक
+
+\lx aruŋne
+\ps adv.
+\ge after that
+
+\lx arkjok
+\ps n.
+\ge horn [Lho, cf. harkjok]
+
+\lx artsa
+\ps n.
+\ge pot for making liquor (pot fixed at the center of the liquor
+preparing pot)
+
+\lx arɲiŋ
+\ps n.
+\ge pot in which the liquor is collected during its preparation
+
+\lx alaili
+\ps adj.
+\ge little [Sama, cf. elailu]
+
+\lx alak
+\ps adj.
+\ge different [Lho, cf. guduk]
+
+\lx ale
+\ps gram.
+\ge exclamation
+
+\lx ale
+\ps gram.
+\ge yes
+
+\lx ali
+\ps n.
+\ge rupees
+\lxd ककक
+
+\lx aliili
+\ps adj.
+\ge some
+\lxd ककक
+
+\lx aluk
+\ps n.
+\ge garland
+\lxd ककक
+
+\lx awa
+\ps n.
+\ge father [Lho]
+
+\lx awaã
+\ps n.
+\ge parents
+\lxd ककक
+
+\lx aʃaŋ
+\ps n.
+\ge maternal uncle, father in law
+
+\lx ẽ
+\ps part.
+\ge particle (question)
+
+\lx ẽ
+\ps part.
+\ge particle (yes)
+
+\lx e
+\ps excl.
+\ge exclamation
+
+\lx ei
+\ps part.
+\ge particle (right?)
+
+\lx ei
+\ps n.
+\ge elder sister
+
+\lx ei
+\ps v.
+\ge to itch
+\lxd कक
+
+\lx eila
+\ps part.
+\ge particle (in particular)
+
+\lx etʃi
+\ps n.
+\ge elder.sister
+
+\lx epa
+\ps adv.
+\ge right
+\lxd कक
+
+\lx epa
+\ps adj.
+\ge right
+\lxd ख
+
+\lx epi
+\ps n.
+\ge grandmother [Lho, cf. epi]
+\lxd 
+
+\lx epi
+\ps n.
+\ge grandmother [Sama, see ibi]
+
+\lx epsa
+\ps n.
+\ge porch
+\lxd ख
+
+\lx ẽma
+\ps adj.
+\ge left
+\lxd ख
+
+\lx erka
+\ps n.
+\ge rainy season
+\lxd कक
+
+\lx erma
+\ps n.
+\ge pepper (a kind of spice)
+\lxd ककक
+
+\lx ela
+\ps adv.
+\ge right side
+\lxd कक
+
+\lx elajulu
+\ps adj.
+\ge little [Lho, cf. alaili]
+
+\lx elok
+\ps n.
+\ge yard [Lho, cf. ghorum]
+
+\lx i
+\ps n.
+\ge grandmother
+
+\lx ikgjap
+\ps n.
+\ge hiccup
+\lxd ककक
+
+\lx intsi
+\ps n.
+\ge foreigner
+
+\lx ibi
+\ps n.
+\ge grandmother
+\lxd ख
+
+\lx isi
+\ps n.
+\ge kitchen garden
+
+\lx o
+\ps pron.
+\ge that
+
+\lx oi
+\ps gram.
+\ge vocative case
+
+\lx ou
+\ps n.
+\ge uncle
+
+\lx ou
+\ps n.
+\ge father
+
+\lx oka
+\ps part.
+\ge that is true, right?
+
+\lx okapsune
+\ps adv.
+\ge at that time
+\lxd कक
+
+\lx oŋkar
+\ps n.
+\ge Ongkar (Place name in Lho village)
+
+\lx oda
+\ps adv.
+\ge there (Lho, cf. phuta]
+
+\lx oma
+\ps adv.
+\ge from there
+
+\lx omala
+\ps adv.
+\ge from there
+
+\lx oja
+\ps adv.
+\ge towards there
+
+\lx u
+\ps n.
+\ge head (Hon.)
+\lxd ककक
+
+\lx uaŋ
+\ps n.
+\ge food item (santified by offering to God)
+
+\lx uk
+\ps n.
+\ge breath
+
+\lx ukʃak
+\ps v.
+\ge to leave
+
+\lx utshu
+\ps adv.
+\ge like that
+
+\lx utshurtap
+\ps adv.
+\ge after that
+
+\lx udzu
+\ps adv.
+\ge like that
+
+\lx uʈa
+\ps n.
+\ge hair of body (Hon.)
+\lxd कक
+
+\lx udi
+\ps pron.
+\ge that
+
+\lx uni
+\ps adv.
+\ge and then
+\lxd कक
+
+\lx umala
+\ps adv.
+\ge below
+
+\lx ula
+\ps adv.
+\ge there
+
+\lx uʃa
+\ps n.
+\ge cap (Hon.)
+
+\lx ə̃
+\ps gram.
+\ge yes (exclamation. It is used to say that something is true or correct
+
+\lx ədəktshe
+\ps n.
+\ge chairperson (Nep.)
+
+\lx əni
+\ps adv.
+\ge and then (Nep.)
+
+\lx ka
+\ps part.
+\ge particle (contrast)
+
+\lx ka
+\ps v.
+\ge stop (tran.)
+\lxd कक
+
+\lx ka
+\ps n.
+\ge bad star; influence of plenatary stars
+\lxd कक
+
+\lx kaŋel
+\ps n.
+\ge trouble
+
+\lx kaŋel
+\ps n.
+\ge problem
+
+\lx kaŋgar
+\ps n.
+\ge cigaratte made locallyby encassing the tobacco in leaves
+\lxd कक
+
+\lx kaŋtʃhak
+\ps adj.
+\ge lame
+
+\lx kaŋɲal
+\ps n.
+\ge problem
+
+\lx kaŋba
+\ps n.
+\ge leg
+
+\lx kaŋba tsu
+\ps v.
+\ge to begin walking
+\lxd ख
+
+\lx kaŋba tshitko
+\ps n.
+\ge knee
+\lxd ककक
+
+\lx kaŋbathil
+\ps n.
+\ge feet
+\lxd कक
+
+\lx kaŋmantse
+\ps adj.
+\ge acting as if
+
+\lx kaʈin
+\ps n.
+\ge gratitute
+
+\lx kana
+\ps excl.
+\ge yes  please (Hon.)
+
+\lx kana
+\ps excl.
+\ge expression to reply 'yes' politely
+\lxd कक
+
+\lx kanaŋ
+\ps excl.
+\ge yes please
+
+\lx kani
+\ps n.
+\ge temple
+\lxd कक
+
+\lx kap
+\ps v.
+\ge to cover
+
+\lx kap
+\ps n.
+\ge time
+
+\lx kap
+\ps v.
+\ge to thatch
+\lxd कक
+
+\lx kaptʃa
+\ps n.
+\ge shoes
+
+\lx kapso
+\ps n.
+\ge time
+
+\lx kam
+\ps v.
+\ge to dry (intr.)
+
+\lx kampa
+\ps n.
+\ge infertile animal or human beings
+\lxd कक
+
+\lx kambo
+\ps adj.
+\ge thin
+
+\lx karnak
+\ps adj.
+\ge light black
+\lxd कक
+
+\lx karpo
+\ps adj.
+\ge white
+
+\lx karmanamgjal
+\ps n.
+\ge Karma Namgyal (name of a male person)
+
+\lx kale
+\ps adj.
+\ge difficult
+
+\lx kale
+\ps adv.
+\ge where
+
+\lx kalpa
+\ps n.
+\ge civilization
+
+\lx kalpa
+\ps n.
+\ge era
+\lxd कक
+
+\lx kawaŋ
+\ps n.
+\ge worship (of a kind)
+
+\lx ká
+\ps n.
+\ge pillar
+\lxd कक
+
+\lx ke
+\ps n.
+\ge voice
+
+\lx ke
+\ps v.
+\ge to be born
+
+\lx ke gjap
+\ps v.
+\ge to call
+\lxd ख
+
+\lx ke gjur
+\ps v.
+\ge to translate
+
+\lx ke taŋ
+\ps v.
+\ge to call
+
+\lx ke hjul
+\ps n.
+\ge birthplace
+\lxd कक
+
+\lx keka
+\ps n.
+\ge gift; present
+\lxd कक
+
+\lx kekar
+\ps n.
+\ge horoscope
+\lxd कक
+
+\lx ketsa
+\ps n.
+\ge matters, talk [Tib., cf. tam]
+
+\lx ken
+\ps n.
+\ge effect
+
+\lx ken
+\ps n.
+\ge weakness (of a man)
+\lxd कक
+
+\lx ken
+\ps n.
+\ge to hang (tran.)
+\lxd कक
+
+\lx kepa
+\ps n.
+\ge waist
+\lxd कक
+
+\lx kepala
+\ps adv.
+\ge between
+\lxd ख
+
+\lx kerapa
+\ps n.
+\ge hunter
+\lxd कक
+
+\lx ki
+\ps n.
+\ge loan; lending
+\lxd कक
+
+\lx -ki
+\ps gram.
+\ge ergative case
+
+\lx -ki
+\ps gram.
+\ge instrumental case
+
+\lx -ki
+\ps gram.
+\ge genitive case
+
+\lx kitshaŋ
+\ps n.
+\ge place where dog sits
+\lxd कक
+
+\lx kituk
+\ps n.
+\ge happiness and hardness
+
+\lx kiduk
+\ps n.
+\ge happy and hardship
+\lxd कक
+
+\lx kipo
+\ps adj.
+\ge happy
+
+\lx kiptsaŋ
+\ps n.
+\ge jackal
+\lxd कक
+
+\lx kipʈuk
+\ps n.
+\ge puppy
+\lxd कक
+
+\lx kimala
+\ps adv.
+\ge between
+
+\lx ko
+\ps part.
+\ge particle (you know)
+
+\lx ko tshaktshak
+\ps adj.
+\ge smiling
+\lxd ख
+
+\lx kokse
+\ps n.
+\ge cheat
+\lxd कक
+
+\lx koksi
+\ps n.
+\ge dandruff
+\lxd कक
+
+\lx koŋma
+\ps n.
+\ge broom
+\lxd ख
+
+\lx kotro
+\ps n.
+\ge prayer wheel moved by hand
+
+\lx kor
+\ps v.
+\ge to go round
+
+\lx kora
+\ps n.
+\ge going round
+
+\lx korkhun
+\ps n.
+\ge window
+\lxd कक
+
+\lx kol
+\ps v.
+\ge to boil (tran.)
+\lxd कक
+
+\lx ku
+\ps n.
+\ge statue
+\lxd कक
+
+\lx kuŋ
+\ps n.
+\ge butter lamp
+
+\lx kuŋ
+\ps adv.
+\ge between [Sama, cf. bharke]
+
+\lx kuna
+\ps adj.
+\ge remote
+\lxd कक
+
+\lx kuntsok
+\ps n.
+\ge god
+
+\lx kundzaŋ
+\ps n.
+\ge Kunsang (name of a male person)
+
+\lx kupa
+\ps n.
+\ge thread
+\lxd कक
+
+\lx kuma 
+\ps n.
+\ge thief [Sama, cf. kũwa]
+\lxd कक
+
+\lx kumtshe
+\ps n.
+\ge worship done at gompa
+
+\lx kumden
+\ps post.
+\ge with
+
+\lx kurum
+\ps n.
+\ge worship
+
+\lx kũwa
+\ps n.
+\ge thief [Lho, cf. kuma]
+
+\lx kusuŋthukten
+\ps n.
+\ge worship (of some kind)
+
+\lx kʏ
+\ps v.
+\ge to steal (var. ki)
+
+\lx køn
+\ps n.
+\ge injury
+
+\lx kja
+\ps part.
+\ge also
+
+\lx -kja
+\ps gram.
+\ge PL
+
+\lx kja thampa
+\ps num.
+\ge one hundred
+
+\lx kjakpa
+\ps n.
+\ge feces
+
+\lx kjaŋkjaŋ
+\ps adv.
+\ge only
+
+\lx kjaptʃol
+\ps n.
+\ge refugee
+
+\lx kjal
+\ps v.
+\ge to make reach
+
+\lx kjo
+\ps n.
+\ge laddle
+
+\lx kjou
+\ps adj.
+\ge poor
+\lxd कक
+
+\lx kjon
+\ps n.
+\ge affect
+
+\lx kjopso
+\ps n.
+\ge relief
+
+\lx kjor
+\ps v.
+\ge to fence
+
+\lx kjurpu
+\ps adj.
+\ge sour
+\lxd कक
+
+\lx kwã
+\ps n.
+\ge thief
+\lxd ख
+
+\lx kám
+\ps v.
+\ge to make dry
+\lxd कक
+
+\lx kha
+\ps n.
+\ge mouth
+
+\lx kha
+\ps n.
+\ge shard edge
+\lxd कक
+
+\lx kha:
+\ps n.
+\ge snow
+\lxd कक
+
+\lx kha tshendi
+\ps adj.
+\ge chilli hot
+\lxd कक
+
+\lx kha dar
+\ps v.
+\ge to sharpen (equipment)
+\lxd कक
+
+\lx khaka
+\ps v.
+\ge to separate
+
+\lx khakom
+\ps n.
+\ge thirst
+\lxd कक
+
+\lx khakpo
+\ps adj.
+\ge difficult
+\lxd कक
+
+\lx khakpu
+\ps adj.
+\ge bitter
+
+\lx khaŋdok
+\ps n.
+\ge roof
+\lxd कक
+
+\lx khaŋpa
+\ps n.
+\ge house [Tib.]
+
+\lx khatsiŋ
+\ps adv.
+\ge day before yesterday
+
+\lx khatʃo kop
+\ps n.
+\ge cover
+\lxd कक
+
+\lx khaʈaŋ
+\ps n.
+\ge number
+
+\lx khaɖal
+\ps n.
+\ge to be separated
+\lxd कक
+
+\lx khaɖaltsuk
+\ps v.
+\ge to separate (tran.)
+\lxd कक
+
+\lx khatuk
+\ps post.
+\ge towards
+
+\lx khadik
+\ps v.
+\ge to stammer
+\lxd कक
+
+\lx khanup
+\ps adv.
+\ge day before yesterday [Lho, cf. khonum]
+
+\lx khap
+\ps n.
+\ge needle
+\lxd कक
+
+\lx khaptsok
+\ps n.
+\ge lid; cover
+\lxd कक
+
+\lx khaptuk
+\ps adj.
+\ge direct
+
+\lx khapthuk
+\ps adj.
+\ge straight
+\lxd कक
+
+\lx khappo
+\ps adj.
+\ge sour
+\lxd कक
+
+\lx khaple
+\ps n.
+\ge chatting
+
+\lx khabe
+\ps v.
+\ge to open
+\lxd ख
+
+\lx kharak
+\ps n.
+\ge crow [Sama, cf. garok]
+
+\lx kharal
+\ps adj.
+\ge incomplete
+
+\lx kharal
+\ps adj.
+\ge half
+\lxd कक
+
+\lx khari khaptuk
+\ps adj.
+\ge straightforward in nature
+
+\lx khala
+\ps n.
+\ge surface
+
+\lx khala
+\ps n.
+\ge food [cf. khalak]
+
+\lx khalak
+\ps n.
+\ge food [Tib.]
+
+\lx khasaŋ
+\ps adv.
+\ge recently
+
+\lx khase
+\ps pron.
+\ge somebody
+
+\lx khaseni
+\ps pron.
+\ge some [Tib.]
+
+\lx khasiŋ
+\ps adv.
+\ge recently
+
+\lx khasin teli
+\ps adv.
+\ge recently
+\lxd कक
+
+\lx khahala
+\ps adv.
+\ge over there; on that side
+\lxd कक
+
+\lx khẽ
+\ps pron.
+\ge you
+
+\lx kheu
+\ps n.
+\ge beard; mustache
+\lxd कक
+
+\lx khen
+\ps adj.
+\ge knowledgeable
+
+\lx khepar
+\ps adj.
+\ge different
+
+\lx khembu
+\ps n.
+\ge abbot
+
+\lx kheraŋ
+\ps pron.
+\ge you
+
+\lx khewa
+\ps adj.
+\ge skillful
+\lxd कक
+
+\lx khewaŋ
+\ps adj.
+\ge skilled person
+\lxd कक
+
+\lx khesin
+\ps adv.
+\ge recently
+
+\lx khiu
+\ps adj.
+\ge cheap
+\lxd कक
+
+\lx khikhir
+\ps n.
+\ge circle
+\lxd कक
+
+\lx khim
+\ps n.
+\ge house
+
+\lx khimdze
+\ps n.
+\ge neighbour
+
+\lx khimdak
+\ps n.
+\ge master of the house
+\lxd कक
+
+\lx khimbu
+\ps n.
+\ge spoon
+\lxd कक
+
+\lx khirkhir
+\ps adj.
+\ge circular
+\lxd कक
+
+\lx kho
+\ps pron.
+\ge he, it
+
+\lx kho
+\ps n.
+\ge liquid; juice
+\lxd कक
+
+\lx kho sopsop
+\ps adj.
+\ge juicy
+\lxd कक
+
+\lx khokkhok
+\ps adj.
+\ge curly (hair)
+\lxd कक
+
+\lx khokpa
+\ps n.
+\ge inner part of body
+
+\lx khokpa
+\ps n.
+\ge wound
+
+\lx khoksi
+\ps n.
+\ge testicles
+\lxd कक
+
+\lx khoŋ
+\ps pron.
+\ge he
+
+\lx khoŋ laŋ
+\ps v.
+\ge to be angry
+\lxd ख
+
+\lx khoŋɖo
+\ps adj.
+\ge angry
+
+\lx khonum
+\ps adv.
+\ge day before yesterday [Sama, cf. khadzaŋ]
+
+\lx khoraŋ
+\ps pron.
+\ge you
+
+\lx khoraŋ
+\ps pron.
+\ge they
+\lxd कक
+
+\lx khoroŋ
+\ps pron.
+\ge self
+
+\lx khortshen
+\ps n.
+\ge chilli
+\lxd कक
+
+\lx khorpa
+\ps n.
+\ge big sickle
+\lxd कक
+
+\lx khol
+\ps v.
+\ge to boil (intr.)
+\lxd कक
+
+\lx khol
+\ps n.
+\ge pocket
+\lxd कक
+
+\lx kholda
+\ps n.
+\ge strip (of bell of horse)
+\lxd कक
+
+\lx khu
+\ps v.
+\ge to be able
+
+\lx khuŋ
+\ps pron.
+\ge they
+
+\lx khuŋgja
+\ps pron.
+\ge they
+\lxd कक
+
+\lx khuŋtso
+\ps pron.
+\ge they
+
+\lx khuntso
+\ps pron.
+\ge they
+
+\lx khur
+\ps v.
+\ge to carry
+\lxd ख
+
+\lx khurpa
+\ps n.
+\ge porter
+\lxd ख
+
+\lx khurpu
+\ps n.
+\ge load
+
+\lx khø
+\ps pron.
+\ge you (2sg)
+
+\lx khja
+\ps n.
+\ge feeling cold
+
+\lx khjak
+\ps v.
+\ge to freeze (intr.)
+\lxd कक
+
+\lx khjaktsu
+\ps v.
+\ge to freeze (tran.)
+\lxd कक
+
+\lx khjaŋ
+\ps pron.
+\ge your
+\lxd कक
+
+\lx khjaŋgja
+\ps pron.
+\ge you (pl)
+\lxd कक
+
+\lx khjap
+\ps v.
+\ge to spread
+\lxd कक
+
+\lx khjam
+\ps v.
+\ge to go round; to visit
+\lxd कक
+
+\lx khjoka
+\ps n.
+\ge husband
+
+\lx khjoktoŋ
+\ps n.
+\ge young boy
+\lxd ख
+
+\lx ga
+\ps part.
+\ge particle (contrast)
+
+\lx ga
+\ps adj.
+\ge good
+
+\lx ga
+\ps adj.
+\ge happy
+
+\lx ga
+\ps n.
+\ge seat on the back of jak
+
+\lx ga
+\ps v.
+\ge to be stuck on neck
+\lxd कक
+
+\lx ga
+\ps v.
+\ge to stop (intr.)
+\lxd कक
+
+\lx gaŋ
+\ps n.
+\ge time
+
+\lx gaŋ
+\ps v.
+\ge to be full (intr.); to make full (tran.)
+\lxd कक
+
+\lx gaŋ
+\ps pron.
+\ge what (Tib.)
+
+\lx gaŋ
+\ps adv.
+\ge while
+
+\lx gaŋun
+\ps n.
+\ge old (aged)
+
+\lx gaŋtsen
+\ps n.
+\ge nice
+
+\lx gaŋpo
+\ps adj.
+\ge all (Tib.)
+
+\lx gaŋmantse
+\ps adj.
+\ge extreme
+
+\lx gaŋla
+\ps n.
+\ge time
+
+\lx gatsø 
+\ps adj.
+\ge how much [Tib., cf. maŋlø]
+
+\lx gadzin
+\ps adj.
+\ge much
+
+\lx gana
+\ps adv.
+\ge where [Lho, cf. gunta]
+
+\lx ganala
+\ps adv.
+\ge where
+
+\lx gane
+\ps adv.
+\ge how [Lho, cf. guntsu]
+
+\lx gante
+\ps adv.
+\ge how
+
+\lx gap
+\ps n.
+\ge Ghap (place name in Prok)
+
+\lx gapta
+\ps n.
+\ge buttock
+\lxd कक
+
+\lx gar
+\ps v.
+\ge to weigh
+\lxd कक
+
+\lx garok
+\ps n.
+\ge crow [Lho, cf. kharak]
+
+\lx garu
+\ps adv.
+\ge where [Samdo]
+
+\lx garu
+\ps adv.
+\ge wherever
+
+\lx gartse
+\ps n.
+\ge dance
+\lxd कक
+
+\lx garta taŋ
+\ps n.
+\ge fence
+\lxd कक
+
+\lx gala
+\ps n.
+\ge clothes [Sama, cf. golak]
+
+\lx gala
+\ps adv.
+\ge where [Samdo]
+
+\lx gale
+\ps adv.
+\ge slowly
+
+\lx galegale
+\ps adv.
+\ge hurriedly
+
+\lx galɖer
+\ps adj.
+\ge bald
+\lxd कक
+
+\lx gawa
+\ps n.
+\ge graycoloured soil
+
+\lx ge
+\ps num.
+\ge eight
+
+\lx ge
+\ps v.
+\ge to be split
+
+\lx geu
+\ps adv.
+\ge quickly
+\lxd कक
+
+\lx geŋun
+\ps n.
+\ge old man and woman
+
+\lx getʃu
+\ps num.
+\ge ninety
+\lxd कक
+
+\lx getʃugeʈuk
+\ps num.
+\ge eighty six
+
+\lx geɲuŋ
+\ps n.
+\ge aged people
+
+\lx gen
+\ps n.
+\ge upward slope
+\lxd ख
+
+\lx gerpa
+\ps n.
+\ge individual; private
+\lxd ख
+
+\lx gerpa
+\ps adj.
+\ge private
+
+\lx gel
+\ps v.
+\ge to fall
+
+\lx gel
+\ps v.
+\ge to fall
+
+\lx gele
+\ps adj.
+\ge slow
+
+\lx gewa
+\ps n.
+\ge religion
+
+\lx -gi
+\ps gram.
+\ge instrumental case
+
+\lx -gi
+\ps gram.
+\ge ergative case
+
+\lx giri 
+\ps adj.
+\ge all [Lho, cf. tʃapa]
+
+\lx girimiri
+\ps adj.
+\ge all
+
+\lx gila
+\ps n.
+\ge glass
+\lxd कक
+
+\lx go
+\ps n.
+\ge door
+
+\lx go
+\ps v.
+\ge to hear
+
+\lx go
+\ps v.
+\ge to need
+
+\lx goko
+\ps v.
+\ge to be enough
+
+\lx gokpo
+\ps adj.
+\ge bad
+
+\lx gõgõ
+\ps adv.
+\ge beginning [Sama, cf. goma]
+
+\lx goŋ
+\ps adj.
+\ge good [Sama, cf. hjama]
+
+\lx goŋo
+\ps adv.
+\ge at the first time
+
+\lx goŋmo
+\ps n.
+\ge evening
+
+\lx goŋlo
+\ps n.
+\ge year (Hon.)
+
+\lx gon
+\ps v.
+\ge to wear
+
+\lx goni
+\ps adv.
+\ge in the beginning
+
+\lx gopu
+\ps adj.
+\ge old; aged
+\lxd कक
+
+\lx gom
+\ps n.
+\ge addicted to tobacco, or any other things
+\lxd कक
+
+\lx gom
+\ps n.
+\ge meditation
+
+\lx goma 
+\ps adv.
+\ge in the beginning [Lho, cf. gõgõ]
+
+\lx gomani
+\ps adv.
+\ge firstly
+
+\lx gompa
+\ps n.
+\ge monastery
+
+\lx gomsi
+\ps n.
+\ge habit
+\lxd कक
+
+\lx gorom
+\ps n.
+\ge yard [Sama; cf. jolok]
+
+\lx gorum
+\ps n.
+\ge yard [Sama, cf. elok]
+
+\lx golak
+\ps n.
+\ge clothes [Lho, cf. gala]
+
+\lx golu
+\ps n.
+\ge song sung when men move from old house to new house
+\lxd कक
+
+\lx gu
+\ps num.
+\ge nine
+\lxd कक
+
+\lx gui
+\ps n.
+\ge forth day coming (in future, coming)
+\lxd कक
+
+\lx gukla
+\ps n.
+\ge corner
+\lxd कक
+
+\lx guŋmal
+\ps n.
+\ge beam for supporting rafter
+
+\lx guŋla
+\ps n.
+\ge middle
+
+\lx guduk 
+\ps adj.
+\ge different [Lho, Sama alak]
+
+\lx guntsu
+\ps adv.
+\ge how [Sama, cf. gane]
+
+\lx gunta
+\ps adv.
+\ge how [Sama, cf. gana]
+
+\lx gupkja
+\ps num.
+\ge ninety ninety
+
+\lx gur
+\ps n.
+\ge tent
+
+\lx guruŋ
+\ps n.
+\ge Gurung
+
+\lx gul
+\ps v.
+\ge to shake (intr.)
+
+\lx gul
+\ps v.
+\ge shake (tran.)
+\lxd कक
+
+\lx gul
+\ps v.
+\ge to move (intr., tran.)
+\lxd ख
+
+\lx gultsuk
+\ps v.
+\ge to shake (tran.)
+\lxd कक
+
+\lx gø
+\ps v.
+\ge to distribute
+\lxd ख
+
+\lx gønka
+\ps n.
+\ge winter
+\lxd ख
+
+\lx gja
+\ps num.
+\ge hundred
+\lxd ख
+
+\lx -gja
+\ps gram.
+\ge plural
+
+\lx gjak
+\ps n.
+\ge gate
+\lxd ख
+
+\lx gjakar
+\ps n.
+\ge India
+
+\lx gjako
+\ps n.
+\ge gate
+
+\lx gjakuŋ
+\ps adv.
+\ge back
+
+\lx gjakuŋ
+\ps adv.
+\ge behind
+\lxd कक
+
+\lx gjakuŋla
+\ps adv.
+\ge after that
+
+\lx gjaktse
+\ps adj.
+\ge many
+
+\lx gjakpa
+\ps adj.
+\ge fat
+\lxd कक
+
+\lx gjakʃo
+\ps adj.
+\ge fattest
+\lxd कक
+
+\lx gjago
+\ps n.
+\ge gate
+
+\lx gjatso
+\ps n.
+\ge Ghyacho (name of a man)
+
+\lx gjatʃu
+\ps num.
+\ge eighty
+
+\lx gjatʃugjaɲi
+\ps num.
+\ge eighty two
+
+\lx gjanak
+\ps n.
+\ge China
+\lxd कक
+
+\lx gjap
+\ps v.
+\ge to fix (a tent)
+
+\lx gjap
+\ps v.
+\ge to build
+
+\lx gjap
+\ps v.
+\ge to drive away
+\lxd कक
+
+\lx gjap
+\ps v.
+\ge to hit
+\lxd कक
+
+\lx gjaptsa gjap
+\ps v.
+\ge to hold each other
+\lxd कक
+
+\lx gjaptso
+\ps n.
+\ge ocean
+\lxd कक
+
+\lx gjapla
+\ps post.
+\ge behind
+
+\lx gjabre
+\ps n.
+\ge buckwheat
+\lxd कक
+
+\lx gjami
+\ps n.
+\ge Chinese
+
+\lx gjamtso
+\ps n.
+\ge ocean
+
+\lx gjaram
+\ps n.
+\ge located in cross position
+
+\lx gjal
+\ps v.
+\ge to fall
+\lxd कक
+
+\lx gjaliŋ
+\ps n.
+\ge small flute-like musical instrument a lama plays
+
+\lx gjalkap
+\ps n.
+\ge country
+
+\lx gjaltsa
+\ps adv.
+\ge here and there
+\lxd कक
+
+\lx gjaltsagjap
+\ps v.
+\ge to hold each other
+
+\lx gjaltsen
+\ps n.
+\ge name of a male person
+\lxd कक
+
+\lx gjaltsuk
+\ps v.
+\ge to make fall; to let fall
+\lxd कक
+
+\lx gjaltaŋ
+\ps n.
+\ge bird (of a kind)
+\lxd कक
+
+\lx gjalbo
+\ps n.
+\ge king
+
+\lx gjawa riŋpur
+\ps n.
+\ge Dalai Lama
+\lxd कक
+
+\lx gjawarimportshe
+\ps n.
+\ge Dalai Lama
+
+\lx gjãs
+\ps n.
+\ge gas
+
+\lx gjaʃugjaɲi
+\ps num.
+\ge eighty two
+
+\lx gjowú
+\ps adv.
+\ge quickly
+\lxd कक
+
+\lx gju
+\ps n.
+\ge property
+
+\lx gju
+\ps n.
+\ge property inherited from parents
+\lxd कक
+
+\lx gjuk
+\ps v.
+\ge to run
+
+\lx gjuken
+\ps n.
+\ge cause and effect
+
+\lx gjukpa
+\ps n.
+\ge stick
+\lxd कक
+
+\lx gjur
+\ps v.
+\ge to become
+
+\lx gjurwa
+\ps v.
+\ge to change
+\lxd कक
+
+\lx ŋa
+\ps pron.
+\ge I
+
+\lx ŋaŋtso
+\ps pron.
+\ge we
+\lxd कक
+
+\lx ŋaɲaŋ
+\ps adv.
+\ge early morning
+\lxd कक
+
+\lx ŋantso
+\ps pron.
+\ge we (Tib.)
+
+\lx ŋande
+\ps adv.
+\ge early
+
+\lx ŋanso
+\ps n.
+\ge resting place
+\lxd कक
+
+\lx ŋaptʃu
+\ps num.
+\ge fifty
+
+\lx ŋama
+\ps adv.
+\ge before
+
+\lx ŋamaŋame
+\ps adv.
+\ge long long ago
+\lxd ककक
+
+\lx ŋamɲum
+\ps n.
+\ge experience
+
+\lx ŋaraŋ
+\ps pron.
+\ge self
+
+\lx ŋaro
+\ps adv.
+\ge tomorrow
+\lxd ककक
+
+\lx ŋarkel
+\ps adj.
+\ge obstinate
+\lxd ककक
+
+\lx ŋarkjal
+\ps adj.
+\ge insistent
+
+\lx ŋarpa
+\ps n.
+\ge hard working man
+
+\lx ŋarme
+\ps adv.
+\ge forcefully
+
+\lx ŋarmo
+\ps adj.
+\ge sweet
+\lxd कक
+
+\lx ŋala
+\ps adj.
+\ge first; before
+\lxd कक
+
+\lx ŋalo
+\ps adv.
+\ge what time (early)
+
+\lx ŋaʃo
+\ps num.
+\ge first
+\lxd कक
+
+\lx ŋá
+\ps num.
+\ge five
+\lxd कक
+
+\lx ŋá
+\ps n.
+\ge drum
+\lxd कक
+
+\lx ŋe
+\ps pron.
+\ge we
+
+\lx ŋeki gompa
+\ps n.
+\ge Ngeki monastery (Nagarjuna in Kathmandu)
+\lxd कक
+
+\lx ŋeko
+\ps n.
+\ge pillow
+\lxd कक
+
+\lx ŋego
+\ps n.
+\ge pillow
+\lxd कक
+
+\lx ŋeŋe
+\ps adj.
+\ge rather little[Sama, cf. tsatsa]
+
+\lx ŋetʃik
+\ps adv.
+\ge little [Lho, cf. ŋeŋe]
+
+\lx ŋema
+\ps adv.
+\ge before
+
+\lx ŋemadiki
+\ps n.
+\ge Ngemadiki (name of a girl)
+
+\lx ŋemo
+\ps adv.
+\ge near
+
+\lx ŋempa
+\ps adj.
+\ge bad
+
+\lx ŋewa rere
+\ps adv.
+\ge everyday
+\lxd कक
+
+\lx ŋéŋé
+\ps adj.
+\ge little
+\lxd कक
+
+\lx ŋi
+\ps pron.
+\ge we
+
+\lx ŋigja
+\ps pron.
+\ge we
+\lxd कक
+
+\lx ŋimeŋime
+\ps adv.
+\ge forcefully
+
+\lx ŋo
+\ps v.
+\ge to recognize
+
+\lx ŋo seken
+\ps n.
+\ge identification
+\lxd कक
+
+\lx ŋokar
+\ps adj.
+\ge light blue
+\lxd कक
+
+\lx ŋotsha
+\ps n.
+\ge shy
+\lxd कक
+
+\lx ŋotok
+\ps adj.
+\ge real
+
+\lx ŋotok
+\ps adv.
+\ge in reality
+
+\lx ŋotok
+\ps adv.
+\ge extremely
+\lxd कक
+
+\lx ŋonpo
+\ps adj.
+\ge blue (Tib.)
+\lxd कक
+
+\lx ŋoma
+\ps adv.
+\ge before
+
+\lx ŋombu
+\ps adj.
+\ge blue
+\lxd कक
+
+\lx ŋola
+\ps adv.
+\ge before; in front of
+\lxd कक
+
+\lx ŋui
+\ps v.
+\ge to weep
+\lxd कक
+
+\lx ŋuitsuk
+\ps v.
+\ge to make weep
+\lxd कक
+
+\lx ŋuma
+\ps adv.
+\ge before
+
+\lx ŋul
+\ps n.
+\ge silver
+\lxd कक
+
+\lx ŋul
+\ps n.
+\ge money
+\lxd कक
+
+\lx ŋulnak
+\ps n.
+\ge sweat
+\lxd ख
+
+\lx ŋø
+\ps v.
+\ge to fry
+\lxd कक
+
+\lx ŋápa
+\ps num.
+\ge fifth
+\lxd कक
+
+\lx tsa
+\ps n.
+\ge vein
+\lxd कक
+
+\lx tsa
+\ps n.
+\ge root
+\lxd कक
+
+\lx tsa
+\ps n.
+\ge grass
+\lxd कक
+
+\lx tsau
+\ps n.
+\ge basket
+\lxd कक
+
+\lx tsakatsiki
+\ps adj.
+\ge light (not serious)
+
+\lx tsaksum
+\ps num.
+\ge twenty three
+
+\lx tsaŋbre
+\ps n.
+\ge lizard
+\lxd कक
+
+\lx tsaŋma
+\ps adj.
+\ge clean
+
+\lx tsaŋma
+\ps adj.
+\ge pure (untouched)
+\lxd कक
+
+\lx tsatsa 
+\ps adj.
+\ge ratjer little [Sama, cf. ŋeŋe]
+
+\lx tsaɲi
+\ps num.
+\ge twenty
+
+\lx tsadokju
+\ps n.
+\ge curse; abusive expression
+
+\lx tsabu
+\ps n.
+\ge grasshopper
+\lxd कक
+
+\lx tsamɖa
+\ps adj.
+\ge like
+
+\lx tsampa
+\ps n.
+\ge flour [Nubri, cf. phe]
+
+\lx tsal
+\ps v.
+\ge to search
+
+\lx tsala
+\ps v.
+\ge to sift
+\lxd ख
+
+\lx tse
+\ps v.
+\ge play
+
+\lx tse
+\ps n.
+\ge front part of panis
+
+\lx tseõ
+\ps n.
+\ge tongue
+\lxd ख
+
+\lx tsen
+\ps n.
+\ge place where people live (in contrast to the place where god and
+snake god lives)
+
+\lx tsepo
+\ps n.
+\ge basket (made of bamboo strips)
+\lxd 
+
+\lx tsema 
+\ps adj.
+\ge less
+
+\lx tsema
+\ps adj.
+\ge young, youth
+\lxd ख
+
+\lx tsemʃel
+\ps n.
+\ge eyeglass (Hon)
+
+\lx tsẽresi
+\ps n.
+\ge Cherensi God
+
+\lx tselak
+\ps n.
+\ge pot
+\lxd ख
+
+\lx tsesa
+\ps n.
+\ge playground
+\lxd ख
+
+\lx tsĩ
+\ps part.
+\ge particle (right)
+
+\lx tsi
+\ps v.
+\ge to calculate; to count
+
+\lx tsi
+\ps n.
+\ge mathematics
+\lxd कक
+
+\lx tsia
+\ps adv.
+\ge also
+\lxd कक
+
+\lx tsia
+\ps adj.
+\ge some
+
+\lx tsikden
+\ps n.
+\ge normal life
+
+\lx tsikpa
+\ps n.
+\ge wall
+
+\lx tsikja
+\ps n.
+\ge foreigner
+\lxd कक
+
+\lx tsitaŋtsime
+\ps adv.
+\ge very much
+
+\lx tsitamtʃi
+\ps pron.
+\ge anything
+
+\lx tsitoŋ taŋ
+\ps v.
+\ge to calculate
+\lxd कक
+
+\lx tsiduŋ
+\ps n.
+\ge calculation
+
+\lx tsilo
+\ps excl.
+\ge what (used in the conversation when one is confused)
+
+\lx tso
+\ps adj.
+\ge important; main
+
+\lx tsoktsok
+\ps n.
+\ge straight up (while sitting)
+\lxd ख
+
+\lx tsoŋkhaŋ
+\ps n.
+\ge prison
+\lxd ख
+
+\lx tsotso 
+\ps adj.
+\ge like (resembling) [Sama, cf. tʃamɖa]
+
+\lx tsomdendja
+\ps n.
+\ge Lord Buddha
+
+\lx tsompa
+\ps n.
+\ge prisoner
+
+\lx tsol
+\ps v.
+\ge to believe
+
+\lx tsu
+\ps v.
+\ge to plant small plant
+
+\lx tsuk
+\ps v.
+\ge to allow
+
+\lx tsupin
+\ps n.
+\ge crest
+\lxd कक
+
+\lx tsum
+\ps n.
+\ge Tsum valley
+
+\lx tsø
+\ps v.
+\ge to cook
+
+\lx tsøŋkhaŋ
+\ps n.
+\ge prison
+
+\lx tsøsa
+\ps n.
+\ge pot for cooking
+\lxd ख
+
+\lx tsha
+\ps n.
+\ge salt
+
+\lx tsha
+\ps n.
+\ge fever
+\lxd ख
+
+\lx tsha garpa 
+\ps adj.
+\ge with more salt
+\lxd ख
+
+\lx tshãu
+\ps n.
+\ge granddaughter
+\lxd ख
+
+\lx tshaũ
+\ps n.
+\ge nephew
+
+\lx tshau
+\ps n.
+\ge grandson\
+\lxd ख
+
+\lx tshak
+\ps v.
+\ge to become
+
+\lx tshak
+\ps n.
+\ge Chak village in Nubri
+\lxd ख
+
+\lx tshaŋ
+\ps v.
+\ge to be enough
+
+\lx tshaŋ
+\ps n.
+\ge nest
+\lxd ख
+
+\lx tshaŋma
+\ps adj.
+\ge all (Tib.)
+
+\lx tshaŋre
+\ps n.
+\ge attendence
+
+\lx tshaŋsaŋmo
+\ps n.
+\ge Chhangsangmo (name of a female person)
+
+\lx tshaɲi
+\ps n.
+\ge meaning
+\lxd ख
+
+\lx tshane
+\ps adj.
+\ge hot
+\lxd ख
+
+\lx tshande
+\ps adj.
+\ge hot
+\lxd ख
+
+\lx tshamo
+\ps n.
+\ge night
+\lxd ख
+
+\lx tshamtsham
+\ps adv.
+\ge sometimes
+\lxd ख
+
+\lx tshar
+\ps v.
+\ge to grow (intr.)
+\lxd ख
+
+\lx tshariktsen
+\ps n.
+\ge Chharikchen (name of a male person)
+
+\lx tshartsuk
+\ps v.
+\ge to grow (tr.)
+\lxd ख
+
+\lx tshe
+\ps n.
+\ge vegetable
+\lxd ख
+
+\lx tsheta
+\ps n.
+\ge traditional mill
+\lxd ख
+
+\lx tshedu
+\ps post.
+\ge for [Tib.]
+\lxd ख
+
+\lx tshen
+\ps n.
+\ge night
+
+\lx tshen rikpa
+\ps n.
+\ge scientist
+\lxd ख
+
+\lx tshepa
+\ps n.
+\ge date
+
+\lx tshema
+\ps n.
+\ge debate
+
+\lx tsher
+\ps n.
+\ge semi-liquid substance when the whey is boiled and changes into
+solid while making cheese
+\lxd ख
+
+\lx tsher
+\ps n.
+\ge feeling of sadness or unhappiness
+\lxd ख
+
+\lx tsher lu
+\ps n.
+\ge song which is sung one someone is sad
+\lxd ख
+
+\lx tsheraŋ
+\ps n.
+\ge auspicious moment
+\lxd ख
+
+\lx tsherikpa
+\ps n.
+\ge scientist
+
+\lx tsherma
+\ps n.
+\ge thorn
+\lxd ख
+
+\lx tshewaŋgjurme
+\ps n.
+\ge Tsewanggurme
+
+\lx tshewaŋtsheʈup
+\ps n.
+\ge worship (name of a worship)
+
+\lx tsheʃo
+\ps adj.
+\ge first born
+\lxd ख
+
+\lx tsheʃo
+\ps adj.
+\ge oldest
+\lxd ख
+
+\lx tshi
+\ps n.
+\ge joint
+\lxd ख
+
+\lx tshi gjamdzo
+\ps n.
+\ge ocean
+\lxd ख
+
+\lx tshik
+\ps v.
+\ge to burn
+\lxd ख
+
+\lx tshikja
+\ps n.
+\ge foreign country
+
+\lx tshiŋtshøʈen
+\ps n.
+\ge Chinchyoten
+
+\lx tshitu
+\ps post.
+\ge for
+
+\lx tshidok
+\ps n.
+\ge knuckle
+\lxd ख
+
+\lx tshipta
+\ps n.
+\ge horse (Hon)
+\lxd ख
+
+\lx tshimu
+\ps n.
+\ge night
+
+\lx tshimpo
+\ps adj.
+\ge big
+
+\lx tshimpo
+\ps adj.
+\ge first born, eldest
+\lxd ख
+
+\lx tshiriŋ
+\ps n.
+\ge Tshiring (name of a person)
+
+\lx tshiriŋtshøʈen
+\ps n.
+\ge Chiring Choeten (name of a person)
+
+\lx tshiriŋnamgjal
+\ps n.
+\ge Chhiring Namgyal (name of a person)
+
+\lx tshila
+\ps adv.
+\ge later
+
+\lx tshiso
+\ps adv.
+\ge later
+
+\lx tshiʃo
+\ps adj.
+\ge heaviest [Sama, cf. tʃaʃo]
+
+\lx tsho
+\ps v.
+\ge to ripen; to be cooked
+\lxd कक
+
+\lx tshok
+\ps adv.
+\ge towards
+
+\lx tshokaŋ gompa
+\ps n.
+\ge Chokang gompa [PN]
+\lxd ख
+
+\lx tshokpa
+\ps adv.
+\ge above
+
+\lx tshokpa
+\ps n.
+\ge group; organization
+
+\lx tshokla
+\ps adv.
+\ge on that side
+
+\lx tshokla
+\ps adv.
+\ge towards
+\lxd कक
+
+\lx tshokliŋ
+\ps n.
+\ge Chokling (name of a lama)
+
+\lx tshokliŋ rimburthse
+\ps n.
+\ge Tshokling Rimborthse (a lama)
+\lxd ख
+
+\lx tshoŋ
+\ps v.
+\ge to sell
+\lxd ख
+
+\lx tshoŋkhaŋ
+\ps n.
+\ge shop
+\lxd ख
+
+\lx tshoŋpa
+\ps n.
+\ge seller
+\lxd ख
+
+\lx tshoɖik
+\ps v.
+\ge fulfilled
+
+\lx tshomiɖik
+\ps adj.
+\ge not fulfilled
+
+\lx tshor
+\ps n.
+\ge knowledge
+
+\lx tshor
+\ps v.
+\ge to feel
+
+\lx tshorten
+\ps n.
+\ge stupa
+
+\lx tshorwa
+\ps n.
+\ge feeling
+
+\lx tshorwa
+\ps n.
+\ge experience
+\lxd ख
+
+\lx tshu
+\ps adv.
+\ge here
+
+\lx tshu
+\ps adv.
+\ge this side
+
+\lx tshuŋtshuŋ
+\ps adv.
+\ge while being young
+
+\lx tshurtap
+\ps adv.
+\ge from there
+
+\lx tshurtap
+\ps adv.
+\ge after that
+\lxd ख
+
+\lx tshurpe
+\ps n.
+\ge cheese
+
+\lx tshula
+\ps adv.
+\ge this side
+\lxd कक
+
+\lx tshuluŋ
+\ps n.
+\ge irrigation-channel
+
+\lx tshø
+\ps v.
+\ge graze
+\lxd ख
+
+\lx tʃa
+\ps n.
+\ge iron
+\lxd कक
+
+\lx tʃak
+\ps v.
+\ge to break (tr.)
+\lxd कक
+
+\lx tʃakar
+\ps n.
+\ge tin
+
+\lx tʃaktsen
+\ps n.
+\ge whip
+\lxd कक
+
+\lx tʃaŋ
+\ps pron.
+\ge any
+
+\lx tʃaŋ
+\ps v.
+\ge to hang (tran.)
+\lxd कक
+
+\lx tʃaŋbo
+\ps adj.
+\ge clever
+\lxd कक
+
+\lx tʃaŋʃo
+\ps adj.
+\ge cleverest
+\lxd कक
+
+\lx tʃana
+\ps part.
+\ge particle (doubt)
+
+\lx tʃande 
+\ps adj.
+\ge heavy [Lho, cf. tʃøtʃø]
+\lxd कक
+
+\lx tʃapa
+\ps adj.
+\ge all [Sama, cf. giri]
+
+\lx tʃapke
+\ps num.
+\ge eighteen
+
+\lx tʃapta 
+\ps adj.
+\ge all [Sama, cf. dʒeptak]
+
+\lx tʃaptali
+\ps adj.
+\ge all
+\lxd कक
+
+\lx tʃamʈa
+\ps adj.
+\ge similar (resembling) [Lho, cf. tsotso]
+
+\lx tʃamɖa
+\ps adj.
+\ge like
+\lxd ख
+
+\lx tʃar
+\ps v.
+\ge to attend
+\lxd कक
+
+\lx tʃaʃo
+\ps adj.
+\ge heaviest [Lho, cf. tshiʃo]
+\lxd कक
+
+\lx tʃen
+\ps n.
+\ge eye (Hon.)
+\lxd कक
+
+\lx tʃema
+\ps adj.
+\ge small
+\lxd ख
+
+\lx tʃelak
+\ps n.
+\ge thing
+
+\lx tʃi
+\ps pron.
+\ge what
+
+\lx tʃi
+\ps v.
+\ge to build wall
+
+\lx tʃiã
+\ps pron.
+\ge any
+
+\lx tʃik
+\ps num.
+\ge one
+
+\lx tʃiktaŋ
+\ps adv.
+\ge actually
+\lxd ख
+
+\lx tʃikpe
+\ps adj.
+\ge lonely
+
+\lx tʃikpetʃik
+\ps adv.
+\ge alone
+\lxd कक
+
+\lx tʃikpo
+\ps pron.
+\ge something [Tib.]
+
+\lx tʃikra
+\ps pron.
+\ge something
+\lxd कक
+
+\lx tʃini
+\ps pron.
+\ge what
+
+\lx tʃiruk
+\ps num.
+\ge sixteen
+
+\lx tʃilo
+\ps excl.
+\ge what else?
+
+\lx tʃoŋa
+\ps num.
+\ge fifteen
+
+\lx tʃotʃo 
+\ps adj.
+\ge like that [Sama, cf. ɖanɖa]
+
+\lx tʃotʃomama
+\ps n.
+\ge noise
+
+\lx tʃu
+\ps num.
+\ge ten
+
+\lx tʃukputʃik
+\ps adj.
+\ge alone only
+
+\lx tʃukʃi
+\ps num.
+\ge fourteen
+\lxd कक
+
+\lx tʃuŋwa
+\ps num.
+\ge smaller
+\lxd कक
+
+\lx tʃuŋʃo
+\ps adj.
+\ge smallest
+\lxd कक
+
+\lx tʃutʃik
+\ps num.
+\ge eleven
+\lxd कक
+
+\lx tʃuɲi
+\ps num.
+\ge twelve
+\lxd कक
+
+\lx tʃuʈuk
+\ps num.
+\ge sixteen
+\lxd कक
+
+\lx tʃupa
+\ps num.
+\ge tenth
+
+\lx tʃupke
+\ps num.
+\ge eighteen
+\lxd कक
+
+\lx tʃupdʏn
+\ps num.
+\ge seventeen
+
+\lx tʃupsum
+\ps num.
+\ge thirteen
+\lxd कक
+
+\lx tʃupʃi
+\ps num.
+\ge fourteen
+
+\lx tʃurku
+\ps num.
+\ge nineteen
+\lxd कक
+
+\lx tʃʏden
+\ps n.
+\ge blanket or shawl woven mainly for children to sleep, or for them to
+carry, or to keep them warm
+\lxd ख
+
+\lx tʃø
+\ps n.
+\ge correction
+
+\lx tʃø
+\ps v.
+\ge to examine
+\lxd ख
+
+\lx tʃøtʃø
+\ps adj.
+\ge heavy [Lho, cf. tʃamda]
+\lxd कक
+
+\lx tʃweŋa
+\ps num.
+\ge fifteen
+
+\lx tʃha
+\ps v.
+\ge to settle
+
+\lx tʃha
+\ps v.
+\ge to become
+
+\lx tʃhak
+\ps v.
+\ge to break (intr.)
+
+\lx tʃhak
+\ps n.
+\ge fodder
+
+\lx tʃhak
+\ps n.
+\ge side
+
+\lx tʃhak
+\ps n.
+\ge action of bowing down
+
+\lx tʃhak
+\ps v.
+\ge to break (tran.)
+\lxd कक
+
+\lx tʃhak
+\ps n.
+\ge hand (Hon.)
+\lxd कक
+
+\lx tʃhak
+\ps n.
+\ge Cha (name of a place)
+
+\lx tʃhaktʃhopara
+\ps n.
+\ge worship
+
+\lx tʃhakrap
+\ps adj.
+\ge civilized
+
+\lx tʃhakla
+\ps adv.
+\ge side
+\lxd कक
+
+\lx tʃhãkhi
+\ps n.
+\ge three-legged iron stand in oven
+\lxd कक
+
+\lx tʃhaŋ
+\ps n.
+\ge brewd liquor
+\lxd कक
+
+\lx tʃhaŋ lu
+\ps n.
+\ge song sung during drink (liquor)
+\lxd कक
+
+\lx tʃhatsaŋ
+\ps adj.
+\ge all (Tib.)
+
+\lx tʃhadaŋ
+\ps n.
+\ge name of a place
+
+\lx tʃhap
+\ps n.
+\ge water (Hon.)
+\lxd कक
+
+\lx tʃhapteli 
+\ps post.
+\ge together (Lho, ɲumbu]
+
+\lx tʃhamthale
+\ps n.
+\ge together
+
+\lx tʃharsi
+\ps n.
+\ge plan
+\lxd कक
+
+\lx tʃhala
+\ps adv.
+\ge together
+\lxd ख
+
+\lx tʃhewaŋ
+\ps n.
+\ge life empower ceremony
+\lxd कक
+
+\lx tʃhi
+\ps n.
+\ge urine
+\lxd कक
+
+\lx tʃhi taŋ
+\ps v.
+\ge to urinate
+\lxd कक
+
+\lx tʃhikja
+\ps n.
+\ge abroad
+\lxd कक
+
+\lx tʃho
+\ps n.
+\ge saliva; spit
+\lxd कक
+
+\lx tʃhoeɖen
+\ps n.
+\ge Choeden (name of a female person)
+
+\lx tʃhoikel
+\ps n.
+\ge Choekel (name of a male person)
+
+\lx tʃhoŋ
+\ps v.
+\ge to jump
+
+\lx tʃhu
+\ps n.
+\ge water
+
+\lx tʃhu luŋba
+\ps n.
+\ge water-channel
+
+\lx tʃhu silpa
+\ps n.
+\ge dew
+\lxd कक
+
+\lx tʃhutse
+\ps n.
+\ge time
+
+\lx tʃhupdʏn
+\ps num.
+\ge seventeen
+\lxd कक
+
+\lx tʃhula
+\ps post.
+\ge from
+\lxd कक
+
+\lx tʃhø
+\ps n.
+\ge worship
+
+\lx tʃhø
+\ps n.
+\ge book
+
+\lx tʃhø
+\ps v.
+\ge to eat
+\lxd कक
+
+\lx tʃhøkaŋ
+\ps n.
+\ge worship room
+\lxd कक
+
+\lx tʃhøkaŋ gompa
+\ps n.
+\ge Choekang gompa (in Tsum)
+\lxd कक
+
+\lx tʃhøtse
+\ps n.
+\ge clock
+\lxd ख
+
+\lx tʃhøtswe
+\ps n.
+\ge time; watch
+
+\lx tʃhøɖal
+\ps n.
+\ge alter
+\lxd कक
+
+\lx tʃhønɖal
+\ps n.
+\ge worship things
+\lxd ख
+
+\lx tʃhøpa
+\ps n.
+\ge religious offering
+\lxd कक
+
+\lx tʃhøpa
+\ps n.
+\ge guess
+\lxd कक
+
+\lx tʃhøme
+\ps n.
+\ge lamp for god
+\lxd कक
+
+\lx tʃhølu
+\ps n.
+\ge religion
+
+\lx dza
+\ps v.
+\ge to climb
+
+\lx dzaŋ
+\ps v.
+\ge to send; to keep
+\lxd ख
+
+\lx dzaŋboliŋ
+\ps n.
+\ge earth
+\lxd कक
+
+\lx dzar
+\ps v.
+\ge to bowl to offer water
+
+\lx dzar
+\ps v.
+\ge to use medicine wound; to use ice to cool down the feeling of burning
+
+\lx dzar
+\ps v.
+\ge to drop
+\lxd कक
+
+\lx dzar
+\ps v.
+\ge to fall
+\lxd ख
+
+\lx dzar
+\ps v.
+\ge to fall
+
+\lx dzaroŋ
+\ps n.
+\ge place covered with stones
+
+\lx dzartsuk
+\ps v.
+\ge to make fall
+\lxd ककक
+
+\lx dzawa
+\ps v.
+\ge to think something worthless
+
+\lx dze
+\ps v.
+\ge to do
+\lxd कक
+
+\lx dze
+\ps n.
+\ge leprosy
+\lxd कक
+
+\lx dze
+\ps v.
+\ge to become
+
+\lx dzea
+\ps n.
+\ge cow dung
+\lxd कक
+
+\lx dzema
+\ps adv.
+\ge later
+
+\lx dzela
+\ps adv.
+\ge later
+\lxd कक
+
+\lx dzela
+\ps adv.
+\ge later
+
+\lx dzeli
+\ps n.
+\ge vagina
+\lxd कक
+
+\lx dzĩ
+\ps part.
+\ge particle (you know?)
+
+\lx dzi
+\ps v.
+\ge to knead
+
+\lx dzia
+\ps conj.
+\ge either
+
+\lx dziŋba
+\ps n.
+\ge neck
+\lxd कक
+
+\lx dzine
+\ps conj.
+\ge because
+
+\lx dzindak
+\ps n.
+\ge sponser
+\lxd कक
+
+\lx dzinlap
+\ps n.
+\ge blessing
+\lxd कक
+
+\lx dzinlap
+\ps n.
+\ge gratitude; blessing
+\lxd कक
+
+\lx dzipura
+\ps adv.
+\ge around
+
+\lx dzimba
+\ps adj.
+\ge not ripe
+\lxd कक
+
+\lx dzo
+\ps v.
+\ge to finish
+
+\lx dzoko
+\ps adv.
+\ge now
+
+\lx dzokotali
+\ps adv.
+\ge immediately
+\lxd कक
+
+\lx dzor
+\ps v.
+\ge to find
+\lxd कक
+
+\lx dzu
+\ps n.
+\ge udder; breast
+\lxd कक
+
+\lx dzuku
+\ps n.
+\ge finger
+\lxd कक
+
+\lx dzuku tali
+\ps adv.
+\ge just now
+\lxd कक
+
+\lx -dzuŋ
+\ps gram.
+\ge past tense marker
+
+\lx dzuŋwa
+\ps adj.
+\ge natural
+
+\lx dzun
+\ps adj.
+\ge false
+\lxd कक
+
+\lx dzungarpe
+\ps n.
+\ge person who tell lies
+\lxd कक
+
+\lx dzunse
+\ps v.
+\ge to tell a lie
+\lxd कक
+
+\lx dzupu
+\ps n.
+\ge store room
+
+\lx dzurma
+\ps adj.
+\ge naked
+\lxd कक
+
+\lx dzø
+\ps adj.
+\ge approximately
+\lxd कक
+
+\lx dzøn
+\ps v.
+\ge to be able
+
+\lx dʒa
+\ps n.
+\ge Tibetan tea
+
+\lx dʒa
+\ps n.
+\ge tea
+\lxd कक
+
+\lx dʒau
+\ps n.
+\ge rooster
+\lxd ख
+
+\lx dʒaŋ
+\ps n.
+\ge to learn
+\lxd कक
+
+\lx dʒaŋ
+\ps adj.
+\ge north
+\lxd कक
+
+\lx dʒaŋkhu
+\ps adj.
+\ge green
+\lxd कक
+
+\lx dʒaŋgu
+\ps adj.
+\ge green
+\lxd कक
+
+\lx dʒaptse
+\ps n.
+\ge scissors
+\lxd कक
+
+\lx dʒaptse
+\ps v.
+\ge to be torn
+\lxd कक
+
+\lx dʒampo
+\ps adj.
+\ge soft
+\lxd कक
+
+\lx dʒambal
+\ps n.
+\ge Jyambal (name of a male person)
+
+\lx dʒar
+\ps v.
+\ge to attach
+
+\lx dʒar
+\ps v.
+\ge to get
+
+\lx dʒar
+\ps v.
+\ge to connect
+\lxd कक
+
+\lx dʒarko
+\ps n.
+\ge eagle
+\lxd कक
+
+\lx dʒal
+\ps v.
+\ge to meet (Hon.)
+\lxd कक
+
+\lx dʒalka
+\ps v.
+\ge to take audience of lama
+
+\lx dʒasaŋ
+\ps n.
+\ge nest
+\lxd कक
+
+\lx dʒeptak 
+\ps adj.
+\ge all [Lho, cf. tʃapta]
+
+\lx dʒi
+\ps v.
+\ge to be afraid
+
+\lx dʒi
+\ps v.
+\ge to make afraid
+\lxd कक
+
+\lx dʒisuk garpa
+\ps adj.
+\ge coward
+\lxd कक
+
+\lx dʒõ
+\ps n.
+\ge hen
+\lxd ख
+
+\lx dʒo
+\ps v.
+\ge to sweep
+\lxd ख
+
+\lx dʒoŋ
+\ps n.
+\ge hen
+\lxd कक
+
+\lx dʒolmo
+\ps n.
+\ge a kind of bird
+\lxd कक
+
+\lx dʒuŋ
+\ps v.
+\ge to get
+
+\lx dʒupa
+\ps adj.
+\ge slim; thin
+\lxd कक
+
+\lx dʒur
+\ps post.
+\ge together
+
+\lx dʒur
+\ps v.
+\ge to gather
+\lxd कक
+
+\lx ɲa
+\ps adv.
+\ge above [Lho]
+
+\lx ɲa
+\ps n.
+\ge fish
+\lxd कक
+
+\lx ɲa
+\ps adv.
+\ge above
+\lxd कक
+
+\lx ɲak
+\ps n.
+\ge Ngyakphedi (a place in Sirdibas)
+\lxd कक
+
+\lx ɲakɖepa
+\ps n.
+\ge person who eats much
+\lxd कक
+
+\lx ɲaklaŋ
+\ps n.
+\ge back and shoulder (body part)
+\lxd कक
+
+\lx ɲaŋ
+\ps v.
+\ge to get hardship (suffering)
+\lxd ककक
+
+\lx ɲabri
+\ps n.
+\ge calf (leg)
+\lxd कक
+
+\lx ɲama
+\ps adv.
+\ge above [Lho]
+
+\lx ɲama
+\ps adv.
+\ge from above [Lho]
+
+\lx ɲamdzuŋ
+\ps adj.
+\ge simple; straightforward
+\lxd ककक
+
+\lx ɲamɲum
+\ps n.
+\ge experience
+
+\lx ɲamdo
+\ps post.
+\ge together [Tib]
+
+\lx ɲambu ɲambu
+\ps post.
+\ge together
+\lxd कक
+
+\lx ɲal
+\ps v.
+\ge to sleep
+
+\lx ɲala
+\ps adv.
+\ge above
+
+\lx ɲalu
+\ps n.
+\ge bastard child
+\lxd ककक
+
+\lx ɲaltsuk
+\ps v.
+\ge to make one sleep
+\lxd ककक
+
+\lx ɲalʈhi
+\ps n.
+\ge cot
+\lxd कक
+
+\lx ɲaltaŋ
+\ps n.
+\ge persons born in the same year
+\lxd ककक
+
+\lx ɲaldaŋ
+\ps n.
+\ge person born in the same year
+
+\lx ɲalʃiŋ
+\ps n.
+\ge cane splinters
+\lxd कक
+
+\lx ɲawa
+\ps n.
+\ge hell
+
+\lx ɲaʃiŋ
+\ps n.
+\ge yoke
+\lxd कक
+
+\lx ɲeko
+\ps n.
+\ge quilt
+\lxd ख
+
+\lx ɲen
+\ps n.
+\ge ear (Hon.)
+\lxd कक
+
+\lx ɲenpur
+\ps n.
+\ge abscess
+\lxd कक
+
+\lx ɲelko
+\ps n.
+\ge pillow
+\lxd कक
+
+\lx ɲé
+\ps v.
+\ge to beat
+\lxd कक
+
+\lx ɲi
+\ps num.
+\ge two
+
+\lx ɲi
+\ps n.
+\ge sleep
+
+\lx ɲi ʈø
+\ps v.
+\ge to get sleep; to feel asleep
+
+\lx ɲikar
+\ps num.
+\ge both
+
+\lx ɲiŋ
+\ps n.
+\ge heart
+
+\lx ɲiŋkuŋ
+\ps adv.
+\ge afternoon
+\lxd कक
+
+\lx ɲiŋba
+\ps adj.
+\ge old
+
+\lx ɲitʃé
+\ps v.
+\ge to wake up (intr., tran.)
+\lxd कक
+
+\lx ɲin
+\ps n.
+\ge day
+
+\lx ɲima
+\ps n.
+\ge day
+
+\lx ɲima
+\ps adv.
+\ge before
+
+\lx ɲimu
+\ps n.
+\ge afternoon
+
+\lx ɲimbu
+\ps post.
+\ge with
+\lxd ??
+
+\lx ɲimbu
+\ps adv.
+\ge along
+\lxd ख
+
+\lx ɲija
+\ps pron.
+\ge we
+
+\lx ɲiraŋ
+\ps pron.
+\ge we
+\lxd कक
+
+\lx ɲisor
+\ps v.
+\ge to fall in light sleep as one rests
+
+\lx ɲiʃu
+\ps num.
+\ge twenty
+\lxd कक
+
+\lx ɲiʃutsaŋá
+\ps num.
+\ge twenty five
+\lxd कक
+
+\lx ɲiʃutsaɲi
+\ps num.
+\ge twenty two
+\lxd कक
+
+\lx ɲiʃutsaʈuk
+\ps num.
+\ge twenty six
+\lxd कक
+
+\lx ɲiʃutsapge
+\ps num.
+\ge twenty eight
+\lxd कक
+
+\lx ɲiʃutsapgu
+\ps num.
+\ge twenty nine
+\lxd कक
+
+\lx ɲiʃutsapdʏn
+\ps num.
+\ge twenty seven
+\lxd कक
+
+\lx ɲiʃutsapʃi
+\ps num.
+\ge twenty four
+\lxd कक
+
+\lx ɲiʃutsutsik
+\ps num.
+\ge twenty one
+\lxd कक
+
+\lx ɲonup
+\ps v.
+\ge to set sun
+\lxd कक
+
+\lx ɲoma
+\ps adj.
+\ge small in quantity
+\lxd कक
+
+\lx ɲola
+\ps adv.
+\ge before
+
+\lx ɲoʃar
+\ps n.
+\ge sunrise
+\lxd कक
+
+\lx ɲuŋ
+\ps n.
+\ge experience
+
+\lx ɲuŋ
+\ps v.
+\ge to experience
+\lxd कक
+
+\lx ɲuŋma
+\ps n.
+\ge a kind of small bamboo
+\lxd कक
+
+\lx ɲuŋʃo
+\ps adj.
+\ge least
+\lxd कक
+
+\lx ɲumu
+\ps post.
+\ge with
+
+\lx ɲumpu
+\ps post.
+\ge with [Sama, cf. mula]
+
+\lx ɲumbu 
+\ps post.
+\ge together [Sama, cf. tʃhapteli]
+
+\lx ɲø
+\ps v.
+\ge to buy
+
+\lx ɲødiki
+\ps n.
+\ge Nyodiki (girl's name)
+
+\lx ʈã
+\ps n.
+\ge money
+
+\lx ʈa
+\ps adj.
+\ge like
+
+\lx ʈakʃok
+\ps n.
+\ge plastic
+\lxd कक
+
+\lx ʈaŋa
+\ps n.
+\ge money
+\lxd कक
+
+\lx ʈaŋga
+\ps n.
+\ge money [Lho]
+
+\lx ʈapliŋ
+\ps n.
+\ge tent
+
+\lx ʈam
+\ps v.
+\ge to distribute
+
+\lx ʈasi
+\ps n.
+\ge Tasi (name of a male person)
+
+\lx ʈasidele
+\ps n.
+\ge greeting word
+\lxd कक
+
+\lx ʈeʈe 
+\ps adj.
+\ge small [Sama, cf. tʃema]
+
+\lx ʈeba
+\ps n.
+\ge staircase (made of wood)
+\lxd ख
+
+\lx ʈewa
+\ps n.
+\ge staircase [Lho, cf. rewa)
+
+\lx ʈi
+\ps n.
+\ge milk-cream
+\lxd कक
+
+\lx ʈiŋɖiŋ
+\ps adj.
+\ge tight
+\lxd कक
+
+\lx ʈibhi
+\ps n.
+\ge television [Eng.]
+\lxd कक
+
+\lx ʈimomo
+\ps n.
+\ge dumpling bread
+
+\lx ʈoileʈ
+\ps n.
+\ge toilet (Eng.)
+
+\lx ʈok
+\ps n.
+\ge Prok village
+
+\lx ʈol
+\ps v.
+\ge to make loose
+\lxd कक
+
+\lx ʈu
+\ps v.
+\ge to mix
+
+\lx ʈu
+\ps v.
+\ge to dissolve (intr.)
+\lxd कक
+
+\lx ʈu
+\ps v.
+\ge to shake (intr.)
+\lxd कक
+
+\lx ʈup
+\ps v.
+\ge to finish
+
+\lx ʈulku
+\ps n.
+\ge reincarnation; reincarnated lama
+
+\lx ʈulba
+\ps n.
+\ge magic
+\lxd कक
+
+\lx ʈʏ
+\ps v.
+\ge to wash
+
+\lx ʈha
+\ps v.
+\ge to snatch
+\lxd कक
+
+\lx ʈha
+\ps n.
+\ge vulture
+\lxd कक
+
+\lx ʈha lem lem
+\ps v.
+\ge to shine
+\lxd कक
+
+\lx ʈhakpo
+\ps adj.
+\ge strong
+\lxd कक
+
+\lx ʈhaŋa
+\ps n.
+\ge garland woven with small beads used for counting hymn; rosary beads
+\lxd कक
+
+\lx ʈhathiŋ
+\ps adj.
+\ge completely
+
+\lx ʈhada
+\ps v.
+\ge to weave
+\lxd कक
+
+\lx ʈhi
+\ps v.
+\ge to drag
+
+\lx ʈhi
+\ps n.
+\ge cot
+\lxd ख
+
+\lx ʈhik
+\ps v.
+\ge to pull
+\lxd कक
+
+\lx ʈhiptsi
+\ps n.
+\ge button
+\lxd कक
+
+\lx ʈhim
+\ps n.
+\ge law; rule
+\lxd कक
+
+\lx ʈhimkaŋ
+\ps n.
+\ge court
+\lxd कक
+
+\lx ʈhimpa
+\ps n.
+\ge lawyer
+\lxd कक
+
+\lx ʈho
+\ps v.
+\ge to snatch; to grab
+\lxd कक
+
+\lx ʈhokpa
+\ps n.
+\ge quarrel
+\lxd कक
+
+\lx ʈhu
+\ps n.
+\ge length covered from the ankle to the tip of middle finger (a
+tradtional measure term)
+\lxd कक
+
+\lx ʈhuk
+\ps n.
+\ge thing
+\lxd कक
+
+\lx ʈhuk
+\ps v.
+\ge to disagree
+\lxd कक
+
+\lx ʈhuŋ
+\ps v.
+\ge to be born (Hon.)
+
+\lx ʈhuŋ hjul
+\ps n.
+\ge birth place
+\lxd कक
+
+\lx ʈhutor putor
+\ps adj.
+\ge disarray (not in sequence)
+\lxd कक
+
+\lx ʈhul
+\ps n.
+\ge magic
+\lxd कक
+
+\lx ɖa
+\ps n.
+\ge enemy
+
+\lx ɖa
+\ps adj.
+\ge like; resembling
+
+\lx ɖakar
+\ps n.
+\ge Dhakar (a place in Kyirong, Tibet)
+
+\lx ɖaktshaŋ
+\ps n.
+\ge a lama
+
+\lx ɖaŋ
+\ps v.
+\ge to count rosary beads; to recite mantras
+
+\lx ɖaŋkok
+\ps n.
+\ge chest
+\lxd कक
+
+\lx ɖaŋtsø
+\ps n.
+\ge pant like dressing of lama 
+\lxd कक
+
+\lx ɖaŋbo
+\ps adj.
+\ge honest; simple; gullible
+\lxd कक
+
+\lx ɖaŋbo
+\ps adj.
+\ge straight
+\lxd ख
+
+\lx ɖaŋma
+\ps n.
+\ge fly
+
+\lx ɖaŋmu
+\ps adj.
+\ge cold
+\lxd कक
+
+\lx ɖadʒaro
+\ps adj.
+\ge better
+
+\lx ɖana
+\ps adj.
+\ge same
+\lxd ख
+
+\lx ɖana
+\ps adj.
+\ge like; resembling
+
+\lx ɖanara
+\ps adj.
+\ge like; resembling
+\lxd कक
+
+\lx ɖanɖa 
+\ps adj.
+\ge like that [Lho, tʃotʃo]
+
+\lx ɖanɖamanɖa
+\ps adj.
+\ge equal
+
+\lx ɖap
+\ps n.
+\ge plank used on the floor
+
+\lx ɖapa
+\ps n.
+\ge lama
+\lxd कक
+
+\lx ɖam
+\ps adv.
+\ge near
+
+\lx ɖama dze
+\ps v.
+\ge to forget
+\lxd कक
+
+\lx ɖame
+\ps adj.
+\ge unconscious
+\lxd कक
+
+\lx ɖamtʃa
+\ps v.
+\ge to slap on cheek
+
+\lx ɖampa
+\ps n.
+\ge cheek
+
+\lx ɖampa
+\ps n.
+\ge cheek
+\lxd कक
+
+\lx ɖampa
+\ps n.
+\ge remembering
+
+\lx ɖamla
+\ps adv.
+\ge near
+
+\lx ɖamsi
+\ps n.
+\ge base; foundation
+\lxd कक
+
+\lx ɖalu
+\ps n.
+\ge song sung sitting (standing) in line
+\lxd कक
+
+\lx ɖawa
+\ps n.
+\ge monk
+
+\lx ɖasaŋ
+\ps n.
+\ge lama living in group
+\lxd कक
+
+\lx ɖe
+\ps n.
+\ge rice
+
+\lx ɖe
+\ps n.
+\ge trim yak's hair
+\lxd कक
+
+\lx ɖenɖe
+\ps adj.
+\ge like this
+
+\lx ɖela
+\ps n.
+\ge hurry
+
+\lx ɖewa
+\ps n.
+\ge relation
+
+\lx ɖese
+\ps n.
+\ge description
+\lxd कक
+
+\lx ɖi
+\ps n.
+\ge knife [Lho, cf. ɖuku]
+
+\lx ɖi
+\ps v.
+\ge to ask
+
+\lx ɖi
+\ps v.
+\ge to write
+\lxd कक
+
+\lx ɖik
+\ps adj.
+\ge right; true
+
+\lx ɖima
+\ps n.
+\ge smelling bad
+\lxd ख
+
+\lx ɖilpu
+\ps n.
+\ge small musical instrument
+\lxd कक
+
+\lx ɖo
+\ps v.
+\ge to go
+
+\lx ɖo
+\ps n.
+\ge wheat
+\lxd कक
+
+\lx ɖo lama lumi
+\ps adj.
+\ge lukewarm
+\lxd कक
+
+\lx ɖo lu
+\ps n.
+\ge song which is sung while danching
+\lxd ख
+
+\lx ɖokoŋ
+\ps n.
+\ge morning
+
+\lx ɖokpo
+\ps n.
+\ge religiously bonded friend
+\lxd कक
+
+\lx ɖoŋ
+\ps v.
+\ge to die (Hon.)
+\lxd कक
+
+\lx ɖoŋ
+\ps v.
+\ge to die (Hon.)
+
+\lx ɖoŋpa
+\ps n.
+\ge family
+
+\lx ɖoŋmo
+\ps n.
+\ge morning and afternoon
+\lxd कक
+
+\lx ɖoŋsip
+\ps n.
+\ge cluster of houses
+\lxd कक
+
+\lx ɖotaŋ
+\ps n.
+\ge way of doing
+
+\lx ɖotaŋɖenta
+\ps post.
+\ge on behalf of
+
+\lx ɖotok
+\ps n.
+\ge knot
+\lxd कक
+
+\lx ɖopa
+\ps n.
+\ge belley
+\lxd ख
+
+\lx ɖopa ɖaŋ
+\ps v.
+\ge to be full (stomach being full of food)
+
+\lx ɖopo
+\ps n.
+\ge religious bonded friend (male)
+\lxd ख
+
+\lx ɖolu
+\ps n.
+\ge song sung standing
+\lxd कक
+
+\lx ɖosoŋ
+\ps n.
+\ge investment
+
+\lx ɖohoŋ
+\ps v.
+\ge to happen
+\lxd कक
+
+\lx ɖu
+\ps v.
+\ge to collect
+\lxd कक
+
+\lx ɖu
+\ps n.
+\ge grain
+\lxd कक
+
+\lx ɖu
+\ps v.
+\ge to collect; to gather
+\lxd कक
+
+\lx ɖuk
+\ps num.
+\ge six
+
+\lx ɖuk
+\ps num.
+\ge six
+
+\lx ɖuku
+\ps n.
+\ge knife [Sama, cf. ɖi]
+\lxd कक
+
+\lx ɖuktʃu
+\ps n.
+\ge sixty
+\lxd कक
+
+\lx ɖuktʃurapke
+\ps num.
+\ge sixty nine
+
+\lx ɖuktʃurapge
+\ps num.
+\ge sixty eight
+
+\lx ɖukpa
+\ps num.
+\ge sixth
+\lxd कक
+
+\lx ɖukpa
+\ps n.
+\ge Bhutnese
+
+\lx ɖuŋo
+\ps adv.
+\ge morning
+\lxd कक
+
+\lx ɖup
+\ps v.
+\ge to complete
+
+\lx ɖumtse
+\ps n.
+\ge a kind of worship done at gompa; a festival in Prok
+\lxd कक
+
+\lx ɖumtsi
+\ps n.
+\ge Tibetan carpet
+\lxd कक
+
+\lx ɖul
+\ps n.
+\ge snake
+\lxd कक
+
+\lx ɖø
+\ps v.
+\ge to run away
+
+\lx ɖøtsuk
+\ps v.
+\ge to make run away
+\lxd कक
+
+\lx ɖømauʈen
+\ps n.
+\ge Domaudhen (name of a person)
+
+\lx ɖjã
+\ps n.
+\ge wheat
+\lxd कक
+
+\lx ɖwa
+\ps v.
+\ge smell bad
+\lxd कक
+
+\lx ta
+\ps part.
+\ge particle (as for)
+
+\lx ta
+\ps v.
+\ge to look at
+
+\lx ta:
+\ps v.
+\ge to grind
+\lxd कक
+
+\lx ta:
+\ps v.
+\ge to weave
+\lxd कक
+
+\lx ta silpa
+\ps n.
+\ge hair of horse's head
+\lxd कक
+
+\lx tak
+\ps v.
+\ge to flow
+\lxd कक
+
+\lx takor
+\ps v.
+\ge to examine
+
+\lx takpa
+\ps adj.
+\ge permanent
+
+\lx taksa
+\ps n.
+\ge back of head
+\lxd कक
+
+\lx taŋ
+\ps v.
+\ge to do
+
+\lx taŋ
+\ps v.
+\ge to be released
+\lxd कक
+
+\lx taŋtaŋ
+\ps n.
+\ge way (of thinking)
+
+\lx taŋʃàk
+\ps v.
+\ge to leave
+\lxd 
+
+\lx taɖe
+\ps n.
+\ge mule
+\lxd कक
+
+\lx taɖum
+\ps n.
+\ge carpet fixed on the back of the horse (as a part of seat)
+\lxd कक
+
+\lx tap
+\ps n.
+\ge plant
+
+\lx tap
+\ps v.
+\ge to plant
+\lxd कक
+
+\lx tapkja
+\ps n.
+\ge pan
+\lxd कक
+
+\lx tam
+\ps n.
+\ge talk [Lho, Sama, cf. ketsa]
+
+\lx tampe
+\ps n.
+\ge story
+\lxd कक
+
+\lx tari
+\ps n.
+\ge axe
+\lxd कक
+
+\lx tale
+\ps part.
+\ge particle used to give emphasis (only)
+
+\lx tale
+\ps adj.
+\ge without being serious
+\lxd कक
+
+\lx taldaŋ
+\ps n.
+\ge dung of horse
+\lxd कक
+
+\lx tá
+\ps n.
+\ge horse
+
+\lx te
+\ps v.
+\ge to see; to look
+
+\lx te
+\ps v.
+\ge to give
+
+\lx tea
+\ps n.
+\ge naval
+\lxd ख
+
+\lx teka
+\ps n.
+\ge frame of seat fixed on the back of the horse
+\lxd कक
+
+\lx tega
+\ps n.
+\ge seat of horse
+\lxd कक
+
+\lx ten
+\ps v.
+\ge take out
+\lxd कक
+
+\lx ten ta
+\ps v.
+\ge to weave
+\lxd कक
+
+\lx tenten
+\ps adv.
+\ge really
+
+\lx tenten
+\ps adv.
+\ge certainly
+\lxd कक
+
+\lx temo
+\ps n.
+\ge cow [Sama, cf. balaŋ]
+
+\lx tempo
+\ps adj.
+\ge simple; straightforward
+\lxd कक
+
+\lx tempo
+\ps adj.
+\ge stable; not moving
+\lxd कक
+
+\lx tempo
+\ps adj.
+\ge secure
+\lxd कक
+
+\lx tɛtɛ
+\ps adj.
+\ge small [Sama]
+\lxd ख
+
+\lx ti
+\ps v.
+\ge to harvest
+\lxd कक
+
+\lx tigi
+\ps n.
+\ge baby horse; young horse
+\lxd ख
+
+\lx tiŋ
+\ps n.
+\ge bell
+\lxd ख
+
+\lx tiŋ rimbu
+\ps adj.
+\ge deep
+\lxd ख
+
+\lx tiŋma
+\ps adv.
+\ge later [Sama]
+
+\lx tiŋma
+\ps adv.
+\ge after
+\lxd कक
+
+\lx tiŋma
+\ps adv.
+\ge next year
+\lxd कक
+
+\lx tiŋla 
+\ps adv.
+\ge later [Sama, cf. ʃam]
+
+\lx tip
+\ps v.
+\ge to be buried
+
+\lx tíŋma
+\ps adv.
+\ge behind
+\lxd कक
+
+\lx tok
+\ps adv.
+\ge early
+
+\lx toko
+\ps n.
+\ge calf (of cow)
+\lxd कक
+
+\lx toktse
+\ps n.
+\ge spade
+\lxd कक
+
+\lx toŋ
+\ps n.
+\ge thousand
+\lxd ख
+
+\lx toŋku
+\ps n.
+\ge rhododendron
+\lxd कक
+
+\lx toŋba
+\ps adj.
+\ge empty
+
+\lx totse
+\ps n.
+\ge jacket (traditional)
+\lxd कक
+
+\lx totuŋ
+\ps n.
+\ge shirt
+\lxd कक
+
+\lx topna
+\ps adj.
+\ge much [Lho, cf. aŋsaŋ]
+
+\lx tomnak
+\ps adj.
+\ge much more
+
+\lx tor
+\ps v.
+\ge to be lost; to lose
+
+\lx tor
+\ps v.
+\ge to sow
+\lxd कक
+
+\lx torma
+\ps n.
+\ge conical cakes made from tsampa that are placed on an alter
+\lxd कक
+
+\lx tolmo
+\ps n.
+\ge cow
+\lxd कक
+
+\lx towa
+\ps n.
+\ge hunger
+\lxd कक
+
+\lx tuŋa
+\ps adj.
+\ge shorter
+\lxd कक
+
+\lx tup
+\ps v.
+\ge to cut
+
+\lx tum
+\ps v.
+\ge to cover
+\lxd कक
+
+\lx tø
+\ps post.
+\ge in front of
+
+\lx tøn
+\ps v.
+\ge to make one come out
+
+\lx tøn
+\ps v.
+\ge to show
+\lxd कक
+
+\lx tøntok
+\ps n.
+\ge crop
+\lxd कक
+
+\lx tøma 
+\ps adj.
+\ge short [Lho, cf. tjãtjã]
+\lxd कक
+
+\lx tjaŋ
+\ps adv.
+\ge above
+
+\lx tjãtjã 
+\ps adj.
+\ge short [Sama, cf. tøma]
+\lxd कक
+
+\lx twe
+\ps adv.
+\ge above
+
+\lx twela
+\ps adv.
+\ge above
+\lxd कक
+
+\lx táŋ
+\ps v.
+\ge to do
+\lxd ख
+
+\lx thã
+\ps n.
+\ge edge
+
+\lx thak riŋbu
+\ps adv.
+\ge far
+\lxd ख
+
+\lx thakor
+\ps adv.
+\ge around (surroundeding)
+\lxd ख
+
+\lx thakpa
+\ps n.
+\ge rope
+\lxd ख
+
+\lx thakpo
+\ps adj.
+\ge hard
+\lxd ख
+
+\lx thaŋ
+\ps adj.
+\ge flat
+\lxd ख
+
+\lx thaŋga
+\ps n.
+\ge flat land
+
+\lx thaŋpo
+\ps adj.
+\ge strong, healthy
+
+\lx thaŋpo
+\ps adj.
+\ge fine
+
+\lx thaŋlo
+\ps adj.
+\ge how much fine
+
+\lx thaŋʃiŋ
+\ps n.
+\ge pine tree
+\lxd ख
+
+\lx thap
+\ps n.
+\ge oven, hearth
+
+\lx thaptʃa
+\ps adj.
+\ge not permanently, only for temporary purpose
+
+\lx thama
+\ps adv.
+\ge finally [Tib.]
+\lxd ख
+
+\lx thamdze
+\ps adj.
+\ge all
+\lxd ख
+
+\lx thampani
+\ps adj.
+\ge that much
+
+\lx tharakthorok
+\ps adj.
+\ge scattered here and there
+
+\lx tharke
+\ps adj.
+\ge irregular
+
+\lx thãla
+\ps n.
+\ge corner
+\lxd ख
+
+\lx thala
+\ps n.
+\ge side
+
+\lx thala
+\ps n.
+\ge dust
+\lxd ख
+
+\lx thaliŋ
+\ps n.
+\ge plate
+
+\lx thaliŋ
+\ps n.
+\ge plate
+\lxd ख
+
+\lx thaldʒa
+\ps n.
+\ge clapping because of surprise
+
+\lx thalmo
+\ps n.
+\ge putting hands together
+
+\lx thekaŋ
+\ps adj.
+\ge straight
+\lxd ख
+
+\lx then
+\ps v.
+\ge to come out
+
+\lx thepu
+\ps n.
+\ge thumb
+\lxd ख
+
+\lx thempa
+\ps n.
+\ge staircase made of stone
+\lxd ख
+
+\lx themba
+\ps n.
+\ge ladder
+\lxd ख
+
+\lx thik
+\ps n.
+\ge line (made in paper, or wall)
+\lxd ख
+
+\lx thik tsima
+\ps n.
+\ge little finger
+\lxd ख
+
+\lx thikle
+\ps n.
+\ge dirt collected around vagina or penis
+\lxd ख
+
+\lx thim
+\ps v.
+\ge submerge
+\lxd कक
+
+\lx thim
+\ps v.
+\ge to be wet
+\lxd ख
+
+\lx tho
+\ps n.
+\ge calender
+
+\lx tho
+\ps v.
+\ge to hear [Sama, cf. go]
+\lxd ख
+
+\lx thok
+\ps adj.
+\ge roof
+
+\lx thok
+\ps post.
+\ge about
+
+\lx thoka
+\ps adv.
+\ge above
+\lxd ख
+
+\lx thoktse
+\ps n.
+\ge storey
+\lxd ख
+
+\lx thokni
+\ps post.
+\ge from
+
+\lx thokpa
+\ps n.
+\ge quarrel
+\lxd ख
+
+\lx thokpa taŋ
+\ps v.
+\ge to quarrel
+\lxd कक
+
+\lx thoŋ
+\ps v.
+\ge to see
+
+\lx thoŋba
+\ps n.
+\ge plough
+\lxd ख
+
+\lx thop
+\ps v.
+\ge to win
+
+\lx thopa
+\ps n.
+\ge forehead
+\lxd ख
+
+\lx thoptaŋ
+\ps n.
+\ge rights
+\lxd ख
+
+\lx thor
+\ps v.
+\ge to be separated
+
+\lx thoraŋ
+\ps n.
+\ge day break
+\lxd ख
+
+\lx thoʃor tshembo
+\ps adj.
+\ge mischivious 
+\lxd ख
+
+\lx thuk
+\ps post.
+\ge till, until
+\lxd ख
+
+\lx thuk
+\ps v.
+\ge to meet
+\lxd ख
+
+\lx thuktshetshe
+\ps n.
+\ge thank you (Tib.)
+
+\lx thukpa
+\ps n.
+\ge noodle
+\lxd ख
+
+\lx thukpu
+\ps adj.
+\ge thick
+\lxd ख
+
+\lx thuŋ
+\ps v.
+\ge to drink
+
+\lx thuŋthuŋ
+\ps adj.
+\ge short [Tib]
+\lxd ख
+
+\lx thuŋsa
+\ps n.
+\ge pot for drinking
+\lxd ख
+
+\lx thup
+\ps v.
+\ge to be able
+
+\lx thur
+\ps n.
+\ge iron materials fixed on horse's mouth (to control it)
+\lxd ख
+
+\lx thʏn
+\ps v.
+\ge to agree, to match
+
+\lx thøn
+\ps v.
+\ge to appear; to come out
+
+\lx da
+\ps adv.
+\ge now, then
+\lxd ख
+
+\lx da
+\ps part.
+\ge particle (as for)
+
+\lx da
+\ps adv.
+\ge now
+
+\lx da
+\ps v.
+\ge to lick
+\lxd ख
+
+\lx daŋ
+\ps conj.
+\ge and
+
+\lx daŋ
+\ps adv.
+\ge yesterday
+\lxd ख
+
+\lx daŋkanu
+\ps adv.
+\ge day before yesterday
+
+\lx daŋbo
+\ps adv.
+\ge long back
+
+\lx daŋbo
+\ps num.
+\ge first
+\lxd ख
+
+\lx daŋbo daŋbo
+\ps adv.
+\ge long long ago
+\lxd ख
+
+\lx daŋʃa
+\ps adv.
+\ge three days back
+\lxd ख
+
+\lx daʈuk
+\ps n.
+\ge orphan
+\lxd कक
+
+\lx dana
+\ps adv.
+\ge now
+
+\lx danu
+\ps adv.
+\ge recently
+
+\lx danda
+\ps adv.
+\ge now
+
+\lx dando
+\ps adv.
+\ge till now
+
+\lx dap
+\ps v.
+\ge to hit with some loud noise
+
+\lx dap
+\ps v.
+\ge to measure
+\lxd ख
+
+\lx dapso
+\ps adv.
+\ge as for now
+
+\lx dampa
+\ps n.
+\ge a lama with higher position
+
+\lx dampa
+\ps n.
+\ge mud
+
+\lx dar
+\ps adv.
+\ge to tremble; to shiver
+
+\lx dar
+\ps v.
+\ge to sharpen (knife)
+
+\lx dar
+\ps v.
+\ge to cleanse
+\lxd ख
+
+\lx daroŋ
+\ps adv.
+\ge more
+
+\lx daru
+\ps n.
+\ge small drum like musical instrument
+\lxd ख
+
+\lx dala
+\ps adv.
+\ge here
+
+\lx dala
+\ps adv.
+\ge here
+
+\lx dalo
+\ps n.
+\ge this time; this season
+
+\lx dalo
+\ps adv.
+\ge this year
+\lxd ख
+
+\lx dawa
+\ps n.
+\ge month
+
+\lx dawadortse
+\ps n.
+\ge DhawaDorche (name of a person)
+
+\lx dẽ
+\ps adv.
+\ge and then
+
+\lx dẽ
+\ps adv.
+\ge now
+
+\lx de
+\ps part.
+\ge particle (isn't it so?)
+
+\lx de
+\ps v.
+\ge to sit
+\lxd ख
+
+\lx deŋa
+\ps adj.
+\ge all
+
+\lx detsen
+\ps n.
+\ge Dechen (name of a woman)
+
+\lx detsenɖolkar
+\ps n.
+\ge Dechen Dolkar (name of a male person)
+
+\lx den
+\ps adv.
+\ge and then
+
+\lx dene
+\ps adv.
+\ge and then
+
+\lx dempa
+\ps n.
+\ge truth
+
+\lx dela
+\ps adv.
+\ge this direction (towards here)
+
+\lx dehẽ
+\ps adv.
+\ge and then
+
+\lx di
+\ps gram.
+\ge definiteness
+
+\lx di
+\ps pron.
+\ge this
+
+\lx -di 
+\ps gram.
+\ge SEQ (sequential converb)
+\lxd ख
+
+\lx dĩu
+\ps n.
+\ge female yak
+\lxd ख
+
+\lx diki
+\ps n.
+\ge Dhiki [pn]
+\lxd ख
+
+\lx dikpa
+\ps n.
+\ge sin
+
+\lx diŋam
+\ps adv.
+\ge immediately
+
+\lx diŋla
+\ps n.
+\ge bottom
+
+\lx diŋsal
+\ps adv.
+\ge these days
+\lxd ख
+
+\lx ditsho
+\ps pron.
+\ge they (Tib.)
+
+\lx dita
+\ps particle
+\ge as for
+
+\lx diti
+\ps adv.
+\ge in particular
+
+\lx dini
+\ps adv.
+\ge and then
+\lxd ख
+
+\lx dimik
+\ps n.
+\ge key
+\lxd ख
+
+\lx dija
+\ps adv.
+\ge also
+
+\lx diriŋ
+\ps adv.
+\ge today
+
+\lx dila
+\ps adv.
+\ge here
+\lxd ख
+
+\lx -dila
+\ps gram.
+\ge sequantial converb
+
+\lx do
+\ps n.
+\ge stone
+
+\lx do
+\ps n.
+\ge heat
+\lxd कक
+
+\lx do
+\ps n.
+\ge potato [Sama, cf. hé]
+\lxd कक
+
+\lx dokdʒomkukdʒom
+\ps adj.
+\ge without having enough space
+
+\lx dokto
+\ps n.
+\ge small ball of something
+\lxd ख
+
+\lx dokdok
+\ps adj.
+\ge round
+
+\lx dokpo
+\ps adj.
+\ge tight
+\lxd ख
+
+\lx dokja me
+\ps adj.
+\ge ugly
+\lxd ख
+
+\lx doŋ
+\ps adv.
+\ge in front of
+
+\lx doŋal
+\ps n.
+\ge problem
+
+\lx doŋkarmu
+\ps n.
+\ge a kind of mushroom
+\lxd ख
+
+\lx doŋpane doŋpa
+\ps adv.
+\ge face to face
+\lxd ख
+
+\lx doŋpo
+\ps n.
+\ge tree
+
+\lx doŋbo
+\ps n.
+\ge tree
+\lxd कक
+
+\lx doŋla
+\ps adv.
+\ge in front of
+
+\lx dotse
+\ps n.
+\ge orphan
+\lxd कक
+
+\lx dondu
+\ps n.
+\ge animal
+
+\lx dom
+\ps n.
+\ge bear
+\lxd ख
+
+\lx doro
+\ps adv.
+\ge after a while
+
+\lx doroŋ
+\ps adv.
+\ge much more
+
+\lx dortse
+\ps n.
+\ge worship things
+
+\lx dortshe
+\ps n.
+\ge Dorche [PN]
+\lxd ख
+
+\lx dordze
+\ps n.
+\ge Dorje (name of a male person)
+
+\lx dordzegjaldzen
+\ps n.
+\ge Dorchegyalchen (name of a person)
+
+\lx dordzeghjaram
+\ps n.
+\ge symbol used in Budhdhism
+
+\lx dorma
+\ps n.
+\ge traditional pant
+\lxd ख
+
+\lx dolpo
+\ps n.
+\ge Dolpo (Dolpa)
+
+\lx dòŋma
+\ps n.
+\ge pot for making Tibetan tea
+\lxd ख
+
+\lx duitsen
+\ps adj.
+\ge great
+\lxd ख
+
+\lx duk
+\ps v.
+\ge be verb; copular verb
+
+\lx duk
+\ps v.
+\ge to be worried
+
+\lx duk
+\ps n.
+\ge poison
+\lxd ख
+
+\lx duka
+\ps adj.
+\ge bad
+
+\lx duktʃa
+\ps adj.
+\ge bad
+
+\lx dukpu
+\ps n.
+\ge hardship; suffering
+
+\lx dukra
+\ps n.
+\ge worry
+
+\lx duklo
+\ps n.
+\ge clothes (Tib.)
+
+\lx duklok
+\ps n.
+\ge clothes
+\lxd ख
+
+\lx duŋal
+\ps n.
+\ge trouble
+
+\lx duŋma
+\ps n.
+\ge wood (a kind of )
+
+\lx duŋre
+\ps n.
+\ge thread used in butter lamp
+
+\lx dure
+\ps adv.
+\ge later
+
+\lx duru
+\ps adv.
+\ge this side [Sama]
+
+\lx dʏ
+\ps v.
+\ge to collect
+
+\lx dʏ
+\ps n.
+\ge time
+\lxd ख
+
+\lx dʏtse
+\ps n.
+\ge time
+
+\lx dʏn
+\ps num.
+\ge seven
+
+\lx dʏntʃu
+\ps num.
+\ge seventy
+\lxd ख
+
+\lx dʏntʃudungu
+\ps num.
+\ge seventy nine
+
+\lx dʏndzar
+\ps n.
+\ge offering to god
+\lxd ख
+
+\lx dʏnpa
+\ps num.
+\ge seventh
+\lxd ख
+
+\lx døre
+\ps adv.
+\ge later [Lho, cf. tiŋla]
+
+\lx dja
+\ps adv.
+\ge here
+
+\lx djala
+\ps adv.
+\ge here
+\lxd ख
+
+\lx na
+\ps adv.
+\ge also
+
+\lx na
+\ps n.
+\ge daughter in law; elder brother's wife
+\lxd ख
+
+\lx na
+\ps conj.
+\ge or
+
+\lx na
+\ps n.
+\ge bridge
+
+\lx na
+\ps n.
+\ge marriage
+\lxd ख
+
+\lx -na
+\ps gram.
+\ge conditional mood
+
+\lx -na
+\ps gram.
+\ge conditional mood
+\lxd ख
+
+\lx na kjal
+\ps v.
+\ge to swear
+\lxd ख
+
+\lx nak
+\ps n.
+\ge pus
+\lxd ख
+
+\lx nakpo
+\ps adj.
+\ge dark
+\lxd ख
+
+\lx naŋ
+\ps adv.
+\ge inside
+
+\lx naŋ
+\ps adv.
+\ge day after tomorrow
+
+\lx naŋkjaŋ
+\ps adv.
+\ge early morming
+
+\lx naŋtsi
+\ps n.
+\ge intestine
+\lxd ख
+
+\lx naŋpa
+\ps n.
+\ge Buddhist
+
+\lx naŋma
+\ps adv.
+\ge towards the middle
+
+\lx naŋmi
+\ps n.
+\ge family member
+
+\lx naŋla
+\ps adv.
+\ge inside
+
+\lx naŋsar
+\ps n.
+\ge Nangsar (a place in Tibet)
+
+\lx natsa sembo
+\ps n.
+\ge young
+\lxd ख
+
+\lx natʃuŋ
+\ps n.
+\ge young girl, maiden
+\lxd 
+\pr 
+
+\lx nadʏ
+\ps n.
+\ge saying
+\lxd ख
+
+\lx naniŋ
+\ps adv.
+\ge last year
+
+\lx naniŋ
+\ps adv.
+\ge last year
+\lxd ख
+
+\lx nanibu
+\ps n.
+\ge a kind of worm that sucks animals, particularly from nose
+\lxd ख
+
+\lx nanɖuk
+\ps n.
+\ge mucuous
+\lxd ख
+
+\lx napa
+\ps adj.
+\ge sick
+
+\lx nam
+\ps n.
+\ge rain
+
+\lx nam
+\ps adv.
+\ge when
+
+\lx nam
+\ps n.
+\ge daybreak
+
+\lx nam gjap
+\ps v.
+\ge to rain
+\lxd ख
+
+\lx namɖuk
+\ps n.
+\ge mucous
+\lxd ख
+
+\lx namɖul
+\ps n.
+\ge aeroplane
+\lxd ख
+
+\lx namdar
+\ps n.
+\ge personal biography of (mainly of lama); story (historical)
+\lxd ख
+
+\lx namba
+\ps gram.
+\ge plural marker
+
+\lx namruŋ
+\ps n.
+\ge Namrung [Place name]
+\lxd ख
+
+\lx namla
+\ps n.
+\ge Namla (name of a place)
+
+\lx namla
+\ps n.
+\ge Namla [PN]
+\lxd ख
+
+\lx namlaŋ
+\ps v.
+\ge to fall daybreak
+
+\lx namsa
+\ps n.
+\ge clothes (hon.)
+\lxd ख
+
+\lx namʃe
+\ps n.
+\ge consciousness
+\lxd ख
+
+\lx namhina
+\ps adv.
+\ge always
+\lxd ख
+
+\lx najo
+\ps n.
+\ge raised part inside vagina
+\lxd कक
+
+\lx nar
+\ps n.
+\ge scolding
+\lxd कक, चेक गर्ने
+
+\lx narpa
+\ps n.
+\ge man from Nar
+\lxd ख
+
+\lx nalaŋ
+\ps n.
+\ge marriage
+
+\lx nawa
+\ps n.
+\ge concern
+
+\lx nawa
+\ps n.
+\ge earwax
+\lxd ख
+
+\lx naʃon
+\ps n.
+\ge youth
+
+\lx náŋ
+\ps v.
+\ge to give (Hon.)
+
+\lx nàŋ
+\ps n.
+\ge house
+
+\lx náŋ
+\ps adv.
+\ge day after tomorrow
+\lxd ख
+
+\lx nám
+\ps n.
+\ge rain
+\lxd ख
+
+\lx ne
+\ps v.
+\ge to say [Sama]
+
+\lx -ne
+\ps gram.
+\ge ablative case
+
+\lx nei
+\ps n.
+\ge young yak
+\lxd ख
+
+\lx neu
+\ps n.
+\ge tip, edge
+\lxd ख
+
+\lx netshul
+\ps n.
+\ge news
+
+\lx nedʏ
+\ps n.
+\ge story
+
+\lx nepal
+\ps n.
+\ge Nepal
+
+\lx nepali
+\ps n.
+\ge Nepali (Nep.)
+
+\lx nem
+\ps v.
+\ge to press
+
+\lx neʃimu
+\ps n.
+\ge a kind of mushroom
+\lxd ख
+
+\lx nè
+\ps n.
+\ge wheat
+
+\lx nè
+\ps n.
+\ge barley
+\lxd ख
+
+\lx ni
+\ps adv.
+\ge also
+
+\lx -ni
+\ps gram.
+\ge ablative case
+\lxd ख
+
+\lx no
+\ps n.
+\ge younger brother and daughter
+\lxd ख
+
+\lx noksam
+\ps n.
+\ge thought
+
+\lx noŋ
+\ps v.
+\ge to damage; to be damaged; to be spoiled
+\lxd ख
+
+\lx noɖu
+\ps n.
+\ge mistake
+\lxd ख
+
+\lx nonʈhul
+\ps n.
+\ge fault
+
+\lx norbu
+\ps n.
+\ge Norbu [PN]
+\lxd ख
+
+\lx norbugjaltsen 
+\ps n.
+\ge NorbuGhyalchen [PN]
+
+\lx norme
+\ps v.
+\ge to destroy
+
+\lx norme
+\ps n.
+\ge effect
+\lxd ख
+
+\lx nowa
+\ps n.
+\ge breast [Sama. cf. dʒu]
+\lxd ख
+
+\lx nup
+\ps adj.
+\ge west
+\lxd ख
+
+\lx nubri
+\ps n.
+\ge Nubri
+
+\lx num
+\ps n.
+\ge oil
+\lxd ख
+
+\lx numpu
+\ps adj.
+\ge sharp
+
+\lx numpu mindu
+\ps adj.
+\ge blunt
+\lxd ख
+
+\lx nurbu
+\ps n.
+\ge Nurbu [PN]
+\lxd ख
+
+\lx nurbugjaltsen
+\ps n.
+\ge Norbugyalchen (name of a male person)
+
+\lx nø
+\ps v.
+\ge to think
+\lxd ख
+
+\lx njorere
+\ps adv.
+\ge everyday
+\lxd ख
+
+\lx pa
+\ps n.
+\ge father
+
+\lx -pa
+\ps gram.
+\ge nominalizer (a suffix used to derive noun from other categories)
+
+\lx pa gjap
+\ps v.
+\ge to churn
+\lxd ख
+
+\lx pakne
+\ps n.
+\ge scabbies
+\lxd कक
+
+\lx paŋke
+\ps n.
+\ge flower of purple colour
+\lxd ख
+
+\lx paŋkep
+\ps n.
+\ge cloth worn by women on front part of body
+\lxd ख
+
+\lx paŋdza
+\ps n.???where located?
+\ge Pangja (name of a place)
+
+\lx paŋlep
+\ps n.
+\ge plank
+
+\lx patshap
+\ps n.
+\ge substitute father
+\lxd ख
+
+\lx pap
+\ps v.
+\ge to drive down (drive the yaks and other animals from cliff)
+
+\lx par
+\ps n.
+\ge photo
+
+\lx par
+\ps v.
+\ge to burn (intr.)
+\lxd ख
+
+\lx pal
+\ps n.
+\ge beam
+
+\lx pale
+\ps n.
+\ge roof (wooden roof)
+
+\lx palduŋ
+\ps n.
+\ge beam
+\lxd ख
+
+\lx pasaŋ
+\ps n.
+\ge Pasang (name of a person)
+
+\lx pe
+\ps n.
+\ge open
+
+\lx pe
+\ps adv.
+\ge very
+
+\lx pe
+\ps n.
+\ge example
+
+\lx pe
+\ps n.
+\ge incent
+
+\lx pe
+\ps v.
+\ge to separate
+
+\lx pe
+\ps v.
+\ge to open (intr.tran.)
+\lxd ख
+
+\lx petsa
+\ps n.
+\ge book (Hon.)
+
+\lx peptʃak
+\ps n.
+\ge wooden fence
+
+\lx pemasi
+\ps adv.
+\ge very (Tib.)
+
+\lx pemba
+\ps n.
+\ge Saturday, name of a male person
+
+\lx peri gompa
+\ps n.
+\ge Peri gompa [PN]
+\lxd ख
+
+\lx piŋkja
+\ps n.
+\ge relative
+
+\lx pima
+\ps adj.
+\ge owned by more than two people
+\lxd ख
+
+\lx -po
+\ps gram.
+\ge classifier
+
+\lx portsok
+\ps n.
+\ge Porchok (name of a person)
+
+\lx pola
+\ps n.
+\ge outer layer of corn spadix
+\lxd ख
+
+\lx pu
+\ps n.
+\ge hair (of body)
+\lxd ख
+
+\lx puk
+\ps v.
+\ge to fix a tent
+
+\lx puŋba
+\ps n.
+\ge shoulder
+\lxd ख
+
+\lx pul
+\ps n.
+\ge push
+
+\lx pul
+\ps v.
+\ge to offer
+\lxd ख
+
+\lx pʏ
+\ps v.
+\ge to go [Lho]
+
+\lx pʏn
+\ps n.
+\ge relative
+
+\lx phã
+\ps n.
+\ge parents
+\lxd ख
+
+\lx pha
+\ps adv.
+\ge that side, thither [Lho, cf. phu]
+
+\lx phakʈuk
+\ps n.
+\ge piglet
+
+\lx phakpa
+\ps n.
+\ge pig
+\lxd ख
+
+\lx phãkja
+\ps n.
+\ge parents
+
+\lx phatse
+\ps adv.
+\ge approximately
+
+\lx phatse
+\ps adv.
+\ge now
+\lxd ख
+
+\lx phatsu
+\ps n.
+\ge witch doctor
+\lxd ख
+
+\lx phane manja
+\ps n.
+\ge worthless thing
+\lxd ख
+
+\lx phanemane
+\ps v.
+\ge to be helpless
+
+\lx pham
+\ps v.
+\ge to lose a game
+\lxd ख
+
+\lx phama
+\ps n.
+\ge parents
+\lxd ख
+
+\lx phamtʃuk
+\ps v.
+\ge to defeat
+\lxd ख
+
+\lx phajun
+\ps n.
+\ge religion
+
+\lx phara
+\ps n.
+\ge wolf
+\lxd ख
+
+\lx phalam
+\ps adv.
+\ge again
+\lxd ख
+
+\lx phaldze
+\ps adv.
+\ge around
+
+\lx phe
+\ps adj.
+\ge half
+
+\lx phe
+\ps n.
+\ge flour [Tib., cf. tsampa]
+
+\lx pheka
+\ps adj.
+\ge half
+
+\lx pheta
+\ps adv.
+\ge outside
+
+\lx phetala
+\ps adv.
+\ge outside
+
+\lx phentho
+\ps n.
+\ge benefit
+
+\lx phenthok
+\ps v.
+\ge to be useful
+
+\lx phep
+\ps v.
+\ge to go (Hon.)
+
+\lx phĩ
+\ps v.
+\ge to go (PST)
+
+\lx phike
+\ps adv.
+\ge on back side
+\lxd ख
+
+\lx phin
+\ps v.
+\ge go [Sama]
+
+\lx phinaŋ
+\ps adj.
+\ge inside out (clothes)
+\lxd ख
+
+\lx phindzar
+\ps n.
+\ge person who farts much
+\lxd ख
+
+\lx phindi
+\ps v.
+\ge to fart
+\lxd कक
+
+\lx phima
+\ps n.
+\ge relative
+\lxd ख
+
+\lx phir
+\ps v.
+\ge to fly
+\lxd ख
+
+\lx phirtsu
+\ps v.
+\ge to make fly
+\lxd ख
+
+\lx phila
+\ps adv.
+\ge outside
+\lxd ख
+
+\lx philam
+\ps adv.
+\ge again
+
+\lx philep
+\ps n.
+\ge butterfly
+\lxd ख
+
+\lx philo
+\ps adj.
+\ge reverse, contrary
+
+\lx phok
+\ps v.
+\ge to be hit by something hard (such as stone)
+
+\lx phoŋar
+\ps n.
+\ge a kind of mushroom
+\lxd ख
+
+\lx phon
+\ps n.
+\ge telephone (Eng.)
+
+\lx phoso tshumbu
+\ps adj.
+\ge looking handsome (male)
+\lxd ख
+
+\lx phu
+\ps adv.
+\ge that side, thither [Lho, cf. pha]
+
+\lx phu
+\ps n.
+\ge cave [Lho, cf. phuku]
+
+\lx phuku
+\ps n.
+\ge cave [Sama, cf. phu]
+
+\lx phuknak
+\ps adj.
+\ge all
+\lxd कक
+
+\lx phuta
+\ps adv.
+\ge there [Sama, cf. oda]
+
+\lx phul
+\ps v.
+\ge to offer to monk
+
+\lx phuluŋ
+\ps n.
+\ge sleeve
+\lxd ख
+
+\lx phʏ
+\ps n.
+\ge liquor (hon)
+\lxd ख
+
+\lx bã
+\ps n.
+\ge grain storage container
+\lxd ख
+
+\lx -ba
+\ps gram.
+\ge ordinal numeral marker
+
+\lx baudhdhə
+\ps n.
+\ge Bodhdha
+
+\lx baktʃa
+\ps n.
+\ge belief that if you do good in this life, you will have easy life in later life
+
+\lx bakta
+\ps n.
+\ge big injury or wound
+
+\lx baŋ
+\ps v.
+\ge to make wet
+\lxd ख
+
+\lx batsi
+\ps n.
+\ge beaten rice
+\lxd ख
+
+\lx bati
+\ps n.
+\ge lamp
+\lxd ख
+
+\lx bap
+\ps v.
+\ge to come down
+
+\lx bap gjal
+\ps v.
+\ge to fall
+\lxd ख
+
+\lx bap tsheraŋ
+\ps n.
+\ge courage
+\lxd ख
+
+\lx bababap
+\ps adj.
+\ge pressed
+
+\lx bamo
+\ps n.
+\ge mist
+\lxd ख
+
+\lx bajul
+\ps n.
+\ge Kathmandu [PN]
+\lxd ख
+
+\lx bar
+\ps v.
+\ge to burn
+
+\lx baro
+\ps adj.
+\ge rich
+\lxd ख
+
+\lx bardo
+\ps n.
+\ge intermediary realm after death
+\lxd ख
+
+\lx balak
+\ps adv.
+\ge between
+\lxd ख
+
+\lx balaŋ
+\ps n.
+\ge cow [Lho, cf. temo]
+
+\lx be
+\ps part.
+\ge particle (unexpectedly)
+
+\lx be
+\ps adv.
+\ge throughout
+
+\lx bekuŋ
+\ps n.
+\ge ditch
+\lxd ख
+
+\lx beŋk
+\ps n.
+\ge bank (Eng.)
+
+\lx bejul
+\ps n.
+\ge hidden valley
+\lxd ख
+
+\lx beraŋ
+\ps adv.
+\ge totally
+\lxd ख
+
+\lx beraŋni
+\ps adv.
+\ge always
+
+\lx biŋ
+\ps v.
+\ge to submerge
+\lxd ख
+
+\lx boudda
+\ps n.
+\ge Boudhdha (place in Kathmandu)
+
+\lx bodal
+\ps n.
+\ge bottle
+\lxd ख
+
+\lx bora
+\ps n.
+\ge sack (Nep.)
+
+\lx bolon
+\ps n.
+\ge loan
+\lxd ख
+
+\lx bu
+\ps n.
+\ge son
+
+\lx bu
+\ps n.
+\ge insect
+
+\lx bu
+\ps v.
+\ge to go [Lho]
+
+\lx bu
+\ps n.
+\ge brother; brother in law; boy
+\lxd ख
+
+\lx bukla
+\ps adj.
+\ge inside
+
+\lx buŋgu
+\ps n.
+\ge donkey
+\lxd ख
+
+\lx butsab
+\ps n.
+\ge substitute son
+\lxd ख
+
+\lx bubhõ
+\ps n.
+\ge son and daughter
+\lxd ख
+
+\lx burol
+\ps n.
+\ge placenta
+\lxd ख
+
+\lx buluk
+\ps n.
+\ge bulb (of electricity)
+
+\lx buʃu
+\ps n.
+\ge hollow pipe like bamboo stick
+
+\lx bø
+\ps v.
+\ge to be spilled
+\lxd ख
+
+\lx bhaŋde
+\ps n.
+\ge hole in the wall to place something
+\lxd ख
+
+\lx bhaʈʈa
+\ps n.
+\ge pot for changing the water during its preparation
+\lxd ख
+
+\lx bhandzaŋ
+\ps n.
+\ge Bhanjhang  village [PN]
+\lxd ख
+
+\lx bhap
+\ps v.
+\ge to fall
+
+\lx bhar
+\ps n.
+\ge place in between
+
+\lx bharke
+\ps adv. 
+\ge between [Lho, cf. kuŋ]
+
+\lx bharku
+\ps n.
+\ge hell
+
+\lx bhartʃhe
+\ps n.
+\ge plenatary influence
+
+\lx bhartu
+\ps post.
+\ge till
+
+\lx bhala
+\ps adv.
+\ge between
+
+\lx bhalak bhalak
+\ps adv.
+\ge sometimes
+\lxd ख
+
+\lx bhalaksa
+\ps adv.
+\ge sometimes
+
+\lx bhalaŋ
+\ps n.
+\ge cow
+\lxd ख
+
+\lx bhale
+\ps n.
+\ge bread
+\lxd ख
+
+\lx bhalba
+\ps n.
+\ge frog
+\lxd ख
+
+\lx bhahjul
+\ps n.
+\ge Kathmandu (capital city of Nepal)
+
+\lx bhe
+\ps v.
+\ge to split; to open
+
+\lx bhe
+\ps v.
+\ge to hide
+
+\lx bheka
+\ps n.
+\ge interest (of money)
+\lxd ख
+
+\lx bhetsa
+\ps n.
+\ge child
+
+\lx bhetsaguru
+\ps n.
+\ge a hymn
+
+\lx bhetsaguru
+\ps n.
+\ge Bhechaguru hymn
+
+\lx bhetsabheʈuk
+\ps n.
+\ge grand child
+
+\lx bhedzabhiʈuk
+\ps n.
+\ge children
+
+\lx bhedeli
+\ps n.
+\ge getting support for always
+
+\lx bheme
+\ps n.
+\ge wife
+\lxd ख
+
+\lx bherka
+\ps n.
+\ge walking stick
+\lxd ख
+
+\lx bhi
+\ps n.
+\ge Bhi village [PN]
+\lxd ख
+
+\lx bhõ
+\ps n.
+\ge daughter
+
+\lx bhõ amtso
+\ps n.
+\ge mushroom like a girl's ear
+\lxd ख
+
+\lx bhortom
+\ps adj.
+\ge total
+\lxd ख
+
+\lx bholen
+\ps n.
+\ge loan
+
+\lx bhuru
+\ps n.
+\ge pimple
+\lxd ख
+
+\lx bhulen
+\ps n.
+\ge loan
+\lxd कक
+
+\lx bhuʃu
+\ps n.
+\ge hollow bamboo piece used to light fire
+\lxd ख
+
+\lx bhʏ
+\ps v.
+\ge to light fire
+
+\lx bhø
+\ps n.
+\ge Tibet
+
+\lx bhøtho
+\ps n.
+\ge Tibetan calender
+
+\lx bhøpa
+\ps n.
+\ge Tibetan
+\lxd ख
+
+\lx ma
+\ps part.
+\ge particle (is it?)
+
+\lx ma
+\ps adv.
+\ge below
+
+\lx makpa
+\ps n.
+\ge son in law
+
+\lx makpa
+\ps n.
+\ge son in  law
+\lxd ख
+
+\lx magen
+\ps n.
+\ge elderly woman
+\lxd ख
+
+\lx magen
+\ps n.
+\ge aged woman
+
+\lx maŋtshe
+\ps adj.
+\ge majority
+
+\lx maŋpo
+\ps adj.
+\ge much
+
+\lx maŋlø
+\ps adj.
+\ge how much [Nubri, cf. maŋlø]
+
+\lx matshap
+\ps n.
+\ge substitute mother
+\lxd ख
+
+\lx maʈik
+\ps adj.
+\ge not matching; not agreeing
+
+\lx mato
+\ps adv.
+\ge only
+
+\lx matok
+\ps adv.
+\ge only
+\lxd ख
+
+\lx mane
+\ps n.
+\ge prayer wheel
+
+\lx mane
+\ps n.
+\ge hymn (mani)
+
+\lx mane
+\ps n.
+\ge Mane worship
+\lxd ख
+
+\lx mandʒe
+\ps n.
+\ge scar
+\lxd ख
+
+\lx manɖal
+\ps n.
+\ge a kind of worship done at home
+\lxd ख
+
+\lx ma:r
+\ps n.
+\ge ghee
+
+\lx mar
+\ps adv.
+\ge below
+
+\lx maraŋ
+\ps adv.
+\ge never
+\lxd ख
+
+\lx maraŋne
+\ps adj.
+\ge all
+\lxd ख
+
+\lx maru
+\ps adv.
+\ge towards below
+
+\lx marpo
+\ps adj.
+\ge red
+\lxd ख
+
+\lx mala
+\ps adv.
+\ge below
+
+\lx male
+\ps n.
+\ge chin
+\lxd ख
+
+\lx masi
+\ps conj.
+\ge if
+
+\lx má
+\ps n.
+\ge maize; corn
+\lxd ख
+
+\lx me
+\ps n.
+\ge grandfather
+
+\lx me
+\ps adv.
+\ge below
+
+\lx me-
+\ps gram.
+\ge negative marker
+
+\lx me taŋ
+\ps v.
+\ge to burn
+\lxd कक
+
+\lx meken
+\ps adj.
+\ge poor
+\lxd ख
+
+\lx meŋen
+\ps v.
+\ge to spoil
+
+\lx men
+\ps n.
+\ge medicine
+\lxd ख
+
+\lx menda
+\ps n.
+\ge family members
+
+\lx menda
+\ps n.
+\ge gun
+\lxd ख
+
+\lx menda karpo
+\ps adj.
+\ge bright
+\lxd ख
+
+\lx mendo
+\ps n.
+\ge flower
+\lxd ख
+
+\lx meme
+\ps n.
+\ge family
+
+\lx melak
+\ps n.
+\ge labour
+
+\lx melak
+\ps n.
+\ge labour exchange
+\lxd ख
+
+\lx mi
+\ps n.
+\ge man
+
+\lx mi-
+\ps gram.
+\ge negative
+
+\lx mik
+\ps n.
+\ge eye
+
+\lx miktʃhu
+\ps n.
+\ge tear
+\lxd ख
+
+\lx mikʈhul
+\ps n.
+\ge magic
+
+\lx mikpu
+\ps n.
+\ge eyebrow
+\lxd ख
+
+\lx mikʃel
+\ps n.
+\ge eyeglass
+\lxd ख
+
+\lx mikhjok
+\ps adj.
+\ge slant (eye)
+\lxd ख
+
+\lx mig
+\ps v.
+\ge to swallow
+\lxd ख
+
+\lx miŋ
+\ps n.
+\ge name
+
+\lx miŋla
+\ps n.
+\ge name
+
+\lx mitshe
+\ps n.
+\ge life
+
+\lx midzaŋ
+\ps n.
+\ge people who dwell under the same roof
+\lxd ख
+
+\lx mindu
+\ps v.
+\ge negative copula
+\lxd ख
+
+\lx minduk
+\ps v.
+\ge negative copular verb
+
+\lx milam
+\ps n.
+\ge dream
+\lxd ख
+
+\lx mo
+\ps pron.
+\ge she
+
+\lx mo tap
+\ps v.
+\ge to curse
+\lxd ख
+
+\lx motso tshumbu
+\ps adj.
+\ge looking handsome (female)
+\lxd ख
+
+\lx moʈor
+\ps n.
+\ge motor
+\lxd ख
+
+\lx momo
+\ps n.
+\ge dumpling (momo)
+\lxd ख
+
+\lx moral
+\ps n.
+\ge place for father to live (in the house)
+\lxd ख
+
+\lx molam
+\ps n.
+\ge worship; wish
+
+\lx mu
+\ps adv.
+\ge below
+
+\lx muktsi
+\ps n.
+\ge pubic hair
+\lxd ख
+
+\lx mukpa
+\ps n.
+\ge cloud
+\lxd ख
+
+\lx mukpo
+\ps adj.
+\ge dark
+\lxd ख
+
+\lx muda
+\ps adv.
+\ge below
+
+\lx mur
+\ps v.
+\ge to massage
+\lxd ख
+
+\lx mula 
+\ps post.
+\ge with [Lho, cf. ɲumpu]
+
+\lx mja
+\ps n.
+\ge mole
+\lxd ख
+
+\lx má
+\ps n.
+\ge wound
+\lxd ख
+
+\lx mé
+\ps v.
+\ge be.NEG
+\lxd ख
+
+\lx mé
+\ps n.
+\ge fire
+\lxd ख
+
+\lx mè
+\ps n.
+\ge grandfather
+\lxd ख
+
+\lx ja
+\ps part.
+\ge also
+
+\lx jaŋ
+\ps adv.
+\ge again
+
+\lx japsa
+\ps n.
+\ge porch [Lho, cf. japsi]
+
+\lx japsi
+\ps n.
+\ge porch [Sama, cf. Japsa]
+
+\lx jar
+\ps v.
+\ge to use (borrowed things)
+
+\lx jar
+\ps v.
+\ge to borrow
+\lxd ख
+
+\lx jarka
+\ps n.
+\ge summer
+\lxd ख
+
+\lx jàkpo
+\ps adj.
+\ge good
+\lxd ख
+
+\lx jolok
+\ps n.
+\ge yard [Lho, cf. ghorom]
+
+\lx juk
+\ps v.
+\ge to shake
+
+\lx juk
+\ps v.
+\ge to leave
+
+\lx juk
+\ps v.
+\ge to throw
+\lxd ख
+
+\lx jøsoŋ
+\ps n.
+\ge Josong (place name in Lho)
+
+\lx rã
+\ps n.
+\ge place where animals are tied
+
+\lx ra
+\ps adj.
+\ge some
+
+\lx ra
+\ps part.
+\ge particle (emphasis)
+
+\lx ra
+\ps n.
+\ge goat
+\lxd ख
+
+\lx ra
+\ps n.
+\ge the bottom floor of house
+\lxd ख
+
+\lx ra
+\ps n.
+\ge animal shed (on the bottom floor)
+\lxd ख
+
+\lx -ra
+\ps gram.
+\ge plural marker
+
+\lx ra khokhok
+\ps n.
+\ge curly hair
+\lxd कक
+
+\lx rak
+\ps v.
+\ge to get
+
+\lx rak
+\ps n.
+\ge a kind of bird (patriage)
+\lxd ख
+
+\lx rakpa
+\ps n.
+\ge rope or band supporting the load carried ont the back
+\lxd ख
+
+\lx raŋ
+\ps pron.
+\ge self
+\lxd ख
+
+\lx raŋ
+\ps adj.
+\ge own
+\lxd ख
+
+\lx raŋaroŋe
+\ps n.
+\ge road with ditches
+
+\lx raŋkaruŋke
+\ps adj.
+\ge unsystematic
+
+\lx raŋdø
+\ps adj.
+\ge selfish
+\lxd ख
+
+\lx raŋsa
+\ps n.
+\ge very place
+
+\lx raŋsa
+\ps adv.
+\ge same as before
+\lxd ख
+
+\lx raná
+\ps n.
+\ge Dyang village [PN]
+\lxd ख
+
+\lx rap
+\ps n.
+\ge thread strap worn aroun horse's mouth (to make it easy to ride it)
+\lxd ख
+
+\lx rapne
+\ps n.
+\ge inauguration
+\lxd ख
+
+\lx ral
+\ps v.
+\ge to tear (intra.)
+
+\lx re
+\ps v.
+\ge copula verb
+
+\lx re
+\ps n.
+\ge clothes
+
+\lx reka
+\ps adv.
+\ge out of home; forest
+\lxd ख
+
+\lx reka
+\ps n.
+\ge hill
+
+\lx reka
+\ps n.
+\ge forest
+\lxd ख
+
+\lx reka simtsen
+\ps adj.
+\ge wild
+\lxd ख
+
+\lx reŋka
+\ps adj.
+\ge some [Lho, cf. hjulu]
+
+\lx repa
+\ps n.
+\ge lazy
+\lxd ख
+
+\lx remi
+\ps adv.
+\ge alone
+
+\lx rere
+\ps num.
+\ge one at a time
+
+\lx rel
+\ps n.
+\ge cord for tethering beasts
+\lxd ख
+
+\lx reli
+\ps adj.
+\ge some
+
+\lx reli
+\ps n.
+\ge cord for tethering beasts
+\lxd कक
+
+\lx rewa 
+\ps n.
+\ge staircase (Sama, cf. ʈewa)
+\lxd कक
+
+\lx rewa sui
+\ps n.
+\ge request
+\lxd ख
+
+\lx riu
+\ps n.
+\ge young goat
+\lxd ख
+
+\lx rikpa
+\ps n.
+\ge mind
+
+\lx riksuŋ
+\ps n.
+\ge tradition
+
+\lx riŋke
+\ps pron.
+\ge some
+\lxd ख
+
+\lx riŋga
+\ps adj.
+\ge some [Lho, cf. hjulu]
+
+\lx riŋbo
+\ps adj.
+\ge long
+
+\lx riŋbu
+\ps adj.
+\ge long
+\lxd ख
+
+\lx ripa
+\ps v.
+\ge to sneeze
+\lxd कक
+
+\lx ripum
+\ps n.
+\ge Ripum (gompa)
+
+\lx ribuŋ
+\ps n.
+\ge rabbit
+\lxd ख
+
+\lx ribuŋ gompa
+\ps n.
+\ge Ribung gompa [PN]
+\lxd ख
+
+\lx rimaŋ
+\ps n.
+\ge dung of sheep, goat
+\lxd ख
+
+\lx rimu
+\ps n.
+\ge picture
+\lxd ख
+
+\lx rimburtshe
+\ps n.
+\ge Rimborche
+
+\lx ro
+\ps n.
+\ge friend
+
+\lx roeme
+\ps adj.
+\ge alone
+\lxd कक
+
+\lx rokpa
+\ps n.
+\ge friend (Tib.)
+
+\lx rokpa
+\ps n.
+\ge friend
+\lxd ख
+
+\lx rokram
+\ps n.
+\ge help
+
+\lx roŋ
+\ps n.
+\ge low land
+
+\lx roŋ
+\ps n.
+\ge low land (from Nubri)
+\lxd ख
+
+\lx roŋba
+\ps n.
+\ge man.from.Kathmandu
+
+\lx roŋba
+\ps n.
+\ge man from low land
+
+\lx rome
+\ps adj.
+\ge alone
+
+\lx rome
+\ps adv.
+\ge alone
+\lxd ख
+
+\lx rorku
+\ps num.
+\ge sixty nine
+
+\lx ró
+\ps n.
+\ge corpse
+\lxd ख
+
+\lx rui
+\ps n.
+\ge baby goat, young goat
+\lxd ख
+
+\lx rui
+\ps n.
+\ge Rui village [PN]
+\lxd ख
+
+\lx rup
+\ps n.
+\ge work done by getting help from others
+
+\lx ruppa
+\ps n.
+\ge a kind of green leave found in the forest used as vegetable
+\lxd ख
+
+\lx rʏ
+\ps n.
+\ge Rui village (in Tibet)
+
+\lx rʏ
+\ps n.
+\ge landslide
+
+\lx rø
+\ps n.
+\ge Sama village
+
+\lx rø
+\ps n.
+\ge Sama village [PN]
+\lxd ख
+
+\lx røma
+\ps n.
+\ge a kind of drum
+\lxd ख
+
+\lx røme
+\ps adv.
+\ge only
+
+\lx rja
+\ps part.
+\ge particle (Q)
+
+\lx r̥a
+\ps n.
+\ge hair
+\lxd कक
+
+\lx r̥aŋ
+\ps v.
+\ge to swell
+\lxd कक
+
+\lx r̥ande
+\ps adj.
+\ge hard
+\lxd कक
+
+\lx r̥ar̥i
+\ps adj.
+\ge little
+
+\lx r̥alam
+\ps n.
+\ge partition (area that has partition) on the head
+\lxd कक
+
+\lx r̥eu
+\ps n.
+\ge prince
+\lxd कक
+
+\lx r̥endi
+\ps adj.
+\ge tough, strong and flexible
+\lxd कक
+
+\lx r̥i
+\ps adv.
+\ge for some time
+
+\lx r̥i
+\ps adv.
+\ge more
+
+\lx r̥i
+\ps n.
+\ge maize grain
+
+\lx r̥i
+\ps adv.
+\ge during; for a while
+\lxd कक
+
+\lx r̥iŋke
+\ps pron.
+\ge some
+\lxd ख
+
+\lx r̥itʃik
+\ps adj.
+\ge little
+
+\lx r̥inloe
+\ps adv.
+\ge how long
+\lxd कक
+
+\lx r̥il
+\ps v.
+\ge to turn upside down
+
+\lx r̥il
+\ps v.
+\ge to roll down
+\lxd कक
+
+\lx r̥õ
+\ps n.
+\ge amulet
+\lxd कक
+
+\lx r̥o
+\ps n.
+\ge egg of the louse
+
+\lx r̥o
+\ps v.
+\ge to heat (tran.)
+\lxd कक
+
+\lx r̥olaŋ
+\ps v.
+\ge to be angry
+\lxd कक
+
+\lx r̥olaŋtsu
+\ps v.
+\ge to make angry
+\lxd कक
+
+\lx r̥uk
+\ps post.
+\ge together
+
+\lx r̥ukdze
+\ps v.
+\ge to gather (intr.)
+\lxd कक
+
+\lx r̥uktaŋ
+\ps v.
+\ge to gather (tran.)
+\lxd कक
+
+\lx r̥uŋ
+\ps n.
+\ge mother's elder sister
+\lxd कक
+
+\lx r̥ul
+\ps v.
+\ge to decay
+
+\lx r̥tshula
+\ps adv.
+\ge little this side (near)
+\lxd ख
+
+\lx r̥wã
+\ps n.
+\ge amulet
+\lxd ख
+
+\lx lã
+\ps n.
+\ge monk
+\lxd ख
+
+\lx la
+\ps excl.
+\ge yes
+
+\lx la
+\ps n.
+\ge fear
+
+\lx -la
+\ps gram.
+\ge locative case; dative case; objective case
+
+\lx lain
+\ps n.
+\ge line (Eng.)
+
+\lx lau
+\ps n.
+\ge labour exchange [Sama, cf. lahjo]
+
+\lx lau
+\ps adv.
+\ge quickly
+\lxd ख
+
+\lx lak
+\ps v.
+\ge to remain
+
+\lx lakor
+\ps n.
+\ge grinding stone
+\lxd ख
+
+\lx lakor
+\ps n.
+\ge grinding stone
+\lxd ख
+
+\lx lakpa
+\ps n.
+\ge hand
+
+\lx lakpa
+\ps n.
+\ge Lakpa
+
+\lx lakpadiki
+\ps n.
+\ge Lakpa Dhiki
+
+\lx lakma
+\ps adj.
+\ge remaining
+
+\lx laŋ
+\ps v.
+\ge to occur
+
+\lx laŋ
+\ps v.
+\ge to rise
+\lxd कक
+
+\lx laŋ
+\ps v.
+\ge to erect (penis)
+\lxd कक
+
+\lx laŋtsu
+\ps v.
+\ge to make stand
+\lxd कक
+
+\lx laŋdaŋ
+\ps n.
+\ge one side
+\lxd कक
+
+\lx laŋpotshe
+\ps n.
+\ge elephant
+\lxd ख
+
+\lx laŋbo
+\ps n.
+\ge ox
+
+\lx laŋma
+\ps adj.
+\ge remaining
+\lxd कक
+
+\lx laŋma ʃoŋ
+\ps n.
+\ge mushroom of tree
+\lxd कक
+
+\lx ladza
+\ps n.
+\ge rafter
+
+\lx latok
+\ps adj.
+\ge situated (located) on the top
+\lxd ख
+
+\lx lap
+\ps v.
+\ge to say
+
+\lx lap
+\ps v.
+\ge to speak
+\lxd कक
+
+\lx lapa
+\ps n.
+\ge brain
+\lxd कक
+
+\lx lapraŋ
+\ps n.
+\ge Lapran (a person's name)
+
+\lx lapsaŋ
+\ps n.
+\ge a kind of worship done at home
+\lxd कक
+
+\lx lam
+\ps n.
+\ge road
+\lxd कक
+
+\lx lama
+\ps n.
+\ge monk
+
+\lx lamkja
+\ps n.
+\ge road
+\lxd कक
+
+\lx lamsaŋ
+\ps adv.
+\ge immediately; immediately after
+
+\lx lalok
+\ps v.
+\ge to turn upside down
+
+\lx lawa
+\ps adv.
+\ge above
+
+\lx lawa
+\ps n.
+\ge a kind of flute played at gompa
+\lxd कक
+
+\lx laso
+\ps gram.
+\ge okay
+
+\lx laʃa
+\ps n.
+\ge thigh
+\lxd कक
+
+\lx lahjo
+\ps n.
+\ge labour exchanage [Lho, cf. lau]
+\lxd कक
+
+\lx lá
+\ps n.
+\ge consciousness (fear)
+
+\lx lá
+\ps n.
+\ge wage
+\lxd कक
+
+\lx lá
+\ps n.
+\ge musk-deer
+\lxd ख
+
+\lx lá
+\ps n.
+\ge presence of mind; spirit
+\lxd ख
+
+\lx láŋ
+\ps v.
+\ge to take
+
+\lx láŋ
+\ps v.
+\ge to stand
+\lxd कक
+
+\lx láŋ
+\ps n.
+\ge a kind of tree
+\lxd कक
+
+\lx láp
+\ps v.
+\ge to teach
+\lxd कक
+
+\lx lála
+\ps adv.
+\ge above
+
+\lx le
+\ps n.
+\ge plait of girls
+
+\lx le
+\ps n.
+\ge leziness
+\lxd कक
+
+\lx le
+\ps v.
+\ge to leave
+\lxd ख
+
+\lx -le
+\ps gram.
+\ge comparative degree
+
+\lx le malambo
+\ps adj.
+\ge lazy
+\lxd ख
+
+\lx lea
+\ps adj.
+\ge better
+\lxd कक
+
+\lx leu
+\ps adj.
+\ge beautiful
+\lxd कक
+
+\lx leka
+\ps n.
+\ge work
+
+\lx lenɖe
+\ps n.
+\ge ghost
+\lxd कक
+
+\lx lep
+\ps v.
+\ge to reach; to arrive
+
+\lx lep
+\ps v.
+\ge to come
+
+\lx lepu
+\ps adj.
+\ge beautiful
+\lxd कक
+
+\lx lemba
+\ps adj.
+\ge dumb
+
+\lx leru
+\ps n.
+\ge Leru (place in Tibet)
+
+\lx lerudordze
+\ps n.
+\ge Leru Dorje (a person's name)
+
+\lx leʃo
+\ps adj.
+\ge most beautiful
+\lxd कक
+
+\lx li
+\ps n.
+\ge Li village
+\lxd कक
+
+\lx likpa
+\ps n.
+\ge penis
+\lxd कक
+
+\lx likpu
+\ps n.
+\ge pubic hair
+\lxd कक
+
+\lx liŋ
+\ps n.
+\ge place (certain area)
+
+\lx liŋ
+\ps n.
+\ge partition of the hair (on head)
+\lxd कक
+
+\lx liŋdiŋ
+\ps adv.
+\ge other side
+\lxd कक
+
+\lx liŋpu
+\ps n.
+\ge flute
+\lxd कक
+
+\lx liŋʃan
+\ps n.
+\ge bell (fixed on the neck of horse)
+\lxd कक
+
+\lx limi
+\ps n.
+\ge Limi (place in Lho)
+
+\lx lo
+\ps n.
+\ge year; age
+
+\lx lo
+\ps v.
+\ge to read
+
+\lx lo
+\ps n.
+\ge Lho village
+
+\lx lo
+\ps part.
+\ge hearsay particle
+\lxd कक
+
+\lx lo khol
+\ps v.
+\ge to cough
+\lxd कक
+
+\lx lok
+\ps v.
+\ge to return
+
+\lx lok
+\ps v.
+\ge to fall down
+
+\lx lok
+\ps n.
+\ge lamp; holy threads used to burn
+
+\lx lok
+\ps v.
+\ge to turn
+
+\lx lokal
+\ps v.
+\ge to depend
+\lxd कक
+
+\lx lokaldi
+\ps n.
+\ge support
+
+\lx loko
+\ps adj.
+\ge courageous
+\lxd कक
+
+\lx lokɖok
+\ps v.
+\ge to return
+\lxd ख
+
+\lx lokmar
+\ps n.
+\ge lightening
+\lxd कक
+
+\lx loŋ
+\ps n.
+\ge leisure
+\lxd ख
+
+\lx lopa
+\ps n.
+\ge Lho villager
+\lxd कक
+
+\lx loptsuŋ
+\ps n.
+\ge study
+
+\lx lopʈa
+\ps n.
+\ge school
+
+\lx loma
+\ps n.
+\ge leaf
+\lxd कक
+
+\lx lorkju
+\ps n.
+\ge history
+
+\lx lorkho
+\ps n.
+\ge courage
+\lxd कक
+
+\lx lu
+\ps n.
+\ge song
+\lxd कक
+
+\lx luk
+\ps v.
+\ge to fall down
+
+\lx luŋ
+\ps n.
+\ge wind (Tib.)
+\lxd कक
+
+\lx luŋpa
+\ps n.
+\ge village
+
+\lx luŋba
+\ps n.
+\ge stream
+\lxd कक
+
+\lx luŋba
+\ps n.
+\ge small canal-like channel after ploughing
+\lxd कक
+
+\lx lú
+\ps n.
+\ge snake god
+
+\lx lùk
+\ps v.
+\ge to pour; to add
+\lxd कक
+
+\lx lʏ
+\ps n.
+\ge manure (animal dung)
+
+\lx ljau
+\ps v.
+\ge to happen
+
+\lx lépo
+\ps adj.
+\ge beautiful
+\lxd कक
+
+\lx l̥a
+\ps n.
+\ge goddess
+\lxd कक
+
+\lx l̥ak
+\ps adj.
+\ge remaining
+
+\lx l̥akdok
+\ps n.
+\ge spirit
+\lxd कक
+
+\lx l̥adokgudo
+\ps n.
+\ge spirit of mind
+\lxd कक
+
+\lx l̥adokgudok
+\ps n.
+\ge consciousness
+
+\lx l̥asa
+\ps n.
+\ge Lhasa
+
+\lx l̥aʃol
+\ps n.
+\ge offering to the deities
+\lxd कक
+
+\lx l̥e
+\ps n.
+\ge animal shed
+\lxd कक
+
+\lx l̥ep
+\ps n.
+\ge piece
+\lxd ख
+
+\lx l̥ema
+\ps n.
+\ge plait
+
+\lx l̥o
+\ps n.
+\ge south
+\lxd कक
+
+\lx l̥opl̥op
+\ps adj.
+\ge loose
+\lxd कक
+
+\lx l̥ol̥o
+\ps adj.
+\ge calm
+\lxd कक
+
+\lx l̥ø
+\ps adj.
+\ge relaxed
+
+\lx wa
+\ps adv.
+\ge below
+\lxd कक
+
+\lx wa
+\ps v.
+\ge to uproot
+\lxd कक
+
+\lx -wa
+\ps gram.
+\ge ordinal numeral suffix
+
+\lx wak
+\ps adv.
+\ge below
+
+\lx wak
+\ps adv.
+\ge from down
+\lxd कक
+
+\lx wakla
+\ps adv.
+\ge below
+\lxd कक
+
+\lx wakhaŋ
+\ps n.
+\ge ground floor
+\lxd कक
+
+\lx waŋ
+\ps n.
+\ge sanctified food
+\lxd कक
+
+\lx waŋboʃor
+\ps n.
+\ge handicapped person because of old age, or sickness
+\lxd कक
+
+\lx wasula
+\ps adv.
+\ge below (towards below)
+
+\lx we
+\ps part.
+\ge particle (question)
+
+\lx sa
+\ps adj.
+\ge like this
+
+\lx sa
+\ps n.
+\ge earth
+
+\lx sa
+\ps v.
+\ge to earn
+
+\lx sa
+\ps n.
+\ge day (of week)
+
+\lx sa
+\ps v.
+\ge to go [Sama]
+
+\lx -sa
+\ps gram.
+\ge nominalizer
+
+\lx -sa
+\ps gram.
+\ge nominalizer 
+\lxd कक
+
+\lx sakar
+\ps n.
+\ge planet
+\lxd कक
+
+\lx sakar
+\ps n.
+\ge date (for any auspicious things)
+\lxd कक
+
+\lx sakpa sa
+\ps v.
+\ge to tease (intr., tran.)
+\lxd कक
+
+\lx saŋ
+\ps n.
+\ge brass
+
+\lx saŋ
+\ps adj.
+\ge secret
+\lxd कक
+
+\lx saŋasiŋi
+\ps n.
+\ge confusion
+
+\lx saŋke
+\ps n.
+\ge Budhdha
+
+\lx saŋge
+\ps n.
+\ge name of a male person
+
+\lx saŋgol
+\ps n.
+\ge going around during worship
+\lxd कक
+
+\lx saŋgul
+\ps n.
+\ge earthquake
+
+\lx saŋbo
+\ps n.
+\ge gentleman
+\lxd कक
+
+\lx saŋsiŋ
+\ps n.
+\ge disorder
+
+\lx satsa
+\ps n.
+\ge place
+
+\lx satsuk
+\ps v.
+\ge to feed
+\lxd कक
+
+\lx satʃa
+\ps n.
+\ge place
+\lxd कक
+
+\lx saɲil
+\ps n.
+\ge landslide
+\lxd कक
+
+\lx sataktawatshe
+\ps n.
+\ge an imaginary animal
+
+\lx sataktowpotʃhe
+\ps n.
+\ge king of land
+
+\lx sataksatuk
+\ps adj.
+\ge little
+
+\lx satuk bu
+\ps n.
+\ge insect found in nettle
+
+\lx sanum
+\ps n.
+\ge kerosene
+\lxd ख
+
+\lx saptuŋ
+\ps n.
+\ge food
+
+\lx sabu
+\ps n.
+\ge a kind of insect
+\lxd कक
+
+\lx sam
+\ps v.
+\ge to remember
+
+\lx sam
+\ps v.
+\ge to consider;  to think
+\lxd ख
+
+\lx sampa
+\ps n.
+\ge bridge
+
+\lx samba
+\ps n.
+\ge bridge, traditional bridge with flat wooden log
+\lxd कक
+
+\lx samlo taŋ
+\ps v.
+\ge to think
+\lxd कक
+
+\lx sajom
+\ps n.
+\ge earthquake
+
+\lx sarkjaŋ
+\ps adj.
+\ge very new
+\lxd कक
+
+\lx sarpa
+\ps adj.
+\ge new
+\lxd कक
+
+\lx sale
+\ps adj.
+\ge lame
+\lxd कक
+
+\lx salpo
+\ps adj.
+\ge clear
+
+\lx sà
+\ps v.
+\ge to torn
+\lxd कक
+
+\lx se
+\ps v.
+\ge to speak
+
+\lx se
+\ps v.
+\ge to know
+\lxd कक
+
+\lx se
+\ps v.
+\ge to kill
+\lxd कक
+
+\lx se ge
+\ps v.
+\ge to split the land
+\lxd कक
+
+\lx se tshumbo
+\ps adj.
+\ge strong
+
+\lx seʈa
+\ps n.
+\ge college of lama
+
+\lx seʈa
+\ps n.
+\ge a level of lama's training and education
+\lxd कक
+
+\lx setak
+\ps adj.
+\ge many
+\lxd कक
+
+\lx setaŋ
+\ps n.
+\ge aged couple
+
+\lx sethal
+\ps n.
+\ge plate (Hon.)
+\lxd कक
+
+\lx sen
+\ps conj.
+\ge lest
+
+\lx sen
+\ps conj.
+\ge lest
+\lxd कक
+
+\lx senʈe
+\ps adj.
+\ge greedy
+\lxd कक
+
+\lx senʈepa
+\ps adj.
+\ge miser
+\lxd कक
+
+\lx sem
+\ps n.
+\ge soul
+
+\lx sema
+\ps n.
+\ge anxiety
+\lxd कक
+
+\lx semen
+\ps pron.
+\ge other
+
+\lx semuk
+\ps n.
+\ge momo (Hon.)
+\lxd कक
+
+\lx semtsen
+\ps n.
+\ge animal
+
+\lx semtso
+\ps n.
+\ge opinion
+
+\lx semʈhel
+\ps n.
+\ge anxiety
+
+\lx sempo
+\ps adj.
+\ge young
+
+\lx semlo
+\ps n.
+\ge thought
+
+\lx sejun
+\ps n.
+\ge knowledge
+
+\lx ser thiŋ thiŋ
+\ps adj.
+\ge very yellow
+\lxd कक
+
+\lx sera
+\ps n.
+\ge hailstone
+\lxd कक
+
+\lx seraŋ
+\ps n.
+\ge Serang (Serang gompa)
+
+\lx seraŋ
+\ps adj.
+\ge serang gompa
+\lxd कक
+
+\lx serka
+\ps n.
+\ge ditch
+
+\lx sertop
+\ps n.
+\ge apex; pinacle of temple
+\lxd कक
+
+\lx serpo
+\ps adj.
+\ge yellow
+\lxd कक
+
+\lx sermo
+\ps n.
+\ge nail
+\lxd कक
+
+\lx selak
+\ps n.
+\ge food (Hon.)
+
+\lx sé
+\ps v.
+\ge to comb
+\lxd कक
+
+\lx sè
+\ps n.
+\ge third day (third day in future)
+\lxd कक
+\pr 
+
+\lx sèn
+\ps conj.
+\ge otherwise
+\lxd कक
+
+\lx sèn
+\ps n.
+\ge traditional porridge
+\lxd कक
+
+\lx si
+\ps v.
+\ge to look (Hon.)
+
+\lx sitsin
+\ps n.
+\ge Sichin (name of gompa)
+
+\lx sinum
+\ps adv.
+\ge three days back
+
+\lx sipsip
+\ps adj.
+\ge in small grains
+
+\lx sim
+\ps v.
+\ge to sleep (Hon.)
+
+\lx sim
+\ps n.
+\ge sleep (Hon.)
+\lxd कक
+
+\lx simbo
+\ps adj.
+\ge delicious
+\lxd कक
+
+\lx sìk
+\ps n.
+\ge tiger
+
+\lx so
+\ps v.
+\ge to prepare
+
+\lx so
+\ps n.
+\ge So village
+\lxd कक
+
+\lx sokpa
+\ps n.
+\ge wings; feather
+\lxd कक
+
+\lx sokpa
+\ps n.
+\ge nostrill
+\lxd कक
+
+\lx soŋ
+\ps v.
+\ge to go
+
+\lx soŋ
+\ps v.
+\ge went
+\lxd कक
+
+\lx sode
+\ps n.
+\ge luck
+\lxd कक
+
+\lx sode tʃhembo
+\ps adj.
+\ge lucky
+\lxd कक
+
+\lx sode medi
+\ps adj.
+\ge unfortunate
+\lxd कक
+
+\lx soldʒa
+\ps n.
+\ge tea (Hon)
+\lxd कक
+
+\lx solʈum
+\ps n.
+\ge meat (Hon.)
+\lxd कक
+
+\lx solɖe
+\ps n.
+\ge rice (Hon.)
+\lxd कक
+
+\lx solɖʏn
+\ps n.
+\ge food (Hon.)
+\lxd कक
+
+\lx soltur
+\ps n.
+\ge spoon (Hon.)
+\lxd कक
+
+\lx solmen
+\ps n.
+\ge medicine
+\lxd कक
+
+\lx sowa
+\ps n.
+\ge prayer
+\lxd कक
+
+\lx sòra
+\ps n.
+\ge sickle
+\lxd कक
+
+\lx su
+\ps adv.
+\ge around
+
+\lx su
+\ps pron.
+\ge who
+
+\lx suk
+\ps v.
+\ge to sit (Hon.)
+\lxd कक
+
+\lx suku
+\ps n.
+\ge leaf of books
+\lxd कक
+
+\lx suktshe
+\ps adj.
+\ge majority
+\lxd कक
+
+\lx sukpo
+\ps n.
+\ge body (Tib.)
+
+\lx suksøla 
+\ps adv.
+\ge finally [Lho, cf. tiŋsø]
+\lxd कक
+
+\lx suŋ
+\ps v.
+\ge to speak (Hon.)
+
+\lx suŋ
+\ps v.
+\ge to say (Hon.)
+
+\lx suŋ
+\ps v.
+\ge to tell
+\lxd कक
+
+\lx suŋke
+\ps n.
+\ge speech (Hon.)
+\lxd कक
+
+\lx supu
+\ps n.
+\ge body
+\lxd कक
+
+\lx supu mathaŋ
+\ps adj.
+\ge pregnant
+\lxd कक
+
+\lx sum
+\ps num.
+\ge three
+
+\lx sum
+\ps v.
+\ge to weep (Hon.)
+
+\lx sum
+\ps n.
+\ge churning pot
+\lxd कक
+
+\lx sum
+\ps v.
+\ge to hold
+\lxd कक
+
+\lx sumdʒu
+\ps num.
+\ge thirty
+\lxd कक
+
+\lx sumpa
+\ps num.
+\ge third
+\lxd कक
+
+\lx sur
+\ps n.
+\ge edge
+
+\lx surkju
+\ps adv.
+\ge always
+\lxd कक
+
+\lx sula
+\ps adv.
+\ge around
+
+\lx sù
+\ps n.
+\ge body
+
+\lx sʏ
+\ps v.
+\ge to hit
+\lxd कक
+
+\lx sʏ
+\ps v.
+\ge to dissolve (such as ghee, ice etc.)
+\lxd कक
+
+\lx sʏtsuk
+\ps v.
+\ge melt (tran.)
+\lxd कक
+
+\lx sá
+\ps adj.
+\ge area; region
+\lxd कक
+
+\lx scarves
+\ps n.
+\ge ceremonial scarves
+\lxd कक
+
+\lx ʂa
+\ps n.
+\ge hair
+\lxd कक
+
+\lx ʂi
+\ps adj.
+\ge little more
+
+\lx ʂimbu
+\ps n.
+\ge roundworm
+\lxd कक
+
+\lx ʂu
+\ps n.
+\ge uncle's wife
+\lxd कक
+
+\lx ʃa
+\ps v.
+\ge to tear (intr.)
+\lxd कक
+
+\lx ʃa
+\ps n.
+\ge meat
+\lxd कक
+
+\lx ʃau
+\ps n.
+\ge apple
+\lxd कक
+
+\lx ʃau
+\ps n.
+\ge cap (traditional)
+\lxd कक
+
+\lx ʃak
+\ps v.
+\ge keep
+
+\lx ʃak
+\ps v.
+\ge to split
+\lxd कक
+
+\lx ʃakpa
+\ps n.
+\ge day
+
+\lx ʃakpa
+\ps adj.
+\ge how much
+\lxd कक
+
+\lx ʃakpa
+\ps n.
+\ge meat curry
+\lxd कक
+
+\lx ʃakma
+\ps n.
+\ge day
+
+\lx ʃaŋ
+\ps v.
+\ge to build (Hon.)
+
+\lx ʃaŋlu
+\ps n.
+\ge song sung when one stands
+\lxd कक
+
+\lx ʃap
+\ps n.
+\ge leg (Hon.)
+\lxd कक
+
+\lx ʃapten
+\ps n.
+\ge worship (and other things)
+
+\lx ʃam 
+\ps adv.
+\ge later [Lho, cf. tiŋla]
+
+\lx ʃamen
+\ps pron.
+\ge other
+
+\lx ʃamu
+\ps n.
+\ge hat
+\lxd कक
+
+\lx ʃamla
+\ps adv.
+\ge later
+
+\lx ʃar
+\ps adj.
+\ge east
+
+\lx ʃar
+\ps v.
+\ge to shave; to trim lama's hair
+\lxd कक
+
+\lx ʃara
+\ps n.
+\ge male (man)
+
+\lx ʃarpu
+\ps v.
+\ge to dance
+\lxd ख
+
+\lx ʃarpu lu
+\ps n.
+\ge song sung when people sing standing
+\lxd ख
+
+\lx ʃal
+\ps v.
+\ge to wash away
+
+\lx ʃala
+\ps n.
+\ge wall
+
+\lx ʃala
+\ps n.
+\ge Shyala (PN)
+
+\lx ʃala kjap
+\ps v.
+\ge to smear
+
+\lx ʃaldep
+\ps n.
+\ge donation
+\lxd ख
+
+\lx ʃà
+\ps v.
+\ge to split
+\lxd कक
+
+\lx ʃàk
+\ps v.
+\ge to keep
+\lxd कक
+
+\lx ʃàra
+\ps adj.
+\ge blind
+\lxd कक
+
+\lx ʃàltep
+\ps n.
+\ge donation
+\lxd कक
+
+\lx ʃenda
+\ps adj.
+\ge others
+
+\lx ʃemen
+\ps adj.
+\ge other
+\lxd कक
+
+\lx ʃel
+\ps n.
+\ge glass
+
+\lx ʃi
+\ps num.
+\ge four
+
+\lx ʃi
+\ps v.
+\ge to die
+
+\lx ʃi
+\ps v.
+\ge to fall down
+
+\lx ʃi
+\ps v.
+\ge to look
+\lxd कक
+
+\lx ʃik
+\ps v.
+\ge to look (Hon.)
+
+\lx ʃik
+\ps n.
+\ge louse
+
+\lx ʃik
+\ps v.
+\ge to fall down
+\lxd कक
+
+\lx ʃiŋ
+\ps n.
+\ge field
+
+\lx ʃiŋ
+\ps n.
+\ge firewood
+
+\lx ʃiŋ
+\ps v.
+\ge to finish
+\lxd कक
+
+\lx ʃiŋŋal
+\ps n.
+\ge burning piece of wood
+\lxd कक
+
+\lx ʃiŋpa
+\ps n.
+\ge farmer
+
+\lx ʃiŋbu
+\ps n.
+\ge termite
+\lxd कक
+
+\lx ʃidur
+\ps n.
+\ge fear after one's death
+\lxd कक
+
+\lx ʃipa
+\ps num.
+\ge fourth
+\lxd कक
+
+\lx ʃiptʃu
+\ps num.
+\ge forty
+\lxd कक
+
+\lx ʃimpo
+\ps adj.
+\ge tasty
+\lxd कक
+
+\lx ʃo
+\ps n.
+\ge Sho (place name in Lho)
+
+\lx ʃoŋ
+\ps v.
+\ge to accomodate; to have enough place
+\lxd कक
+
+\lx ʃoŋ
+\ps n.
+\ge mushroom 
+\lxd कक
+
+\lx ʃop
+\ps v.
+\ge to be imprisoned
+
+\lx ʃor
+\ps v.
+\ge to be free; to be released
+\lxd कक‍
+
+\lx ʃor
+\ps v.
+\ge to like
+\lxd कक
+
+\lx ʃu
+\ps v.
+\ge to enter
+
+\lx ʃu
+\ps v.
+\ge to sit (Hon.)
+
+\lx ʃu
+\ps n.
+\ge arrow
+\lxd कक
+
+\lx ʃui
+\ps v.
+\ge to hit
+
+\lx ʃuk
+\ps n.
+\ge force
+
+\lx ʃuku
+\ps n.
+\ge plastic
+
+\lx ʃuku
+\ps n.
+\ge plastic
+\lxd कक
+
+\lx ʃuŋ
+\ps n.
+\ge government
+
+\lx ʃuŋ
+\ps adv.
+\ge towards
+
+\lx ʃuŋ
+\ps n.
+\ge book (of Buddhism)
+
+\lx ʃʏ
+\ps n.
+\ge to extend hand to receive something
+\lxd 
+
+\lx ʃø
+\ps v.
+\ge to build
+
+\lx ha go
+\ps v.
+\ge to know
+
+\lx hae
+\ps adj.
+\ge bad [Lho, cf. hawe]
+
+\lx hau
+\ps adv.
+\ge up there
+\lxd कक
+
+\lx hauda
+\ps adv.
+\ge there
+
+\lx hauda
+\ps adv.
+\ge there
+\lxd कक
+
+\lx haudala
+\ps adv.
+\ge further there
+
+\lx haudala
+\ps adv.
+\ge there
+\lxd कक
+
+\lx haŋga
+\ps n.
+\ge precipice; edge
+\lxd कक
+
+\lx hape
+\ps adj.
+\ge bad; ugly
+\lxd कक
+
+\lx hapera
+\ps adj.
+\ge bad
+
+\lx ham
+\ps n.
+\ge shoes (Hon.)
+\lxd कक
+
+\lx hajaŋ
+\ps n.
+\ge almunium
+
+\lx haroŋ
+\ps adj.
+\ge our
+
+\lx harkjok
+\ps n.
+\ge horn [Lho, cf. arkjok]
+
+\lx hartsho
+\ps adv.
+\ge further away that side
+
+\lx hala
+\ps adv.
+\ge thither; that side
+\lxd कक
+
+\lx halam
+\ps adj.
+\ge that much
+\lxd ख
+
+\lx hale
+\ps adv.
+\ge that side
+
+\lx hale
+\ps adv.
+\ge extremely; very
+\lxd कक
+
+\lx hali
+\ps adv.
+\ge very
+
+\lx halo
+\ps adv.
+\ge that side
+\lxd कक
+
+\lx hawe
+\ps adj.
+\ge bad [Sama, cf. hae]
+
+\lx hẽ
+\ps excl.
+\ge exclamation
+
+\lx hemu
+\ps n.
+\ge Kathmandu
+
+\lx hembu
+\ps n.
+\ge Kathmandu
+
+\lx hé
+\ps n.
+\ge potato [Lho, cf. do]
+
+\lx héphép
+\ps adj.
+\ge mischivious
+\lxd कक
+
+\lx hitsé
+\ps n.
+\ge belief
+\lxd कक
+
+\lx hin
+\ps v.
+\ge copula verb
+
+\lx hin
+\ps v.
+\ge copular verb
+\lxd कक
+
+\lx hinaŋ gompa
+\ps v.
+\ge Hinang gompa
+\lxd कक
+
+\lx hip
+\ps v.
+\ge to hide (intr.; tran.)
+\lxd कक
+
+\lx hõ
+\ps excl.
+\ge yes
+
+\lx ho
+\ps pron.
+\ge that
+
+\lx hoi
+\ps adv.
+\ge towards there
+
+\lx hou
+\ps pron.
+\ge that
+
+\lx hou
+\ps adv.
+\ge of there
+\lxd कक
+
+\lx hogaŋ
+\ps adv.
+\ge that time
+
+\lx hoŋ
+\ps v.
+\ge to come
+
+\lx hoŋsaŋpu
+\ps n.
+\ge Hongsangpu gompa (PN)
+
+\lx hoŋsaŋphu
+\ps n.
+\ge Hongsangphu (name of gompa)
+
+\lx hoŋsaŋbu
+\ps n.
+\ge Hongsangbu (name of a man)
+
+\lx hotsø
+\ps adj.
+\ge that much
+
+\lx hoʈel
+\ps n.
+\ge hotel (Eng.)
+
+\lx hota
+\ps adv.
+\ge there
+
+\lx hotok
+\ps adv.
+\ge really
+\lxd ख
+
+\lx hoda
+\ps adv.
+\ge there
+
+\lx hodala
+\ps adv.
+\ge there
+\lxd कक
+
+\lx hodiko
+\ps pron.
+\ge that one
+
+\lx hodigja
+\ps pron.
+\ge they
+
+\lx hone
+\ps adj.
+\ge like this
+
+\lx honɖe
+\ps adj.
+\ge like this
+
+\lx hop
+\ps adv.
+\ge suddenly
+
+\lx hopame
+\ps n.
+\ge Hopak God (Namo Buddha)
+
+\lx hoptak
+\ps adv.
+\ge suddenly
+
+\lx hoptak medi
+\ps adv.
+\ge suddenly
+\lxd कक
+
+\lx hoptatale
+\ps adv.
+\ge suddenly
+\lxd कक
+
+\lx hompa
+\ps adj.
+\ge deaf
+\lxd कक
+
+\lx horaŋ
+\ps pron.
+\ge we [Prok, cf. horoŋ]
+\lxd कक
+
+\lx hortse
+\ps n.
+\ge thank you
+\lxd कक
+
+\lx hortshe
+\ps excl.
+\ge thank you
+
+\lx hordzuŋ
+\ps excl.
+\ge thank you
+
+\lx hola
+\ps adv.
+\ge there
+\lxd कक
+
+\lx hosarbuʈi
+\ps n.
+\ge Hosar Buti (name of a woman)
+
+\lx hui
+\ps adv.
+\ge from that side
+
+\lx hutsho
+\ps adv.
+\ge over there
+
+\lx hutshuda
+\ps adv.
+\ge like this
+\lxd कक
+
+\lx hudi
+\ps pron.
+\ge that
+
+\lx hunuŋ
+\ps n.
+\ge face
+\lxd कक
+
+\lx huʃaŋ
+\ps n.
+\ge Husyang (PN)
+
+\lx hʏ
+\ps adv.
+\ge above
+\lxd कक
+
+\lx hʏhja
+\ps adv.
+\ge towards above
+
+\lx hødzo
+\ps adj.
+\ge all
+
+\lx høntʃaŋ
+\ps adj.
+\ge deaf
+\lxd कक
+
+\lx hjã
+\ps excl.
+\ge okay
+
+\lx hja
+\ps adv.
+\ge towards
+
+\lx hja
+\ps adv.
+\ge above
+\lxd कक
+
+\lx hjakpo
+\ps adj.
+\ge good [Tib. cf. ghoŋ]
+
+\lx hjaŋ
+\ps adv.
+\ge again
+
+\lx hjaŋ
+\ps part.
+\ge also
+\lxd कक
+
+\lx hjaŋ phalem
+\ps adv.
+\ge again
+\lxd कक
+
+\lx hjaŋdi
+\ps adv.
+\ge much
+
+\lx hjaŋba
+\ps adj.
+\ge careless
+\lxd कक
+
+\lx hjaŋbo
+\ps adj.
+\ge light (weight)
+\lxd कक
+
+\lx hjaŋmu
+\ps adj.
+\ge light (weight)
+\lxd कक
+
+\lx hjaŋlak
+\ps n.
+\ge branch
+\lxd कक
+
+\lx hjaŋse
+\ps n.
+\ge incarnation
+\lxd कक
+
+\lx hjap
+\ps n.
+\ge father (Hon)
+
+\lx hjama
+\ps n.
+\ge something unpleasant
+
+\lx hjama
+\ps n.
+\ge sinus; a bad nose
+
+\lx hjamu
+\ps n.
+\ge Kathmandu
+
+\lx hjarke soŋ
+\ps v.
+\ge to be developed
+\lxd कक
+
+\lx hjal
+\ps v.
+\ge to lose
+
+\lx hjala
+\ps adv.
+\ge above
+
+\lx hjalak
+\ps n.
+\ge upward slope, ascent
+
+\lx hjalka
+\ps n.
+\ge branch (tree)
+\lxd कक
+
+\lx hjo
+\ps v.
+\ge copular verb
+\lxd कक
+
+\lx hjoktsuk
+\ps n.
+\ge armpit
+\lxd कक
+
+\lx hjoktsuk wapu
+\ps n.
+\ge hair of armpit
+\lxd कक
+
+\lx hjotshe
+\ps adj.
+\ge all
+
+\lx hjodzø
+\ps adj.
+\ge all
+\lxd कक
+
+\lx hjop
+\ps n.
+\ge iron thing in which the leg can be rested while riding horse
+\lxd कक
+
+\lx hjopa
+\ps n.
+\ge rice
+
+\lx hjolu
+\ps adj.
+\ge some
+\lxd कक
+
+\lx hjolmo
+\ps n.
+\ge Yohlmo
+
+\lx hjolsula
+\ps adv.
+\ge after that time
+
+\lx hjuta
+\ps adv.
+\ge that side
+
+\lx hjun
+\ps n.
+\ge time
+
+\lx hjuru
+\ps adv.
+\ge above
+
+\lx hjurtsok
+\ps v.
+\ge to doze
+
+\lx hjurma
+\ps n.
+\ge weed
+\lxd कक
+
+\lx hjul
+\ps n.
+\ge village
+
+\lx hjula
+\ps adv.
+\ge above
+
+\lx hjulu
+\ps adj.
+\ge some [Sama, cf.  riŋga]
+
+\lx hjulmi
+\ps n.
+\ge villager
+\lxd कक
+
+\lx hwa
+\ps adv.
+\ge below
+
+\lx hwakaŋ
+\ps n.
+\ge down floor
+
+\lx hwakdila
+\ps adv.
+\ge lower side
+
+\lx hwakla
+\ps adv.
+\ge below
+
+\lx hwala
+\ps adv.
+\ge below

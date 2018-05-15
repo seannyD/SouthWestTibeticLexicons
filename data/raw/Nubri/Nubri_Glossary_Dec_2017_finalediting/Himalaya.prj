@@ -1,0 +1,97 @@
+\+ShProjectSettings 
+\ver 5.0
+\ProgramVersion 1.5.9 Apr 2011
+\ProjectPath F:\a_Nubri_all_Janchuk\Glossary_Nubri_Dec28_2017\Glossary_Dec_2017_finalediting\Himalaya.prj
+\LockProject 0
+\AutomaticKeyboardSwitching
+\+CorpusSet 
+\WordLstMaxCount 100
+\ConcordanceSearchType 0
+\ConcordanceLimitCount
+\ConcordanceMaxCount 1000
+\ConcordanceOutput lookup.db
+\-CorpusSet
+\LangCtrlHeight 24
+\+fntMarkers 
+\Name MS Sans Serif
+\Size 10
+\-fntMarkers
+\+rundosMarkers 
+\-rundosMarkers
+\placementMain normal -1 -1 -1 -1 0 0 1309 692
+\+dblst 
+
+\+db F:\a_Nubri_all_Janchuk\Glossary_Nubri_Dec28_2017\Glossary_Dec_2017_finalediting\Lexicon.txt
+\+wndlst 
+\+wnd 
+\placement normal -1 -1 -1 -1 101 12 825 575
+\z 0
+\ViewMarkers
+\widthMarkerArea 50
+\Browse
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 111
+\-brf
+\+brf 
+\mkr ps
+\width 91
+\-brf
+\+brf 
+\mkr ge
+\width 196
+\-brf
+\+brf 
+\mkr lxd
+\width 262
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lxd
+\srtPriKey Nepali Unicode
+\mkrSecKey ge
+\-ind
+\+rec 
+\fldPriKey कक
+\fldSecKey rice (Hon.)
+\-rec
+\+keySearch 
+\fldPri 235
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri tshe
+\MatchWhole
+\match_char p
+\-keyInsert
+\-wnd
+\-wndlst
+\-db
+
+\-dblst
+\+Find 
+\Field a
+\match_char p
+\+ftxlst 
+\+ftx 
+\text pe
+\lng Default
+\-ftx
+\+ftx 
+\text gheli
+\lng Default
+\-ftx
+\+ftx 
+\text lok
+\lng Default
+\-ftx
+\-ftxlst
+\-Find
+\AmbigBoxLeft 0
+\AmbigBoxTop 20
+\-ShProjectSettings

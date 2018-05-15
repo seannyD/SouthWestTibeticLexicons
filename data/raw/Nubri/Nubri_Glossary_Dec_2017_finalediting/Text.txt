@@ -1,0 +1,13 @@
+\_sh v3.0  400  Text
+
+\ref
+\ELANBegin
+\ELANEnd
+\ELANParticipant
+\ut
+\tx
+\mb
+\ge
+
+\ft
+\ftn

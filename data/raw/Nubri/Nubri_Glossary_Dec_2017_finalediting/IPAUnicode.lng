@@ -1,0 +1,163 @@
+﻿\+LanguageEncoding IPA Unicode
+\ver 5.0
+\desc International phonetic alphabets
+\case A a
+B b
+C c
+D d
+E e
+F f
+G g
+H h
+I i
+J j
+K k
+L l
+M m
+N n
+O o
+P p
+Q q
+R r
+S s
+T t
+U u
+V v
+W w
+X x
+Y y
+Z z
+\+srtset 
+
+\+srt IPA Unicode
+\desc Sort order with default properties.
+\primary a a̤ ã ã̤
+e e̤ ẽ ẽ̤
+ɛ ɛ̤ ɛ̃ ɛ̤̃
+i i̤ ĩ ĩ̤
+o o̤ õ õ̤
+u ṳ ũ ṳ̃
+y y̤ ỹ ỹ̤
+ɪ ɪ̤ ɪ̃ ɪ̤̃
+ʏ ʏ̤ ʏ̃ ʏ̤̃
+
+ø ø̤ ø̃ ø̤̃
+
+œ œ̤ œ̃ œ̤̃
+æ æ̤ æ̃ æ̤̃
+
+ɶ ɶ̤ ɶ̃ ɶ̤̃
+ɐ ɐ̤ ɐ̃ ɐ̤̃
+ɑ ɑ̤ ɑ̃ ɑ̤̃
+ɒ ɒ̤ ɒ̃ ɒ̤̃
+ʌ ʌ̤ ʌ̃ ʌ̤̃
+ɔ ɔ̤ ɔ̃ ɔ̤̃
+
+ɤ ɤ̤ ɤ̃ ɤ̤̃
+
+ɯ ɯ̤ ɯ̃ ɯ̤̃
+ʊ ʊ̤ ʊ̃ ʊ̤̃
+ɨ ɨ̤ ɨ̃
+ʉ ʉ̤ ʉ̤̃
+ɘ ɘ̤ ɘ̃
+ɵ 
+ə ə̤ ə̃ ə̤̃
+ɜ ɜ̤ ɜ̃ 
+
+k
+kh
+g
+gh
+ŋ
+ts
+tsh
+tʃ
+tʃh
+dz
+dzh
+dʒ
+dʒh
+ɲ
+ʈ
+ʈh
+ɖ
+ɖh
+t
+th
+d
+dh
+n
+p
+ph
+b
+bh
+m
+j
+r
+r̥
+l
+l̥
+w
+s
+ʂ
+ʃ
+h
+\SecPreceding `
+\SecFollowing ' :
+\ignore -
+\-srt
+
+\srtDefault IPA Unicode
+\-srtset
+\+varset 
+
+\+var !
+\chars . , ? : ; ! < > { } [ ] ( ) " ' `
+\-var
+
+\+var @
+\chars A a B b C c D d E e F f G g H h I i J j K k L l M m
+N n O o P p Q q R r S s T t U u V v W w X x Y y Z z
+\-var
+
+\+var D
+\chars 0 1 2 3 4 5 6 7 8 9
+\-var
+
+\+var L
+\chars a b c d e f g h i j k l m n o p q r s t u v w x y z
+\-var
+
+\+var U
+\chars A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+\-var
+
+\+var cons
+\chars B b C c D d F f G g H h J j K k L l M m
+N n P p Q q R r S s T t V v W w X x Y y Z z
+\-var
+
+\+var nasal
+\chars M m N n
+\-var
+
+\+var vowel
+\chars A a E e I i O o U u
+\-var
+
+\-varset
+\+fnt 
+\Name Doulos SIL
+\Size 12
+\charset 00
+\rgbColor 0,0,0
+\-fnt
+\kbdWin32 IPA Unicode 5.0c (ver 1.0) MSK
+\+KeyDefs 
+
+
+
+\-KeyDefs
+\UnicodeLang
+
+\-LanguageEncoding

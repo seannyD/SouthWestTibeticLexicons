@@ -1,0 +1,211 @@
+ID	DOCULECT	CONCEPT	CONCEPTID	TRANSCRIPTION	SEGMENTS	COGID	GLOSS
+1	Jirel_Sikri	BODY	1480	dziu			body
+2	Jirel_Sikri	HEAD	1256	go			head
+3	Jirel_Sikri	HAIR	1040	ṭa			hair
+4	Jirel_Sikri	FACE	1560	tshet /tshed			face
+5	Jirel_Sikri	EYE	1248	mik			eye
+6	Jirel_Sikri	EAR	1247	namdzjok 			ear
+7	Jirel_Sikri	NOSE	1221	nəu / no			nose
+8	Jirel_Sikri	MOUTH	674	kha			mouth
+9	Jirel_Sikri	TOOTH	1380	sa			teeth
+10	Jirel_Sikri	TONGUE	1205	tsele /tsela			tongue
+11	Jirel_Sikri	BREAST	1402	numa			breast
+12	Jirel_Sikri	BELLY	1251	suba			belly
+13	Jirel_Sikri	ARM	1673	lakpa			arm/ hand
+14	Jirel_Sikri	ELBOW	981	kuino/ kuina			elbow
+15	Jirel_Sikri	PALM TREE	1181	pəra /para			palm
+16	Jirel_Sikri	FINGER	1303	dziu			finger
+17	Jirel_Sikri	FINGERNAIL	1258	sermuk/ sermu			fingernail
+18	Jirel_Sikri	LEG	1297	kəmba / kamba			leg
+19	Jirel_Sikri	SKIN	763	kokten			skin
+20	Jirel_Sikri	BONE	1394	ruwa			bone
+21	Jirel_Sikri	HEART	1223	ŋiŋ /niŋ			heart
+22	Jirel_Sikri	BLOOD	946	ṭhak			blood
+23	Jirel_Sikri	URINE	1142	tsiŋ			urine
+24	Jirel_Sikri	FAECES (EXCREMENT)	675	kjakpa			feces
+25	Jirel_Sikri	VILLAGE	930	jul			village
+26	Jirel_Sikri	HOUSE	1252	khamba			house
+27	Jirel_Sikri	ROOF	769	oro			roof
+28	Jirel_Sikri	DOOR	1567	go /gho			door
+29	Jirel_Sikri	FIREWOOD	10	siŋ			firewood
+30	Jirel_Sikri	BROOM	245	komuk / komu			broom
+31	Jirel_Sikri	MORTAR CRUSHER	224	siləuṭo / siləuṭo			mortar
+32	Jirel_Sikri	PESTLE	225	dardok			pestle
+33	Jirel_Sikri	HAMMER	1481	həthəuḍa			hammer
+34	Jirel_Sikri	KNIFE	1352	tsəkku / ṭhiŋ			knife
+35	Jirel_Sikri	AXE	677	təri / teri			axe
+36	Jirel_Sikri	ROPE	1218	ṭhakpa/tha?pa			rope
+37	Jirel_Sikri	THREAD	1161	sutak /sutak			thread
+38	Jirel_Sikri	NEEDLE (FOR SEWING)	1382	khap			needle
+39	Jirel_Sikri	CLOTH	1616	kholak			cloth
+40	Jirel_Sikri	RING	1374	ə̃uṭhi / suŋkuma			ring
+41	Jirel_Sikri	SUN	1343	ŋima			sun
+42	Jirel_Sikri	MOON	1313	dagar			moon
+43	Jirel_Sikri	SKY	1732	nam			sky
+44	Jirel_Sikri	STAR	1430	tara/ karma			star
+45	Jirel_Sikri	RAIN (RAINING)	1253	dzhəri / jar			rain
+46	Jirel_Sikri	WATER	948	tshju			water
+47	Jirel_Sikri	RIVER	666	ṭaŋka / thaŋka			river
+48	Jirel_Sikri	CLOUD	1489	mukpa			cloud
+49	Jirel_Sikri	LIGHTNING	1654	tsilam			lightening
+50	Jirel_Sikri	RAINBOW	1733	dza			rainbow
+51	Jirel_Sikri	WIND	960	hawa /lhaba			wind
+52	Jirel_Sikri	STONE	857	do			stone
+53	Jirel_Sikri	PATH	2252	lam			path
+54	Jirel_Sikri	SAND	671	baluwa 			sand
+55	Jirel_Sikri	FIRE	221	me (low tone) 			fire
+56	Jirel_Sikri	SMOKE (INHALE)	1689	thuta 			smoke
+57	Jirel_Sikri	ASH	646	thala			ash
+58	Jirel_Sikri	MUD	640	sebi			mud
+59	Jirel_Sikri	DUST	2	dhulo			dust
+60	Jirel_Sikri	GOLD	1369	ser			gold
+61	Jirel_Sikri	TREE	906	doŋbo			tree
+62	Jirel_Sikri	LEAF	628	sjomak			leaf
+63	Jirel_Sikri	ROOT	670	tsaprin /tsapren			root
+64	Jirel_Sikri	THORN	124	tsaŋ			thorn
+65	Jirel_Sikri	FLOWER	239	menduk			flower
+66	Jirel_Sikri	FRUIT	1507	phəlphul			fruit
+67	Jirel_Sikri	MANGO	2398	ãp			mango
+68	Jirel_Sikri	BANANA	868	kera / renesiŋ			banana
+69	Jirel_Sikri	WHEAT	1077	ṭha			wheat(husked)
+70	Jirel_Sikri	BARLEY	932	dzəu			barley
+71	Jirel_Sikri	RICE	926	sjomuk /sjorok			rice (husked)
+72	Jirel_Sikri	POTATO	593	rege			potato
+73	Jirel_Sikri	AUBERGINE	1146	bhenṭa			eggplant
+74	Jirel_Sikri	PEANUT	2364	bədam			groundnut
+75	Jirel_Sikri	CHILI PEPPER	919	khorsani			chili
+76	Jirel_Sikri	TURMERIC	2842	besar			turmeric
+77	Jirel_Sikri	GARLIC	2368	gokpa			garlic
+78	Jirel_Sikri	ONION	2366	pjadz			onion
+79	Jirel_Sikri	CAULIFLOWER	2843	kauli			cauliflower
+80	Jirel_Sikri	TOMATO	986	golbhẽḍa			Tomato
+81	Jirel_Sikri	CABBAGE	774	bənda			cabbage
+82	Jirel_Sikri	OIL (ORGANIC SUBSTANCE)	1484	mərgu / morbuk			oil
+83	Jirel_Sikri	SALT	1274	tsha			salt
+84	Jirel_Sikri	MEAT	634	sja			meat
+85	Jirel_Sikri	FAT (OF MEAT AND FOOD)	2449	tshilup			fat (of meat)
+86	Jirel_Sikri	FISH	227	ŋja			fish
+87	Jirel_Sikri	CHICKEN	1318	tshibuk /tshibuk			chicken
+88	Jirel_Sikri	EGG	744	goŋa /goma			egg
+89	Jirel_Sikri	COW	1007	phalaŋ			cow
+90	Jirel_Sikri	BUFFALO	934	mesja (Rising tone)			buffalo
+91	Jirel_Sikri	MILK	635	oma			milk
+92	Jirel_Sikri	HORN (ANATOMY)	1393	rədzjo			horns
+93	Jirel_Sikri	TAIL	1220	ŋama			tail
+94	Jirel_Sikri	GOAT	1502	ra			goat
+95	Jirel_Sikri	DOG	2009	ki			dog
+96	Jirel_Sikri	SNAKE	730	rul			snake
+97	Jirel_Sikri	MONKEY	1350	ṭakla phirkante			monkey
+98	Jirel_Sikri	MOSQUITO	1509	lamkhuṭṭe			mosquito
+99	Jirel_Sikri	ANT	587	ṭhoŋma			ant
+100	Jirel_Sikri	SPIDER	843	gwãpali			spider
+101	Jirel_Sikri	NAME	1405	min /miŋ			name
+102	Jirel_Sikri	MAN	1554	mi			man
+103	Jirel_Sikri	WOMAN	962	phemmemi			woman
+104	Jirel_Sikri	CHILD	2099	phidza			child
+105	Jirel_Sikri	FATHER	1217	aba			father
+106	Jirel_Sikri	MOTHER	1216	ama			mother
+107	Jirel_Sikri	OLDER BROTHER	1759	adzjo			older brother
+108	Jirel_Sikri	YOUNGER BROTHER	1760	noa			younger brother
+109	Jirel_Sikri	OLDER SISTER	1758	adzi			older sister
+110	Jirel_Sikri	YOUNGER SISTER	1761	numu/ numo			younger sister
+111	Jirel_Sikri	SON	1620	phudzuŋ			son
+112	Jirel_Sikri	DAUGHTER	1357	phumu			daughter
+113	Jirel_Sikri	HUSBAND	1200	khjobo			husband
+114	Jirel_Sikri	WIFE	1199	phimbe /phembe			wife
+115	Jirel_Sikri	BOY	1366	kjobomi			boy
+116	Jirel_Sikri	GIRL	1646	pheme phidza			girl
+117	Jirel_Sikri	DAY (NOT NIGHT)	1225	nimbu			day
+118	Jirel_Sikri	NIGHT	1233	gwaka			night
+119	Jirel_Sikri	MORNING	1339	ŋomo / məmu			morning
+120	Jirel_Sikri	NOON	2490	ŋime ser /nimbo			noon
+121	Jirel_Sikri	EVENING	1629	gwase			evening
+122	Jirel_Sikri	YESTERDAY	1174	daŋ			yesterday
+123	Jirel_Sikri	TODAY	1283	thəriŋ			today
+124	Jirel_Sikri	TOMORROW	1329	ŋaro			tomorrow
+125	Jirel_Sikri	WEEK	1469	sata			week
+126	Jirel_Sikri	MONTH	1370	dawa			month
+127	Jirel_Sikri	YEAR	1226	lo			year
+128	Jirel_Sikri	OLD	1229	ŋimma			old
+129	Jirel_Sikri	NEW	1231	samba			new
+130	Jirel_Sikri	GOOD	1035	lemu			good
+131	Jirel_Sikri	BAD	1292	meleba			bad
+132	Jirel_Sikri	WET	1726	ṭhiŋge / lumma			wet
+133	Jirel_Sikri	DRY	1398	kombo			dry
+134	Jirel_Sikri	LONG	1203	riŋbu / rimmo			long
+135	Jirel_Sikri	SHORT	1645	thumma			short
+136	Jirel_Sikri	HOT	1286	ṭhombu			hot
+137	Jirel_Sikri	COLD	1287	kheba			cold
+138	Jirel_Sikri	RIGHT	1019	sama			right
+139	Jirel_Sikri	LEFT	244	debre			left
+140	Jirel_Sikri	NEAR	1942	dondu			near
+141	Jirel_Sikri	FAR	1406	thari			far
+142	Jirel_Sikri	BIG	1202	dzoba			big
+143	Jirel_Sikri	SMALL	1246	ṭekṭe /ṭiṭṭi 			small
+144	Jirel_Sikri	HEAVY	1210	tsinde /tsende			heavy
+145	Jirel_Sikri	LIGHT (WEIGHT)	1052	eŋge / ine			light
+146	Jirel_Sikri	ABOVE	1741	kheŋla 			above
+147	Jirel_Sikri	DOWN OR BELOW	2094	thulla /mima			below
+148	Jirel_Sikri	WHITE	1335	karmu			white
+149	Jirel_Sikri	BLACK	163	nakpo			black
+150	Jirel_Sikri	RED	156	mərmu /marmu			red
+151	Jirel_Sikri	ONE	1493	dakpəi /dokpai			one
+152	Jirel_Sikri	TWO	1498	ŋi			two
+153	Jirel_Sikri	THREE	492	sum			three
+154	Jirel_Sikri	FOUR	1500	si			four
+155	Jirel_Sikri	FIVE	493	ŋa			five
+156	Jirel_Sikri	SIX	1703	ṭhuk			six
+157	Jirel_Sikri	SEVEN	1704	don			seven
+158	Jirel_Sikri	EIGHT	1705	get			eight
+159	Jirel_Sikri	NINE	1483	gu			nine
+160	Jirel_Sikri	TEN	1515	tsutamba /tsətəmba			ten
+161	Jirel_Sikri	ELEVEN	1706	tsutsik			eleven
+162	Jirel_Sikri	TWELVE	1707	tsuŋgi			twelve
+163	Jirel_Sikri	TWENTY	1710	khaldzik/khadzjuk 			twenty
+164	Jirel_Sikri	HUNDRED	1634	səe dzik			one hundred
+165	Jirel_Sikri	WHO	1235	su			who
+166	Jirel_Sikri	WHAT	1236	tsi			what
+167	Jirel_Sikri	WHERE	1237	khapa			where
+168	Jirel_Sikri	WHEN	1238	nam			when
+169	Jirel_Sikri	HOW MANY	822	thoe			how many
+170	Jirel_Sikri	WHICH	727	khaŋ			which
+171	Jirel_Sikri	THIS	1214	di			this
+172	Jirel_Sikri	THAT	78	the			that
+173	Jirel_Sikri	THIS	1214	diba / diwa			these
+174	Jirel_Sikri	THAT	78	theba /thewa			those
+175	Jirel_Sikri	SAME	200	dhokraŋ			same
+176	Jirel_Sikri	DIFFERENT	2504	dzendzik/khuduk			different
+177	Jirel_Sikri	WHOLE	2277	gaŋe			whole
+178	Jirel_Sikri	BROKEN	588	tsjakpate			broken
+179	Jirel_Sikri	FEW	1242	ṭikpi			few
+180	Jirel_Sikri	MANY	1198	kalbei /kalbe			many
+181	Jirel_Sikri	ALL	98	gaŋe			all
+182	Jirel_Sikri	EAT	1336	sobap / satsja			to eat
+183	Jirel_Sikri	BITE	1403	murap / sataptsja			to bite
+184	Jirel_Sikri	BE HUNGRY	1533	twabalasuŋ			to  be hungry
+185	Jirel_Sikri	DRINK	1401	thubap /thuŋtsja			to drink
+186	Jirel_Sikri	THIRSTY	847	kombalasuŋ / kombalatsja			to  be thirsty
+187	Jirel_Sikri	SLEEP	1585	ŋjalap /ŋjaltsja			to sleep
+188	Jirel_Sikri	LIE (REST)	1411	rilap /riltsja			to lie
+189	Jirel_Sikri	SIT	1416	detap / dettsja			to  sit
+190	Jirel_Sikri	GIVE	1447	bindap/ tersja			to  give 
+191	Jirel_Sikri	BURN	2102	dzhibakabap /sektsja			to  burn
+192	Jirel_Sikri	DIE	1494	situŋ /sitsja			to die
+193	Jirel_Sikri	KILL	1417	setap/ settsja			to  kill 
+194	Jirel_Sikri	FLY (MOVE THROUGH AIR)	1441	phurap/ phurtsja			to  fly
+195	Jirel_Sikri	WALK	1443	khambap/ khamtsja			to  walk 
+196	Jirel_Sikri	RUN	1519	tshwabap /tshjoŋsja			to run/ run
+197	Jirel_Sikri	GO	695	galap /dotshja			to go /go
+198	Jirel_Sikri	COME	1446	walap /oŋtsja			to  come
+199	Jirel_Sikri	SPEAK	1623	bat khabap /bat khitsja			to  speak/ speak
+200	Jirel_Sikri	LISTEN	1608	ŋendap /ŋetsja			to  hear/hear/listen
+201	Jirel_Sikri	LOOK	1819	tawap /tatshja			to  look/look
+202	Jirel_Sikri	I	1209	ŋa			I 
+203	Jirel_Sikri	THOU	1215	kho			you (informal)
+204	Jirel_Sikri	YOU (FORMAL ADDRESS)	2844	khoraŋ			you (formal)
+205	Jirel_Sikri	HE	1211	the			he
+206	Jirel_Sikri	SHE	1834	the 			she
+207	Jirel_Sikri	WE (INCLUSIVE)	1131	ŋwokon /oroŋ 			we (inclusive)
+208	Jirel_Sikri	WE (EXCLUSIVE)	1130	ŋwokon /oroŋ			we (exclusive)
+209	Jirel_Sikri	YOU	1213	kjokonbəri /khekon			you (plural)
+210	Jirel_Sikri	THEY	817	thewabəri /theba			they

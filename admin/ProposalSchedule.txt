@@ -1,0 +1,57 @@
+Questions:
+	Cognate coding: how important is tone?
+	Contact Mark Donohue about the project
+	Think about co-authors
+
+
+
+As soon as possible:
+	Reimbursement for DND
+	-> How much of the budget is left
+	Send money to Tribhuvan
+	Add DND to collaborators
+	
+Sean: Send readings about cognate coding
+Dubi: Send soft copies of dictionaries, or say if they are only hard copies
+Dubi: Ask anthropology department about dates and history?
+
+Automatic conversion
+	Sean: Convert soft dictionaries to tsv and xlsx
+	Create list of missing concepts
+	
+Finding missing data
+	Dubi: Transcription from pdf, interviews etc.
+	
+-> 207 concepts in 8 languages
+	Sean: Check the data formats
+
+Submit Gyalsumdo to Glottolog
+
+Submit data to Lexibank?
+Put the data on the website
+	Sean: Make a searchable dictionary
+
+Possible first paper:
+	Release data
+	Network analysis
+	
+Cognate coding
+	Sean: Automatic first pass
+	Dubi: Manual coding
+	Sean: Automatic checking
+	
+-> Cognates
+
+Calibration dates:
+	Collect and enter priors
+
+Bayesian phylogenetic analysis
+	Check with Fiona, Josh etc.
+
+Paper
+	Dubi: Summarise current theories
+	Dubi: Describe languages
+	Sean: Describe data
+	Sean: Results
+
+

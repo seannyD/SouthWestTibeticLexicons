@@ -1,0 +1,162 @@
+﻿\+LanguageEncoding Nepali Unicode
+\ver 5.0
+\desc Devanagari
+\case A a
+B b
+C c
+D d
+E e
+F f
+G g
+H h
+I i
+J j
+K k
+L l
+M m
+N n
+O o
+P p
+Q q
+R r
+S s
+T t
+U u
+V v
+W w
+X x
+Y y
+Z z
+\+srtset 
+
+\+srt Nepali Unicode
+\desc Sort order with default properties.
+\primary ॐ
+अ
+आ ा
+इ ि
+ई ी
+ऋ
+उ ु
+ऊ ू
+ए े
+ऐ ै
+ओ ो
+औ ौ
+क
+ख
+ग
+घ
+ङ
+च
+छ
+ज
+झ
+ञ
+ट
+ठ
+ड
+ढ
+ण
+त
+थ
+द
+ध
+न
+प
+फ
+ब
+भ
+म
+य
+र
+ल
+व
+स
+श
+ष
+ह
+क्ष
+त्र
+०
+१
+२
+३
+४
+५
+६
+७
+८
+९
+!
+@
+#
+रु.
+%
+^
+&
+*
+(
+)
+॒‌
+ः
+:
+़
+\SecPreceding ँ ं
+\SecFollowing '
+\ignore -
+\-srt
+
+\srtDefault Nepali Unicode
+\-srtset
+\+varset 
+
+\+var !
+\chars . , ? : ; ! < > { } [ ] ( ) " ' `
+\-var
+
+\+var @
+\chars A a B b C c D d E e F f G g H h I i J j K k L l M m
+N n O o P p Q q R r S s T t U u V v W w X x Y y Z z
+\-var
+
+\+var D
+\chars 0 1 2 3 4 5 6 7 8 9
+\-var
+
+\+var L
+\chars a b c d e f g h i j k l m n o p q r s t u v w x y z
+\-var
+
+\+var U
+\chars A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+\-var
+
+\+var cons
+\chars B b C c D d F f G g H h J j K k L l M m
+N n P p Q q R r S s T t V v W w X x Y y Z z
+\-var
+
+\+var nasal
+\chars M m N n
+\-var
+
+\+var vowel
+\chars A a E e I i O o U u
+\-var
+
+\-varset
+\+fnt 
+\Name Kalimati
+\Size 12
+\rgbColor 0,0,0
+\-fnt
+\kbdWin32 Nepali Unicode Romanized Layout
+\+KeyDefs 
+
+
+
+\-KeyDefs
+\UnicodeLang
+
+\-LanguageEncoding
