@@ -30,9 +30,11 @@ def findConcept(gloss):
 	return ["",""]
 	
 def fixIPA(ipa):
-	ipa = ipa.replace("j","ʲ")
+	ipa = ipa.replace(u"j",u"ʲ")
+	ipa = ipa.replace(u"L",u"ᴸ")
+	ipa = ipa.replace(u"H",u"ᴴ")	
 	# TODO: normal h has vowel after, aspiration has consonant before
-	#ipa = ipa.replace("h","ʰ")
+	ipa = re.sub(u"([ktʲsŋbgdzpnwmrlʈɖʝɬ])h",ur"\1ʰ",ipa)
 	return ipa
 		
 

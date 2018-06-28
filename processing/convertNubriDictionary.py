@@ -2,7 +2,7 @@
 
 import re, codecs, ast
 
-o = codecs.open("../data/reference/concepticon_conceptset.json/conceptset.json"'r',encoding='utf8')
+o = codecs.open("../data/reference/concepticon_conceptset.json/conceptset.json",'r',encoding='utf8')
 cs = o.read()
 o.close()
 
@@ -41,7 +41,7 @@ for entry in d.split("\n\n")[1:]:
 
 		concept = findConcept(gloss)
 
-		out += "\t".join([str(idNum),"Nubi",str(concept[1]),str(concept[0]),trans,"","",gloss,pos])+"\n"
+		out += "\t".join([str(idNum),"Nubri",str(concept[1]),str(concept[0]),trans,"","",gloss,pos])+"\n"
 	
 	
 	

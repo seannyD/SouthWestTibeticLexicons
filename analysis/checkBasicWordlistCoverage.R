@@ -9,26 +9,49 @@ readTSV = function(f){
 
 concepticon = fromJSON(file ="../data/reference/concepticon_conceptset.json/conceptset.json")
 
-# Load data
-tsum = readTSV("../data/processed/Tsum.tsv")
-#tsum = readTSV("../data/processed/Tsum_tmp.tsv")
-#tsum = tsum[!duplicated(tsum$ID),]
-#tsum$CONCEPT = tsum$CONCEPTICON_GLOSS
-nubri = readTSV("../data/processed/Nubri.tsv")
-gyalsumdo = readTSV("../data/processed/Gyalsumdo.tsv")
-jirel = readTSV("../data/processed/Jirel.tsv")
-lowa = readTSV("../data/processed/Lowa.tsv")
-yolmo = readTSV("../data/processed/Yolmo.tsv")
-kagate = readTSV("../data/processed/Kagate.tsv")
+languageFiles = c(
+  tsum="../data/processed/Tsum.tsv",
+  nubri="../data/processed/Nubri.tsv",
+  nubri_namrung = "../data/processed/Nubri_Namrung.tsv",
+  nubri_lhi = "../data/processed/Nubri_Lhi.tsv",
+  nubri_lho = "../data/processed/Nubri_Lho.tsv",
+  nubri_sama = "../data/processed/Nubri_Sama.tsv",
+  nubri_sho = "../data/processed/Nubri_Sho.tsv",
+  gyalsumdo = "../data/processed/Gyalsumdo.tsv",
+  jirel = "../data/processed/Jirel.tsv",
+  lowa = "../data/processed/Lowa.tsv",
+  yolmo = "../data/processed/Yolmo.tsv",
+  kagate = "../data/processed/Kagate.tsv")
 
-# Convert to xlsx
-write.xlsx(tsum,file = "../data/processed/Tsum.xlsx")
-write.xlsx(nubri,file = "../data/processed/Nubri.xlsx")
-write.xlsx(gyalsumdo,file = "../data/processed/Gyalsumdo.xlsx")
-write.xlsx(jirel,file = "../data/processed/Jirel.xlsx")
-write.xlsx(lowa,file = "../data/processed/Lowa.xlsx")
-write.xlsx(yolmo,file = "../data/processed/Yolmo.xlsx")
-write.xlsx(kagate,file = "../data/processed/Kagate.xlsx")
+# Load data
+
+allData = list()
+for(l in names(languageFiles)){
+  allData[[l]] = readTSV(languageFiles[l])
+}
+
+# advancedMatch= F
+# if(advancedMatch){
+#   tsum = readTSV("../data/processed/Tsum_advancedMatch.tsv")
+#   tsum[tsum$CONCEPT=="",]$CONCEPT = tsum[tsum$CONCEPT=="",]$CONCEPTICON_GLOSS
+#   nubri = readTSV("../data/processed/Nubri_advancedMatch.tsv")
+#   nubri[nubri$CONCEPT=="",]$CONCEPT = nubri[nubri$CONCEPT=="",]$CONCEPTICON_GLOSS
+#   gyalsumdo = readTSV("../data/processed/Gyalsumdo_advancedMatch.tsv")
+#   gyalsumdo[gyalsumdo$CONCEPT=="",]$CONCEPT = gyalsumdo[gyalsumdo$CONCEPT=="",]$CONCEPTICON_GLOSS
+#   jirel = readTSV("../data/processed/Jirel_advancedMatch.tsv")
+#   jirel[jirel$CONCEPT=="",]$CONCEPT = jirel[jirel$CONCEPT=="",]$CONCEPTICON_GLOSS
+#   lowa = readTSV("../data/processed/Lowa_advancedMatch.tsv")
+#   lowa[lowa$CONCEPT=="",]$CONCEPT = lowa[lowa$CONCEPT=="",]$CONCEPTICON_GLOSS
+#   yolmo = readTSV("../data/processed/Yolmo_advancedMatch.tsv")
+#   yolmo[yolmo$CONCEPT=="",]$CONCEPT = yolmo[yolmo$CONCEPT=="",]$CONCEPTICON_GLOSS
+#   
+# }
+
+
+for(l in names(languageFiles)){
+  write.xlsx(allData[[l]],file = 
+               gsub("\\.tsv",".xlsx",languageFiles[l]))
+}
 
 
 # Calculate stats
@@ -37,49 +60,23 @@ swadesh100 = read.csv("../data/reference/Swadesh1964_100.csv",stringsAsFactors =
 
 dunn207 = read.csv("../data/reference/Dun_2012_207.tab", stringsAsFactors = F, encoding = 'utf-8', fileEncoding = "utf-8", sep="\t",quote="")
 
-jirelConcepts = unique(jirel$CONCEPT)
+jirelConcepts = unique(allData[["jirel"]]$CONCEPT)
 
 stats = data.frame(
-  language = c("tsum",'nubri','gyalsumdo','jirel','lowa','yolmo','kagate'),
-  numEntries = c(
-    length((tsum$CONCEPT)),
-    length((nubri$CONCEPT)),
-    length((gyalsumdo$CONCEPT)),
-    length((jirel$CONCEPT)),
-    length((lowa$CONCEPT)),
-    length((yolmo$CONCEPT)),
-    length((kagate$CONCEPT))       
-  ),
-  numConceptsMatchedToConcepticon = c(
-    length(unique(tsum$CONCEPT)),
-    length(unique(nubri$CONCEPT)),
-    length(unique(gyalsumdo$CONCEPT)),
-    length(unique(jirel$CONCEPT)),
-    length(unique(lowa$CONCEPT)),
-    length(unique(yolmo$CONCEPT)),
-    length(unique(kagate$CONCEPT))    
-  ),
-  numSwadesh100ConceptsMatchedToConcepticon = c(
-    sum(unique(tsum$CONCEPT) %in% swadesh100$Parameter),
-    sum(unique(nubri$CONCEPT) %in% swadesh100$Parameter),
-    sum(unique(gyalsumdo$CONCEPT) %in% swadesh100$Parameter),
-    sum(unique(jirel$CONCEPT) %in% swadesh100$Parameter),
-    sum(unique(lowa$CONCEPT) %in% swadesh100$Parameter),
-    sum(unique(yolmo$CONCEPT) %in% swadesh100$Parameter),
-    sum(unique(kagate$CONCEPT) %in% swadesh100$Parameter)    
-  ),
-  numJirel208ConceptsMatchedToConcepticon = c(
-    sum(jirelConcepts %in% unique(tsum$CONCEPT)),
-    sum(jirelConcepts %in% unique(nubri$CONCEPT)),
-    sum(jirelConcepts %in% unique(gyalsumdo$CONCEPT)),
-    sum(jirelConcepts %in% unique(jirel$CONCEPT)),
-    sum(jirelConcepts %in% unique(lowa$CONCEPT)),
-    sum(jirelConcepts %in% unique(yolmo$CONCEPT)),
-    sum(jirelConcepts %in% unique(kagate$CONCEPT))
-  )
+  language = names(languageFiles),
+  numEntries = 
+    sapply(allData,function(X){length(X$CONCEPT)}),
+  numConceptsMatchedToConcepticon = 
+    sapply(allData,function(X){length(unique(X$CONCEPT))}),
+  numSwadesh100ConceptsMatchedToConcepticon = 
+    sapply(allData,function(X){sum(unique(X$CONCEPT) %in% swadesh100$Parameter)}),
+  numJirel208ConceptsMatchedToConcepticon = 
+    sapply(allData,function(X){sum(jirelConcepts %in% unique(X$CONCEPT))})
 )
 
 stats$progress = paste0(round(100*(stats$numJirel208ConceptsMatchedToConcepticon/length(jirelConcepts)),0),"%")
+
+write.xlsx(stats,"../data/processed/progress.xlsx")
 
 # Find missing concepts
 findMissingConcepts = function(d){
@@ -90,18 +87,29 @@ findMissingConcepts = function(d){
   return(missing)
 }
 
-missing = rbind(findMissingConcepts(tsum),
-      findMissingConcepts(nubri),
-      findMissingConcepts(gyalsumdo),
-      #findMissingConcepts(jirel),
-      findMissingConcepts(lowa),
-      findMissingConcepts(yolmo),
-      findMissingConcepts(kagate))
+missing = data.frame()
+
+for(l in names(allData)){
+  if(l!="jirel"){
+    missing = rbind(missing,
+                    findMissingConcepts(allData[[l]]))
+  }
+}
+
 
 write.csv(missing,file="../data/processed/MissingConcepts.csv", fileEncoding = 'utf-8')
 
-
+########################
 # Shallow network analysis
+# TODO: refactor to use 
+
+tsum = as.data.frame(allData[["tsum"]])
+nubri = as.data.frame(allData[["nubri"]])
+gyalsumdo = as.data.frame(allData[["gyalsumdo"]])
+lowa = as.data.frame(allData[["lowa"]])
+yolmo = as.data.frame(allData[["yolmo"]])
+jirel = as.data.frame(allData[["jirel"]])
+kagate = as.data.frame(allData[["kagate"]])
 
 allConcepts = unique(c(tsum$CONCEPT,nubri$CONCEPT,gyalsumdo$CONCEPT))
 allConcepts = allConcepts[allConcepts!=""]
@@ -111,7 +119,7 @@ overlapConcepts = allConcepts[allConcepts %in% tsum$CONCEPT & allConcepts %in% n
 getOverlap = function(d){
   d = d[d$CONCEPT %in% overlapConcepts,]
   d = d[!duplicated(d$CONCEPT),]
-  return(d[order(d$CONCEPT),]$TRANSCRIPTION)
+  return(gsub(" +","",d[order(d$CONCEPT),]$TRANSCRIPTION))
 }
 
 compareIPA = function(l1,l2){

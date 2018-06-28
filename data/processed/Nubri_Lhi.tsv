@@ -1,0 +1,199 @@
+ID	DOCULECT	CONCEPT	CONCEPTID	TRANSCRIPTION	SEGMENTS	COGID	GLOSS	GLOSSNEPALI	ORTHOGRAPHIC
+1	Nubri_Lhi	BODY	1480	sṳbu			body	शरीर	१
+2	Nubri_Lhi	HEAD	1256	gō			head	टाउको	२
+3	Nubri_Lhi	HAIR	1040	ʃà			hair	कपाल	३
+4	Nubri_Lhi	FACE	1560	ŋonoŋ			face	अनुहार	४
+5	Nubri_Lhi	EYE	1248	mìk			eye	आँखा	५
+6	Nubri_Lhi	EAR	1247	amtsók			ear	कान	६
+7	Nubri_Lhi	NOSE	1221	narki			nose	नाक	७
+8	Nubri_Lhi	MOUTH	674	kʰa			mouth	मुख	८
+9	Nubri_Lhi	TOOTH	1380	sō			teeth	दाँत	९
+10	Nubri_Lhi	TONGUE	1205	tsjeũ			tongue	जिब्रो	१०
+11	Nubri_Lhi	BREAST	1402	daŋgo			breast	स्तन	११
+12	Nubri_Lhi	BELLY	1251	ɖʰopa			belly	पेट	१२
+13	Nubri_Lhi	ARM	1673	la̤kpa			arm/ hand	हात	१३
+14	Nubri_Lhi	ELBOW	981	rudzuma			elbow	कुइनो	१४
+15	Nubri_Lhi	PALM TREE	1181	tʰil			palm	हत्केला	१५
+16	Nubri_Lhi	FINGER	1303	dziũ			finger	औँला	१६
+17	Nubri_Lhi	FINGERNAIL	1258	sérmo			fingernail	नङ	१७
+18	Nubri_Lhi	LEG	1297	kaŋba			leg	खुट्टा	१८
+19	Nubri_Lhi	SKIN	763	pegò			skin	छाला	१९
+20	Nubri_Lhi	BONE	1394	ruipa			bone	हाड	२०
+21	Nubri_Lhi	HEART	1223	niŋ			heart	मुटु	२१
+22	Nubri_Lhi	BLOOD	946	ʈʰak			blood	रगत	२२
+23	Nubri_Lhi	URINE	1142	tsīn			urine	पिसाब	२३
+24	Nubri_Lhi	FAECES (EXCREMENT)	675	kʲakpa			feces	दिसा	२४
+25	Nubri_Lhi	VILLAGE	930	hjṳl			village	गाउँ	२५
+26	Nubri_Lhi	HOUSE	1252	kʰim			house	घर	२६
+27	Nubri_Lhi	ROOF	769	kʰamdok			roof	छानो	२७
+28	Nubri_Lhi	DOOR	1567	gò			door	ढोका	२८
+29	Nubri_Lhi	FIREWOOD	10	siŋ			firewood	दाउरा	२९
+30	Nubri_Lhi	BROOM	245	koŋmo			broom	कुचो	३०
+31	Nubri_Lhi	MORTAR CRUSHER	224	góktsum			mortar	सिलौटो	३१
+32	Nubri_Lhi	PESTLE	225	tīktsa			pestle	लोहोरो	३२
+33	Nubri_Lhi	HAMMER	1481	sēr			hammer	हथौडा	३३
+34	Nubri_Lhi	KNIFE	1352	ɖiù			knife	चक्कु	३४
+35	Nubri_Lhi	AXE	677	tʌri			axe	बञ्चरो	३५
+36	Nubri_Lhi	ROPE	1218	tʰakpa			rope	डोरी	३६
+37	Nubri_Lhi	THREAD	1161	siŋga			thread	धागो	३७
+38	Nubri_Lhi	NEEDLE (FOR SEWING)	1382	kʰap			needle	सियो	३८
+39	Nubri_Lhi	CLOTH	1616	golák			cloth	लुगा (कपडा)	३९
+40	Nubri_Lhi	RING	1374	sertop			ring	औँठी	४०
+41	Nubri_Lhi	SUN	1343	ŋéwa			sun	घाम	४१
+42	Nubri_Lhi	MOON	1313	ɖʰa̤kar			moon	चन्द्रमा	४२
+43	Nubri_Lhi	SKY	1732	nam			sky	आकाश	४३
+44	Nubri_Lhi	STAR	1430	karma			star	तारा	४४
+45	Nubri_Lhi	RAIN (RAINING)	1253	namgjap			rain	वर्षा	४५
+46	Nubri_Lhi	WATER	948	tsū			water	पानी	४६
+47	Nubri_Lhi	RIVER	666	tsāŋbo			river	नदी	४७
+48	Nubri_Lhi	CLOUD	1489	múkpa			cloud	बादल	४८
+49	Nubri_Lhi	LIGHTNING	1654	dúk			lightening	बिजुली चम्कनु	४९
+50	Nubri_Lhi	RAINBOW	1733	dzjadzuk			rainbow	इन्द्रेणी	५०
+51	Nubri_Lhi	WIND	960	l̥aba			wind	बतास	५१
+52	Nubri_Lhi	STONE	857	to			stone	ढुङ्गा	५२
+53	Nubri_Lhi	PATH	2252	lamgjak			path	बाटो	५३
+54	Nubri_Lhi	SAND	671	bjã			sand	बालुवा	५४
+55	Nubri_Lhi	FIRE	221	mɛ̀			fire	आगो	५५
+56	Nubri_Lhi	SMOKE (INHALE)	1689	ɖupa			smoke	धुवाँ	५६
+57	Nubri_Lhi	ASH	646	tʰala			ash	खरानी	५७
+58	Nubri_Lhi	MUD	640	tʰala			mud	माटो	५८
+59	Nubri_Lhi	DUST	2	tʰalauŋ			dust	धुलो	५९
+60	Nubri_Lhi	GOLD	1369	ser			gold	सुन	६०
+61	Nubri_Lhi	TREE	906	doŋbo			tree	रूख	६१
+62	Nubri_Lhi	LEAF	628	lema			leaf	पात	६२
+63	Nubri_Lhi	ROOT	670	bʌda̤k			root	जरा	६३
+64	Nubri_Lhi	THORN	124	tsʰerma			thorn	काँडो	६४
+65	Nubri_Lhi	FLOWER	239	mendòk			flower	फूल	६५
+66	Nubri_Lhi	FRUIT	1507	ʃĩ̤			fruit	फलफूल	६६
+69	Nubri_Lhi	WHEAT	1077	nɛ̃			wheat (husked)	गहुँ	६९
+70	Nubri_Lhi	BARLEY	932	nɛ			barley	जौ	७०
+71	Nubri_Lhi	RICE	926	ɖe			rice (husked)	चामल	७१
+72	Nubri_Lhi	POTATO	593	hɛ̄			potato	आलु	७२
+75	Nubri_Lhi	CHILI PEPPER	919	kʰortsen			chili	खुर्सानी	७५
+77	Nubri_Lhi	GARLIC	2368	gókpa			garlic	लसुन	७७
+78	Nubri_Lhi	ONION	2366	tsōŋ			onion	प्याज	७८
+82	Nubri_Lhi	OIL (ORGANIC SUBSTANCE)	1484	nùm			oil	तेल	८२
+83	Nubri_Lhi	SALT	1274	tsā			salt	नुन	८३
+84	Nubri_Lhi	MEAT	634	ʃjà			meat	मासु	८४
+85	Nubri_Lhi	FAT (OF MEAT AND FOOD)	2449	tsʰīlu			fat (of meat)	बोसो	८५
+86	Nubri_Lhi	FISH	227	ɳa̤			fish	माछा	८६
+87	Nubri_Lhi	CHICKEN	1318	dzhedzum			chicken	चल्ला	८७
+88	Nubri_Lhi	EGG	744	gʷa̤			egg	अण्डा	८८
+89	Nubri_Lhi	COW	1007	bʌlaŋ			cow	गाई	८९
+91	Nubri_Lhi	MILK	635	ɦoma			milk	दुध	९१
+92	Nubri_Lhi	HORN (ANATOMY)	1393	ɦarkjók			horns	सिङ	९२
+93	Nubri_Lhi	TAIL	1220	nā			tail	पुच्छर	९३
+94	Nubri_Lhi	GOAT	1502	ra̤			goat	बाख्रो	९४
+95	Nubri_Lhi	DOG	2009	kì			dog	कुकुर	९५
+96	Nubri_Lhi	SNAKE	730	ɖul			snake	सर्प	९६
+97	Nubri_Lhi	MONKEY	1350	ʈegen			monkey	बाँदर	९७
+99	Nubri_Lhi	ANT	587	ɖoŋbor			ant	कमिला	९९
+100	Nubri_Lhi	SPIDER	843	babla			spider	माकुरो	१००
+101	Nubri_Lhi	NAME	1405	miŋ			name	नाम	१०१
+102	Nubri_Lhi	MAN	1554	mɛ̀			man	मान्छे	१०२
+103	Nubri_Lhi	WOMAN	962	bʰõ			woman	आइमाई	१०३
+104	Nubri_Lhi	CHILD	2099	bèsa			child	बच्चा	१०४
+105	Nubri_Lhi	FATHER	1217	apa			father	बाबा	१०५
+106	Nubri_Lhi	MOTHER	1216	ã			mother	आमा	१०६
+107	Nubri_Lhi	OLDER BROTHER	1759	atsjo			older brother	दाजु	१०७
+108	Nubri_Lhi	YOUNGER BROTHER	1760	bu			younger brother	भाइ	१०८
+109	Nubri_Lhi	OLDER SISTER	1758	atsi			older sister	दिदी	१०९
+110	Nubri_Lhi	YOUNGER SISTER	1761	bʰõ			younger sister	बहिनी	११०
+111	Nubri_Lhi	SON	1620	bù			son	छोरो	१११
+112	Nubri_Lhi	DAUGHTER	1357	bʰõ			daughter	छोरी	११२५
+113	Nubri_Lhi	HUSBAND	1200	kʰjoga			husband	लोग्ने (श्रीमान)	११३
+114	Nubri_Lhi	WIFE	1199	bʰime			wife	स्वास्नी (श्रीमती)	११४
+115	Nubri_Lhi	BOY	1366	bù			boy	केटो	११५
+116	Nubri_Lhi	GIRL	1646	bʰõ			girl	केटी	११६
+117	Nubri_Lhi	DAY (NOT NIGHT)	1225	nímo			day	दिन	११७
+118	Nubri_Lhi	NIGHT	1233	tsʰemo			night	रात	११८
+119	Nubri_Lhi	MORNING	1339	ɖokoŋ			morning	विहान	११९
+121	Nubri_Lhi	EVENING	1629	goŋmo			evening	साँझ	१२१
+122	Nubri_Lhi	YESTERDAY	1174	daŋ			yesterday	हिजो	१२२
+123	Nubri_Lhi	TODAY	1283	ɖiriŋ			today	आज	१२३
+124	Nubri_Lhi	TOMORROW	1329	ŋáro			tomorrow	भोली	१२४
+125	Nubri_Lhi	WEEK	1469	sjabadun			week	हप्ता (साता)	१२५
+126	Nubri_Lhi	MONTH	1370	da̤wa			month	महिना	१२६
+127	Nubri_Lhi	YEAR	1226	lo			year	वर्ष	१२७
+128	Nubri_Lhi	OLD	1229	niŋba			old	बूढो	१२८
+129	Nubri_Lhi	NEW	1231	samba			new	नयाँ	१२९
+130	Nubri_Lhi	GOOD	1035	l̥ebu			good	राम्रो (असल)	१३०
+131	Nubri_Lhi	BAD	1292	góbo			bad	नराम्रो (खराब)	१३१
+132	Nubri_Lhi	WET	1726	ɖʰaŋmo			wet	चिसो	१३२
+133	Nubri_Lhi	DRY	1398	kipu			dry	सुख्खा	१३३
+134	Nubri_Lhi	LONG	1203	rīŋbu			long	लामो	१३४
+135	Nubri_Lhi	SHORT	1645	ʈēma			short	छोटो	१३५
+136	Nubri_Lhi	HOT	1286	doŋbo			hot	तातो	१३६
+137	Nubri_Lhi	COLD	1287	ɖʰaŋmo			cold	चिसो	१३७
+138	Nubri_Lhi	RIGHT	1019	eba			right	दाहिने	१३८
+139	Nubri_Lhi	LEFT	244	ema			left	देव्रे	१३९
+140	Nubri_Lhi	NEAR	1942	ŋimo			near	नजिक	१४०
+141	Nubri_Lhi	FAR	1406	riŋbu			far	टाढा	१४१
+142	Nubri_Lhi	BIG	1202	tsʰempo			big	ठूलो	१४२
+143	Nubri_Lhi	SMALL	1246	tsēma			small	सानो	१४३
+144	Nubri_Lhi	HEAVY	1210	tsente			heavy	गह्रौँ	१४४
+145	Nubri_Lhi	LIGHT (WEIGHT)	1052	jaŋmo			light	हलुका	१४५
+146	Nubri_Lhi	ABOVE	1741	barnaŋ			above	माथि	१४६
+147	Nubri_Lhi	DOWN OR BELOW	2094	wákla			below	तल	१४७
+148	Nubri_Lhi	WHITE	1335	karpo			white	सेतो	१४८
+149	Nubri_Lhi	BLACK	163	nakpo			black	कालो	१४९
+150	Nubri_Lhi	RED	156	marpo			red	रातो	१५०
+151	Nubri_Lhi	ONE	1493	tsik			one	एक	१५१
+152	Nubri_Lhi	TWO	1498	ni̤			two	दुई	१५२
+153	Nubri_Lhi	THREE	492	sum			three	तीन	१५३
+154	Nubri_Lhi	FOUR	1500	ʃi			four	चार	१५४
+155	Nubri_Lhi	FIVE	493	ŋá			five	पाँच	१५५
+156	Nubri_Lhi	SIX	1703	duk			six	छ	१५६
+157	Nubri_Lhi	SEVEN	1704	ɖʰun			seven	सात	१५७
+158	Nubri_Lhi	EIGHT	1705	ke			eight	आठ	१५८
+159	Nubri_Lhi	NINE	1483	gù			nine	नौ	१५९
+160	Nubri_Lhi	TEN	1515	tsū			ten	दश	१६०
+161	Nubri_Lhi	ELEVEN	1706	tsūktsik			eleven	एघार	१६१
+162	Nubri_Lhi	TWELVE	1707	tsūni̤			twelve	बाह्र	१६२
+163	Nubri_Lhi	TWENTY	1710	niʃu			twenty	बीस	१६३
+164	Nubri_Lhi	HUNDRED	1634	gja̤			one hundred	एक सय	१६४
+165	Nubri_Lhi	WHO	1235	su			who	को	१६५
+166	Nubri_Lhi	WHAT	1236	tsī			what	के	१६६
+167	Nubri_Lhi	WHERE	1237	gana			where	कहाँ	१६७
+168	Nubri_Lhi	WHEN	1238	nam			when	कहिले	१६८
+169	Nubri_Lhi	HOW MANY	822	gatsure			how many	कति	१६९
+170	Nubri_Lhi	WHICH	727	tsire			which	कुन	१७०
+171	Nubri_Lhi	THIS	1214	di̤			this	यो	१७१
+172	Nubri_Lhi	THAT	78	hʌudi̤			that	त्यो	१७२
+173	Nubri_Lhi			kʰuŋtsi			these	यिनीहरू	१७३
+174	Nubri_Lhi			kʰoŋtsi			those	उनीहरू	१७४
+175	Nubri_Lhi	SAME	200	tsjamda			same	उही	१७५
+176	Nubri_Lhi	DIFFERENT	2504	sjamin			different	फरक (अलग)	१७६
+177	Nubri_Lhi	WHOLE	2277	tʰamtse			whole	सबै	१७७
+178	Nubri_Lhi	BROKEN	588	tsʰjakpo			broken	फुटेको	१७८
+179	Nubri_Lhi	FEW	1242	dzʌdza			few	थोरै	१७९
+180	Nubri_Lhi	MANY	1198	áŋsaŋ			many	धेरै	१८०
+182	Nubri_Lhi	EAT	1336	sɛ̄			to eat	खानु	१८२
+183	Nubri_Lhi	BITE	1403	argjap			to bite	टोक्नु	१८३
+184	Nubri_Lhi	BE HUNGRY	1533	ɖʰubaʈo			to be hungry	भोकाउनु	१८४
+185	Nubri_Lhi	DRINK	1401	tʰuŋ			to drink	पिउनु	१८५
+186	Nubri_Lhi	THIRSTY	847	kʰakom			to be thirsty	तिर्खाउनु	१८६
+187	Nubri_Lhi	SLEEP	1585	ŋjal			to sleep	सुत्‍नु	१८७
+188	Nubri_Lhi	LIE (REST)	1411	babgjal			to lie	पल्टनु	१८८
+189	Nubri_Lhi	SIT	1416	ɖɛ̀			to  sit	बस्नु	१८९
+190	Nubri_Lhi	GIVE	1447	tɛ̀			to  give	दिनु	१९०
+191	Nubri_Lhi	BURN	2102	dzʰi			to  burn	डढाउनु	१९१
+192	Nubri_Lhi	DIE	1494	sī			to die	मर्नु	१९२
+193	Nubri_Lhi	KILL	1417	sɛ̀			to  kill	मार्नु	१९३
+194	Nubri_Lhi	FLY (MOVE THROUGH AIR)	1441	laŋ			to fly	उड्नु	१९४
+195	Nubri_Lhi	WALK	1443	ɖò			to walk	हिँड्नु	१९५
+196	Nubri_Lhi	RUN	1519	gjakpaɖo			to run	दौडनु	१९६
+197	Nubri_Lhi	GO	695	kʰjʌŋguk			to go /	जानु	१९७
+198	Nubri_Lhi	COME	1446	sjòk			to come	आउनु	१९८
+199	Nubri_Lhi	SPEAK	1623	lap			to speak/ speak	बोल्नु	१९९
+200	Nubri_Lhi	LISTEN	1608	njen			to  hear/listen	सुत्‍नु	२००
+201	Nubri_Lhi	LOOK	1819	tɛ̄			to look	हेर्नु	२०१
+202	Nubri_Lhi	I	1209	ŋa̤			I	म	२०२
+203	Nubri_Lhi	THOU	1215	kʰjʌŋ			you (informal)	तँ	२०३
+204	Nubri_Lhi	YOU (FORMAL ADDRESS)	2844	kʰjɛraŋ			you (formal)	तपाई	२०४
+205	Nubri_Lhi	HE	1211	kʰò			he	ऊ	२०५
+206	Nubri_Lhi	SHE	1834	kʰò			she	उनी	२०६
+207	Nubri_Lhi	WE (INCLUSIVE)	1131	ŋíraŋ			we (inclusive)	हामी (समावेशी)	२०७
+208	Nubri_Lhi	WE (EXCLUSIVE)	1130	ŋíraŋ			we (exclusive)	हामी (असमावेशी)	२०८
+209	Nubri_Lhi	YOU	1213	kʰuŋgjak			you (plural)	तिमीहरू	२०९
+210	Nubri_Lhi	THEY	817	kʰuŋgjak			they	उनीहरू	२१०
