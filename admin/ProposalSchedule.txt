@@ -6,18 +6,18 @@ Questions:
 
 
 As soon as possible:
-	Reimbursement for DND
-	-> How much of the budget is left
-	Send money to Tribhuvan
-	Add DND to collaborators
+	Reimbursement for DND - DONE
+	-> How much of the budget is left - DONE
+	Send money to Tribhuvan - DONE
+	Add DND to collaborators - DONE
 	
 Sean: Send readings about cognate coding
 Dubi: Send soft copies of dictionaries, or say if they are only hard copies
 Dubi: Ask anthropology department about dates and history?
 
 Automatic conversion
-	Sean: Convert soft dictionaries to tsv and xlsx
-	Create list of missing concepts
+	Sean: Convert soft dictionaries to tsv and xlsx - ONGOING
+	Create list of missing concepts - DONE
 	
 Finding missing data
 	Dubi: Transcription from pdf, interviews etc.

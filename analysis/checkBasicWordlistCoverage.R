@@ -60,7 +60,11 @@ swadesh100 = read.csv("../data/reference/Swadesh1964_100.csv",stringsAsFactors =
 
 dunn207 = read.csv("../data/reference/Dun_2012_207.tab", stringsAsFactors = F, encoding = 'utf-8', fileEncoding = "utf-8", sep="\t",quote="")
 
-jirelConcepts = unique(allData[["jirel"]]$CONCEPT)
+#finalConceptList = unique(allData[["jirel"]]$CONCEPT)
+
+finalConcepts = read.csv("../data/reference/finalWordList.csv",stringsAsFactors = F)
+
+finalConceptList = unique(finalConcepts$CONCEPT)
 
 stats = data.frame(
   language = names(languageFiles),
@@ -71,10 +75,10 @@ stats = data.frame(
   numSwadesh100ConceptsMatchedToConcepticon = 
     sapply(allData,function(X){sum(unique(X$CONCEPT) %in% swadesh100$Parameter)}),
   numJirel208ConceptsMatchedToConcepticon = 
-    sapply(allData,function(X){sum(jirelConcepts %in% unique(X$CONCEPT))})
+    sapply(allData,function(X){sum(finalConceptList %in% unique(X$CONCEPT))})
 )
 
-stats$progress = paste0(round(100*(stats$numJirel208ConceptsMatchedToConcepticon/length(jirelConcepts)),0),"%")
+stats$progress = paste0(round(100*(stats$numJirel208ConceptsMatchedToConcepticon/length(finalConceptList)),0),"%")
 
 write.xlsx(stats,"../data/processed/progress.xlsx")
 
@@ -82,7 +86,7 @@ write.xlsx(stats,"../data/processed/progress.xlsx")
 findMissingConcepts = function(d){
   missing = data.frame(
         DOCULECT = d$DOCULECT[1],
-        CONCEPT = jirelConcepts[!jirelConcepts %in% d$CONCEPT])
+        CONCEPT = finalConceptList[!finalConceptList %in% d$CONCEPT])
   missing$CONCEPTID = sapply(concepticon$conceptset_labels[missing$CONCEPT],head,n=1)
   return(missing)
 }
@@ -105,14 +109,36 @@ write.csv(missing,file="../data/processed/MissingConcepts.csv", fileEncoding = '
 
 tsum = as.data.frame(allData[["tsum"]])
 nubri = as.data.frame(allData[["nubri"]])
+nubri_namrung = as.data.frame(allData[["nubri_namrung"]])
 gyalsumdo = as.data.frame(allData[["gyalsumdo"]])
 lowa = as.data.frame(allData[["lowa"]])
 yolmo = as.data.frame(allData[["yolmo"]])
 jirel = as.data.frame(allData[["jirel"]])
 kagate = as.data.frame(allData[["kagate"]])
 
+# Find some concepts that are common
+
+allConcepts = unique(c(tsum$CONCEPT,nubri$CONCEPT,gyalsumdo$CONCEPT,kagate$CONCEPT,nubri$CONCEPT,nubri_namrung$CONCEPT))
+allConcepts = allConcepts[allConcepts!=""]
+
+overlapConceptsALL = allConcepts[allConcepts %in% tsum$CONCEPT &
+                                   ((allConcepts %in% nubri$CONCEPT) | (allConcepts %in% nubri_namrung$CONCEPT)) &
+                                   allConcepts %in% gyalsumdo$CONCEPT & allConcepts %in% lowa$CONCEPT & allConcepts %in% yolmo$CONCEPT & allConcepts %in% kagate$CONCEPT]
+
+possibleExtraConcepts = overlapConceptsALL[!overlapConceptsALL %in% finalConceptList]
+possibleExtraConcepts
+
+numLangsCovered = sort(sapply(allConcepts,function(con){
+  sum(sapply(allData,function(dx){
+    con %in% dx$CONCEPT
+  }))
+}))
+
+# Subset of langs
+
 allConcepts = unique(c(tsum$CONCEPT,nubri$CONCEPT,gyalsumdo$CONCEPT))
 allConcepts = allConcepts[allConcepts!=""]
+
 
 overlapConcepts = allConcepts[allConcepts %in% tsum$CONCEPT & allConcepts %in% nubri$CONCEPT & allConcepts %in% gyalsumdo$CONCEPT & allConcepts %in% lowa$CONCEPT & allConcepts %in% yolmo$CONCEPT]
 

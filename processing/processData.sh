@@ -14,3 +14,4 @@ python3.6 convertKagateDictionary.py
 for lang in Tsum Gyalsumdo Kagate Lowa Nubri Yolmo Jirel; do
 concepticon --skip_multimatch map_concepts ../data/processed/${lang}.tsv > ../data/processed/${lang}_advancedMatch.tsv
 done
+
