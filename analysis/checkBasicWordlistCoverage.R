@@ -74,11 +74,11 @@ stats = data.frame(
     sapply(allData,function(X){length(unique(X$CONCEPT))}),
   numSwadesh100ConceptsMatchedToConcepticon = 
     sapply(allData,function(X){sum(unique(X$CONCEPT) %in% swadesh100$Parameter)}),
-  numJirel208ConceptsMatchedToConcepticon = 
+  numFinalWordListConceptsMatchedToConcepticon = 
     sapply(allData,function(X){sum(finalConceptList %in% unique(X$CONCEPT))})
 )
 
-stats$progress = paste0(round(100*(stats$numJirel208ConceptsMatchedToConcepticon/length(finalConceptList)),0),"%")
+stats$progress = paste0(round(100*(stats$numFinalWordListConceptsMatchedToConcepticon/length(finalConceptList)),0),"%")
 
 write.xlsx(stats,"../data/processed/progress.xlsx")
 
