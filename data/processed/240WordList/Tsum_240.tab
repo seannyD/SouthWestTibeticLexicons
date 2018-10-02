@@ -1,0 +1,264 @@
+ID	SN	DOCULECT	CONCEPT	CONCEPTID	TRANSCRIPTION	SEGMENTS	COGID	GLOSS	SCRIPT	TONE
+1	1	Tsum	BODY	1480	zu			Body	शरीर	Low-Rise
+2	2	Tsum	HEAD	1256	ŋɡo			Head	टाउको	Mid
+3	3	Tsum	HAIR	1040	tɹa			Hair	कपाल	High
+4	4	Tsum	FACE	1560	tɕeʔ			Face	अनुहार	(High-)Rise
+5	5	Tsum	EYE	1248	miʔ			Eye	आँखा	High
+6	6	Tsum	EAR	1247	amdʑjoʔ			Ear	कान	High
+7	7	Tsum	NOSE	1221	na			Nose	नाक	High
+8	8	Tsum	MOUTH	674	kʰa			Mouth	मुख	High-Fall
+9	9	Tsum	TOOTH	1380	sa			Teeth	दाँत	High-Fall
+10	10	Tsum	TONGUE	1205	tɕe			Tongue	जिब्रो	High-Fall
+11	11	Tsum	BREAST	1402	paʔ			Breast	स्तन	High
+12	12	Tsum	BELLY	1251	pʰowa			Belly	पेट	High
+13	13	Tsum	ARM OR HAND	2121	lakpa			Arm/Hand	हात	Low-Rise
+14	14	Tsum	ELBOW	981	tɹejoʔ			Elbow	कुइनो	Mid-Rise
+15	15	Tsum	PALM TREE	1181	paɾa			Palm	हत्केला	(High-)Rise
+16	16	Tsum	FINGER	1303	ziu			Finger	औँला	Low-Rise
+17	17	Tsum	FINGERNAIL	1258	semu			Fingernail	नङ	High 
+18	18	Tsum	LEG	1297	kaŋba			Leg	खुट्टा	High
+19	19	Tsum	SKIN	763	koa			Skin	छाला	High
+20	20	Tsum	BONE	1394	ɹiɡoʔ			Bone	हाड	Low-Rise 
+21	21	Tsum	HEART	1223	ɲiŋ			Heart	मुटु	High
+22	22	Tsum	BLOOD	946	tʰɹaʔ			Blood	रगत	(Low-)Rise
+23	23	Tsum	URINE	1142	tsiŋ			Urine	पिसाब	High
+24	24	Tsum	FAECES (EXCREMENT)	675	aʔ			Faeces	दिसा	High
+25	25	Tsum	VILLAGE	930	jul			Village	गाउँ	Low-Rise
+26	26	Tsum	HOUSE	1252	koɹtsa			House	घर	Low-Rise
+27	26	Tsum	HOUSE	1252	kʰim			House	घर	High
+28	27	Tsum	ROOF	769	kʰand̪oʔ			Roof	छानो	Mid-Rise
+29	28	Tsum	DOOR	1567	ko			Door	ढोका	Mid-Rise
+30	29	Tsum	FIREWOOD	10	ɕiŋ			Firewood	दाउरा	High 
+31	30	Tsum	BROOM	245	koŋmo			Broom	कुचो	High 
+32	31	Tsum	MORTAR CRUSHER	224	kombot			Mortar	सिलौटो	Low-Rise
+33	32	Tsum	PESTLE	225	tɕʰiu			Pestle	लोहोरो	High 
+34	33	Tsum	HAMMER	1481	t̪ʰoa			Hammer	हथौडा	High
+35	34	Tsum	KNIFE	1352	tʰɹiu			Knife	चक्कु	Low-Rise
+36	35	Tsum	AXE	677	t̪aɾi			Axe	वन्चरो	Mid-Rise
+37	36	Tsum	ROPE	1218	t̪ʰakpa			Rope	डोरी	Mid-Rise
+38	37	Tsum	THREAD	1161	kuɾt̪oʔ			Thread	धागो	High-Rise
+39	38	Tsum	NEEDLE (FOR SEWING)	1382	kʰap			Needle	सियो	High
+40	39	Tsum	CLOTH	1616	kølaʔ			Cloth	लुगा (कपडा)	Low-Rise
+41	40	Tsum	RING	1374	sot̪ob			Ring	औँठी	High-Rise
+42	41	Tsum	SUN	1343	ɲiã			Sun	घाम	Low-Rise
+43	42	Tsum	MOON	1313	nd̪akar			Moon	चन्द्रमा	Low-Rise
+44	43	Tsum	SKY	1732	n̪am			Sky	आकास	High
+45	44	Tsum	STAR	1430	kaɹma			Star	तारा	Mid-Rise
+46	45	Tsum	RAIN (RAINING)	1253	n̪amkjaus̩			Rain	वर्षा	
+47	46	Tsum	WATER	948	tɕʰju			Water	पानी	
+48	47	Tsum	RIVER	666	tsaŋbo			River	नदी	Mid-Rise
+49	48	Tsum	CLOUD	1489	mukpaʔ			Cloud	बादल	Low-Rise
+50	49	Tsum	LIGHTNING	1654	loʔ			Lightening	बिजुली चम्कनु	Mid-Rise
+51	50	Tsum	RAINBOW	1733	ndʑjabe			Rainbow	इन्द्रेणी	Low-Rise
+52	51	Tsum	WIND	960	hlapa			Wind	वतास	Low-Rise
+53	52	Tsum	STONE	857	t̪o			Stone	ढुङ्गा	Low-Rise
+54	53	Tsum	PATH	2252	lam			Path	बाटो	Low-Rise
+55	54	Tsum	SAND	671	ijãʔ			Sand	बालुवा	Low-Rise
+56	55	Tsum	FIRE	221	me			Fire	आगो	Low-Rise
+57	56	Tsum	SMOKE (INHALE)	1689	t̪upa			Smoke	धुवाँ	Low-Rise
+58	57	Tsum	ASH	646	kozal			Ash	खरानी	Low-Rise
+59	58	Tsum	MUD	640	sa			Mud	माटो	Mid-Fall
+60	59	Tsum	DUST	2	t̪ʰala			Dust	धुलो	Mid-Rise
+61	60	Tsum	GOLD	1369	seɾ			Gold	सुन	High
+62	61	Tsum	TREE	906	t̪oŋbo			Tree	रुख	Low-Rise
+63	62	Tsum	LEAF	628	hlawa			Leaf	पात	Mid-Rise
+64	63	Tsum	ROOT	670	tɹat̪oʔ			Root	जरा	Low-Rise
+65	64	Tsum	THORN	124	tsʰenma			Thorn	काँडो	Mid-Rise
+66	65	Tsum	FLOWER	239	mend̪oʔ			Flower	फूल	Low-Rise 
+67	66	Tsum	FRUIT	1507	ɕiŋd̪oʔ			Fruit	फलफुल	Mid-Rise
+68	67	Tsum	MANGO	2398	ap			Mango	आँप	
+69	68	Tsum	BANANA	868	keɾa			Banana	केरा	
+70	69	Tsum	WHEAT	1077	ne			Wheat (husked)	गहुँ	Low-Rise
+71	70	Tsum	BARLEY	932	tsau			Barley	जौ	
+72	71	Tsum	RICE	926	ndɹe			Rice (husked)	चामल	Low-Rise
+73	72	Tsum	POTATO	593	keza			Potato	आलु	Low-Rise
+74	73	Tsum	AUBERGINE	1146	bənda			Eggplant	भन्टा	
+75	74	Tsum	PEANUT	2364	bəd̪am			Groundnut	बदाम	
+76	75	Tsum	NUT	191	kʰulzan			Chilli	खुर्सानी	
+77	76	Tsum	TURMERIC	2842	beset			Turmeric	बेसार	
+78	77	Tsum	GARLIC	2368	kokpa			Garlic	लसुन	Low-Rise
+79	78	Tsum	ONION	2366	tsoŋɡoʔ			Onion	प्याज	High
+80	79	Tsum	CAULIFLOWER	2843	kauli			Cauliflower	काउली	
+81	80	Tsum	TOMATO	986	ɡolbeɾa			Tomato	गोलभेँडा	
+82	81	Tsum	CABBAGE	774	bənd̪a			Cabbage	बन्दा	
+83	82	Tsum	OIL (ORGANIC SUBSTANCE)	1484	n̪um			Oil	तेल	High
+84	83	Tsum	SALT	1274	tsʰa			Salt	नुन	High
+85	84	Tsum	MEAT	634	ɕja			Meat	मासु	High
+86	85	Tsum	FAT (OF MEAT AND FOOD)	2449	tsʰilu			Fat (of meat)	बोसो	High
+87	86	Tsum	FISH	227	ɲa			Fish	माछा	Low-Rise
+88	87	Tsum	CHICKEN	1318	tɕjauɾu			Chicken	चल्ला	
+89	88	Tsum	EGG	744	koã			Egg	अन्डा	Low-Rise
+90	89	Tsum	COW	1007	pawo			Cow	गाइ	Low-Rise
+91	90	Tsum	BUFFALO	934	maje			Buffalo	भैँसी	Low-Rise
+92	91	Tsum	MILK	635	oã			Milk	दुध	Low-Rise
+93	92	Tsum	HORN (ANATOMY)	1393	padʑjo			Horns	सिङ	Low-Rise
+94	93	Tsum	TAIL	1220	ŋa			Tail	पुच्छर	High
+95	94	Tsum	GOAT	1502	ɹa			Goat	बाख्रो	Low-Rise
+96	95	Tsum	DOG	2009	ki			Dog	कुकुर	High-Fall
+97	96	Tsum	SNAKE	730	tɹul			Snake	सर्प (साँप)	(Mid-)Rise
+98	97	Tsum	MONKEY	1350	tiu			Monkey	बाँदर	High
+99	98	Tsum	MOSQUITO	1509	lamkute			Mosquito	लामखुट्टे	
+100	99	Tsum	ANT	587	tɹomu			Ant	कमिला	Low-Rise
+101	100	Tsum	SPIDER	843	tɹaula			Spider	माकुरो	Low-Rise
+102	101	Tsum	NAME	1405	min			Name	नाम	Low-Rise
+103	102	Tsum	MAN	1554	mi			Man	मान्छे	Low-Rise
+104	103	Tsum	WOMAN	962	poĩpiza			Woman	आइमाई	
+105	104	Tsum	CHILD	2099	piza			Child	बच्चा	Low-Rise
+106	105	Tsum	FATHER	1217	awa			Father	बुबा	Low-Rise
+107	106	Tsum	MOTHER	1216	ãã			Mother	आमा	Low-Rise
+108	107	Tsum	OLDER BROTHER	1759	tɕjoʑjo			Older brother	दाजु	Low-Rise
+109	108	Tsum	YOUNGER BROTHER	1760	n̪oo			Younger brother	भाइ	Low-Rise
+110	109	Tsum	OLDER SISTER	1758	aʑe			Older sister	दिदी	Mid-Rise
+111	110	Tsum	YOUNGER SISTER	1761	poõ			Younger sister	बहिनी	Low-Rise
+112	111	Tsum	SON	1620	pu			Son	छोरो	High
+113	112	Tsum	DAUGHTER	1357	poõ			Daughter	छोरी	
+114	113	Tsum	HUSBAND	1200	kʰjowa			Husband	लोग्ने (श्रीमान)	Mid-Rise
+115	114	Tsum	WIFE	1199	tɕʰjumma			Wife	स्वास्नी (श्रीमती)	
+116	115	Tsum	BOY	1366	ɕjaɾa			Boy	केटो	Mid
+117	116	Tsum	GIRL	1646	naʑjuŋ			Girl	केटी	Low-Rise
+118	117	Tsum	DAY (NOT NIGHT)	1225	ɕjakpa			Day	दिन	Low-Rise
+119	118	Tsum	NIGHT	1233	n̪umu			Night	रात	Low-Rise
+120	119	Tsum	MORNING	1339	ɕjuo			Morning	विहान	
+121	120	Tsum	NOON	2490	ɲiŋɡuŋ			Noon	मध्यान्ह	Low-Rise
+122	121	Tsum	EVENING	1629	kuŋmu			Evening	साँझ	Low-Rise
+123	122	Tsum	YESTERDAY	1174	nd̪aŋ			Yesterday	हिजो	Low-Rise
+124	123	Tsum	TODAY	1283	t̪iɾiŋ			Today	आज	Low-Rise
+125	124	Tsum	TOMORROW	1329	ŋaɾt̪o			Tomorrow	भोली	Mid
+126	125	Tsum	WEEK	1469	t̪yndaʔ			Week	हप्ता (साता)	Low-Rise
+127	126	Tsum	MONTH	1370	nd̪a			Month	महिना	Low-Rise
+128	127	Tsum	YEAR	1226	lo			Year	वर्ष	Low-Rise
+129	128	Tsum	OLD	1229	ɲiŋba			Old	पुरानो	High
+130	129	Tsum	NEW	1231	samba			New	नयाँ	High
+131	130	Tsum	GOOD	1035	jamu			Good	राम्रो (असल)	Low-Rise
+132	131	Tsum	BAD	1292	nepo			Bad	नराम्रो (खराव)	Mid-Rise
+133	132	Tsum	WET	1726	nd̪ompa			Wet	चिसो	Low-Rise
+134	133	Tsum	DRY	1398	kampo			Dry	सुख्खा	High
+135	134	Tsum	LONG	1203	ɹiŋmu			Long	लामो	Low-Rise
+136	135	Tsum	SHORT	1645	t̪ʰyma			Short	छोटो	High
+137	136	Tsum	HOT	1286	tsʰand̪e			Hot	तातो	High
+138	137	Tsum	COLD	1287	ɹaŋd̪a			Cold	चिसो	Low-Rise
+139	138	Tsum	RIGHT	1019	jepa			Right	दाहिने	High
+140	139	Tsum	LEFT	244	joma			Left	देव्रे	High
+141	140	Tsum	NEAR	1942	tɹala			Near	नजिक	
+142	141	Tsum	FAR	1406	t̪ʰaɹiŋmu			Far	टाढा	
+143	142	Tsum	BIG	1202	tɕʰemo			Big	ठुलो	High
+144	143	Tsum	SMALL	1246	tɕʰyma			Small	सानो	High
+145	144	Tsum	HEAVY	1210	tɕend̪e			Heavy	गह्रौँ	High
+146	145	Tsum	LIGHT (WEIGHT)	1052	jaŋbo			Light	हलुका	Low-Rise
+147	146	Tsum	ABOVE	1741	jau			Above	माथि	Low-Rise
+148	147	Tsum	DOWN OR BELOW	2094	mau			Below	तल	Low-Rise
+149	148	Tsum	WHITE	1335	kaɹbo			White	सेतो	High
+150	149	Tsum	BLACK	163	nakpo			Black	कालो	Low-Rise
+151	150	Tsum	RED	156	maɹbo			Red	रातो	Low-Rise
+152	151	Tsum	ONE	1493	tɕik			One	एक	High
+153	152	Tsum	TWO	1498	ɲi			Two	दुई	High
+154	153	Tsum	THREE	492	sum			Three	तीन	High
+155	154	Tsum	FOUR	1500	ʑi			Four	चार	Low-Rise
+156	155	Tsum	FIVE	493	ŋa			Five	पाँच	High-Fall
+157	156	Tsum	SIX	1703	tɹu			Six	छ	Low-Rise
+158	157	Tsum	SEVEN	1704	t̪un			Seven	सात	Low-Rise
+159	158	Tsum	EIGHT	1705	keʔ			Eight	आठ	Low-Rise
+160	159	Tsum	NINE	1483	ku			Nine	नौ	Low-Rise
+161	160	Tsum	TEN	1515	tɕu			Ten	दश	High-Fall
+162	161	Tsum	ELEVEN	1706	tɕutɕi			Eleven	एघार	
+163	162	Tsum	TWELVE	1707	tɕuɲi			Twelve	बाह्र	
+164	163	Tsum	TWENTY	1710	ɲiɕu			Twenty	वीस	
+165	164	Tsum	HUNDRED	1634	kja			One Hundred	एक सय	High-Fall
+166	165	Tsum	WHO	1235	su			Who	को	High-Fall
+167	166	Tsum	WHAT	1236	tɕi			What	के	High
+168	167	Tsum	WHERE	1237	kana			Where	कहाँ	Low-Rise
+169	168	Tsum	WHEN	1238	n̪am			When	कहिले	Low-Rise
+170	169	Tsum	HOW MANY	822	kanʑøʔ			How many	कति	Low-Rise
+171	170	Tsum	WHICH	727	kaŋd̪e			Which	कुन	Low-Rise
+172	171	Tsum	THIS	1214	nd̪i			This	यो	Low-Rise
+173	172	Tsum	THAT	78	o			That	त्यो	Low-Rise
+174	173	Tsum	THIS	1214	nd̪id̪em			These	यी	
+175	174	Tsum	THAT	78	od̪em			Those	ती	
+176	175	Tsum	SAME	200	od̪e			Same	उही	
+177	176	Tsum	DIFFERENT	2504	minta			Different	फरक	Low-Rise
+178	177	Tsum	WHOLE	2277	tɕjop			Whole	सबै	Low-Rise
+179	178	Tsum	BROKEN	588	tɕʰjako			Broken	फुटेको	Mid-Rise
+180	179	Tsum	FEW	1242	ɲyma			Few	थोरै	Low-Rise
+181	180	Tsum	MANY	1198	kaʑin			Many	धेरै	Low-Rise
+182	181	Tsum	ALL	98	tɕjop			All	सबै	
+183	182	Tsum	EAT	1336	so			To eat	खानु	Low-Rise
+184	182	Tsum	EAT	1336	seso			To eat	खानु	Low-Rise
+185	183	Tsum	BITE	1403	sat̪ob			To bite	टोक्नु	High
+186	184	Tsum	BE HUNGRY	1533	t̪oso			To be hungry	भोकाउनु	High-Fall
+187	185	Tsum	DRINK	1401	t̪ʰuŋ			To drink	पिउनु	High
+188	186	Tsum	THIRSTY	847	kʰakomso			To be thirsty	तिर्खाउनु	
+189	187	Tsum	SLEEP	1585	ɲol			To sleep	सुत्नु	Low-Rise
+190	187	Tsum	SLEEP	1585	ɲalso			To sleep	सुत्नु	Low-Rise
+191	188	Tsum	LIE (REST)	1411	ləloɡjab			To lie	पल्टनु	
+192	189	Tsum	SIT	1416	t̪øʔ			To sit	बस्नु	Low-Rise
+193	189	Tsum	SIT	1416	t̪øso			To sit	बस्नु	Low-Rise
+194	190	Tsum	GIVE	1447	t̪øʔ			To give	दिनु	High
+195	190	Tsum	GIVE	1447	t̪eʔso			To give	दिनु	High
+196	191	Tsum	BURN	2102	tsʰiʔso			To burn	डढाउनु	
+197	192	Tsum	DIE	1494	ɕiso			To die	मर्नु	
+198	193	Tsum	KILL	1417	seso			To kill	मार्नु	High-Fall
+199	194	Tsum	FLY (MOVE THROUGH AIR)	1441	pʰiɹso			To fly	उड्नु	
+200	195	Tsum	WALK	1443	ndo			To walk	हिँड्नु	Low-Rise
+201	196	Tsum	RUN	1519	tɕʰoŋdo			To run	दौडिनु	
+202	197	Tsum	GO	695	ndo			To go	जानु	
+203	197	Tsum	GO	695	pyso			To go	जानु	
+204	198	Tsum	COME	1446	ɕjoʔ			To come	आउनु	
+205	198	Tsum	COME	1446	leuʑuŋ			To come	आउनु	
+206	199	Tsum	SPEAK	1623	lauso			To speak	बोल्नु	
+207	200	Tsum	LISTEN	1608	ɲan			To hear/listen	सुन्नु	
+208	200	Tsum	LISTEN	1608	ɲanso			To hear/listen	सुन्नु	
+209	201	Tsum	LOOK	1819	t̪ø			To look	हेर्नु	High-Fall
+210	201	Tsum	LOOK	1819	t̪eso			To look	हेर्नु	High-Fall
+211	202	Tsum	I	1209	ŋa			I	म	Low-Rise
+212	203	Tsum	THOU	1215	kʰjøʔ			You (informal)	तँ	High
+213	204	Tsum	YOU (FORMAL ADDRESS)	2844	kʰeɹaŋ			You (formal)	तपाइँ	High
+214	205	Tsum	HE	1211	kʰo			He	उ	High-Fall
+215	206	Tsum	SHE	1834	mo			She	उनी	(Low-)Rise
+216	207	Tsum	WE (INCLUSIVE)	1131	ɲoɹoŋ			We (inclusive)	हामी (समावेशी)	
+217	207	Tsum	WE (INCLUSIVE)	1131	ɲoɹoŋkja			We (inclusive)	हामी (समावेशी)	
+219	209	Tsum	YOU	1213	kʰeɹaŋkja			You (plural)	तिमीहरु	
+220	210	Tsum	THEY	817	kʰuŋkja			They	उनीहरु	
+221	211	Tsum	LOAD	1679	kʰuɹu			Load	भारी	High
+222	212	Tsum	FLOUR	1594	pʰe			Flour (eaten as food)	पिठो	High-Fall
+223	212	Tsum	FLOUR	1594	tsampa			Flour (eaten as food)	पिठो	High
+224	213	Tsum	HAIL	609	seɹa			Hailstone	असिना	High
+225	213	Tsum	HAIL	609	tɕʰjaɹwa			Hailstone	असिना	High
+226	214	Tsum	INTESTINES	1991	kjuã			Intestine	आन्द्रा	Low-Rise
+227	215	Tsum	YARD	736	ild̪oʔ			Yard	आँगन	Mid-Rise
+228	216	Tsum	UPROOT	99999	waʔ			To uproot	उखेल्नु	High
+229	216	Tsum	UPROOT	99999	waso			To uproot	उखेल्नु	High
+230	217	Tsum	OVEN	1143	t̪ʰap			Oven	चुल्हो	High
+231	218	Tsum	HEEL	980	t̪iŋba			Heel	कुर्कुच्चो	High
+232	219	Tsum	SPADE	1176	t̪otse			Spade	कोदालो	(Mid-)Rise
+233	220	Tsum	HORSE	615	t̪a			Horse	घोडा	High-Fall
+234	221	Tsum	LOAD	1679	kʰuɹu			Load	भारी	
+235	222	Tsum	PLOUGH	1921	t̪ʰoŋtsu			To plough	जोत्नु	High
+236	222	Tsum	PLOUGH	1921	t̪ʰoŋtsuso			To plough	जोत्नु	High
+237	223	Tsum	JOIN	1743	kamɡja			Bond	तमसुक	Low-Rise
+238	224	Tsum	BEAM	1132	t̪uŋ			Beam (main wooden beam)	निदाल	Mid-Rise
+239	225	Tsum	LEASH	2959	mit̪aʔ			Rope used to tie animals	दाम्लो	
+240	226	Tsum	BREAD	1368	kja			Bread	दाह्री	Mid-Rise
+241	227	Tsum	MEASURE	1506	t̪op			To measure	नाप्नु	
+242	227	Tsum	MEASURE	1506	t̪ʰit̪aŋso			To measure	नाप्नु	
+243	228	Tsum	BOARD	1227	ndɹap			Plank	फल्याक	Low-Rise
+244	229	Tsum	HOLE	1667	mijuŋ			Hole	प्वाल	High
+245	230	Tsum	PLOUGH (INSTRUMENT)	2154	t̪ʰoŋ			Plough (noun)	हलो	High
+246	231	Tsum	LID (COVER, CAP)	2319	kʰaʑøʔ			Lid (cover)	बिर्को	Low-Rise
+247	232	Tsum	HANDLE	1254	joa			Handle	बिँड	Low-Rise
+248	233	Tsum	BEAR	1820	t̪om			Bear	भालु	Low-Rise
+249	234	Tsum	GHOST	1175	hlande			Ghost	भुत	Mid-Rise
+250	235	Tsum	DUNG (ANIMAL FAECES)	2057	lyʔ			Manure	मल	Low-Rise
+251	236	Tsum	BREAD	1368	pakut			Bread	रोटी	Low-Rise
+252	237	Tsum	CORPSE	767	ɹo			Corpse	लास	Low-Rise
+253	237	Tsum	CORPSE	767	pʰuŋbo			Corpse	लास	High
+254	238	Tsum	PIG	1337	pʰaʔ			Pig	सुँगुर	High
+255	239	Tsum	GRAIN	605	lod̪oʔ			Grains	अन्न	Low-Rise
+256	239	Tsum	GRAIN	605	t̪ond̪o			Grains	अन्न	Mid-Rise
+257	240	Tsum	STICK	1295	perka			Stick	लठ्ठी	Low-Rise
+258	241	Tsum	SWEAT (SUBSTANCE)	125	ŋulʑju			Sweat	पसिना	High
+259	241	Tsum	SWEAT (SUBSTANCE)	125	ŋulnaʔ			Sweat	पसिना	High
+260	242	Tsum	CHEW	321	tɹoʔ			To chew	चपाउनु	
+261	243	Tsum	SWALLOW	897	ɲiʔ			To swallow	निल्नु	(Low-)Rise
+262	243	Tsum	SWALLOW	897	ɲitsoŋ			To swallow	निल्नु	(Low-)Rise
+263	244	Tsum	THROW	1456	kjut			To throw	फ्याँक्नु	
+264	244	Tsum	THROW	1456	kjuɾtsoŋ			To throw	फ्याँक्नु	

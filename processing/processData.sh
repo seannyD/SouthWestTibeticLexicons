@@ -1,3 +1,7 @@
+#####################
+# Convert big lists #
+#####################
+
 python2.7 convertGyalsumdoDictionary.py	
 python2.7 convertNubriDictionary.py
 R -f convertMinorNubriDictionary.R
@@ -15,3 +19,8 @@ for lang in Tsum Gyalsumdo Kagate Lowa Nubri Yolmo Jirel; do
 concepticon --skip_multimatch map_concepts ../data/processed/${lang}.tsv > ../data/processed/${lang}_advancedMatch.tsv
 done
 
+##########################
+# Convert 240 word lists #
+##########################
+
+R -f convert240WordLists.R

@@ -1,0 +1,253 @@
+ID	SN	DOCULECT	CONCEPT	CONCEPTID	TRANSCRIPTION	SEGMENTS	COGID	GLOSS	SCRIPT	TONE
+1	1	Kagate	BODY	1480	dzubu			Body	शरीर	Mid 
+2	2	Kagate	HEAD	1256	ɡo			Head	टाउको	Mid-High
+3	3	Kagate	HAIR	1040	ta			Hair	कपाल	Mid-High
+4	4	Kagate	FACE	1560	t̪oŋba			Face	अनुहार	Mid
+5	5	Kagate	EYE	1248	mi			Eye	आँखा	High
+6	6	Kagate	EAR	1247	namdzjo			Ear	कान	Mid
+7	7	Kagate	NOSE	1221	nasum			Nose	नाक	Mid-High
+8	8	Kagate	MOUTH	674	kʰa			Mouth	मुख	Mid
+9	9	Kagate	TOOTH	1380	so			Teeth	दाँत	Mid-High
+10	10	Kagate	TONGUE	1205	tse			Tongue	जिब्रो	High
+11	11	Kagate	BREAST	1402	oma			Breast	स्तन	Low-Rise
+12	11	Kagate	BREAST	1402	praŋɡok			Breast	स्तन	 Mid
+13	12	Kagate	BELLY	1251	topa			Belly	पेट	Mid
+14	13	Kagate	ARM OR HAND	2121	laɡpa			Arm/Hand	हात	Low-Rise
+15	14	Kagate	ELBOW	981	uti			Elbow	कुइनो	High
+16	15	Kagate	PALM TREE	1181	t̪ʰaldze			Palm	हत्केला	Mid-High
+17	16	Kagate	FINGER	1303	t̪ʰebu			Finger	औँला	Mid-High
+18	17	Kagate	FINGERNAIL	1258	sermu			Fingernail	नङ	High
+19	18	Kagate	LEG	1297	kaŋba			Leg	खुट्टा	High
+20	19	Kagate	SKIN	763	koba			Skin	छाला	High
+21	20	Kagate	BONE	1394	rekok			Bone	हाड	Mid
+22	21	Kagate	HEART	1223	niŋ			Heart	मुटु	High
+23	22	Kagate	BLOOD	946	tʰa			Blood	रगत	High 
+24	23	Kagate	URINE	1142	tsiŋ			Urine	पिसाब	High 
+25	24	Kagate	FAECES (EXCREMENT)	675	kjakpa			Faeces	दिसा	High
+26	25	Kagate	VILLAGE	930	jul			Village	गाउँ	Low-Rise
+27	26	Kagate	HOUSE	1252	kʰim			House	घर	High
+28	27	Kagate	ROOF	769	t̪uŋso			Roof	छानो	Rise
+29	28	Kagate	DOOR	1567	ko			Door	ढोका	High
+30	29	Kagate	FIREWOOD	10	siŋ			Firewood	दाउरा	High
+31	30	Kagate	BROOM	245	pʰema			Broom	कुचो	High
+32	31	Kagate	MORTAR CRUSHER	224	t̪olep			Mortar	सिलौटो	Mid
+33	32	Kagate	PESTLE	225	t̪imbu			Pestle	लोहोरो	High
+34	33	Kagate	HAMMER	1481	t̪ʰwa			Hammer	हथौडा	High
+35	34	Kagate	KNIFE	1352	kart̪a			Knife	चक्कु	High
+36	35	Kagate	AXE	677	t̪əri			Axe	वन्चरो	High 
+37	36	Kagate	ROPE	1218	t̪ʰakpa			Rope	डोरी	High 
+38	37	Kagate	THREAD	1161	kupa			Thread	धागो	High
+39	38	Kagate	NEEDLE (FOR SEWING)	1382	kʰap			Needle	सियो	High 
+40	39	Kagate	CLOTH	1616	kela			Cloth	लुगा (कपडा)	Low-Rise
+41	40	Kagate	RING	1374	sipt̪ur			Ring	औँठी	High 
+42	41	Kagate	SUN	1343	ŋima			Sun	घाम	Low-Rise
+43	42	Kagate	MOON	1313	d̪aɡarmu			Moon	चन्द्रमा	
+44	43	Kagate	SKY	1732	nam			Sky	आकास	High
+45	44	Kagate	STAR	1430	karma			Star	तारा	High 
+46	45	Kagate	RAIN (RAINING)	1253	nam			Rain	वर्षा	
+47	46	Kagate	WATER	948	tɕʰju			Water	पानी	High
+48	47	Kagate	RIVER	666	tsaŋbu			River	नदी	High
+49	48	Kagate	CLOUD	1489	mukpa			Cloud	बादल	High
+50	49	Kagate	LIGHTNING	1654	milik			Lightening	बिजुली चम्कनु	
+51	50	Kagate	RAINBOW	1733	dzakormu			Rainbow	इन्द्रेणी	
+52	51	Kagate	WIND	960	hlaba			Wind	वतास	Mid 
+53	52	Kagate	STONE	857	t̪o			Stone	ढुङ्गा	Low-Rise 
+54	53	Kagate	PATH	2252	lam			Path	बाटो	Low-Rise
+55	54	Kagate	SAND	671	pema			Sand	बालुवा	Low-Rise
+56	55	Kagate	FIRE	221	me			Fire	आगो	Low-Rise
+57	56	Kagate	SMOKE (INHALE)	1689	d̪ipa			Smoke	धुवाँ	..Rise
+58	57	Kagate	ASH	646	t̪ʰala			Ash	खरानी	Mid
+59	58	Kagate	MUD	640	sebi			Mud	माटो	High
+60	59	Kagate	DUST	2	t̪ʰaldzuk			Dust	धुलो	High
+61	60	Kagate	GOLD	1369	ser			Gold	सुन	High
+62	61	Kagate	TREE	906	t̪oŋbo			Tree	रुख	Low-Rise
+63	62	Kagate	LEAF	628	loma			Leaf	पात	Low-Rise
+64	63	Kagate	ROOT	670	tsarŋe			Root	जरा	High
+65	64	Kagate	THORN	124	tsʰermaŋ			Thorn	काँडो	High
+66	65	Kagate	FLOWER	239	mend̪o			Flower	फूल	Low-Rise
+67	66	Kagate	FRUIT	1507	brumd̪o			Fruit	फलफुल	
+68	67	Kagate	MANGO	2398	ãp			Mango	आँप	
+69	68	Kagate	BANANA	868	alamu			Banana	केरा	
+70	69	Kagate	WHEAT	1077	nẽjã			Wheat (husked)	गहुँ	
+71	70	Kagate	BARLEY	932	wa			Barley	जौ	High
+72	71	Kagate	RICE	926	brea			Rice (husked)	चामल	Mid
+73	72	Kagate	POTATO	593	he			Potato	आलु	..Rise
+74	73	Kagate	AUBERGINE	1146	bjanta			Eggplant	भन्टा	
+75	74	Kagate	PEANUT	2364	bəd̪am			Groundnut	बदाम	
+76	75	Kagate	NUT	191	martsi			Chilli	खुर्सानी	High
+77	76	Kagate	TURMERIC	2842	juŋa			Turmeric	बेसार	Low-Rise
+78	77	Kagate	GARLIC	2368	kokpa			Garlic	लसुन	Low-Rise 
+79	78	Kagate	ONION	2366	pjadz			Onion	प्याज	
+80	79	Kagate	CAULIFLOWER	2843	kauli			Cauliflower	काउली	
+81	80	Kagate	TOMATO	986	ɡolbeda			Tomato	गोलभेँडा	
+82	81	Kagate	CABBAGE	774	bənd̪aɡobi			Cabbage	बन्दा	
+83	82	Kagate	OIL (ORGANIC SUBSTANCE)	1484	marku			Oil	तेल	Low-Rise
+84	83	Kagate	SALT	1274	tsʰa			Salt	नुन	High
+85	84	Kagate	MEAT	634	ɕja			Meat	मासु	High
+86	85	Kagate	FAT (OF MEAT AND FOOD)	2449	tsʰiluk			Fat (of meat)	बोसो	High
+87	86	Kagate	FISH	227	ɲa			Fish	माछा	Low-Rise
+88	87	Kagate	CHICKEN	1318	tsipru			Chicken	चल्ला	Low-Rise
+89	88	Kagate	EGG	744	tɕjamuɡoŋa			Egg	अन्डा	
+90	89	Kagate	COW	1007	palaŋ			Cow	गाइ	Low-Rise
+91	90	Kagate	BUFFALO	934	mãjĩ			Buffalo	भैँसी	Low-Rise
+92	91	Kagate	MILK	635	oma			Milk	दुध	Low-Rise
+93	92	Kagate	HORN (ANATOMY)	1393	rwaɡa			Horns	सिङ	Low-Rise
+94	93	Kagate	TAIL	1220	ŋama			Tail	पुच्छर	High
+95	94	Kagate	GOAT	1502	ra			Goat	बाख्रो	Low-Rise
+96	95	Kagate	DOG	2009	kʰi			Dog	कुकुर	High
+97	96	Kagate	SNAKE	730	prul			Snake	सर्प (साँप)	Low-Rise
+98	97	Kagate	MONKEY	1350	preken			Monkey	बाँदर	High
+99	97	Kagate	MONKEY	1350	priu			Monkey	बाँदर	High
+100	98	Kagate	MOSQUITO	1509	lamkʰute			Mosquito	लामखुट्टे	
+101	99	Kagate	ANT	587	tomak			Ant	कमिला	Mid
+102	100	Kagate	SPIDER	843	kiɡor			Spider	माकुरो	
+103	101	Kagate	NAME	1405	min			Name	नाम	Low-Rise
+104	102	Kagate	MAN	1554	mi			Man	मान्छे	Low-Rise
+105	103	Kagate	WOMAN	962	penpidza			Woman	आइमाई	
+106	104	Kagate	CHILD	2099	pidza			Child	बच्चा	…Rise
+107	105	Kagate	FATHER	1217	aba			Father	बुबा	…Rise
+108	106	Kagate	MOTHER	1216	ama			Mother	आमा	Low-Rise
+109	107	Kagate	OLDER BROTHER	1759	 at̪a			Older brother	दाजु	….Rise
+110	108	Kagate	YOUNGER BROTHER	1760	nu			Younger brother	भाइ	Low-Rise
+111	109	Kagate	OLDER SISTER	1758	adzi			Older sister	दिदी	…Rise
+112	110	Kagate	YOUNGER SISTER	1761	numu			Younger sister	बहिनी	Low-Rise
+113	111	Kagate	SON	1620	pu			Son	छोरो	…Rise 
+114	112	Kagate	DAUGHTER	1357	pomo			Daughter	छोरी	High
+115	113	Kagate	HUSBAND	1200	kʰjobo			Husband	लोग्ने (श्रीमान)	High
+116	114	Kagate	WIFE	1199	tɕʰjuŋma			Wife	स्वास्नी (श्रीमती)	High
+117	114	Kagate	WIFE	1199	peme			Wife	स्वास्नी (श्रीमती)	Low-Rise
+118	115	Kagate	BOY	1366	pituk			Boy	केटो	…Rise
+119	116	Kagate	GIRL	1646	pitukmu			Girl	केटी	
+120	117	Kagate	DAY (NOT NIGHT)	1225	ɲima			Day	दिन	Low-Rise
+121	118	Kagate	NIGHT	1233	komu			Night	रात	Low-Rise
+122	119	Kagate	MORNING	1339	ŋamu			Morning	विहान	….Rise
+123	120	Kagate	NOON	2490	tsʰəkəl			Noon	मध्यान्ह	High
+124	120	Kagate	NOON	2490	ɲimakarpo			Noon	मध्यान्ह	High
+125	121	Kagate	EVENING	1629	kuŋɕe			Evening	साँझ	
+126	122	Kagate	YESTERDAY	1174	d̪aŋ			Yesterday	हिजो	Low-Rise
+127	123	Kagate	TODAY	1283	t̪iriŋ			Today	आज	Low-Rise
+128	124	Kagate	TOMORROW	1329	ŋart̪o			Tomorrow	भोली	High
+130	126	Kagate	MONTH	1370	d̪awa			Month	महिना	Low-Rise
+131	127	Kagate	YEAR	1226	lo			Year	वर्ष	Low-Rise
+132	128	Kagate	OLD	1229	niŋba			Old	पुरानो	High
+133	129	Kagate	NEW	1231	samba			New	नयाँ	High
+134	130	Kagate	GOOD	1035	jabu			Good	राम्रो (असल)	Low-Rise
+135	130	Kagate	GOOD	1035	dzebu			Good	राम्रो (असल)	Mid
+136	131	Kagate	BAD	1292	majiba			Bad	नराम्रो (खराव)	
+137	131	Kagate	BAD	1292	marikpa			Bad	नराम्रो (खराव)	
+138	132	Kagate	WET	1726	taŋbu			Wet	चिसो	Low-Rise
+139	133	Kagate	DRY	1398	kambu			Dry	सुख्खा	High
+140	134	Kagate	LONG	1203	riŋbu			Long	लामो	Low-Rise
+141	135	Kagate	SHORT	1645	t̪ʰimi			Short	छोटो	High
+142	136	Kagate	HOT	1286	dombo			Hot	तातो	Mid
+143	137	Kagate	COLD	1287	taŋmu			Cold	चिसो	Low-Rise
+144	138	Kagate	RIGHT	1019	tɕjabutsʰole			Right	दाहिने	
+145	139	Kagate	LEFT	244	joma			Left	देव्रे	
+146	140	Kagate	NEAR	1942	t̪ʰama			Near	नजिक	High
+147	141	Kagate	FAR	1406	t̪ʰariŋbu			Far	टाढा	
+148	142	Kagate	BIG	1202	tɕʰjombo			Big	ठुलो	
+149	143	Kagate	SMALL	1246	tɕʰimi			Small	सानो	High
+150	144	Kagate	HEAVY	1210	tsend̪i			Heavy	गह्रौँ	High
+151	145	Kagate	LIGHT (WEIGHT)	1052	jaŋd̪i			Light	हलुका	Low-Rise
+152	146	Kagate	ABOVE	1741	t̪ʰola			Above	माथि	High
+153	147	Kagate	DOWN OR BELOW	2094	wala			Below	तल	Low-Rise
+154	148	Kagate	WHITE	1335	karmu			White	सेतो	High
+155	149	Kagate	BLACK	163	nakpu			Black	कालो	Low-Rise
+156	150	Kagate	RED	156	marmu			Red	रातो	Low-Rise
+157	151	Kagate	ONE	1493	tɕi			One	एक	High 
+158	152	Kagate	TWO	1498	ŋi			Two	दुई	Low-Rise
+159	153	Kagate	THREE	492	sum			Three	तीन	High
+160	154	Kagate	FOUR	1500	ɕi			Four	चार	Low-Rise
+161	155	Kagate	FIVE	493	ŋa			Five	पाँच	Mid 
+162	156	Kagate	SIX	1703	tuk			Six	छ	Rise
+163	157	Kagate	SEVEN	1704	t̪in			Seven	सात	Low-Rise
+164	158	Kagate	EIGHT	1705	ke			Eight	आठ	Rise
+165	159	Kagate	NINE	1483	ku			Nine	नौ	Low-Rise
+166	160	Kagate	TEN	1515	tɕju			Ten	दश	High 
+167	161	Kagate	ELEVEN	1706	tɕjudʑik			Eleven	एघार	
+168	162	Kagate	TWELVE	1707	tɕikŋi			Twelve	बाह्र	
+169	163	Kagate	TWENTY	1710	ŋiɕju			Twenty	वीस	
+170	164	Kagate	HUNDRED	1634	kjatɕik			One Hundred	एक सय	
+171	165	Kagate	WHO	1235	su			Who	को	High 
+172	166	Kagate	WHAT	1236	tsi			What	के	High
+173	167	Kagate	WHERE	1237	kala			Where	कहाँ	Low-Rise
+174	168	Kagate	WHEN	1238	nam			When	कहिले	Low-Rise 
+175	169	Kagate	HOW MANY	822	kadze			How many	कति	Low-Rise
+176	170	Kagate	WHICH	727	kãd̪i			Which	कुन	Low-Rise
+177	171	Kagate	THIS	1214	d̪ikʰo			This	यो	
+178	172	Kagate	THAT	78	wokʰo			That	त्यो	
+179	173	Kagate	THIS	1214	d̪ikʰokja			These	यी	
+180	174	Kagate	THAT	78	wokʰokja			Those	ती	
+181	175	Kagate	SAME	200	wokʰora			Same	उही	
+182	176	Kagate	DIFFERENT	2504	raŋsara			Different	फरक	
+183	177	Kagate	WHOLE	2277	t̪ʰamdzer			Whole	सबै	High
+184	177	Kagate	WHOLE	2277	kopt̪ar			Whole	सबै	Low-Rise
+185	178	Kagate	BROKEN	588	tɕʰjako			Broken	फुटेको	High
+186	179	Kagate	FEW	1242	t̪ibi			Few	थोरै	High
+187	180	Kagate	MANY	1198	maŋbu			Many	धेरै	Low-Rise
+188	181	Kagate	ALL	98	t̪ʰamdzer			All	सबै	
+189	182	Kagate	EAT	1336	sadze			To eat	खानु	Low-Rise
+190	183	Kagate	BITE	1403	murtse			To bite	टोक्नु	Low-Rise
+191	184	Kagate	BE HUNGRY	1533	d̪opat̪odze			To be hungry	भोकाउनु	
+192	185	Kagate	DRINK	1401	t̪ʰuŋdze			To drink	पिउनु	High
+193	186	Kagate	THIRSTY	847	kondze			To be thirsty	तिर्खाउनु	High
+194	187	Kagate	SLEEP	1585	ɲaldze			To sleep	सुत्नु	Low-Rise
+195	188	Kagate	LIE (REST)	1411	t̪ʰaŋsodze			To lie	पल्टनु	
+196	189	Kagate	SIT	1416	t̪etse			To sit	बस्नु	
+197	190	Kagate	GIVE	1447	t̪ertse			To give	दिनु	
+198	191	Kagate	BURN	2102	sadze			To burn	डढाउनु	High
+199	192	Kagate	DIE	1494	ɕidze			To die	मर्नु	High
+200	193	Kagate	KILL	1417	setse			To kill	मार्नु	High
+201	194	Kagate	FLY (MOVE THROUGH AIR)	1441	urtse			To fly	उड्नु	Low-Rise
+202	195	Kagate	WALK	1443	dodze			To walk	हिँड्नु	Low-Rise
+203	196	Kagate	RUN	1519	tɕʰjoŋdze			To run	दौडिनु	High
+204	197	Kagate	GO	695	dodze			To go	जानु	
+205	198	Kagate	COME	1446	oŋdze			To come	आउनु	Low-Rise
+206	199	Kagate	SPEAK	1623	latse			To speak	बोल्नु	Low-Rise
+207	200	Kagate	LISTEN	1608	kodze			To hear/listen	सुन्नु	Low-Rise
+208	201	Kagate	LOOK	1819	t̪adze			To look	हेर्नु	High
+209	202	Kagate	I	1209	ŋa			I	म	Low-Rise
+210	203	Kagate	THOU	1215	kʰjo			You (informal)	तँ	High
+211	204	Kagate	YOU (FORMAL ADDRESS)	2844	kʰja			You (formal)	तपाइँ	
+212	205	Kagate	HE	1211	kʰo			He	उ	High-Fall
+213	206	Kagate	SHE	1834	mo			She	उनी	Low-Rise
+214	207	Kagate	WE (INCLUSIVE)	1131	u			We (inclusive)	हामी (समावेशी)	Low-Rise
+215	208	Kagate	WE (EXCLUSIVE)	1130	ŋi			We (exclusive)	हामी (असमावेशी)	Low-Rise
+216	209	Kagate	YOU	1213	kʰjokja			You (plural)	तिमीहरु	
+217	210	Kagate	THEY	817	kʰuŋkja			They	उनीहरु	
+218	211	Kagate	LOAD	1679	kʰurpu			Load	भारी	High 
+219	212	Kagate	FLOUR	1594	tsamba			Flour (eaten as food)	पिठो	High
+220	213	Kagate	HAIL	609	serak			Hailstone	असिना	High
+221	214	Kagate	INTESTINES	1991	kjuma			Intestine	आन्द्रा	Rise
+222	215	Kagate	YARD	736	kot̪oŋ			Yard	आँगन	Low-Rise
+223	215	Kagate	YARD	736	ild̪o			Yard	आँगन	High
+224	216	Kagate	UPROOT	99999	podze			To uproot	उखेल्नु	High
+225	217	Kagate	OVEN	1143	kwaɡa			Oven	चुल्हो	Low-Rise
+226	218	Kagate	HEEL	980	t̪iŋba			Heel	कुर्कुच्चो	High
+227	219	Kagate	SPADE	1176	t̪odzi			Spade	कोदालो	High 
+228	220	Kagate	HORSE	615	t̪abu			Horse	घोडा	High
+229	221	Kagate	LOAD	1679	ɕjuwa			Load	भारी	High
+230	222	Kagate	PLOUGH	1921	modze			To plough	जोत्नु	High
+231	223	Kagate	JOIN	1743	siu			Bond	तमसुक	
+232	224	Kagate	BEAM	1132	maid̪an			Beam (main wooden beam)	निदाल	
+233	225	Kagate	LEASH	2959	t̪ʰakpa			Rope used to tie animals	दाम्लो	
+234	226	Kagate	BREAD	1368	maŋre			Bread	दाह्री	Rise
+235	227	Kagate	MEASURE	1506	t̪aptse			To measure	नाप्नु	Low-Rise
+236	228	Kagate	BOARD	1227	paŋlek			Plank	फल्याक	High
+237	229	Kagate	HOLE	1667	sup			Hole	प्वाल	High
+238	230	Kagate	PLOUGH (INSTRUMENT)	2154	t̪ʰoŋ			Plough (noun)	हलो	High
+239	231	Kagate	LID (COVER, CAP)	2319	kʰaptɕju			Lid (cover)	बिर्को	High
+240	232	Kagate	HANDLE	1254	joaɡa			Handle	बिँड	
+241	233	Kagate	BEAR	1820	t̪om			Bear	भालु	Rise
+242	234	Kagate	GHOST	1175	ɦendi			Ghost	भुत	Rise
+243	235	Kagate	DUNG (ANIMAL FAECES)	2057	tɕʰja			Manure	मल	High 
+244	236	Kagate	BREAD	1368	kʰura			Bread	रोटी	Mid-High
+245	237	Kagate	CORPSE	767	ro			Corpse	लास	Low-Rise
+246	237	Kagate	CORPSE	767	pʰumbu			Corpse	लास	 High
+247	238	Kagate	PIG	1337	pʰa			Pig	सुँगुर	Mid-High
+248	239	Kagate	GRAIN	605	du			Grains	अन्न	Rise
+249	240	Kagate	STICK	1295	perka			Stick	लठ्ठी	Mid
+250	241	Kagate	SWEAT (SUBSTANCE)	125	ŋuldʑju			Sweat	पसिना	High
+251	242	Kagate	CHEW	321	d̪etse			To chew	चपाउनु	Rise
+252	243	Kagate	SWALLOW	897	ɲiktse			To swallow	निल्नु	
+253	244	Kagate	THROW	1456	kurtse			To throw	फ्याँक्नु	High

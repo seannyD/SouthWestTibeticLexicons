@@ -1,0 +1,252 @@
+ID	SN	DOCULECT	CONCEPT	CONCEPTID	TRANSCRIPTION	SEGMENTS	COGID	GLOSS	SCRIPT	TONE
+1	1	Yolmo	BODY	1480	ndzuɡu			Body	शरीर	Mid
+2	2	Yolmo	HEAD	1256	ŋɡo			Head	टाउको	Mid-High
+3	3	Yolmo	HAIR	1040	tɹa			Hair	कपाल	High-Fall
+4	4	Yolmo	FACE	1560	t̪oŋba			Face	अनुहार	Low-Rise
+5	5	Yolmo	EYE	1248	mi			Eye	आँखा	High
+6	6	Yolmo	EAR	1247	nəmdʑjo			Ear	कान	Mid-High
+7	7	Yolmo	NOSE	1221	n̪aɾko			Nose	नाक	Mid-High 
+8	8	Yolmo	MOUTH	674	kʰa			Mouth	मुख	Mid-High
+9	9	Yolmo	TOOTH	1380	so			Teeth	दाँत	High-Fall
+10	10	Yolmo	TONGUE	1205	tsele			Tongue	जिब्रो	High
+11	11	Yolmo	BREAST	1402	praŋɡo			Breast	स्तन	Mid
+12	11	Yolmo	BREAST	1402	woma			Breast	स्तन	Low-Rise
+13	12	Yolmo	BELLY	1251	pʰo			Belly	पेट	High
+14	13	Yolmo	ARM OR HAND	2121	laɡpa			Arm/Hand	हात	(Mid-)Fall
+15	14	Yolmo	ELBOW	981	laɡpatsi			Elbow	कुइनो	
+16	15	Yolmo	PALM TREE	1181	laɡpan̪aŋ			Palm	हत्केला	
+17	16	Yolmo	FINGER	1303	ndzuɡu			Finger	औँला	Mid-Rise
+18	17	Yolmo	FINGERNAIL	1258	simu			Fingernail	नङ	High
+19	18	Yolmo	LEG	1297	kaŋba			Leg	खुट्टा	High
+20	19	Yolmo	SKIN	763	pawa			Skin	छाला	High
+21	20	Yolmo	BONE	1394	ɹeko			Bone	हाड	Mid
+22	21	Yolmo	HEART	1223	ɲiŋ			Heart	मुटु	High
+23	22	Yolmo	BLOOD	946	tʰa			Blood	रगत	High
+24	23	Yolmo	URINE	1142	tsiŋ			Urine	पिसाब	High
+25	24	Yolmo	FAECES (EXCREMENT)	675	kjakpa			Faeces	दिसा	High-Fall
+26	25	Yolmo	VILLAGE	930	jul			Village	गाउँ	Mid-Rise
+27	26	Yolmo	HOUSE	1252	kʰaŋba			House	घर	High
+29	28	Yolmo	DOOR	1567	ko			Door	ढोका	Mid-Fall
+30	29	Yolmo	FIREWOOD	10	ɕiŋ			Firewood	दाउरा	High
+31	30	Yolmo	BROOM	245	pʰjama			Broom	कुचो	High
+32	31	Yolmo	MORTAR CRUSHER	224	tsʰib			Mortar	सिलौटो	High
+33	31	Yolmo	MORTAR CRUSHER	224	 kuɡuɹ			Mortar	सिलौटो	Mid-Rise
+34	32	Yolmo	PESTLE	225	t̪imbu			Pestle	लोहोरो	High
+35	33	Yolmo	HAMMER	1481	t̪ʰoa			Hammer	हथौडा	Mid-High
+36	34	Yolmo	KNIFE	1352	kaɹt̪a			Knife	चक्कु	High
+37	35	Yolmo	AXE	677	t̪aɾi			Axe	वन्चरो	High
+38	36	Yolmo	ROPE	1218	t̪ʰakpa			Rope	डोरी	High
+39	37	Yolmo	THREAD	1161	kupa			Thread	धागो	High
+40	38	Yolmo	NEEDLE (FOR SEWING)	1382	kʰap			Needle	सियो	High
+41	39	Yolmo	CLOTH	1616	kəptɕja			Cloth	लुगा (कपडा)	High
+42	40	Yolmo	RING	1374	sit̪ub			Ring	औँठी	High
+43	41	Yolmo	SUN	1343	ɲima			Sun	घाम	Mid-High
+44	42	Yolmo	MOON	1313	nd̪awa			Moon	चन्द्रमा	Low-Rise
+45	43	Yolmo	SKY	1732	n̪əm			Sky	आकास	High
+46	44	Yolmo	STAR	1430	kəɾma			Star	तारा	High
+47	45	Yolmo	RAIN (RAINING)	1253	n̪əm			Rain	वर्षा	
+48	45	Yolmo	RAIN (RAINING)	1253	n̪əmɡjabzin̪			Rain	वर्षा	
+49	46	Yolmo	WATER	948	tɕʰu			Water	पानी	High
+50	47	Yolmo	RIVER	666	tsəŋbu			River	नदी	High
+51	48	Yolmo	CLOUD	1489	mukpa			Cloud	बादल	High
+52	49	Yolmo	LIGHTNING	1654	tsiləm			Lightening	बिजुली चम्कनु	High
+53	50	Yolmo	RAINBOW	1733	za			Rainbow	इन्द्रेणी	Low-Rise
+54	51	Yolmo	WIND	960	hlawa			Wind	वतास	Mid
+55	52	Yolmo	STONE	857	t̪o			Stone	ढुङ्गा	Mid-Rise
+56	53	Yolmo	PATH	2252	lam			Path	बाटो	Low-Rise
+57	54	Yolmo	SAND	671	pema			Sand	बालुवा	Low-Rise
+58	55	Yolmo	FIRE	221	me			Fire	आगो	Low-Rise
+59	56	Yolmo	SMOKE (INHALE)	1689	t̪ipa			Smoke	धुवाँ	Mid-Rise
+60	57	Yolmo	ASH	646	t̪ʰala			Ash	खरानी	Mid-High
+61	58	Yolmo	MUD	640	sasa			Mud	माटो	
+62	59	Yolmo	DUST	2	t̪ʰalbi			Dust	धुलो	
+63	60	Yolmo	GOLD	1369	sir			Gold	सुन	High
+64	61	Yolmo	TREE	906	t̪uŋbu			Tree	रुख	Low-Rise
+65	62	Yolmo	LEAF	628	loma			Leaf	पात	Low-Rise
+66	63	Yolmo	ROOT	670	tsaɾki			Root	जरा	High
+67	64	Yolmo	THORN	124	tsʰeɹma			Thorn	काँडो	High
+68	65	Yolmo	FLOWER	239	mend̪o			Flower	फूल	Low-Rise
+69	66	Yolmo	FRUIT	1507	pʰəlbul			Fruit	फलफुल	
+70	67	Yolmo	MANGO	2398	ãm			Mango	आँप	
+71	68	Yolmo	BANANA	868	keɾa			Banana	केरा	
+72	69	Yolmo	WHEAT	1077	ne			Wheat (husked)	गहुँ	Mid
+73	70	Yolmo	BARLEY	932	dzəu			Barley	जौ	
+74	71	Yolmo	RICE	926	mbɹe			Rice (husked)	चामल	Mid-Rise
+75	72	Yolmo	POTATO	593	he			Potato	आलु	High
+76	73	Yolmo	AUBERGINE	1146	bãⁿda			Eggplant	भन्टा	
+77	74	Yolmo	PEANUT	2364	bəd̪əm			Groundnut	बदाम	
+78	75	Yolmo	NUT	191	mətsa			Chilli	खुर्सानी	High
+79	76	Yolmo	TURMERIC	2842	juŋa			Turmeric	बेसार	Mid-Rise
+80	77	Yolmo	GARLIC	2368	kɔkpa			Garlic	लसुन	Low-Rise
+81	78	Yolmo	ONION	2366	pjats			Onion	प्याज	
+82	79	Yolmo	CAULIFLOWER	2843	pʰulɡobi			Cauliflower	काउली	
+83	80	Yolmo	TOMATO	986	ɡolbenda			Tomato	गोलभेँडा	
+84	81	Yolmo	CABBAGE	774	bənd̪aɡobi			Cabbage	बन्दा	
+85	82	Yolmo	OIL (ORGANIC SUBSTANCE)	1484	n̪um			Oil	तेल	High
+86	83	Yolmo	SALT	1274	tsʰa			Salt	नुन	High 
+87	84	Yolmo	MEAT	634	ɕja			Meat	मासु	High-Fall
+88	85	Yolmo	FAT (OF MEAT AND FOOD)	2449	tsʰilu			Fat (of meat)	बोसो	High
+89	86	Yolmo	FISH	227	ɲa			Fish	माछा	Mid-High
+90	87	Yolmo	CHICKEN	1318	tɕjamubiɹu			Chicken	चल्ला	
+91	88	Yolmo	EGG	744	koŋa			Egg	अन्डा	Low-Rise
+92	89	Yolmo	COW	1007	palaŋ			Cow	गाइ	Mid
+93	90	Yolmo	BUFFALO	934	məji			Buffalo	भैँसी	Mid-Rise
+94	91	Yolmo	MILK	635	woma			Milk	दुध	Low-Rise
+95	92	Yolmo	HORN (ANATOMY)	1393	ɹowa			Horns	सिङ	Low-Rise
+96	93	Yolmo	TAIL	1220	ŋama			Tail	पुच्छर	High
+97	94	Yolmo	GOAT	1502	ra			Goat	बाख्रो	Mid-Rise
+98	95	Yolmo	DOG	2009	kʰi			Dog	कुकुर	High
+99	96	Yolmo	SNAKE	730	pɹul			Snake	सर्प (साँप)	High
+100	97	Yolmo	MONKEY	1350	pɹeken			Monkey	बाँदर	High
+101	98	Yolmo	MOSQUITO	1509	mətɕʰəɹ			Mosquito	लामखुट्टे	
+102	99	Yolmo	ANT	587	tomaŋ			Ant	कमिला	Mid-Rise
+103	100	Yolmo	SPIDER	843	ɕwabu			Spider	माकुरो	High
+104	101	Yolmo	NAME	1405	min			Name	नाम	Mid-Rise
+105	102	Yolmo	MAN	1554	mi			Man	मान्छे	Mid-Rise
+106	103	Yolmo	WOMAN	962	pimi			Woman	आइमाई	Low-Rise
+107	104	Yolmo	CHILD	2099	pedza			Child	बच्चा	Low-Rise
+108	105	Yolmo	FATHER	1217	aba			Father	बुबा	High
+109	106	Yolmo	MOTHER	1216	ãmã			Mother	आमा	High
+110	107	Yolmo	OLDER BROTHER	1759	ad̪a			Older brother	दाजु	High
+111	108	Yolmo	YOUNGER BROTHER	1760	n̪o			Younger brother	भाइ	Mid
+112	109	Yolmo	OLDER SISTER	1758	adʑi			Older sister	दिदी	High
+113	110	Yolmo	YOUNGER SISTER	1761	n̪omo			Younger sister	बहिनी	Mid-Rise
+114	111	Yolmo	SON	1620	pu			Son	छोरो	High
+115	112	Yolmo	DAUGHTER	1357	pomo			Daughter	छोरी	Mid-Rise
+116	113	Yolmo	HUSBAND	1200	kʰjowa			Husband	लोग्ने (श्रीमान)	Mid-High
+117	114	Yolmo	WIFE	1199	pimi			Wife	स्वास्नी (श्रीमती)	
+118	115	Yolmo	BOY	1366	ɕjaɹa			Boy	केटो	High
+119	116	Yolmo	GIRL	1646	ɕjaɹma			Girl	केटी	High
+120	117	Yolmo	DAY (NOT NIGHT)	1225	ɲima			Day	दिन	
+121	118	Yolmo	NIGHT	1233	kuŋmu			Night	रात	Low-Rise
+122	119	Yolmo	MORNING	1339	ɕjole			Morning	विहान	Low-Rise
+123	120	Yolmo	NOON	2490	ɲimapʰe			Noon	मध्यान्ह	
+124	121	Yolmo	EVENING	1629	kuŋse			Evening	साँझ	Mid-Rise
+125	122	Yolmo	YESTERDAY	1174	nd̪aŋ			Yesterday	हिजो	Mid
+126	123	Yolmo	TODAY	1283	t̪iɹiŋ			Today	आज	Mid-Rise
+127	124	Yolmo	TOMORROW	1329	n̪aŋbaɹ			Tomorrow	भोली	Low-Rise
+128	125	Yolmo	WEEK	1469	ɲimat̪in			Week	हप्ता (साता)	
+129	126	Yolmo	MONTH	1370	nd̪owa			Month	महिना	Low
+130	127	Yolmo	YEAR	1226	lo			Year	वर्ष	Low-Rise
+131	128	Yolmo	OLD	1229	ɲiŋba			Old	पुरानो	High
+132	129	Yolmo	NEW	1231	samba			New	नयाँ	High
+133	130	Yolmo	GOOD	1035	jabu			Good	राम्रो (असल)	Low-Rise
+134	131	Yolmo	BAD	1292	tsokpa			Bad	नराम्रो (खराव)	High
+135	132	Yolmo	WET	1726	taŋmu			Wet	चिसो	Low-Rise
+136	133	Yolmo	DRY	1398	kambu			Dry	सुख्खा	High
+137	134	Yolmo	LONG	1203	ɹiŋbu			Long	लामो	Mid-Rise
+138	135	Yolmo	SHORT	1645	t̪ʰemu			Short	छोटो	High
+139	136	Yolmo	HOT	1286	tomu			Hot	तातो	Mid-Rise
+140	137	Yolmo	COLD	1287	taŋmu			Cold	चिसो	Low-Rise
+141	138	Yolmo	RIGHT	1019	joba			Right	दाहिने	High
+142	139	Yolmo	LEFT	244	joma			Left	देव्रे	High
+143	140	Yolmo	NEAR	1942	poɰla			Near	नजिक	High
+144	141	Yolmo	FAR	1406	t̪ʰaɹiŋbu			Far	टाढा	
+145	142	Yolmo	BIG	1202	tɕʰjimbu			Big	ठुलो	High
+146	143	Yolmo	SMALL	1246	tsemu			Small	सानो	High
+147	144	Yolmo	HEAVY	1210	tɕjand̪i			Heavy	गह्रौँ	High
+148	145	Yolmo	LIGHT (WEIGHT)	1052	jaŋd̪i			Light	हलुका	Mid-Rise
+149	146	Yolmo	ABOVE	1741	t̪ʰola			Above	माथि	High
+150	147	Yolmo	DOWN OR BELOW	2094	t̪iŋla			Below	तल	Mid-High
+151	148	Yolmo	WHITE	1335	kaɾpu			White	सेतो	High
+152	149	Yolmo	BLACK	163	n̪akpu			Black	कालो	Mid-Rise
+153	150	Yolmo	RED	156	maɹmu			Red	रातो	Low-Rise
+154	151	Yolmo	ONE	1493	tɕi			One	एक	High
+155	152	Yolmo	TWO	1498	ɲi			Two	दुई	High
+156	153	Yolmo	THREE	492	sum			Three	तीन	High
+157	154	Yolmo	FOUR	1500	ʑi			Four	चार	Low-Rise
+158	155	Yolmo	FIVE	493	ŋa			Five	पाँच	High
+159	156	Yolmo	SIX	1703	tu			Six	छ	Mid-High
+160	157	Yolmo	SEVEN	1704	t̪in			Seven	सात	Mid-High
+161	158	Yolmo	EIGHT	1705	ke			Eight	आठ	Mid-High
+162	159	Yolmo	NINE	1483	ku			Nine	नौ	Mid-High
+163	160	Yolmo	TEN	1515	tɕju			Ten	दश	High-Fall
+164	161	Yolmo	ELEVEN	1706	tɕjuʑi			Eleven	एघार	
+165	162	Yolmo	TWELVE	1707	tɕiɲi			Twelve	बाह्र	
+166	163	Yolmo	TWENTY	1710	ɲiɕju			Twenty	वीस	
+167	163	Yolmo	TWENTY	1710	kʰaldʑi			Twenty	वीस	
+168	164	Yolmo	HUNDRED	1634	kjatɕi			One Hundred	एक सय	
+169	165	Yolmo	WHO	1235	su			Who	को	High
+170	166	Yolmo	WHAT	1236	tɕi			What	के	
+171	167	Yolmo	WHERE	1237	ka			Where	कहाँ	
+172	168	Yolmo	WHEN	1238	n̪am			When	कहिले	(--)Rise
+173	169	Yolmo	HOW MANY	822	kadze			How many	कति	Low-Rise
+174	170	Yolmo	WHICH	727	kãd̪i			Which	कुन	
+175	171	Yolmo	THIS	1214	nd̪i			This	यो	Low-Rise
+176	172	Yolmo	THAT	78	pʰarŋe			That	त्यो	
+177	173	Yolmo	THIS	1214	nd̪ikja			These	यी	
+178	174	Yolmo	THAT	78	t̪apʰarŋed̪i			Those	ती	
+179	175	Yolmo	SAME	200	andaɾaŋ			Same	उही	Low-Rise
+180	176	Yolmo	DIFFERENT	2504	alak			Different	फरक	
+181	177	Yolmo	WHOLE	2277	t̪eptse			Whole	सबै	Mid-Rise
+182	178	Yolmo	BROKEN	588	tɕʰjakjo			Broken	फुटेको	Mid-Rise
+183	179	Yolmo	FEW	1242	sipi			Few	थोरै	
+184	179	Yolmo	FEW	1242	ɲemu			Few	थोरै	
+185	180	Yolmo	MANY	1198	maŋbu			Many	धेरै	Low-Rise
+186	181	Yolmo	ALL	98	ndzamaɹaŋ			All	सबै	
+187	182	Yolmo	EAT	1336	so			To eat	खानु	Mid 
+188	183	Yolmo	BITE	1403	muɹd̪uŋ			To bite	टोक्नु	
+189	184	Yolmo	BE HUNGRY	1533	tepat̪od̪e			To be hungry	भोकाउनु	Low-Rise
+190	185	Yolmo	DRINK	1401	t̪ʰuŋd̪uŋ			To drink	पिउनु	
+191	186	Yolmo	THIRSTY	847	komzewoŋd̪e			To be thirsty	तिर्खाउनु	
+192	187	Yolmo	SLEEP	1585	ɲald̪uŋ			To sleep	सुत्नु	
+193	188	Yolmo	LIE (REST)	1411	kaŋtsʰiɹiɲald̪uŋ			To lie	पल्टनु	
+194	189	Yolmo	SIT	1416	t̪e			To sit	बस्नु	Mid-Rise
+195	190	Yolmo	GIVE	1447	t̪eɾt̪uŋ			To give	दिनु	High
+196	191	Yolmo	BURN	2102	tsʰid̪e			To burn	डढाउनु	
+197	192	Yolmo	DIE	1494	ɕid̪e			To die	मर्नु	
+198	193	Yolmo	KILL	1417	set̪oŋ			To kill	मार्नु	
+199	194	Yolmo	FLY (MOVE THROUGH AIR)	1441	loŋ			To fly	उड्नु	
+200	195	Yolmo	WALK	1443	ndo			To walk	हिँड्नु	Mid-Rise
+201	196	Yolmo	RUN	1519	tɕʰjuŋd̪uŋ			To run	दौडिनु	
+202	197	Yolmo	GO	695	soŋ			To go	जानु	High 
+203	198	Yolmo	COME	1446	ɕjo			To come	आउनु	High
+204	199	Yolmo	SPEAK	1623	med̪oŋ			To speak	बोल्नु	High
+205	200	Yolmo	LISTEN	1608	ɲind̪oŋ			To hear/listen	सुन्नु	Mid-Rise
+206	201	Yolmo	LOOK	1819	t̪ed̪oŋ			To look	हेर्नु	High
+207	202	Yolmo	I	1209	ŋa			I	म	Mid-Rise
+208	203	Yolmo	THOU	1215	kʰje			You (informal)	तँ	
+209	203	Yolmo	THOU	1215	kʰjø			You (informal)	तँ	
+210	204	Yolmo	YOU (FORMAL ADDRESS)	2844	ɲiɹaŋla			You (formal)	तपाइँ	
+211	205	Yolmo	HE	1211	kʰe			He	उ	
+212	206	Yolmo	SHE	1834	mo			She	उनी	
+213	207	Yolmo	WE (INCLUSIVE)	1131	ɲiɹaŋ			We (inclusive)	हामी (समावेशी)	
+214	208	Yolmo	WE (EXCLUSIVE)	1130	woɹaŋ			We (exclusive)	हामी (असमावेशी)	
+215	209	Yolmo	YOU	1213	kʰjapəti			You (plural)	तिमीहरु	
+216	210	Yolmo	THEY	817	kʰuŋpʰatsi			They	उनीहरु	
+217	211	Yolmo	LOAD	1679	kʰurpu			Load	भारी	High
+218	212	Yolmo	FLOUR	1594	tsamba			Flour (eaten as food)	पिठो	High
+219	213	Yolmo	HAIL	609	seɹa			Hailstone	असिना	
+220	214	Yolmo	INTESTINES	1991	kjuma			Intestine	आन्द्रा	Mid-Rise
+221	215	Yolmo	YARD	736	t̪iŋ			Yard	आँगन	Mid-Fall
+222	215	Yolmo	YARD	736	sat̪iŋ			Yard	आँगन	Mid-Fall
+223	216	Yolmo	UPROOT	99999	pod̪oŋ			To uproot	उखेल्नु	High
+224	217	Yolmo	OVEN	1143	koa			Oven	चुल्हो	Low-Rise
+225	218	Yolmo	HEEL	980	kaŋbat̪iŋba			Heel	कुर्कुच्चो	
+226	219	Yolmo	SPADE	1176	t̪uzi			Spade	कोदालो	High
+227	220	Yolmo	HORSE	615	t̪əbu			Horse	घोडा	High
+228	221	Yolmo	LOAD	1679	kʰuɹpu			Load	भारी	High
+229	222	Yolmo	PLOUGH	1921	med̪oŋ			To plough	जोत्नु	
+230	223	Yolmo	JOIN	1743	t̪əməsu			Bond	तमसुक	Low-Rise
+231	223	Yolmo	JOIN	1743	kamɡja			Bond	तमसुक	Low-Rise
+232	224	Yolmo	BEAM	1132	t̪uŋma			Beam (main wooden beam)	निदाल	Low-Rise
+233	225	Yolmo	LEASH	2959	ɹel			Rope used to tie animals	दाम्लो	
+234	226	Yolmo	BREAD	1368	kja			Bread	दाह्री	Mid
+235	227	Yolmo	MEASURE	1506	t̪apt̪oŋ			To measure	नाप्नु	Mid-Rise
+236	228	Yolmo	BOARD	1227	paŋlep			Plank	फल्याक	High
+237	229	Yolmo	HOLE	1667	om			Hole	प्वाल	High-Fall
+238	230	Yolmo	PLOUGH (INSTRUMENT)	2154	t̪ʰoŋ			Plough (noun)	हलो	High
+239	231	Yolmo	LID (COVER, CAP)	2319	kʰaʑu			Lid (cover)	बिर्को	Mid-High
+240	232	Yolmo	HANDLE	1254	jowa			Handle	बिँड	Low-Rise
+241	233	Yolmo	BEAR	1820	t̪om			Bear	भालु	Mid-High
+242	234	Yolmo	GHOST	1175	hlandi			Ghost	भुत	Low-Rise
+243	235	Yolmo	DUNG (ANIMAL FAECES)	2057	li			Manure	मल	Low-Rise
+244	236	Yolmo	BREAD	1368	kʰuɹa			Bread	रोटी	High
+245	237	Yolmo	CORPSE	767	ɹo			Corpse	लास	Low-Rise
+246	238	Yolmo	PIG	1337	pʰa			Pig	सुँगुर	High
+247	239	Yolmo	GRAIN	605	ndu			Grains	अन्न	Mid-High
+248	240	Yolmo	STICK	1295	pɹeka			Stick	लठ्ठी	High
+249	241	Yolmo	SWEAT (SUBSTANCE)	125	ŋuldʑju			Sweat	पसिना	
+250	242	Yolmo	CHEW	321	muɾt̪oŋ			To chew	चपाउनु	
+251	243	Yolmo	SWALLOW	897	ɲit̪uŋ			To swallow	निल्नु	
+252	244	Yolmo	THROW	1456	kjuɹd̪uŋ			To throw	फ्याँक्नु	

@@ -1,0 +1,252 @@
+ID	SN	DOCULECT	CONCEPT	CONCEPTID	TRANSCRIPTION	SEGMENTS	COGID	GLOSS	SCRIPT	TONE
+1	1	Nubri	BODY	1480	su			Body	शरीर	(Low-)Rise
+2	2	Nubri	HEAD	1256	ko			Head	टाउको	(Low-)Rise
+3	3	Nubri	HAIR	1040	hɹa			Hair	कपाल	(Mid-)Fall
+4	4	Nubri	FACE	1560	tɕuŋu			Face	अनुहार	(Low-)Rise
+5	5	Nubri	EYE	1248	mik			Eye	आँखा	Mid
+6	6	Nubri	EAR	1247	amtɕjoʔ			Ear	कान	Mid
+7	7	Nubri	NOSE	1221	nat̪u			Nose	नाक	Mid
+8	8	Nubri	MOUTH	674	kʰabt̪u			Mouth	मुख	Mid
+9	9	Nubri	TOOTH	1380	sa			Teeth	दाँत	(Mid-)Fall
+10	10	Nubri	TONGUE	1205	tɕe			Tongue	जिब्रो	Mid
+11	11	Nubri	BREAST	1402	tɕju			Breast	स्तन	Mid
+12	12	Nubri	BELLY	1251	topa			Belly	पेट	(Low-)Rise
+13	13	Nubri	ARM OR HAND	2121	lakpa			Arm/Hand	हात	(Low-)Rise
+14	14	Nubri	ELBOW	981	tsʰikt̪oʔ			Elbow	कुइनो	Mid(-High)
+15	15	Nubri	PALM TREE	1181	lakpa t̪ʰil			Palm	हत्केला	
+16	16	Nubri	FINGER	1303	tsuku			Finger	औँला	Mid
+17	17	Nubri	FINGERNAIL	1258	sermo			Fingernail	नङ	Mid(-High)
+18	18	Nubri	LEG	1297	kaŋpa			Leg	खुट्टा	Mid
+19	19	Nubri	SKIN	763	pau			Skin	छाला	Mid
+20	20	Nubri	BONE	1394	hɹypa			Bone	हाड	(Mid-)Fall
+21	21	Nubri	HEART	1223	ɲiŋ			Heart	मुटु	High
+22	22	Nubri	BLOOD	946	tʰa			Blood	रगत	Mid
+23	23	Nubri	URINE	1142	tɕʰi			Urine	पिसाब	Mid
+24	24	Nubri	FAECES (EXCREMENT)	675	aʔ			Faeces	दिसा	High
+25	25	Nubri	VILLAGE	930	jul			Village	गाउँ	Mid
+26	26	Nubri	HOUSE	1252	kʰim			House	घर	Mid
+27	27	Nubri	ROOF	769	t̪ʰɔ			Roof	छानो	Mid
+28	28	Nubri	DOOR	1567	ko			Door	ढोका	Mid
+29	29	Nubri	FIREWOOD	10	ɕiŋ			Firewood	दाउरा	High
+30	30	Nubri	BROOM	245	koŋmo			Broom	कुचो	High
+31	31	Nubri	MORTAR CRUSHER	224	koɡtsʰum			Mortar	सिलौटो	(Low-)Rise
+32	32	Nubri	PESTLE	225	t̪iktsa			Pestle	लोहोरो	Mid(-High)
+33	33	Nubri	HAMMER	1481	t̪ʰɔ			Hammer	हथौडा	Mid
+34	34	Nubri	KNIFE	1352	tuku			Knife	चक्कु	(Low-)Rise
+35	35	Nubri	AXE	677	t̪aɹi			Axe	वन्चरो	High
+36	36	Nubri	ROPE	1218	t̪ʰaɡpa			Rope	डोरी	(Mid-)Fall
+37	37	Nubri	THREAD	1161	kupa			Thread	धागो	Mid(-High)
+38	38	Nubri	NEEDLE (FOR SEWING)	1382	kʰap			Needle	सियो	High
+39	39	Nubri	CLOTH	1616	kalaʔ			Cloth	लुगा (कपडा)	(Low-)Rise
+40	40	Nubri	RING	1374	soɹt̪ob			Ring	औँठी	High
+41	41	Nubri	SUN	1343	ɲo			Sun	घाम	(Low-)Rise
+42	42	Nubri	MOON	1313	t̪a			Moon	चन्द्रमा	(Low-)Rise
+43	43	Nubri	SKY	1732	nam			Sky	आकास	High
+44	44	Nubri	STAR	1430	kaɹma			Star	तारा	Mid
+45	45	Nubri	RAIN (RAINING)	1253	nam			Rain	वर्षा	High
+46	46	Nubri	WATER	948	tɕʰju			Water	पानी	High
+47	47	Nubri	RIVER	666	kjuɡtɕʰju			River	नदी	
+48	48	Nubri	CLOUD	1489	muɡpa			Cloud	बादल	High
+49	49	Nubri	LIGHTNING	1654	tuk			Lightening	बिजुली चम्कनु	Mid
+50	50	Nubri	RAINBOW	1733	tɕja			Rainbow	इन्द्रेणी	Mid
+51	51	Nubri	WIND	960	hlawa			Wind	वतास	Mid
+52	52	Nubri	STONE	857	t̪oh			Stone	ढुङ्गा	(Mid-)Fall
+53	53	Nubri	PATH	2252	lamkja			Path	बाटो	(Low-)Rise
+54	54	Nubri	SAND	671	pɛ̃:			Sand	बालुवा	(Low-)Rise
+55	55	Nubri	FIRE	221	mẽ			Fire	आगो	(Low-)Rise
+56	56	Nubri	SMOKE (INHALE)	1689	t̪ohpa			Smoke	धुवाँ	(Low-)Rise
+57	57	Nubri	ASH	646	kot̪ʰal			Ash	खरानी	(Low-)Rise
+58	58	Nubri	MUD	640	t̪ampa			Mud	माटो	(Low-)Rise
+59	59	Nubri	DUST	2	t̪ʰala			Dust	धुलो	Mid
+60	60	Nubri	GOLD	1369	seɹ			Gold	सुन	Mid
+61	61	Nubri	TREE	906	t̪oŋpo			Tree	रुख	(Low-)Rise
+62	62	Nubri	LEAF	628	loma			Leaf	पात	(Low-)Rise
+63	63	Nubri	ROOT	670	tsa			Root	जरा	Mid
+64	64	Nubri	THORN	124	tsʰerma			Thorn	काँडो	(Mid-)Fall
+65	65	Nubri	FLOWER	239	met̪o			Flower	फूल	(Low-)Rise
+66	66	Nubri	FRUIT	1507	ɕiŋt̪oʔ			Fruit	फलफुल	
+67	67	Nubri	MANGO	2398	ãb			Mango	आँप	Mid
+68	68	Nubri	BANANA	868	kela			Banana	केरा	Mid
+69	69	Nubri	WHEAT	1077	toh			Wheat (husked)	गहुँ	(Mid-)Fall
+70	70	Nubri	BARLEY	932	n̪e:			Barley	जौ	(Low-)Rise
+71	71	Nubri	RICE	926	te:			Rice (husked)	चामल	(Low-)Rise
+72	72	Nubri	POTATO	593	t̪ɔ:			Potato	आलु	(Low-)Rise
+73	73	Nubri	AUBERGINE	1146	pɛnta			Eggplant	भन्टा	
+74	74	Nubri	PEANUT	2364	pat̪am			Groundnut	बदाम	
+75	75	Nubri	NUT	191	kʰoɹtsʰen			Chilli	खुर्सानी	Mid
+76	76	Nubri	TURMERIC	2842	peseɹ			Turmeric	बेसार	
+77	77	Nubri	GARLIC	2368	koɡpa			Garlic	लसुन	(Low-)Rise
+78	78	Nubri	ONION	2366	tsoŋ			Onion	प्याज	Mid
+79	79	Nubri	CAULIFLOWER	2843	kauli			Cauliflower	काउली	
+80	80	Nubri	TOMATO	986	tumaʈa			Tomato	गोलभेँडा	
+81	81	Nubri	CABBAGE	774	pənd̪a			Cabbage	बन्दा	(Low-)Rise
+82	82	Nubri	OIL (ORGANIC SUBSTANCE)	1484	n̪um			Oil	तेल	High
+83	83	Nubri	SALT	1274	tsʰa			Salt	नुन	High-Fall
+84	84	Nubri	MEAT	634	ɕja			Meat	मासु	(Mid-)Fall
+85	85	Nubri	FAT (OF MEAT AND FOOD)	2449	tsʰulu			Fat (of meat)	बोसो	(Mid-)High
+86	86	Nubri	FISH	227	ɲa			Fish	माछा	(Mid-)Fall
+87	87	Nubri	CHICKEN	1318	tɕjoũ			Chicken	चल्ला	(Low-)Rise
+88	88	Nubri	EGG	744	koõ			Egg	अन्डा	(Low-)Rise
+89	89	Nubri	COW	1007	palaŋ			Cow	गाइ	(Low-)Rise
+90	90	Nubri	BUFFALO	934	maɦi			Buffalo	भैँसी	(Low-)Rise
+91	91	Nubri	MILK	635	ɦoõ			Milk	दुध	
+92	92	Nubri	HORN (ANATOMY)	1393	adkjo			Horns	सिङ	High
+93	93	Nubri	TAIL	1220	ŋõ			Tail	पुच्छर	Mid
+94	94	Nubri	GOAT	1502	ɹatse			Goat	बाख्रो	(Low-)Rise
+95	95	Nubri	DOG	2009	kʰji			Dog	कुकुर	High (-Fall)
+96	96	Nubri	SNAKE	730	tul			Snake	सर्प (साँप)	Mid
+97	97	Nubri	MONKEY	1350	piu			Monkey	बाँदर	High
+98	98	Nubri	MOSQUITO	1509	t̪ukɖaŋ			Mosquito	लामखुट्टे	(Low-)Rise
+99	99	Nubri	ANT	587	hɹomo			Ant	कमिला	(Low-)Rise
+100	100	Nubri	SPIDER	843	pabla			Spider	माकुरो	(Low-)Rise
+101	101	Nubri	NAME	1405	min̪			Name	नाम	Mid 
+102	102	Nubri	MAN	1554	mĩ			Man	मान्छे	(Low-)Rise
+103	103	Nubri	WOMAN	962	põbetsa			Woman	आइमाई	
+104	104	Nubri	CHILD	2099	petsa			Child	बच्चा	(Low-)Rise
+105	105	Nubri	FATHER	1217	jɛ			Father	बुबा	Mid
+106	106	Nubri	MOTHER	1216	aã			Mother	आमा	(Low-)Rise
+107	107	Nubri	OLDER BROTHER	1759	tɕi			Older brother	दाजु	(Low-)Rise
+108	108	Nubri	YOUNGER BROTHER	1760	n̪u			Younger brother	भाइ	(Low-)Rise
+109	109	Nubri	OLDER SISTER	1758	jei			Older sister	दिदी	Mid
+110	110	Nubri	YOUNGER SISTER	1761	n̪u			Younger sister	बहिनी	(Low-)Rise
+111	111	Nubri	SON	1620	puh			Son	छोरो	Mid
+112	112	Nubri	DAUGHTER	1357	poõ			Daughter	छोरी	(Low-)Rise
+113	113	Nubri	HUSBAND	1200	kʰjoka			Husband	लोग्ने (श्रीमान)	Mid
+114	114	Nubri	WIFE	1199	ɕɛt̪aŋ			Wife	स्वास्नी (श्रीमती)	(Low-)Rise
+115	115	Nubri	BOY	1366	puh			Boy	केटो	
+116	116	Nubri	GIRL	1646	poõ			Girl	केटी	
+117	117	Nubri	DAY (NOT NIGHT)	1225	ɲin̪			Day	दिन	Mid
+118	118	Nubri	NIGHT	1233	tsʰen̪			Night	रात	Mid
+119	119	Nubri	MORNING	1339	tõŋkõ			Morning	विहान	(Low-)Rise
+120	120	Nubri	NOON	2490	n̪iŋkũ			Noon	मध्यान्ह	(Low-)Rise
+121	121	Nubri	EVENING	1629	koŋmo			Evening	साँझ	(Low-)Rise
+122	122	Nubri	YESTERDAY	1174	t̪aŋ			Yesterday	हिजो	(Low-)Rise
+123	123	Nubri	TODAY	1283	t̪iɹiŋ			Today	आज	(Low-)Rise
+124	124	Nubri	TOMORROW	1329	ŋaɹo			Tomorrow	भोली	Mid
+125	125	Nubri	WEEK	1469	t̪ʏntʰaʔ			Week	हप्ता (साता)	(Low-)Rise
+126	126	Nubri	MONTH	1370	t̪ah			Month	महिना	(Low-)Rise
+127	127	Nubri	YEAR	1226	lo			Year	वर्ष	(Low-)Rise
+128	128	Nubri	OLD	1229	ɲiŋpa			Old	पुरानो	(High-)Mid
+129	129	Nubri	NEW	1231	sampa			New	नयाँ	Mid
+130	130	Nubri	GOOD	1035	koŋ			Good	राम्रो (असल)	(Low-)Rise
+131	131	Nubri	BAD	1292	ɦawɛ			Bad	नराम्रो (खराव)	(Low-)Rise 
+132	132	Nubri	WET	1726	lompa			Wet	चिसो	Mid
+133	133	Nubri	DRY	1398	kombo			Dry	सुख्खा	Mid
+134	134	Nubri	LONG	1203	ɹiŋpo			Long	लामो	(Low-)Rise
+135	135	Nubri	SHORT	1645	t̪ɛ̃n̪d̪ɛ̃			Short	छोटो	Mid
+136	136	Nubri	HOT	1286	tsʰawo			Hot	तातो	Mid
+137	137	Nubri	COLD	1287	taŋmo			Cold	चिसो	(Low-)Rise
+138	138	Nubri	RIGHT	1019	je			Right	दाहिने	Mid
+139	139	Nubri	LEFT	244	jon̪			Left	देव्रे	Mid
+140	140	Nubri	NEAR	1942	t̪ʰaɲiw			Near	नजिक	
+141	141	Nubri	FAR	1406	t̪ʰaɹiŋpo			Far	टाढा	
+142	142	Nubri	BIG	1202	tɕjɔ̃mpu			Big	ठुलो	
+143	143	Nubri	SMALL	1246	tɛtɛ			Small	सानो	Mid
+144	144	Nubri	HEAVY	1210	tsʰint̪i			Heavy	गह्रौँ	Mid
+145	145	Nubri	LIGHT (WEIGHT)	1052	jaŋpo			Light	हलुका	(Low-)Rise
+146	146	Nubri	ABOVE	1741	kaŋ			Above	माथि	(Low-)Rise
+147	147	Nubri	DOWN OR BELOW	2094	ɦo			Below	तल	(Low-)Rise
+148	148	Nubri	WHITE	1335	kaɹpo			White	सेतो	Mid
+149	149	Nubri	BLACK	163	n̪akpo			Black	कालो	(Low-)Rise
+150	150	Nubri	RED	156	maɹpo			Red	रातो	Mid
+151	151	Nubri	ONE	1493	tɕik			One	एक	Mid
+152	152	Nubri	TWO	1498	ɲi			Two	दुई	Mid
+153	153	Nubri	THREE	492	sum			Three	तीन	Mid
+154	154	Nubri	FOUR	1500	ɕi			Four	चार	Low
+155	155	Nubri	FIVE	493	ŋa			Five	पाँच	(Mid-)Low
+156	156	Nubri	SIX	1703	tuk			Six	छ	(Mid-)Low
+157	157	Nubri	SEVEN	1704	t̪yn̪			Seven	सात	(Low-)Rise
+158	158	Nubri	EIGHT	1705	ke			Eight	आठ	(Mid-)Low
+159	158	Nubri	EIGHT	1705	kxe			Eight	आठ	(Mid-)Low
+160	159	Nubri	NINE	1483	ku			Nine	नौ	(Mid-)Low
+161	160	Nubri	TEN	1515	tɕju			Ten	दश	(Mid-)Fall
+162	161	Nubri	ELEVEN	1706	tɕjudʑik			Eleven	एघार	
+163	162	Nubri	TWELVE	1707	tɕjuɲi			Twelve	बाह्र	
+164	163	Nubri	TWENTY	1710	ɲiɕu			Twenty	वीस	
+165	164	Nubri	HUNDRED	1634	kjat̪ʰamba			One Hundred	एक सय	
+166	165	Nubri	WHO	1235	su			Who	को	(Mid-)High
+167	166	Nubri	WHAT	1236	tɕi			What	के	(Mid-)High
+168	167	Nubri	WHERE	1237	kønt̪a			Where	कहाँ	(Low-)Rise
+169	168	Nubri	WHEN	1238	n̪am			When	कहिले	(Low-)Rise
+170	169	Nubri	HOW MANY	822	maŋlo			How many	कति	(Low-)Rise
+171	170	Nubri	WHICH	727	køn̪d̪i			Which	कुन	
+172	171	Nubri	THIS	1214	t̪i			This	यो	(Low-)Mid
+173	171	Nubri	THIS	1214	d̪i			This	यो	(Low-)Mid
+174	172	Nubri	THAT	78	pʰu			That	त्यो	(Mid-)High
+175	173	Nubri	THIS	1214	t̪id̪o			These	यी	
+176	174	Nubri	THAT	78	pʰud̪o			Those	ती	
+177	175	Nubri	SAME	200	tɕɔtɕo			Same	उही	Mid
+178	176	Nubri	DIFFERENT	2504	alak			Different	फरक	
+179	177	Nubri	WHOLE	2277	tɕjapt̪a			Whole	सबै	High-Fall
+180	178	Nubri	BROKEN	588	tɕʰjakjo			Broken	फुटेको	Mid
+181	179	Nubri	FEW	1242	alajili			Few	थोरै	
+182	180	Nubri	MANY	1198	aŋsaŋ			Many	धेरै	
+183	181	Nubri	ALL	98	tɕjapt̪a			All	सबै	
+184	182	Nubri	EAT	1336	seji			To eat	खानु	(Low-)Rise
+185	183	Nubri	BITE	1403	soɡjap			To bite	टोक्नु	
+186	184	Nubri	BE HUNGRY	1533	topat̪ɔ			To be hungry	भोकाउनु	
+187	185	Nubri	DRINK	1401	t̪ʰuŋ			To drink	पिउनु	High
+188	186	Nubri	THIRSTY	847	kʰakom			To be thirsty	तिर्खाउनु	
+189	187	Nubri	SLEEP	1585	ɲal			To sleep	सुत्नु	(Low-)Rise
+190	188	Nubri	LIE (REST)	1411	ɲe			To lie	पल्टनु	High
+191	189	Nubri	SIT	1416	t̪e			To sit	बस्नु	Mid
+192	190	Nubri	GIVE	1447	t̪e			To give	दिनु	High-Fall
+193	191	Nubri	BURN	2102	hɹø			To burn	डढाउनु	(Mid-)High
+194	192	Nubri	DIE	1494	ɕi			To die	मर्नु	(High-)Fall
+195	193	Nubri	KILL	1417	se			To kill	मार्नु	High
+196	194	Nubri	FLY (MOVE THROUGH AIR)	1441	pʰuɹ			To fly	उड्नु	High
+197	195	Nubri	WALK	1443	kombaɡjap			To walk	हिँड्नु	
+198	196	Nubri	RUN	1519	lat̪aŋ			To run	दौडिनु	
+199	197	Nubri	GO	695	to			To go	जानु	(Mid-)Fall
+200	198	Nubri	COME	1446	oŋ			To come	आउनु	(Low-)Rise
+201	199	Nubri	SPEAK	1623	ɕe			To speak	बोल्नु	Mid
+202	199	Nubri	SPEAK	1623	lab			To speak	बोल्नु	(Low-)Rise
+203	200	Nubri	LISTEN	1608	ɲin̪			To hear/listen	सुन्नु	(Low-)Rise
+204	201	Nubri	LOOK	1819	t̪eji			To look	हेर्नु	(Mid-)High
+205	202	Nubri	I	1209	ŋa			I	म	Low
+206	203	Nubri	THOU	1215	kʰjo			You (informal)	तँ	(Mid-)Fall
+207	204	Nubri	YOU (FORMAL ADDRESS)	2844	kʰjoɹaŋ			You (formal)	तपाइँ	
+208	205	Nubri	HE	1211	kʰo			He	उ	(Mid-)Fall
+209	206	Nubri	SHE	1834	mo			She	उनी	(Low-)Rise
+210	207	Nubri	WE (INCLUSIVE)	1131	woɹoŋd̪o			We (inclusive)	हामी (समावेशी)	
+211	208	Nubri	WE (EXCLUSIVE)	1130	ɲeɹaŋd̪o			We (exclusive)	हामी (असमावेशी)	
+212	209	Nubri	YOU	1213	kʰed̪o			You (plural)	तिमीहरु	
+213	210	Nubri	THEY	817	kʰuŋd̪o			They	उनीहरु	
+214	211	Nubri	LOAD	1679	kʰurpu			Load	भारी	Mid
+215	212	Nubri	FLOUR	1594	pʰe			Flour (eaten as food)	पिठो	(High-)Fall
+216	213	Nubri	HAIL	609	kʰaɕjol			Hailstone	असिना	
+217	214	Nubri	INTESTINES	1991	kjõ			Intestine	आन्द्रा	(Low-)Rise
+218	215	Nubri	YARD	736	kjaŋ			Yard	आँगन	Mid
+219	216	Nubri	UPROOT	99999	kɔ			To uproot	उखेल्नु	Mid 
+220	217	Nubri	OVEN	1143	t̪ʰap			Oven	चुल्हो	(Mid-)High
+221	218	Nubri	HEEL	980	kaŋbat̪ʰil			Heel	कुर्कुच्चो	
+222	219	Nubri	SPADE	1176	t̪otse			Spade	कोदालो	(Mid-)High
+223	219	Nubri	SPADE	1176	t̪ɔtse			Spade	कोदालो	(Mid-)High
+224	220	Nubri	HORSE	615	t̪a			Horse	घोडा	(High-)Fall
+225	221	Nubri	LOAD	1679	kʰurpu			Load	भारी	
+226	222	Nubri	PLOUGH	1921	mo			To plough	जोत्नु	(Mid-)High
+227	222	Nubri	PLOUGH	1921	mɔ			To plough	जोत्नु	(Mid-)High
+228	223	Nubri	JOIN	1743	kamkja			Bond	तमसुक	
+229	224	Nubri	BEAM	1132	kuŋɕiŋ			Beam (main wooden beam)	निदाल	
+230	225	Nubri	LEASH	2959	hɹeli			Rope used to tie animals	दाम्लो	
+231	226	Nubri	BREAD	1368	kʰeu			Bread	दाह्री	(Mid-)High
+232	227	Nubri	MEASURE	1506	t̪ab			To measure	नाप्नु	(Low-)Rise
+233	228	Nubri	BOARD	1227	paŋlep			Plank	फल्याक	(Mid-)High
+234	229	Nubri	HOLE	1667	hoɡt̪uŋ			Hole	प्वाल	Mid
+235	230	Nubri	PLOUGH (INSTRUMENT)	2154	t̪ʰuŋpa			Plough (noun)	हलो	(Mid-)High
+236	231	Nubri	LID (COVER, CAP)	2319	kʰaptɕuk			Lid (cover)	बिर्को	
+237	232	Nubri	HANDLE	1254	jo			Handle	बिँड	(Low-)Rise
+238	233	Nubri	BEAR	1820	t̪om			Bear	भालु	(Mid-)Low
+239	234	Nubri	GHOST	1175	hlent̪i			Ghost	भुत	(Mid-)High
+240	235	Nubri	DUNG (ANIMAL FAECES)	2057	ly			Manure	मल	(Low-)Rise
+241	236	Nubri	BREAD	1368	kʰoɹa			Bread	रोटी	(Mid-)High
+242	237	Nubri	CORPSE	767	hɹo			Corpse	लास	Mid
+243	238	Nubri	PIG	1337	pʰa			Pig	सुँगुर	(Mid-)High
+244	239	Nubri	GRAIN	605	tu			Grains	अन्न	(Mid-)Fall
+245	240	Nubri	STICK	1295	pikpa			Stick	लठ्ठी	(Low-)Rise
+246	240	Nubri	STICK	1295	peɹka			Stick	लठ्ठी	(Low-)Rise
+247	241	Nubri	SWEAT (SUBSTANCE)	125	ŋulna			Sweat	पसिना	(Mid-)High
+248	241	Nubri	SWEAT (SUBSTANCE)	125	ŋylna			Sweat	पसिना	(Mid-)High
+249	242	Nubri	CHEW	321	muɹ			To chew	चपाउनु	(Low-)Rise
+250	243	Nubri	SWALLOW	897	mikʰ			To swallow	निल्नु	(Low-)Rise
+251	244	Nubri	THROW	1456	juk			To throw	फ्याँक्नु	High

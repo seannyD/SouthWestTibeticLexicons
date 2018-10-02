@@ -1,0 +1,269 @@
+ID	SN	DOCULECT	CONCEPT	CONCEPTID	TRANSCRIPTION	SEGMENTS	COGID	GLOSS	SCRIPT	TONE
+1	1	Gyalsumdo	BODY	1480	suɡu			Body	शरीर	Low
+2	2	Gyalsumdo	HEAD	1256	ko			Head	टाउको	Low
+3	3	Gyalsumdo	HAIR	1040	ta			Hair	कपाल	High-Fall
+4	4	Gyalsumdo	FACE	1560	ŋot̪oŋ			Face	अनुहार	Low-Rise
+5	5	Gyalsumdo	EYE	1248	mi			Eye	आँखा	High-Fall
+6	6	Gyalsumdo	EAR	1247	amtɕo			Ear	कान	Mid
+7	6	Gyalsumdo	EAR	1247	amdʑo			Ear	कान	Mid
+8	7	Gyalsumdo	NOSE	1221	naɾki			Nose	नाक	Mid
+9	8	Gyalsumdo	MOUTH	674	kʰa			Mouth	मुख	High-Fall
+10	9	Gyalsumdo	TOOTH	1380	so			Teeth	दाँत	High-Fall
+11	10	Gyalsumdo	TONGUE	1205	tɕemu			Tongue	जिब्रो	Mid
+12	11	Gyalsumdo	BREAST	1402	oma			Breast	स्तन	Low-Rise
+13	11	Gyalsumdo	BREAST	1402	ɦoma			Breast	स्तन	Low-Rise
+14	12	Gyalsumdo	BELLY	1251	toba			Belly	पेट	Low-Rise
+15	13	Gyalsumdo	ARM OR HAND	2121	laɡpa			Arm/Hand	हात	Low-Rise
+16	14	Gyalsumdo	ELBOW	981	temaɲuŋ			Elbow	कुइनो	
+17	15	Gyalsumdo	PALM TREE	1181	laɡpat̪ʰil			Palm	हत्केला	
+18	15	Gyalsumdo	PALM TREE	1181	laɡt̪ʰel			Palm	हत्केला	
+19	16	Gyalsumdo	FINGER	1303	tsuɡu			Finger	औँला	Low-Rise
+20	17	Gyalsumdo	FINGERNAIL	1258	seɹmu			Fingernail	नङ	High-Fall
+21	18	Gyalsumdo	LEG	1297	kaŋpa			Leg	खुट्टा	Mid
+22	19	Gyalsumdo	SKIN	763	paɡpa			Skin	छाला	Mid
+23	19	Gyalsumdo	SKIN	763	poɡo			Skin	छाला	Mid
+24	20	Gyalsumdo	BONE	1394	ɹoɡo			Bone	हाड	Low-Rise
+25	21	Gyalsumdo	HEART	1223	ɲiŋ			Heart	मुटु	High
+26	22	Gyalsumdo	BLOOD	946	tʰak			Blood	रगत	High-Fall
+27	23	Gyalsumdo	URINE	1142	tɕiŋ			Urine	पिसाब	High
+28	24	Gyalsumdo	FAECES (EXCREMENT)	675	kjaɡpa			Faeces	दिसा	Mid
+29	25	Gyalsumdo	VILLAGE	930	jul			Village	गाउँ	Low-Rise
+30	26	Gyalsumdo	HOUSE	1252	kʰaŋpa			House	घर	Mid
+31	27	Gyalsumdo	ROOF	769	kʰaŋt̪ø			Roof	छानो	Mid
+32	27	Gyalsumdo	ROOF	769	 t̪ʰo			Roof	छानो	High
+33	28	Gyalsumdo	DOOR	1567	ko			Door	ढोका	Mid-High
+34	29	Gyalsumdo	FIREWOOD	10	ɕiŋ			Firewood	दाउरा	High-Fall
+35	30	Gyalsumdo	BROOM	245	tɕʰama			Broom	कुचो	Mid
+36	31	Gyalsumdo	MORTAR CRUSHER	224	t̪ʰasa			Mortar	सिलौटो	xxx
+37	31	Gyalsumdo	MORTAR CRUSHER	224	 koɡtsʰum			Mortar	सिलौटो	Low-Rise
+38	32	Gyalsumdo	PESTLE	225	koɡt̪o			Pestle	लोहोरो	Low-Rise
+39	33	Gyalsumdo	HAMMER	1481	t̪ʰowa			Hammer	हथौडा	High-Fall
+40	34	Gyalsumdo	KNIFE	1352	kaɾt̪a			Knife	चक्कु	Mid-High
+41	35	Gyalsumdo	AXE	677	t̪aɹi			Axe	वन्चरो	High
+42	36	Gyalsumdo	ROPE	1218	t̪ʰaɡpa			Rope	डोरी	Mid-High
+43	37	Gyalsumdo	THREAD	1161	kupa			Thread	धागो	High-Fall
+44	38	Gyalsumdo	NEEDLE (FOR SEWING)	1382	kʰap			Needle	सियो	High 
+45	39	Gyalsumdo	CLOTH	1616	køla			Cloth	लुगा (कपडा)	Low-Rise
+46	40	Gyalsumdo	RING	1374	soɹt̪ob			Ring	औँठी	High-Fall
+47	41	Gyalsumdo	SUN	1343	ɲima			Sun	घाम	Low-Rise
+48	42	Gyalsumdo	MOON	1313	t̪akaɹ			Moon	चन्द्रमा	Low-Rise
+49	42	Gyalsumdo	MOON	1313	t̪awa			Moon	चन्द्रमा	Low-Rise
+50	43	Gyalsumdo	SKY	1732	nam			Sky	आकास	High
+51	44	Gyalsumdo	STAR	1430	kaɹma			Star	तारा	High
+52	45	Gyalsumdo	RAIN (RAINING)	1253	nam			Rain	वर्षा	
+53	46	Gyalsumdo	WATER	948	tɕʰu			Water	पानी	Mid-Fall
+54	47	Gyalsumdo	RIVER	666	tsaŋpu			River	नदी	Mid 
+55	48	Gyalsumdo	CLOUD	1489	muɡpa			Cloud	बादल	High
+56	49	Gyalsumdo	LIGHTNING	1654	loɡmaɹ			Lightening	बिजुली चम्कनु	High
+57	50	Gyalsumdo	RAINBOW	1733	sa			Rainbow	इन्द्रेणी	Mid
+58	51	Gyalsumdo	WIND	960	hlawa			Wind	वतास	Low
+59	52	Gyalsumdo	STONE	857	t̪o			Stone	ढुङ्गा	Low-Rise
+60	53	Gyalsumdo	PATH	2252	lam			Path	बाटो	Low-Rise
+61	54	Gyalsumdo	SAND	671	pema			Sand	बालुवा	Low-Rise
+62	55	Gyalsumdo	FIRE	221	me			Fire	आगो	Low-Rise
+63	56	Gyalsumdo	SMOKE (INHALE)	1689	t̪uba			Smoke	धुवाँ	Low-Rise
+64	57	Gyalsumdo	ASH	646	kɔkt̪al			Ash	खरानी	Low-Rise
+65	58	Gyalsumdo	MUD	640	sa			Mud	माटो	High-Fall
+66	59	Gyalsumdo	DUST	2	t̪ʰala			Dust	धुलो	Mid
+67	60	Gyalsumdo	GOLD	1369	seɹ			Gold	सुन	High-Fall
+68	61	Gyalsumdo	TREE	906	t̪oŋbu			Tree	रुख	Low-Rise
+69	62	Gyalsumdo	LEAF	628	lapt̪i			Leaf	पात	Low-Rise
+70	62	Gyalsumdo	LEAF	628	loma			Leaf	पात	Low-Rise
+71	63	Gyalsumdo	ROOT	670	pat̪a			Root	जरा	Low-Rise
+72	64	Gyalsumdo	THORN	124	tsʰeɾma			Thorn	काँडो	Mid-High
+73	65	Gyalsumdo	FLOWER	239	mend̪o			Flower	फूल	Low-Rise
+74	66	Gyalsumdo	FRUIT	1507	ɕiŋd̪o			Fruit	फलफुल	Mid
+75	67	Gyalsumdo	MANGO	2398	ãp			Mango	आँप	Mid
+76	68	Gyalsumdo	BANANA	868	keɹa			Banana	केरा	Mid
+77	69	Gyalsumdo	WHEAT	1077	to			Wheat (husked)	गहुँ	Mid-Rise?
+78	70	Gyalsumdo	BARLEY	932	tsəu			Barley	जौ	High
+79	71	Gyalsumdo	RICE	926	tɛ			Rice (husked)	चामल	Mid
+80	71	Gyalsumdo	RICE	926	tʰɛ			Rice (husked)	चामल	Mid
+81	72	Gyalsumdo	POTATO	593	alo			Potato	आलु	High
+82	73	Gyalsumdo	AUBERGINE	1146	penda			Eggplant	भन्टा	
+83	74	Gyalsumdo	PEANUT	2364	pəd̪am			Groundnut	बदाम	
+84	75	Gyalsumdo	NUT	191	maɾtsʰa			Chilli	खुर्सानी	Mid
+85	76	Gyalsumdo	TURMERIC	2842	peɕaɹ			Turmeric	बेसार	
+86	77	Gyalsumdo	GARLIC	2368	kɔkpa			Garlic	लसुन	Low-Rise
+87	78	Gyalsumdo	ONION	2366	pjaz			Onion	प्याज	
+88	79	Gyalsumdo	CAULIFLOWER	2843	kəuli			Cauliflower	काउली	
+89	80	Gyalsumdo	TOMATO	986	kolbenda			Tomato	गोलभेँडा	
+90	81	Gyalsumdo	CABBAGE	774	pənd̪a			Cabbage	बन्दा	
+91	82	Gyalsumdo	OIL (ORGANIC SUBSTANCE)	1484	maɹku			Oil	तेल	Low-Rise
+92	83	Gyalsumdo	SALT	1274	tsʰa			Salt	नुन	High-Fall
+93	84	Gyalsumdo	MEAT	634	ɕja			Meat	मासु	High-Fall
+94	85	Gyalsumdo	FAT (OF MEAT AND FOOD)	2449	tsʰulu			Fat (of meat)	बोसो	High
+95	86	Gyalsumdo	FISH	227	ɲa			Fish	माछा	Low-Rise
+96	87	Gyalsumdo	CHICKEN	1318	tɕʰiptʰuk			Chicken	चल्ला	
+97	88	Gyalsumdo	EGG	744	koŋa			Egg	अन्डा	Low-Rise
+98	89	Gyalsumdo	COW	1007	poɡo			Cow	गाइ	Low-Rise
+99	90	Gyalsumdo	BUFFALO	934	maji			Buffalo	भैँसी	Low-Rise
+100	91	Gyalsumdo	MILK	635	oma			Milk	दुध	Low-Rise
+101	92	Gyalsumdo	HORN (ANATOMY)	1393	ɹakjo			Horns	सिङ	Low-Rise
+102	93	Gyalsumdo	TAIL	1220	ŋama			Tail	पुच्छर	Mid-High
+103	94	Gyalsumdo	GOAT	1502	ɹa			Goat	बाख्रो	Low-Rise
+104	95	Gyalsumdo	DOG	2009	kjupu			Dog	कुकुर	High
+105	95	Gyalsumdo	DOG	2009	ki			Dog	कुकुर	High
+106	96	Gyalsumdo	SNAKE	730	tul			Snake	सर्प (साँप)	Mid-Rise
+107	97	Gyalsumdo	MONKEY	1350	tɛmaɹ			Monkey	बाँदर	Mid
+108	97	Gyalsumdo	MONKEY	1350	te			Monkey	बाँदर	High
+109	98	Gyalsumdo	MOSQUITO	1509	lamkute			Mosquito	लामखुट्टे	
+110	99	Gyalsumdo	ANT	587	tomaɹ			Ant	कमिला	Low-Rise
+111	100	Gyalsumdo	SPIDER	843	palba			Spider	माकुरो	Low-Rise
+112	101	Gyalsumdo	NAME	1405	miŋ			Name	नाम	Low-Rise
+113	102	Gyalsumdo	MAN	1554	mi			Man	मान्छे	Low-Rise
+114	103	Gyalsumdo	WOMAN	962	pomo			Woman	आइमाई	Low-Rise
+115	104	Gyalsumdo	CHILD	2099	tuɡu			Child	बच्चा	High
+116	105	Gyalsumdo	FATHER	1217	apa			Father	बुबा	Mid
+117	106	Gyalsumdo	MOTHER	1216	ama			Mother	आमा	Mid
+118	107	Gyalsumdo	OLDER BROTHER	1759	atɕjo			Older brother	दाजु	Mid 
+119	108	Gyalsumdo	YOUNGER BROTHER	1760	no			Younger brother	भाइ	Low-Rise
+120	109	Gyalsumdo	OLDER SISTER	1758	atɕi			Older sister	दिदी	Mid
+121	110	Gyalsumdo	YOUNGER SISTER	1761	numu			Younger sister	बहिनी	Low-Rise
+122	111	Gyalsumdo	SON	1620	pitsa			Son	छोरो	Low-Rise
+123	112	Gyalsumdo	DAUGHTER	1357	pomo			Daughter	छोरी	
+124	113	Gyalsumdo	HUSBAND	1200	kʰjoka			Husband	लोग्ने (श्रीमान)	Mid
+125	113	Gyalsumdo	HUSBAND	1200	kʰjoɡa			Husband	लोग्ने (श्रीमान)	Mid
+126	114	Gyalsumdo	WIFE	1199	keɹme			Wife	स्वास्नी (श्रीमती)	Mid
+127	115	Gyalsumdo	BOY	1366	pitsa			Boy	केटो	Low-Rise
+128	115	Gyalsumdo	BOY	1366	pu			Boy	केटो	Mid-Rise
+129	116	Gyalsumdo	GIRL	1646	pomo			Girl	केटी	
+130	117	Gyalsumdo	DAY (NOT NIGHT)	1225	ɕjaŋma			Day	दिन	Low-Rise
+131	118	Gyalsumdo	NIGHT	1233	tsʰemu			Night	रात	Mid-High
+132	119	Gyalsumdo	MORNING	1339	namʑen			Morning	विहान	Low-Rise
+133	120	Gyalsumdo	NOON	2490	ɲimaɡuŋ			Noon	मध्यान्ह	
+134	121	Gyalsumdo	EVENING	1629	kɔŋmo			Evening	साँझ	Low-Rise
+135	122	Gyalsumdo	YESTERDAY	1174	t̪aŋ			Yesterday	हिजो	Low-Rise
+136	123	Gyalsumdo	TODAY	1283	t̪iɹiŋ			Today	आज	Low-Rise
+137	124	Gyalsumdo	TOMORROW	1329	ŋato			Tomorrow	भोली	Mid-High
+138	125	Gyalsumdo	WEEK	1469	t̪ynta			Week	हप्ता (साता)	Low-Rise
+139	125	Gyalsumdo	WEEK	1469	t̪ynzi			Week	हप्ता (साता)	Low-Rise
+140	126	Gyalsumdo	MONTH	1370	t̪awa			Month	महिना	Low-Rise
+141	127	Gyalsumdo	YEAR	1226	lo			Year	वर्ष	Low-Rise
+142	128	Gyalsumdo	OLD	1229	ɲiŋpa			Old	पुरानो	High
+143	129	Gyalsumdo	NEW	1231	sampa			New	नयाँ	Mid-High
+144	130	Gyalsumdo	GOOD	1035	jabu			Good	राम्रो (असल)	Low-Rise
+145	131	Gyalsumdo	BAD	1292	majabu			Bad	नराम्रो (खराव)	
+146	132	Gyalsumdo	WET	1726	taŋmu			Wet	चिसो	Low-Rise
+147	133	Gyalsumdo	DRY	1398	kəmpu			Dry	सुख्खा	High
+148	134	Gyalsumdo	LONG	1203	ɹiŋbu			Long	लामो	Low-Rise
+149	135	Gyalsumdo	SHORT	1645	t̪øma			Short	छोटो	High
+150	136	Gyalsumdo	HOT	1286	tsʰant̪i			Hot	तातो	High
+151	137	Gyalsumdo	COLD	1287	taŋmu			Cold	चिसो	
+152	138	Gyalsumdo	RIGHT	1019	jøba			Right	दाहिने	Mid-High
+153	139	Gyalsumdo	LEFT	244	jøma			Left	देव्रे	Mid-High
+154	140	Gyalsumdo	NEAR	1942	ɲemu			Near	नजिक	Low-Rise
+155	141	Gyalsumdo	FAR	1406	t̪ʰaɹiŋbu			Far	टाढा	
+156	142	Gyalsumdo	BIG	1202	tɕʰjumbu			Big	ठुलो	High
+157	143	Gyalsumdo	SMALL	1246	tɕema			Small	सानो	High
+158	144	Gyalsumdo	HEAVY	1210	tɕent̪i			Heavy	गह्रौँ	High
+159	145	Gyalsumdo	LIGHT (WEIGHT)	1052	jaŋmu			Light	हलुका	Low-Rise
+160	146	Gyalsumdo	ABOVE	1741	ɲala			Above	माथि	High
+161	147	Gyalsumdo	DOWN OR BELOW	2094	wala			Below	तल	Low-Rise
+162	148	Gyalsumdo	WHITE	1335	kaɹpu			White	सेतो	High 
+163	149	Gyalsumdo	BLACK	163	nakpu			Black	कालो	Low-Rise
+164	150	Gyalsumdo	RED	156	maɹpu			Red	रातो	High
+165	151	Gyalsumdo	ONE	1493	tɕiɡ			One	एक	High
+166	152	Gyalsumdo	TWO	1498	ɲi			Two	दुई	High
+167	153	Gyalsumdo	THREE	492	sum			Three	तीन	High
+168	154	Gyalsumdo	FOUR	1500	ɕi			Four	चार	Mid
+169	155	Gyalsumdo	FIVE	493	ŋa			Five	पाँच	High 
+170	156	Gyalsumdo	SIX	1703	tuk			Six	छ	Mid-High 
+171	156	Gyalsumdo	SIX	1703	tʰuk			Six	छ	Mid-High 
+172	157	Gyalsumdo	SEVEN	1704	t̪yn			Seven	सात	Low-Rise
+173	158	Gyalsumdo	EIGHT	1705	ke			Eight	आठ	Low-Rise
+174	159	Gyalsumdo	NINE	1483	ku			Nine	नौ	Mid
+175	160	Gyalsumdo	TEN	1515	tɕu			Ten	दश	High
+176	161	Gyalsumdo	ELEVEN	1706	tɕuktɕik			Eleven	एघार	
+177	162	Gyalsumdo	TWELVE	1707	tɕuɲi			Twelve	बाह्र	
+178	163	Gyalsumdo	TWENTY	1710	ɲiɕu			Twenty	वीस	
+179	164	Gyalsumdo	HUNDRED	1634	kja			One Hundred	एक सय	Mid-High
+180	165	Gyalsumdo	WHO	1235	su			Who	को	High-Fall
+181	166	Gyalsumdo	WHAT	1236	tɕi			What	के	High
+182	167	Gyalsumdo	WHERE	1237	kəɹu			Where	कहाँ	Mid-Rise
+183	168	Gyalsumdo	WHEN	1238	nam			When	कहिले	Low-Rise
+184	169	Gyalsumdo	HOW MANY	822	katse			How many	कति	Low-Rise
+185	170	Gyalsumdo	WHICH	727	kand̪i			Which	कुन	Low-Rise
+186	171	Gyalsumdo	THIS	1214	t̪i			This	यो	Mid-Rise
+187	172	Gyalsumdo	THAT	78	ot̪i			That	त्यो	
+188	173	Gyalsumdo	THIS	1214	t̪ija			These	यी	
+189	174	Gyalsumdo	THAT	78	kʰuŋja			Those	ती	
+190	175	Gyalsumdo	SAME	200	ot̪iɹaŋ			Same	उही	
+191	175	Gyalsumdo	SAME	200	od̪iɹaŋ			Same	उही	
+192	175	Gyalsumdo	SAME	200	taɡe			Same	उही	
+193	176	Gyalsumdo	DIFFERENT	2504	mendaɡe			Different	फरक	
+194	177	Gyalsumdo	WHOLE	2277	t̪aɡɹaŋ			Whole	सबै	Low-Rise
+195	178	Gyalsumdo	BROKEN	588	tɕʰjakpu			Broken	फुटेको	High
+196	179	Gyalsumdo	FEW	1242	ɲuŋe			Few	थोरै	Low-Rise
+197	180	Gyalsumdo	MANY	1198	maŋbu			Many	धेरै	Low-Rise
+198	181	Gyalsumdo	ALL	98	t̪aɡɹaŋ			All	सबै	
+199	182	Gyalsumdo	EAT	1336	se			To eat	खानु	Low-Rise
+200	183	Gyalsumdo	BITE	1403	ale			To bite	टोक्नु	Mid-High
+201	183	Gyalsumdo	BITE	1403	soɡjapb			To bite	टोक्नु	Mid-High
+202	184	Gyalsumdo	BE HUNGRY	1533	t̪oɡɛ			To be hungry	भोकाउनु	High
+203	185	Gyalsumdo	DRINK	1401	t̪ʰuŋ			To drink	पिउनु	High
+204	186	Gyalsumdo	THIRSTY	847	kʰakomkɛ			To be thirsty	तिर्खाउनु	
+205	187	Gyalsumdo	SLEEP	1585	ɲal			To sleep	सुत्नु	Low-Rise
+206	188	Gyalsumdo	LIE (REST)	1411	tʰelaɲal			To lie	पल्टनु	
+207	189	Gyalsumdo	SIT	1416	t̪e			To sit	बस्नु	Mid-High
+208	190	Gyalsumdo	GIVE	1447	t̪eɹ			To give	दिनु	High
+209	191	Gyalsumdo	BURN	2102	takɛ			To burn	डढाउनु	Low-Rise
+210	192	Gyalsumdo	DIE	1494	ɕi			To die	मर्नु	High
+211	193	Gyalsumdo	KILL	1417	se			To kill	मार्नु	High
+212	194	Gyalsumdo	FLY (MOVE THROUGH AIR)	1441	pʰiɹ			To fly	उड्नु	High
+213	195	Gyalsumdo	WALK	1443	kju			To walk	हिँड्नु	Mid-Rise
+214	196	Gyalsumdo	RUN	1519	t̪aɹkjulaŋ			To run	दौडिनु	
+215	197	Gyalsumdo	GO	695	to			To go	जानु	Mid-Rise
+216	198	Gyalsumdo	COME	1446	ɕjo			To come	आउनु	High
+217	198	Gyalsumdo	COME	1446	oŋ			To come	आउनु	Low-Rise
+218	199	Gyalsumdo	SPEAK	1623	labt̪aŋɡɛ			To speak	बोल्नु	
+219	200	Gyalsumdo	LISTEN	1608	ɲin			To hear/listen	सुन्नु	Low-Rise
+220	201	Gyalsumdo	LOOK	1819	t̪e			To look	हेर्नु	High
+221	202	Gyalsumdo	I	1209	ŋa			I	म	Mid
+222	203	Gyalsumdo	THOU	1215	kʰe			You (informal)	तँ	High
+223	204	Gyalsumdo	YOU (FORMAL ADDRESS)	2844	kʰela			You (formal)	तपाइँ	
+224	204	Gyalsumdo	YOU (FORMAL ADDRESS)	2844	kʰeɹaŋ			You (formal)	तपाइँ	
+225	205	Gyalsumdo	HE	1211	kʰo			He	उ	High
+226	206	Gyalsumdo	SHE	1834	mo			She	उनी	
+227	207	Gyalsumdo	WE (INCLUSIVE)	1131	ɲi			We (inclusive)	हामी (समावेशी)	
+228	207	Gyalsumdo	WE (INCLUSIVE)	1131	ɲija			We (inclusive)	हामी (समावेशी)	
+229	207	Gyalsumdo	WE (INCLUSIVE)	1131	ɲiɹaŋ			We (inclusive)	हामी (समावेशी)	
+230	208	Gyalsumdo	WE (EXCLUSIVE)	1130	oɹaŋ			We (exclusive)	हामी (असमावेशी)	Low-Rise
+231	209	Gyalsumdo	YOU	1213	kʰija			You (plural)	तिमीहरु	
+232	210	Gyalsumdo	THEY	817	kʰuŋja			They	उनीहरु	
+233	211	Gyalsumdo	LOAD	1679	kʰuɹpu			Load	भारी	High
+234	212	Gyalsumdo	FLOUR	1594	tsampa			Flour (eaten as food)	पिठो	High
+235	213	Gyalsumdo	HAIL	609	seɹa			Hailstone	असिना	High
+236	214	Gyalsumdo	INTESTINES	1991	kjuma			Intestine	आन्द्रा	Mid
+237	214	Gyalsumdo	INTESTINES	1991	kʰjuma			Intestine	आन्द्रा	Mid
+238	215	Gyalsumdo	YARD	736	kɔɹtsa			Yard	आँगन	Low-Rise
+239	216	Gyalsumdo	UPROOT	99999	pi			To uproot	उखेल्नु	High
+240	217	Gyalsumdo	OVEN	1143	t̪ʰab			Oven	चुल्हो	High
+241	218	Gyalsumdo	HEEL	980	t̪iŋpa			Heel	कुर्कुच्चो	High
+242	219	Gyalsumdo	SPADE	1176	t̪oktsi			Spade	कोदालो	High
+243	220	Gyalsumdo	HORSE	615	t̪abu			Horse	घोडा	High
+244	221	Gyalsumdo	LOAD	1679	kʰurpu			Load	भारी	High
+245	222	Gyalsumdo	PLOUGH	1921	møkɛ			To plough	जोत्नु	
+246	223	Gyalsumdo	JOIN	1743	kamkja			Bond	तमसुक	Low-Rise
+247	224	Gyalsumdo	BEAM	1132	kuŋkju			Beam (main wooden beam)	निदाल	Low-Rise
+248	225	Gyalsumdo	LEASH	2959	t̪ʰakpa			Rope used to tie animals	दाम्लो	
+249	226	Gyalsumdo	BREAD	1368	kja			Bread	दाह्री	Mid-High
+250	227	Gyalsumdo	MEASURE	1506	t̪apkɛ			To measure	नाप्नु	Low-Rise
+251	228	Gyalsumdo	BOARD	1227	t̪al			Plank	फल्याक	High
+252	229	Gyalsumdo	HOLE	1667	miksaŋ			Hole	प्वाल	Mid-High
+253	230	Gyalsumdo	PLOUGH (INSTRUMENT)	2154	t̪ʰoŋpa			Plough (noun)	हलो	Mid-High
+254	231	Gyalsumdo	LID (COVER, CAP)	2319	kʰəptɕu			Lid (cover)	बिर्को	High
+255	232	Gyalsumdo	HANDLE	1254	juwa			Handle	बिँड	Low-Rise
+256	233	Gyalsumdo	BEAR	1820	t̪om			Bear	भालु	Mid
+257	234	Gyalsumdo	GHOST	1175	nøpa			Ghost	भुत	Mid-High
+258	235	Gyalsumdo	DUNG (ANIMAL FAECES)	2057	ly			Manure	मल	Low-Rise
+259	236	Gyalsumdo	BREAD	1368	kjaŋ			Bread	रोटी	Low-Rise
+260	237	Gyalsumdo	CORPSE	767	ɹo			Corpse	लास	Low-Rise
+261	238	Gyalsumdo	PIG	1337	pʰakpa			Pig	सुँगुर	High
+262	239	Gyalsumdo	GRAIN	605	tʰu			Grains	अन्न	High 
+263	240	Gyalsumdo	STICK	1295	kjukpa			Stick	लठ्ठी	Low-Rise
+264	241	Gyalsumdo	SWEAT (SUBSTANCE)	125	ŋulna			Sweat	पसिना	High
+265	242	Gyalsumdo	CHEW	321	leke			To chew	चपाउनु	High
+266	243	Gyalsumdo	SWALLOW	897	mikɛ			To swallow	निल्नु	Low-Rise
+267	244	Gyalsumdo	THROW	1456	jukɛ			To throw	फ्याँक्नु	Mid
+268	244	Gyalsumdo	THROW	1456	juɹkɛ			To throw	फ्याँक्नु	Mid

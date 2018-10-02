@@ -1,0 +1,2051 @@
+ID	DOCULECT	CONCEPT	IPA	COUNTERPART
+1	Gyalsumdo	BODY	suɡu	Body:Low
+2	Gyalsumdo	HEAD	ko	Head:Low
+3	Gyalsumdo	HAIR	ta	Hair:High-Fall
+4	Gyalsumdo	FACE	ŋot̪oŋ	Face:Low-Rise
+5	Gyalsumdo	EYE	mi	Eye:High-Fall
+6	Gyalsumdo	EAR	amtɕo	Ear:Mid
+7	Gyalsumdo	EAR	amdʑo	Ear:Mid
+8	Gyalsumdo	NOSE	naɾki	Nose:Mid
+9	Gyalsumdo	MOUTH	kʰa	Mouth:High-Fall
+10	Gyalsumdo	TOOTH	so	Teeth:High-Fall
+11	Gyalsumdo	TONGUE	tɕemu	Tongue:Mid
+12	Gyalsumdo	BREAST	oma	Breast:Low-Rise
+13	Gyalsumdo	BREAST	ɦoma	Breast:Low-Rise
+14	Gyalsumdo	BELLY	toba	Belly:Low-Rise
+15	Gyalsumdo	ARM OR HAND	laɡpa	Arm/Hand:Low-Rise
+16	Gyalsumdo	ELBOW	temaɲuŋ	Elbow:
+17	Gyalsumdo	PALM TREE	laɡpat̪ʰil	Palm:
+18	Gyalsumdo	PALM TREE	laɡt̪ʰel	Palm:
+19	Gyalsumdo	FINGER	tsuɡu	Finger:Low-Rise
+20	Gyalsumdo	FINGERNAIL	seɹmu	Fingernail:High-Fall
+21	Gyalsumdo	LEG	kaŋpa	Leg:Mid
+22	Gyalsumdo	SKIN	paɡpa	Skin:Mid
+23	Gyalsumdo	SKIN	poɡo	Skin:Mid
+24	Gyalsumdo	BONE	ɹoɡo	Bone:Low-Rise
+25	Gyalsumdo	HEART	ɲiŋ	Heart:High
+26	Gyalsumdo	BLOOD	tʰak	Blood:High-Fall
+27	Gyalsumdo	URINE	tɕiŋ	Urine:High
+28	Gyalsumdo	FAECES (EXCREMENT)	kjaɡpa	Faeces:Mid
+29	Gyalsumdo	VILLAGE	jul	Village:Low-Rise
+30	Gyalsumdo	HOUSE	kʰaŋpa	House:Mid
+31	Gyalsumdo	ROOF	kʰaŋt̪ø	Roof:Mid
+32	Gyalsumdo	ROOF	 t̪ʰo	Roof:High
+33	Gyalsumdo	DOOR	ko	Door:Mid-High
+34	Gyalsumdo	FIREWOOD	ɕiŋ	Firewood:High-Fall
+35	Gyalsumdo	BROOM	tɕʰama	Broom:Mid
+36	Gyalsumdo	MORTAR CRUSHER	t̪ʰasa	Mortar:xxx
+37	Gyalsumdo	MORTAR CRUSHER	 koɡtsʰum	Mortar:Low-Rise
+38	Gyalsumdo	PESTLE	koɡt̪o	Pestle:Low-Rise
+39	Gyalsumdo	HAMMER	t̪ʰowa	Hammer:High-Fall
+40	Gyalsumdo	KNIFE	kaɾt̪a	Knife:Mid-High
+41	Gyalsumdo	AXE	t̪aɹi	Axe:High
+42	Gyalsumdo	ROPE	t̪ʰaɡpa	Rope:Mid-High
+43	Gyalsumdo	THREAD	kupa	Thread:High-Fall
+44	Gyalsumdo	NEEDLE (FOR SEWING)	kʰap	Needle:High 
+45	Gyalsumdo	CLOTH	køla	Cloth:Low-Rise
+46	Gyalsumdo	RING	soɹt̪ob	Ring:High-Fall
+47	Gyalsumdo	SUN	ɲima	Sun:Low-Rise
+48	Gyalsumdo	MOON	t̪akaɹ	Moon:Low-Rise
+49	Gyalsumdo	MOON	t̪awa	Moon:Low-Rise
+50	Gyalsumdo	SKY	nam	Sky:High
+51	Gyalsumdo	STAR	kaɹma	Star:High
+52	Gyalsumdo	RAIN (RAINING)	nam	Rain:
+53	Gyalsumdo	WATER	tɕʰu	Water:Mid-Fall
+54	Gyalsumdo	RIVER	tsaŋpu	River:Mid 
+55	Gyalsumdo	CLOUD	muɡpa	Cloud:High
+56	Gyalsumdo	LIGHTNING	loɡmaɹ	Lightening:High
+57	Gyalsumdo	RAINBOW	sa	Rainbow:Mid
+58	Gyalsumdo	WIND	hlawa	Wind:Low
+59	Gyalsumdo	STONE	t̪o	Stone:Low-Rise
+60	Gyalsumdo	PATH	lam	Path:Low-Rise
+61	Gyalsumdo	SAND	pema	Sand:Low-Rise
+62	Gyalsumdo	FIRE	me	Fire:Low-Rise
+63	Gyalsumdo	SMOKE (INHALE)	t̪uba	Smoke:Low-Rise
+64	Gyalsumdo	ASH	kɔkt̪al	Ash:Low-Rise
+65	Gyalsumdo	MUD	sa	Mud:High-Fall
+66	Gyalsumdo	DUST	t̪ʰala	Dust:Mid
+67	Gyalsumdo	GOLD	seɹ	Gold:High-Fall
+68	Gyalsumdo	TREE	t̪oŋbu	Tree:Low-Rise
+69	Gyalsumdo	LEAF	lapt̪i	Leaf:Low-Rise
+70	Gyalsumdo	LEAF	loma	Leaf:Low-Rise
+71	Gyalsumdo	ROOT	pat̪a	Root:Low-Rise
+72	Gyalsumdo	THORN	tsʰeɾma	Thorn:Mid-High
+73	Gyalsumdo	FLOWER	mend̪o	Flower:Low-Rise
+74	Gyalsumdo	FRUIT	ɕiŋd̪o	Fruit:Mid
+75	Gyalsumdo	MANGO	ãp	Mango:Mid
+76	Gyalsumdo	BANANA	keɹa	Banana:Mid
+77	Gyalsumdo	WHEAT	to	Wheat (husked):Mid-Rise?
+78	Gyalsumdo	BARLEY	tsəu	Barley:High
+79	Gyalsumdo	RICE	tɛ	Rice (husked):Mid
+80	Gyalsumdo	RICE	tʰɛ	Rice (husked):Mid
+81	Gyalsumdo	POTATO	alo	Potato:High
+82	Gyalsumdo	AUBERGINE	penda	Eggplant:
+83	Gyalsumdo	PEANUT	pəd̪am	Groundnut:
+84	Gyalsumdo	NUT	maɾtsʰa	Chilli:Mid
+85	Gyalsumdo	TURMERIC	peɕaɹ	Turmeric:
+86	Gyalsumdo	GARLIC	kɔkpa	Garlic:Low-Rise
+87	Gyalsumdo	ONION	pjaz	Onion:
+88	Gyalsumdo	CAULIFLOWER	kəuli	Cauliflower:
+89	Gyalsumdo	TOMATO	kolbenda	Tomato:
+90	Gyalsumdo	CABBAGE	pənd̪a	Cabbage:
+91	Gyalsumdo	OIL (ORGANIC SUBSTANCE)	maɹku	Oil:Low-Rise
+92	Gyalsumdo	SALT	tsʰa	Salt:High-Fall
+93	Gyalsumdo	MEAT	ɕja	Meat:High-Fall
+94	Gyalsumdo	FAT (OF MEAT AND FOOD)	tsʰulu	Fat (of meat):High
+95	Gyalsumdo	FISH	ɲa	Fish:Low-Rise
+96	Gyalsumdo	CHICKEN	tɕʰiptʰuk	Chicken:
+97	Gyalsumdo	EGG	koŋa	Egg:Low-Rise
+98	Gyalsumdo	COW	poɡo	Cow:Low-Rise
+99	Gyalsumdo	BUFFALO	maji	Buffalo:Low-Rise
+100	Gyalsumdo	MILK	oma	Milk:Low-Rise
+101	Gyalsumdo	HORN (ANATOMY)	ɹakjo	Horns:Low-Rise
+102	Gyalsumdo	TAIL	ŋama	Tail:Mid-High
+103	Gyalsumdo	GOAT	ɹa	Goat:Low-Rise
+104	Gyalsumdo	DOG	kjupu	Dog:High
+105	Gyalsumdo	DOG	ki	Dog:High
+106	Gyalsumdo	SNAKE	tul	Snake:Mid-Rise
+107	Gyalsumdo	MONKEY	tɛmaɹ	Monkey:Mid
+108	Gyalsumdo	MONKEY	te	Monkey:High
+109	Gyalsumdo	MOSQUITO	lamkute	Mosquito:
+110	Gyalsumdo	ANT	tomaɹ	Ant:Low-Rise
+111	Gyalsumdo	SPIDER	palba	Spider:Low-Rise
+112	Gyalsumdo	NAME	miŋ	Name:Low-Rise
+113	Gyalsumdo	MAN	mi	Man:Low-Rise
+114	Gyalsumdo	WOMAN	pomo	Woman:Low-Rise
+115	Gyalsumdo	CHILD	tuɡu	Child:High
+116	Gyalsumdo	FATHER	apa	Father:Mid
+117	Gyalsumdo	MOTHER	ama	Mother:Mid
+118	Gyalsumdo	OLDER BROTHER	atɕjo	Older brother:Mid 
+119	Gyalsumdo	YOUNGER BROTHER	no	Younger brother:Low-Rise
+120	Gyalsumdo	OLDER SISTER	atɕi	Older sister:Mid
+121	Gyalsumdo	YOUNGER SISTER	numu	Younger sister:Low-Rise
+122	Gyalsumdo	SON	pitsa	Son:Low-Rise
+123	Gyalsumdo	DAUGHTER	pomo	Daughter:
+124	Gyalsumdo	HUSBAND	kʰjoka	Husband:Mid
+125	Gyalsumdo	HUSBAND	kʰjoɡa	Husband:Mid
+126	Gyalsumdo	WIFE	keɹme	Wife:Mid
+127	Gyalsumdo	BOY	pitsa	Boy:Low-Rise
+128	Gyalsumdo	BOY	pu	Boy:Mid-Rise
+129	Gyalsumdo	GIRL	pomo	Girl:
+130	Gyalsumdo	DAY (NOT NIGHT)	ɕjaŋma	Day:Low-Rise
+131	Gyalsumdo	NIGHT	tsʰemu	Night:Mid-High
+132	Gyalsumdo	MORNING	namʑen	Morning:Low-Rise
+133	Gyalsumdo	NOON	ɲimaɡuŋ	Noon:
+134	Gyalsumdo	EVENING	kɔŋmo	Evening:Low-Rise
+135	Gyalsumdo	YESTERDAY	t̪aŋ	Yesterday:Low-Rise
+136	Gyalsumdo	TODAY	t̪iɹiŋ	Today:Low-Rise
+137	Gyalsumdo	TOMORROW	ŋato	Tomorrow:Mid-High
+138	Gyalsumdo	WEEK	t̪ynta	Week:Low-Rise
+139	Gyalsumdo	WEEK	t̪ynzi	Week:Low-Rise
+140	Gyalsumdo	MONTH	t̪awa	Month:Low-Rise
+141	Gyalsumdo	YEAR	lo	Year:Low-Rise
+142	Gyalsumdo	OLD	ɲiŋpa	Old:High
+143	Gyalsumdo	NEW	sampa	New:Mid-High
+144	Gyalsumdo	GOOD	jabu	Good:Low-Rise
+145	Gyalsumdo	BAD	majabu	Bad:
+146	Gyalsumdo	WET	taŋmu	Wet:Low-Rise
+147	Gyalsumdo	DRY	kəmpu	Dry:High
+148	Gyalsumdo	LONG	ɹiŋbu	Long:Low-Rise
+149	Gyalsumdo	SHORT	t̪øma	Short:High
+150	Gyalsumdo	HOT	tsʰant̪i	Hot:High
+151	Gyalsumdo	COLD	taŋmu	Cold:
+152	Gyalsumdo	RIGHT	jøba	Right:Mid-High
+153	Gyalsumdo	LEFT	jøma	Left:Mid-High
+154	Gyalsumdo	NEAR	ɲemu	Near:Low-Rise
+155	Gyalsumdo	FAR	t̪ʰaɹiŋbu	Far:
+156	Gyalsumdo	BIG	tɕʰjumbu	Big:High
+157	Gyalsumdo	SMALL	tɕema	Small:High
+158	Gyalsumdo	HEAVY	tɕent̪i	Heavy:High
+159	Gyalsumdo	LIGHT (WEIGHT)	jaŋmu	Light:Low-Rise
+160	Gyalsumdo	ABOVE	ɲala	Above:High
+161	Gyalsumdo	DOWN OR BELOW	wala	Below:Low-Rise
+162	Gyalsumdo	WHITE	kaɹpu	White:High 
+163	Gyalsumdo	BLACK	nakpu	Black:Low-Rise
+164	Gyalsumdo	RED	maɹpu	Red:High
+165	Gyalsumdo	ONE	tɕiɡ	One:High
+166	Gyalsumdo	TWO	ɲi	Two:High
+167	Gyalsumdo	THREE	sum	Three:High
+168	Gyalsumdo	FOUR	ɕi	Four:Mid
+169	Gyalsumdo	FIVE	ŋa	Five:High 
+170	Gyalsumdo	SIX	tuk	Six:Mid-High 
+171	Gyalsumdo	SIX	tʰuk	Six:Mid-High 
+172	Gyalsumdo	SEVEN	t̪yn	Seven:Low-Rise
+173	Gyalsumdo	EIGHT	ke	Eight:Low-Rise
+174	Gyalsumdo	NINE	ku	Nine:Mid
+175	Gyalsumdo	TEN	tɕu	Ten:High
+176	Gyalsumdo	ELEVEN	tɕuktɕik	Eleven:
+177	Gyalsumdo	TWELVE	tɕuɲi	Twelve:
+178	Gyalsumdo	TWENTY	ɲiɕu	Twenty:
+179	Gyalsumdo	HUNDRED	kja	One Hundred:Mid-High
+180	Gyalsumdo	WHO	su	Who:High-Fall
+181	Gyalsumdo	WHAT	tɕi	What:High
+182	Gyalsumdo	WHERE	kəɹu	Where:Mid-Rise
+183	Gyalsumdo	WHEN	nam	When:Low-Rise
+184	Gyalsumdo	HOW MANY	katse	How many:Low-Rise
+185	Gyalsumdo	WHICH	kand̪i	Which:Low-Rise
+186	Gyalsumdo	THIS	t̪i	This:Mid-Rise
+187	Gyalsumdo	THAT	ot̪i	That:
+188	Gyalsumdo	THIS	t̪ija	These:
+189	Gyalsumdo	THAT	kʰuŋja	Those:
+190	Gyalsumdo	SAME	ot̪iɹaŋ	Same:
+191	Gyalsumdo	SAME	od̪iɹaŋ	Same:
+192	Gyalsumdo	SAME	taɡe	Same:
+193	Gyalsumdo	DIFFERENT	mendaɡe	Different:
+194	Gyalsumdo	WHOLE	t̪aɡɹaŋ	Whole:Low-Rise
+195	Gyalsumdo	BROKEN	tɕʰjakpu	Broken:High
+196	Gyalsumdo	FEW	ɲuŋe	Few:Low-Rise
+197	Gyalsumdo	MANY	maŋbu	Many:Low-Rise
+198	Gyalsumdo	ALL	t̪aɡɹaŋ	All:
+199	Gyalsumdo	EAT	se	To eat:Low-Rise
+200	Gyalsumdo	BITE	ale	To bite:Mid-High
+201	Gyalsumdo	BITE	soɡjapb	To bite:Mid-High
+202	Gyalsumdo	BE HUNGRY	t̪oɡɛ	To be hungry:High
+203	Gyalsumdo	DRINK	t̪ʰuŋ	To drink:High
+204	Gyalsumdo	THIRSTY	kʰakomkɛ	To be thirsty:
+205	Gyalsumdo	SLEEP	ɲal	To sleep:Low-Rise
+206	Gyalsumdo	LIE (REST)	tʰelaɲal	To lie:
+207	Gyalsumdo	SIT	t̪e	To sit:Mid-High
+208	Gyalsumdo	GIVE	t̪eɹ	To give:High
+209	Gyalsumdo	BURN	takɛ	To burn:Low-Rise
+210	Gyalsumdo	DIE	ɕi	To die:High
+211	Gyalsumdo	KILL	se	To kill:High
+212	Gyalsumdo	FLY (MOVE THROUGH AIR)	pʰiɹ	To fly:High
+213	Gyalsumdo	WALK	kju	To walk:Mid-Rise
+214	Gyalsumdo	RUN	t̪aɹkjulaŋ	To run:
+215	Gyalsumdo	GO	to	To go:Mid-Rise
+216	Gyalsumdo	COME	ɕjo	To come:High
+217	Gyalsumdo	COME	oŋ	To come:Low-Rise
+218	Gyalsumdo	SPEAK	labt̪aŋɡɛ	To speak:
+219	Gyalsumdo	LISTEN	ɲin	To hear/listen:Low-Rise
+220	Gyalsumdo	LOOK	t̪e	To look:High
+221	Gyalsumdo	I	ŋa	I:Mid
+222	Gyalsumdo	THOU	kʰe	You (informal):High
+223	Gyalsumdo	YOU (FORMAL ADDRESS)	kʰela	You (formal):
+224	Gyalsumdo	YOU (FORMAL ADDRESS)	kʰeɹaŋ	You (formal):
+225	Gyalsumdo	HE	kʰo	He:High
+226	Gyalsumdo	SHE	mo	She:
+227	Gyalsumdo	WE (INCLUSIVE)	ɲi	We (inclusive):
+228	Gyalsumdo	WE (INCLUSIVE)	ɲija	We (inclusive):
+229	Gyalsumdo	WE (INCLUSIVE)	ɲiɹaŋ	We (inclusive):
+230	Gyalsumdo	WE (EXCLUSIVE)	oɹaŋ	We (exclusive):Low-Rise
+231	Gyalsumdo	YOU	kʰija	You (plural):
+232	Gyalsumdo	THEY	kʰuŋja	They:
+233	Gyalsumdo	LOAD	kʰuɹpu	Load:High
+234	Gyalsumdo	FLOUR	tsampa	Flour (eaten as food):High
+235	Gyalsumdo	HAIL	seɹa	Hailstone:High
+236	Gyalsumdo	INTESTINES	kjuma	Intestine:Mid
+237	Gyalsumdo	INTESTINES	kʰjuma	Intestine:Mid
+238	Gyalsumdo	YARD	kɔɹtsa	Yard:Low-Rise
+239	Gyalsumdo	UPROOT	pi	To uproot:High
+240	Gyalsumdo	OVEN	t̪ʰab	Oven:High
+241	Gyalsumdo	HEEL	t̪iŋpa	Heel:High
+242	Gyalsumdo	SPADE	t̪oktsi	Spade:High
+243	Gyalsumdo	HORSE	t̪abu	Horse:High
+244	Gyalsumdo	LOAD	kʰurpu	Load:High
+245	Gyalsumdo	PLOUGH	møkɛ	To plough:
+246	Gyalsumdo	JOIN	kamkja	Bond:Low-Rise
+247	Gyalsumdo	BEAM	kuŋkju	Beam (main wooden beam):Low-Rise
+248	Gyalsumdo	LEASH	t̪ʰakpa	Rope used to tie animals:
+249	Gyalsumdo	BREAD	kja	Bread:Mid-High
+250	Gyalsumdo	MEASURE	t̪apkɛ	To measure:Low-Rise
+251	Gyalsumdo	BOARD	t̪al	Plank:High
+252	Gyalsumdo	HOLE	miksaŋ	Hole:Mid-High
+253	Gyalsumdo	PLOUGH (INSTRUMENT)	t̪ʰoŋpa	Plough (noun):Mid-High
+254	Gyalsumdo	LID (COVER, CAP)	kʰəptɕu	Lid (cover):High
+255	Gyalsumdo	HANDLE	juwa	Handle:Low-Rise
+256	Gyalsumdo	BEAR	t̪om	Bear:Mid
+257	Gyalsumdo	GHOST	nøpa	Ghost:Mid-High
+258	Gyalsumdo	DUNG (ANIMAL FAECES)	ly	Manure:Low-Rise
+259	Gyalsumdo	BREAD	kjaŋ	Bread:Low-Rise
+260	Gyalsumdo	CORPSE	ɹo	Corpse:Low-Rise
+261	Gyalsumdo	PIG	pʰakpa	Pig:High
+262	Gyalsumdo	GRAIN	tʰu	Grains:High 
+263	Gyalsumdo	STICK	kjukpa	Stick:Low-Rise
+264	Gyalsumdo	SWEAT (SUBSTANCE)	ŋulna	Sweat:High
+265	Gyalsumdo	CHEW	leke	To chew:High
+266	Gyalsumdo	SWALLOW	mikɛ	To swallow:Low-Rise
+267	Gyalsumdo	THROW	jukɛ	To throw:Mid
+268	Gyalsumdo	THROW	juɹkɛ	To throw:Mid
+269	Jirel	BODY	dziu	Body:Low
+270	Jirel	HEAD	ŋɡo	Head:Low
+271	Jirel	HAIR	ŋɡokita	Hair:
+272	Jirel	FACE	tɕʰet̪	Face:Mid
+273	Jirel	EYE	mik	Eye:High
+274	Jirel	EAR	n̪amdʑjok	Ear:Mid-High
+275	Jirel	NOSE	n̪əu	Nose:Mid-High
+276	Jirel	MOUTH	kʰa	Mouth:Mid-High
+277	Jirel	TOOTH	sa	Teeth:Mid-High
+278	Jirel	TONGUE	tselak	Tongue:Mid-High
+279	Jirel	BREAST	n̪uma	Breast:Low-Rise
+280	Jirel	BELLY	suba	Belly:High
+281	Jirel	ARM OR HAND	lakpa	Arm/Hand:Low-Rise
+282	Jirel	ELBOW	kuin̪a	Elbow:
+283	Jirel	PALM TREE	pəɹa	Palm:Mid-Fall
+284	Jirel	FINGER	ndziu	Finger:
+285	Jirel	FINGERNAIL	seɹmuk	Fingernail:High
+286	Jirel	LEG	tʰekpa	Leg:High
+287	Jirel	SKIN	kokt̪en	Skin:High
+288	Jirel	BONE	ɹuba	Bone:Low-Rise
+289	Jirel	HEART	ɲiŋ	Heart:High
+290	Jirel	BLOOD	tʰak	Blood:High
+291	Jirel	URINE	tsiŋ	Urine:High
+292	Jirel	FAECES (EXCREMENT)	kjakpa	Faeces:High
+293	Jirel	VILLAGE	jul	Village:Low-Rise
+294	Jirel	HOUSE	kʰamba	House:Mid-High
+295	Jirel	ROOF	tsʰanu	Roof:
+296	Jirel	DOOR	ŋɡo	Door:Mid
+297	Jirel	FIREWOOD	ɕiŋ	Firewood:High
+298	Jirel	BROOM	komuk	Broom:High
+299	Jirel	MORTAR CRUSHER	siləuta	Mortar:
+300	Jirel	PESTLE	nd̪aɹd̪ok	Pestle:
+301	Jirel	HAMMER	toktoke	Hammer:
+302	Jirel	KNIFE	tɕʰuɹa	Knife:
+303	Jirel	KNIFE	tsəku	Knife:
+304	Jirel	AXE	t̪əɹi	Axe:High
+305	Jirel	ROPE	t̪ʰakpa	Rope:Mid-High
+306	Jirel	THREAD	ɕut̪ak	Thread:High
+307	Jirel	NEEDLE (FOR SEWING)	kʰap	Needle:High
+308	Jirel	CLOTH	kʰolak	Cloth:Mid-High
+309	Jirel	RING	əũtʰi	Ring:
+310	Jirel	SUN	ɲima	Sun:High
+311	Jirel	MOON	nd̪aɡaɹ	Moon:Mid
+312	Jirel	SKY	n̪am	Sky:High
+313	Jirel	STAR	kaɹma	Star:High
+314	Jirel	RAIN (RAINING)	tɕʰjaɹba	Rain:High
+315	Jirel	WATER	tɕʰju	Water:High
+316	Jirel	RIVER	tʰaŋka	River:Mid
+317	Jirel	CLOUD	mukpa	Cloud:High
+318	Jirel	LIGHTNING	tsilim	Lightening:High
+319	Jirel	LIGHTNING	tsilam	Lightening:High
+320	Jirel	RAINBOW	ndza	Rainbow:Mid
+321	Jirel	WIND	hlaba	Wind:Mid
+322	Jirel	STONE	nd̪o	Stone:Mid-High
+323	Jirel	PATH	lam	Path:Low
+324	Jirel	SAND	pʰesa	Sand:Mid
+325	Jirel	FIRE	me	Fire:Low-Rise
+326	Jirel	SMOKE (INHALE)	t̪ʰut̪ak	Smoke:Mid-High
+327	Jirel	ASH	t̪ʰala	Ash:Mid
+328	Jirel	MUD	səbi	Mud:Mid
+329	Jirel	DUST	d̪ulo	Dust:
+330	Jirel	GOLD	seɹ	Gold:High
+331	Jirel	TREE	nd̪oŋbo	Tree:Mid
+332	Jirel	LEAF	ɕjomak	Leaf:High
+333	Jirel	ROOT	tsapɹen	Root:
+334	Jirel	THORN	tsaŋ	Thorn:High
+335	Jirel	FLOWER	mend̪ok	Flower:Mid-High
+336	Jirel	FRUIT	pʰəlpʰul	Fruit:
+337	Jirel	MANGO	ãp	Mango:
+338	Jirel	BANANA	ɹeŋaɕiŋ	Banana:
+339	Jirel	WHEAT	tʰa	Wheat (husked):Mid
+340	Jirel	BARLEY	ndzəu	Barley:Mid
+341	Jirel	RICE	ɕjoɹok	Rice (husked):High
+342	Jirel	POTATO	ɹeɡe	Potato:Mid-High
+343	Jirel	AUBERGINE	pənda	Eggplant:
+344	Jirel	PEANUT	mbəd̪am	Groundnut:
+345	Jirel	NUT	kʰuɹɕani	Chilli:
+346	Jirel	TURMERIC	mbesaɹ	Turmeric:
+347	Jirel	GARLIC	ŋɡokpa	Garlic:Mid
+348	Jirel	ONION	pjats	Onion:
+349	Jirel	CAULIFLOWER	kauli	Cauliflower:
+350	Jirel	TOMATO	ŋɡolbeda	Tomato:
+351	Jirel	CABBAGE	bənd̪a	Cabbage:
+352	Jirel	OIL (ORGANIC SUBSTANCE)	məɹɡu	Oil:Mid-High
+353	Jirel	SALT	tsʰa	Salt:High
+354	Jirel	MEAT	ɕja	Meat:High
+355	Jirel	FAT (OF MEAT AND FOOD)	tsʰiluk	Fat (of meat):High
+356	Jirel	FISH	ɲa	Fish:Low-Rise
+357	Jirel	CHICKEN	tsʰiɹbuk	Chicken:Mid
+358	Jirel	EGG	tsʰemend̪ok	Egg:
+359	Jirel	EGG	tsʰeɡoŋa	Egg:
+360	Jirel	COW	pʰalaŋ	Cow:Mid
+361	Jirel	BUFFALO	meɕja	Buffalo:
+362	Jirel	MILK	olen	Milk:
+363	Jirel	MILK	oma	Milk:
+364	Jirel	HORN (ANATOMY)	ɹodʑjo	Horns:Mid
+365	Jirel	TAIL	ŋama	Tail:High
+366	Jirel	GOAT	ɹa	Goat:Low-Rise
+367	Jirel	DOG	ki	Dog:High
+368	Jirel	SNAKE	ɹul	Snake:Low-Rise
+369	Jirel	MONKEY	moɹo	Monkey:Mid
+370	Jirel	MONKEY	tʰaklapʰikant̪e	Monkey:Mid
+371	Jirel	MOSQUITO	lamkute	Mosquito:
+372	Jirel	ANT	tʰoŋmatsi	Ant:
+373	Jirel	SPIDER	ŋɡwãpali	Spider:
+374	Jirel	NAME	min̪	Name:Low-Rise
+375	Jirel	MAN	mi	Man:Low-Rise
+376	Jirel	WOMAN	pʰemmemi	Woman:
+377	Jirel	CHILD	pʰidza	Child:Mid
+378	Jirel	FATHER	aba	Father:Mid
+379	Jirel	MOTHER	ãma	Mother:Mid
+380	Jirel	OLDER BROTHER	adʑjo	Older brother:Mid-High
+381	Jirel	YOUNGER BROTHER	n̪ũwã	Younger brother:Low-Rise
+382	Jirel	OLDER SISTER	adzi	Older sister:Mid-High
+383	Jirel	YOUNGER SISTER	n̪umu	Younger sister:Mid-Rise
+384	Jirel	SON	pʰudʑuŋ	Son:
+385	Jirel	DAUGHTER	pʰumu	Daughter:
+386	Jirel	HUSBAND	kʰjobo	Husband:High 
+387	Jirel	WIFE	pʰemme	Wife:
+388	Jirel	BOY	kʰojobopidza	Boy:
+389	Jirel	GIRL	pʰemmepidza	Girl:
+390	Jirel	DAY (NOT NIGHT)	ɲima	Day:
+391	Jirel	NIGHT	ŋɡwase	Night:
+392	Jirel	MORNING	ŋomu	Morning:High
+393	Jirel	NOON	ɲimmu	Noon:
+394	Jirel	EVENING	ŋɡwase	Evening:
+395	Jirel	YESTERDAY	nd̪aŋ	Yesterday:Mid
+396	Jirel	TODAY	tʰəɹiŋ	Today:Mid
+397	Jirel	TOMORROW	ŋaɹo	Tomorrow:High
+398	Jirel	WEEK	həpt̪a	Week:
+399	Jirel	MONTH	nd̪awa	Month:Mid
+400	Jirel	YEAR	lo	Year:Low-Rise
+401	Jirel	OLD	ɲiŋba	Old:High 
+402	Jirel	NEW	samba	New:High 
+403	Jirel	GOOD	lemu	Good:High
+404	Jirel	BAD	meleba	Bad:
+405	Jirel	WET	tʰəŋɡe	Wet:
+406	Jirel	DRY	kombo	Dry:High 
+407	Jirel	LONG	ɹimbu	Long:Low-Rise
+408	Jirel	SHORT	t̪ʰumma	Short:High 
+409	Jirel	HOT	tʰommu	Hot:
+410	Jirel	COLD	tʰəŋɡe	Cold:
+411	Jirel	RIGHT	samapa	Right:
+412	Jirel	LEFT	d̪ebɹepa	Left:
+413	Jirel	NEAR	ɲibid̪u	Near:
+414	Jirel	FAR	t̪ʰaɹid̪u	Far:
+415	Jirel	FAR	t̪ʰaɹipa	Far:
+416	Jirel	BIG	ndzod̪a	Big:Mid-High
+417	Jirel	SMALL	tikti	Small:High
+418	Jirel	HEAVY	tsend̪e	Heavy:
+419	Jirel	LIGHT (WEIGHT)	jeŋɡe	Light:High
+420	Jirel	ABOVE	jine	Above:Low-Rise
+421	Jirel	DOWN OR BELOW	mima	Below:Mid-High
+422	Jirel	WHITE	kaɹmu	White:High
+423	Jirel	BLACK	naɡpo	Black:Low-Rise
+424	Jirel	RED	məɹmu	Red:Low-Rise
+425	Jirel	ONE	nd̪okpəi	One:
+426	Jirel	ONE	tɕik	One:
+427	Jirel	TWO	ɲi	Two:High
+428	Jirel	THREE	sum	Three:High
+429	Jirel	FOUR	ɕi	Four:Low-Rise
+430	Jirel	FIVE	ŋa	Five:High
+431	Jirel	SIX	tʰok	Six:Mid-High
+432	Jirel	SEVEN	nd̪uin	Seven:Mid-Rise
+433	Jirel	EIGHT	ŋɡet̪	Eight:Low-Rise
+434	Jirel	NINE	ŋɡu	Nine:Low-Rise
+435	Jirel	TEN	tɕut̪amba	Ten:
+436	Jirel	ELEVEN	tɕutɕik	Eleven:
+437	Jirel	TWELVE	tɕuŋɲi	Twelve:
+438	Jirel	TWENTY	kʰaldʑik	Twenty:
+439	Jirel	HUNDRED	kʰalŋa	One Hundred:
+440	Jirel	WHO	su	Who:High-Fall
+441	Jirel	WHAT	tɕi	What:High-Fall
+442	Jirel	WHERE	kʰapa	Where:Mid
+443	Jirel	WHEN	n̪am	When:Low-Rise
+444	Jirel	HOW MANY	t̪ʰoji	How many:Mid-Rise
+445	Jirel	WHICH	kʰaŋ	Which:
+446	Jirel	THIS	nd̪i	This:Mid-Rise
+447	Jirel	THAT	t̪ʰe	That:High 
+448	Jirel	THIS	nd̪iba	These:
+449	Jirel	THAT	t̪ʰeba	Those:
+450	Jirel	SAME	t̪ʰokɹaŋ	Same:
+451	Jirel	DIFFERENT	kʰud̪uk	Different:
+452	Jirel	WHOLE	ŋɡaŋe	Whole:Mid
+453	Jirel	BROKEN	tɕʰakpat̪e	Broken:
+454	Jirel	FEW	tikpidʑik	Few:
+455	Jirel	MANY	kalbe	Many:High
+456	Jirel	ALL	ŋɡaŋe	All:
+457	Jirel	EAT	so	To eat:
+458	Jirel	EAT	soba	To eat:
+459	Jirel	EAT	sabla	To eat:
+460	Jirel	BITE	muɹtɕja	To bite:Low-Rise
+461	Jirel	BITE	muɹab	To bite:Low-Rise
+462	Jirel	BE HUNGRY	t̪oaba	To be hungry:High
+463	Jirel	BE HUNGRY	t̪oabalabat̪e	To be hungry:High
+464	Jirel	DRINK	t̪ʰuŋ	To drink:High 
+465	Jirel	DRINK	t̪ʰubat̪e	To drink:High 
+466	Jirel	THIRSTY	komba	To be thirsty:High 
+467	Jirel	SLEEP	ɲol	To sleep:
+468	Jirel	SLEEP	ɲalat̪e	To sleep:
+469	Jirel	LIE (REST)	ɹilat̪e	To lie:
+470	Jirel	LIE (REST)	pəltekʰabat̪e	To lie:
+471	Jirel	SIT	d̪et̪at̪e	To sit:
+472	Jirel	GIVE	mbind̪at̪e	To give:
+473	Jirel	BURN	tsʰikpat̪e	To burn:
+474	Jirel	BURN	tsʰikt̪uk	To burn:
+475	Jirel	DIE	ɕjapt̪e	To die:
+476	Jirel	KILL	set̪at̪e	To kill:
+477	Jirel	FLY (MOVE THROUGH AIR)	pʰuɹ	To fly:
+478	Jirel	FLY (MOVE THROUGH AIR)	pʰuɹat̪e	To fly:
+479	Jirel	WALK	kʰjom	To walk:High
+480	Jirel	WALK	kʰjambat̪e	To walk:High
+481	Jirel	RUN	tɕʰwabat̪e	To run:
+482	Jirel	GO	ɡalat̪e	To go:
+483	Jirel	GO	ŋɡjuk	To go:
+484	Jirel	COME	ɕjok	To come:High
+485	Jirel	SPEAK	mbat̪kʰabat̪e	To speak:
+486	Jirel	LISTEN	t̪ʰobat̪e	To hear/listen:
+487	Jirel	LOOK	t̪abat̪e	To look:
+488	Jirel	I	ŋa	I:Mid
+489	Jirel	THOU	kʰo	You (informal):
+490	Jirel	HE	t̪ʰe	He:Mid
+491	Jirel	SHE	t̪ʰe	She:
+492	Jirel	WE (INCLUSIVE)	oɹoŋ	We (inclusive):
+493	Jirel	WE (INCLUSIVE)	ŋɡaŋe	We (inclusive):
+494	Jirel	YOU	kʰjokjon	You (plural):
+495	Jirel	THEY	t̪ʰeba	They:
+496	Jirel	LOAD	kʰuɹbo	Load:High
+497	Jirel	FLOUR	pʰe	Flour (eaten as food):High
+498	Jirel	HAIL	seɹe	Hailstone:High
+499	Jirel	INTESTINES	ŋɡjumak	Intestine:Mid-High
+500	Jirel	YARD	ɕjaŋka	Yard:High
+501	Jirel	UPROOT	pʰalat̪e	To uproot:
+502	Jirel	OVEN	t̪ʰap	Oven:High
+503	Jirel	HEEL	kuɹkutsa	Heel:
+504	Jirel	SPADE	t̪oktsi	Spade:High
+505	Jirel	HORSE	ŋɡoda	Horse:
+506	Jirel	PLOUGH	mowat̪e	To plough:
+507	Jirel	PLOUGH	mobak	To plough:
+508	Jirel	JOIN	t̪əmasuk	Bond:
+509	Jirel	BEAM	d̪əlin	Beam (main wooden beam):
+510	Jirel	LEASH	t̪ʰakpa	Rope used to tie animals:
+511	Jirel	BREAD	d̪aɹi	Bread:
+512	Jirel	MEASURE	t̪ʰapat̪e	To measure:
+513	Jirel	BOARD	pʰəljak	Plank:
+514	Jirel	HOLE	miu	Hole:High
+515	Jirel	PLOUGH (INSTRUMENT)	t̪ʰoŋba	Plough (noun):
+516	Jirel	LID (COVER, CAP)	mbutso	Lid (cover):
+517	Jirel	HANDLE	tʰijuk	Handle:
+518	Jirel	BEAR	t̪om	Bear:Mid
+519	Jirel	GHOST	ləndik	Ghost:Low-Rise
+520	Jirel	DUNG (ANIMAL FAECES)	tɕʰja	Manure:High
+521	Jirel	BREAD	ɕjoben	Bread:
+522	Jirel	CORPSE	ɹo	Corpse:Low-Rise
+523	Jirel	PIG	pʰakpa	Pig:High
+524	Jirel	STICK	dəndi	Stick:
+525	Jirel	SWEAT (SUBSTANCE)	tʰot̪	Sweat:
+526	Jirel	CHEW	muɹat̪e	To chew:
+527	Jirel	SWALLOW	mikt̪aŋat̪e	To swallow:
+528	Jirel	THROW	kjuɹat̪e	To throw:
+529	Kagate	BODY	dzubu	Body:Mid 
+530	Kagate	HEAD	ɡo	Head:Mid-High
+531	Kagate	HAIR	ta	Hair:Mid-High
+532	Kagate	FACE	t̪oŋba	Face:Mid
+533	Kagate	EYE	mi	Eye:High
+534	Kagate	EAR	namdzjo	Ear:Mid
+535	Kagate	NOSE	nasum	Nose:Mid-High
+536	Kagate	MOUTH	kʰa	Mouth:Mid
+537	Kagate	TOOTH	so	Teeth:Mid-High
+538	Kagate	TONGUE	tse	Tongue:High
+539	Kagate	BREAST	oma	Breast:Low-Rise
+540	Kagate	BREAST	praŋɡok	Breast: Mid
+541	Kagate	BELLY	topa	Belly:Mid
+542	Kagate	ARM OR HAND	laɡpa	Arm/Hand:Low-Rise
+543	Kagate	ELBOW	uti	Elbow:High
+544	Kagate	PALM TREE	t̪ʰaldze	Palm:Mid-High
+545	Kagate	FINGER	t̪ʰebu	Finger:Mid-High
+546	Kagate	FINGERNAIL	sermu	Fingernail:High
+547	Kagate	LEG	kaŋba	Leg:High
+548	Kagate	SKIN	koba	Skin:High
+549	Kagate	BONE	rekok	Bone:Mid
+550	Kagate	HEART	niŋ	Heart:High
+551	Kagate	BLOOD	tʰa	Blood:High 
+552	Kagate	URINE	tsiŋ	Urine:High 
+553	Kagate	FAECES (EXCREMENT)	kjakpa	Faeces:High
+554	Kagate	VILLAGE	jul	Village:Low-Rise
+555	Kagate	HOUSE	kʰim	House:High
+556	Kagate	ROOF	t̪uŋso	Roof:Rise
+557	Kagate	DOOR	ko	Door:High
+558	Kagate	FIREWOOD	siŋ	Firewood:High
+559	Kagate	BROOM	pʰema	Broom:High
+560	Kagate	MORTAR CRUSHER	t̪olep	Mortar:Mid
+561	Kagate	PESTLE	t̪imbu	Pestle:High
+562	Kagate	HAMMER	t̪ʰwa	Hammer:High
+563	Kagate	KNIFE	kart̪a	Knife:High
+564	Kagate	AXE	t̪əri	Axe:High 
+565	Kagate	ROPE	t̪ʰakpa	Rope:High 
+566	Kagate	THREAD	kupa	Thread:High
+567	Kagate	NEEDLE (FOR SEWING)	kʰap	Needle:High 
+568	Kagate	CLOTH	kela	Cloth:Low-Rise
+569	Kagate	RING	sipt̪ur	Ring:High 
+570	Kagate	SUN	ŋima	Sun:Low-Rise
+571	Kagate	MOON	d̪aɡarmu	Moon:
+572	Kagate	SKY	nam	Sky:High
+573	Kagate	STAR	karma	Star:High 
+574	Kagate	RAIN (RAINING)	nam	Rain:
+575	Kagate	WATER	tɕʰju	Water:High
+576	Kagate	RIVER	tsaŋbu	River:High
+577	Kagate	CLOUD	mukpa	Cloud:High
+578	Kagate	LIGHTNING	milik	Lightening:
+579	Kagate	RAINBOW	dzakormu	Rainbow:
+580	Kagate	WIND	hlaba	Wind:Mid 
+581	Kagate	STONE	t̪o	Stone:Low-Rise 
+582	Kagate	PATH	lam	Path:Low-Rise
+583	Kagate	SAND	pema	Sand:Low-Rise
+584	Kagate	FIRE	me	Fire:Low-Rise
+585	Kagate	SMOKE (INHALE)	d̪ipa	Smoke:..Rise
+586	Kagate	ASH	t̪ʰala	Ash:Mid
+587	Kagate	MUD	sebi	Mud:High
+588	Kagate	DUST	t̪ʰaldzuk	Dust:High
+589	Kagate	GOLD	ser	Gold:High
+590	Kagate	TREE	t̪oŋbo	Tree:Low-Rise
+591	Kagate	LEAF	loma	Leaf:Low-Rise
+592	Kagate	ROOT	tsarŋe	Root:High
+593	Kagate	THORN	tsʰermaŋ	Thorn:High
+594	Kagate	FLOWER	mend̪o	Flower:Low-Rise
+595	Kagate	FRUIT	brumd̪o	Fruit:
+596	Kagate	MANGO	ãp	Mango:
+597	Kagate	BANANA	alamu	Banana:
+598	Kagate	WHEAT	nẽjã	Wheat (husked):
+599	Kagate	BARLEY	wa	Barley:High
+600	Kagate	RICE	brea	Rice (husked):Mid
+601	Kagate	POTATO	he	Potato:..Rise
+602	Kagate	AUBERGINE	bjanta	Eggplant:
+603	Kagate	PEANUT	bəd̪am	Groundnut:
+604	Kagate	NUT	martsi	Chilli:High
+605	Kagate	TURMERIC	juŋa	Turmeric:Low-Rise
+606	Kagate	GARLIC	kokpa	Garlic:Low-Rise 
+607	Kagate	ONION	pjadz	Onion:
+608	Kagate	CAULIFLOWER	kauli	Cauliflower:
+609	Kagate	TOMATO	ɡolbeda	Tomato:
+610	Kagate	CABBAGE	bənd̪aɡobi	Cabbage:
+611	Kagate	OIL (ORGANIC SUBSTANCE)	marku	Oil:Low-Rise
+612	Kagate	SALT	tsʰa	Salt:High
+613	Kagate	MEAT	ɕja	Meat:High
+614	Kagate	FAT (OF MEAT AND FOOD)	tsʰiluk	Fat (of meat):High
+615	Kagate	FISH	ɲa	Fish:Low-Rise
+616	Kagate	CHICKEN	tsipru	Chicken:Low-Rise
+617	Kagate	EGG	tɕjamuɡoŋa	Egg:
+618	Kagate	COW	palaŋ	Cow:Low-Rise
+619	Kagate	BUFFALO	mãjĩ	Buffalo:Low-Rise
+620	Kagate	MILK	oma	Milk:Low-Rise
+621	Kagate	HORN (ANATOMY)	rwaɡa	Horns:Low-Rise
+622	Kagate	TAIL	ŋama	Tail:High
+623	Kagate	GOAT	ra	Goat:Low-Rise
+624	Kagate	DOG	kʰi	Dog:High
+625	Kagate	SNAKE	prul	Snake:Low-Rise
+626	Kagate	MONKEY	preken	Monkey:High
+627	Kagate	MONKEY	priu	Monkey:High
+628	Kagate	MOSQUITO	lamkʰute	Mosquito:
+629	Kagate	ANT	tomak	Ant:Mid
+630	Kagate	SPIDER	kiɡor	Spider:
+631	Kagate	NAME	min	Name:Low-Rise
+632	Kagate	MAN	mi	Man:Low-Rise
+633	Kagate	WOMAN	penpidza	Woman:
+634	Kagate	CHILD	pidza	Child:…Rise
+635	Kagate	FATHER	aba	Father:…Rise
+636	Kagate	MOTHER	ama	Mother:Low-Rise
+637	Kagate	OLDER BROTHER	 at̪a	Older brother:….Rise
+638	Kagate	YOUNGER BROTHER	nu	Younger brother:Low-Rise
+639	Kagate	OLDER SISTER	adzi	Older sister:…Rise
+640	Kagate	YOUNGER SISTER	numu	Younger sister:Low-Rise
+641	Kagate	SON	pu	Son:…Rise 
+642	Kagate	DAUGHTER	pomo	Daughter:High
+643	Kagate	HUSBAND	kʰjobo	Husband:High
+644	Kagate	WIFE	tɕʰjuŋma	Wife:High
+645	Kagate	WIFE	peme	Wife:Low-Rise
+646	Kagate	BOY	pituk	Boy:…Rise
+647	Kagate	GIRL	pitukmu	Girl:
+648	Kagate	DAY (NOT NIGHT)	ɲima	Day:Low-Rise
+649	Kagate	NIGHT	komu	Night:Low-Rise
+650	Kagate	MORNING	ŋamu	Morning:….Rise
+651	Kagate	NOON	tsʰəkəl	Noon:High
+652	Kagate	NOON	ɲimakarpo	Noon:High
+653	Kagate	EVENING	kuŋɕe	Evening:
+654	Kagate	YESTERDAY	d̪aŋ	Yesterday:Low-Rise
+655	Kagate	TODAY	t̪iriŋ	Today:Low-Rise
+656	Kagate	TOMORROW	ŋart̪o	Tomorrow:High
+657	Kagate	MONTH	d̪awa	Month:Low-Rise
+658	Kagate	YEAR	lo	Year:Low-Rise
+659	Kagate	OLD	niŋba	Old:High
+660	Kagate	NEW	samba	New:High
+661	Kagate	GOOD	jabu	Good:Low-Rise
+662	Kagate	GOOD	dzebu	Good:Mid
+663	Kagate	BAD	majiba	Bad:
+664	Kagate	BAD	marikpa	Bad:
+665	Kagate	WET	taŋbu	Wet:Low-Rise
+666	Kagate	DRY	kambu	Dry:High
+667	Kagate	LONG	riŋbu	Long:Low-Rise
+668	Kagate	SHORT	t̪ʰimi	Short:High
+669	Kagate	HOT	dombo	Hot:Mid
+670	Kagate	COLD	taŋmu	Cold:Low-Rise
+671	Kagate	RIGHT	tɕjabutsʰole	Right:
+672	Kagate	LEFT	joma	Left:
+673	Kagate	NEAR	t̪ʰama	Near:High
+674	Kagate	FAR	t̪ʰariŋbu	Far:
+675	Kagate	BIG	tɕʰjombo	Big:
+676	Kagate	SMALL	tɕʰimi	Small:High
+677	Kagate	HEAVY	tsend̪i	Heavy:High
+678	Kagate	LIGHT (WEIGHT)	jaŋd̪i	Light:Low-Rise
+679	Kagate	ABOVE	t̪ʰola	Above:High
+680	Kagate	DOWN OR BELOW	wala	Below:Low-Rise
+681	Kagate	WHITE	karmu	White:High
+682	Kagate	BLACK	nakpu	Black:Low-Rise
+683	Kagate	RED	marmu	Red:Low-Rise
+684	Kagate	ONE	tɕi	One:High 
+685	Kagate	TWO	ŋi	Two:Low-Rise
+686	Kagate	THREE	sum	Three:High
+687	Kagate	FOUR	ɕi	Four:Low-Rise
+688	Kagate	FIVE	ŋa	Five:Mid 
+689	Kagate	SIX	tuk	Six:Rise
+690	Kagate	SEVEN	t̪in	Seven:Low-Rise
+691	Kagate	EIGHT	ke	Eight:Rise
+692	Kagate	NINE	ku	Nine:Low-Rise
+693	Kagate	TEN	tɕju	Ten:High 
+694	Kagate	ELEVEN	tɕjudʑik	Eleven:
+695	Kagate	TWELVE	tɕikŋi	Twelve:
+696	Kagate	TWENTY	ŋiɕju	Twenty:
+697	Kagate	HUNDRED	kjatɕik	One Hundred:
+698	Kagate	WHO	su	Who:High 
+699	Kagate	WHAT	tsi	What:High
+700	Kagate	WHERE	kala	Where:Low-Rise
+701	Kagate	WHEN	nam	When:Low-Rise 
+702	Kagate	HOW MANY	kadze	How many:Low-Rise
+703	Kagate	WHICH	kãd̪i	Which:Low-Rise
+704	Kagate	THIS	d̪ikʰo	This:
+705	Kagate	THAT	wokʰo	That:
+706	Kagate	THIS	d̪ikʰokja	These:
+707	Kagate	THAT	wokʰokja	Those:
+708	Kagate	SAME	wokʰora	Same:
+709	Kagate	DIFFERENT	raŋsara	Different:
+710	Kagate	WHOLE	t̪ʰamdzer	Whole:High
+711	Kagate	WHOLE	kopt̪ar	Whole:Low-Rise
+712	Kagate	BROKEN	tɕʰjako	Broken:High
+713	Kagate	FEW	t̪ibi	Few:High
+714	Kagate	MANY	maŋbu	Many:Low-Rise
+715	Kagate	ALL	t̪ʰamdzer	All:
+716	Kagate	EAT	sadze	To eat:Low-Rise
+717	Kagate	BITE	murtse	To bite:Low-Rise
+718	Kagate	BE HUNGRY	d̪opat̪odze	To be hungry:
+719	Kagate	DRINK	t̪ʰuŋdze	To drink:High
+720	Kagate	THIRSTY	kondze	To be thirsty:High
+721	Kagate	SLEEP	ɲaldze	To sleep:Low-Rise
+722	Kagate	LIE (REST)	t̪ʰaŋsodze	To lie:
+723	Kagate	SIT	t̪etse	To sit:
+724	Kagate	GIVE	t̪ertse	To give:
+725	Kagate	BURN	sadze	To burn:High
+726	Kagate	DIE	ɕidze	To die:High
+727	Kagate	KILL	setse	To kill:High
+728	Kagate	FLY (MOVE THROUGH AIR)	urtse	To fly:Low-Rise
+729	Kagate	WALK	dodze	To walk:Low-Rise
+730	Kagate	RUN	tɕʰjoŋdze	To run:High
+731	Kagate	GO	dodze	To go:
+732	Kagate	COME	oŋdze	To come:Low-Rise
+733	Kagate	SPEAK	latse	To speak:Low-Rise
+734	Kagate	LISTEN	kodze	To hear/listen:Low-Rise
+735	Kagate	LOOK	t̪adze	To look:High
+736	Kagate	I	ŋa	I:Low-Rise
+737	Kagate	THOU	kʰjo	You (informal):High
+738	Kagate	YOU (FORMAL ADDRESS)	kʰja	You (formal):
+739	Kagate	HE	kʰo	He:High-Fall
+740	Kagate	SHE	mo	She:Low-Rise
+741	Kagate	WE (INCLUSIVE)	u	We (inclusive):Low-Rise
+742	Kagate	WE (EXCLUSIVE)	ŋi	We (exclusive):Low-Rise
+743	Kagate	YOU	kʰjokja	You (plural):
+744	Kagate	THEY	kʰuŋkja	They:
+745	Kagate	LOAD	kʰurpu	Load:High 
+746	Kagate	FLOUR	tsamba	Flour (eaten as food):High
+747	Kagate	HAIL	serak	Hailstone:High
+748	Kagate	INTESTINES	kjuma	Intestine:Rise
+749	Kagate	YARD	kot̪oŋ	Yard:Low-Rise
+750	Kagate	YARD	ild̪o	Yard:High
+751	Kagate	UPROOT	podze	To uproot:High
+752	Kagate	OVEN	kwaɡa	Oven:Low-Rise
+753	Kagate	HEEL	t̪iŋba	Heel:High
+754	Kagate	SPADE	t̪odzi	Spade:High 
+755	Kagate	HORSE	t̪abu	Horse:High
+756	Kagate	LOAD	ɕjuwa	Load:High
+757	Kagate	PLOUGH	modze	To plough:High
+758	Kagate	JOIN	siu	Bond:
+759	Kagate	BEAM	maid̪an	Beam (main wooden beam):
+760	Kagate	LEASH	t̪ʰakpa	Rope used to tie animals:
+761	Kagate	BREAD	maŋre	Bread:Rise
+762	Kagate	MEASURE	t̪aptse	To measure:Low-Rise
+763	Kagate	BOARD	paŋlek	Plank:High
+764	Kagate	HOLE	sup	Hole:High
+765	Kagate	PLOUGH (INSTRUMENT)	t̪ʰoŋ	Plough (noun):High
+766	Kagate	LID (COVER, CAP)	kʰaptɕju	Lid (cover):High
+767	Kagate	HANDLE	joaɡa	Handle:
+768	Kagate	BEAR	t̪om	Bear:Rise
+769	Kagate	GHOST	ɦendi	Ghost:Rise
+770	Kagate	DUNG (ANIMAL FAECES)	tɕʰja	Manure:High 
+771	Kagate	BREAD	kʰura	Bread:Mid-High
+772	Kagate	CORPSE	ro	Corpse:Low-Rise
+773	Kagate	CORPSE	pʰumbu	Corpse: High
+774	Kagate	PIG	pʰa	Pig:Mid-High
+775	Kagate	GRAIN	du	Grains:Rise
+776	Kagate	STICK	perka	Stick:Mid
+777	Kagate	SWEAT (SUBSTANCE)	ŋuldʑju	Sweat:High
+778	Kagate	CHEW	d̪etse	To chew:Rise
+779	Kagate	SWALLOW	ɲiktse	To swallow:
+780	Kagate	THROW	kurtse	To throw:High
+781	Lowa	BODY	suʔ	Body:Mid(-High)/(Low-)Rise
+782	Lowa	HEAD	ŋɡo	Head:Low
+783	Lowa	HEAD	ŋɡowa	Head:Low
+784	Lowa	HAIR	ʂɹa	Hair:(High-)Fall
+785	Lowa	FACE	ŋot̪oŋ	Face:Fall-Rise
+786	Lowa	EYE	mik	Eye:(Mid-)Fall
+787	Lowa	EAR	amtɕjoʔ	Ear:(Mid-)Rise
+788	Lowa	NOSE	na	Nose:High
+789	Lowa	MOUTH	kʰa	Mouth:(Mid-)Fall
+790	Lowa	TOOTH	so	Teeth:High
+791	Lowa	TONGUE	tsemu	Tongue:High
+792	Lowa	BREAST	oma	Breast:(Low-)Rise
+793	Lowa	BELLY	pʰowa	Belly:Mid
+794	Lowa	ARM OR HAND	laɡpa	Arm/Hand:Fall-Rise
+795	Lowa	ELBOW	tamo	Elbow:(Low-)Rise
+796	Lowa	PALM TREE	laɡt̪ʰil	Palm:
+797	Lowa	PALM TREE	laɡt̪ʰi	Palm:
+798	Lowa	FINGER	ndzu	Finger:Low
+799	Lowa	FINGERNAIL	semo	Fingernail:Mid 
+800	Lowa	LEG	kaŋpa	Leg:High
+801	Lowa	SKIN	pawo	Skin:High
+802	Lowa	BONE	ɹuko	Bone:Fall-Rise
+803	Lowa	HEART	ɲiŋ	Heart:High
+804	Lowa	BLOOD	tʰak	Blood:Mid
+805	Lowa	URINE	tsiŋ	Urine:High
+806	Lowa	FAECES (EXCREMENT)	kjakpa	Faeces:(Mid-)High
+807	Lowa	FAECES (EXCREMENT)	tsa	Faeces:High-Fall
+808	Lowa	VILLAGE	toŋsep	Village:(Low-)Rise
+809	Lowa	HOUSE	kʰaŋpa	House:Mid
+810	Lowa	ROOF	t̪aŋ	Roof:High-Fall
+811	Lowa	DOOR	ko	Door:Mid
+812	Lowa	FIREWOOD	ɕiŋ	Firewood:High
+813	Lowa	BROOM	tɕʰjaɡma	Broom:Mid
+814	Lowa	MORTAR CRUSHER	t̪ympo	Mortar:High
+815	Lowa	PESTLE	jyt̪yn	Pestle:Fall-Rise
+816	Lowa	HAMMER	t̪ʰowa	Hammer:Mid
+817	Lowa	KNIFE	tʰi	Knife:(Mid-)Rise
+818	Lowa	AXE	t̪iɾi	Axe:High
+819	Lowa	ROPE	t̪ʰaɡpa	Rope:Mid
+820	Lowa	THREAD	kupa	Thread:High
+821	Lowa	NEEDLE (FOR SEWING)	kʰap	Needle:High
+822	Lowa	CLOTH	kolaʔ	Cloth:(Low-)Rise
+823	Lowa	RING	set̪op	Ring:High
+824	Lowa	SUN	ɲima	Sun:(Low-)Rise
+825	Lowa	MOON	nd̪a	Moon:(Low-)Rise
+826	Lowa	SKY	nam	Sky:High
+827	Lowa	STAR	kaɹma	Star:Mid
+828	Lowa	RAIN (RAINING)	tɕʰjawa	Rain:Mid
+829	Lowa	WATER	tɕʰju	Water:(Mid-)High
+830	Lowa	RIVER	tsaŋpo	River:High
+831	Lowa	CLOUD	ʂɹiŋpa	Cloud:High
+832	Lowa	LIGHTNING	lokmaɹ	Lightening:High
+833	Lowa	RAINBOW	ndʑja	Rainbow:Mid
+834	Lowa	WIND	luŋ	Wind:High
+835	Lowa	WIND	luŋpo	Wind:High
+836	Lowa	STONE	t̪okoŋ	Stone:Fall-Rise
+837	Lowa	PATH	lam	Path:(Low-)Rise
+838	Lowa	SAND	pema	Sand:Fall-Rise
+839	Lowa	FIRE	me	Fire:(Low-)Rise
+840	Lowa	SMOKE (INHALE)	t̪ipa	Smoke:(Low-)Rise
+841	Lowa	ASH	koɡt̪ʰa	Ash:Fall-Rise
+842	Lowa	MUD	n̪d̪ampak	Mud:(Low-)Rise
+843	Lowa	MUD	sa	Mud:High-Fall
+844	Lowa	DUST	t̪ʰala	Dust:Mid
+845	Lowa	GOLD	seɾ	Gold:High
+846	Lowa	TREE	t̪oŋbo	Tree:Fall-Rise
+847	Lowa	LEAF	loma	Leaf:Fall-Rise
+848	Lowa	ROOT	tsawa	Root:High-Fall
+849	Lowa	THORN	tsʰeɾma	Thorn:High
+850	Lowa	FLOWER	ment̪o	Flower:Fall-Rise
+851	Lowa	FRUIT	ɕiŋt̪oʔ	Fruit:Fall-Rise
+852	Lowa	MANGO	ãm	Mango:Mid
+853	Lowa	BANANA	keɾa	Banana:High
+854	Lowa	WHEAT	to	Wheat (husked):Mid-Fall
+855	Lowa	BARLEY	ne	Barley:(Low-)Rise
+856	Lowa	RICE	nde	Rice (husked):Mid
+857	Lowa	POTATO	alok	Potato:Mid
+858	Lowa	AUBERGINE	t̪oluma	Eggplant:
+859	Lowa	PEANUT	sat̪aɾ	Groundnut:High
+860	Lowa	NUT	maɾtsa	Chilli:Mid
+861	Lowa	TURMERIC	besaɾ	Turmeric:
+862	Lowa	GARLIC	koɡpa	Garlic:(Low-)Rise
+863	Lowa	ONION	tsoŋ	Onion:High
+864	Lowa	CAULIFLOWER	pʰulkopi	Cauliflower:
+865	Lowa	TOMATO	tomato	Tomato:
+866	Lowa	CABBAGE	ŋɡopi	Cabbage:
+867	Lowa	OIL (ORGANIC SUBSTANCE)	muku	Oil:(Low-)Rise
+868	Lowa	OIL (ORGANIC SUBSTANCE)	num	Oil:High
+869	Lowa	SALT	tsʰa	Salt:High-Fall
+870	Lowa	MEAT	ɕja	Meat:High-Fall
+871	Lowa	FAT (OF MEAT AND FOOD)	tsʰiluk	Fat (of meat):High
+872	Lowa	FISH	ɲa	Fish:(Low-)Rise
+873	Lowa	CHICKEN	tɕjamodʑiptʰuk	Chicken:
+874	Lowa	EGG	koŋa	Egg:(Low-)Rise
+875	Lowa	COW	palaŋ	Cow:(Low-)Rise
+876	Lowa	BUFFALO	maji	Buffalo:(Low-)Rise
+877	Lowa	MILK	oma	Milk:(Low-)Rise 
+878	Lowa	HORN (ANATOMY)	ɹakjoʔ	Horns:Fall-Rise 
+879	Lowa	TAIL	ŋama	Tail:High
+880	Lowa	GOAT	ɹa	Goat:(Low-)Rise
+881	Lowa	DOG	kʰi	Dog:High
+882	Lowa	SNAKE	tu	Snake:(Low-)Rise
+883	Lowa	SNAKE	tʰu	Snake:(Low-)Rise
+884	Lowa	MONKEY	piu	Monkey:High
+885	Lowa	MOSQUITO	t̪uŋdaŋ	Mosquito:Fall-Rise
+886	Lowa	ANT	mbudaɲa	Ant:
+887	Lowa	SPIDER	mbut̪om	Spider:
+888	Lowa	NAME	miŋ	Name:(Low-)Rise
+889	Lowa	MAN	mi	Man:(Low-)Rise
+890	Lowa	WOMAN	keme	Woman:High
+891	Lowa	CHILD	tu	Child:High 
+892	Lowa	FATHER	ake	Father:(Mid-)Rise
+893	Lowa	MOTHER	ama	Mother:Mid
+894	Lowa	OLDER BROTHER	adʑo	Older brother:(Mid-)Rise
+895	Lowa	YOUNGER BROTHER	nu	Younger brother:(Low-)Rise
+896	Lowa	OLDER SISTER	idʑi	Older sister:Mid
+897	Lowa	YOUNGER SISTER	numu	Younger sister:(Low-)Rise
+898	Lowa	SON	pidza	Son:Fall-Rise
+899	Lowa	DAUGHTER	pomo	Daughter:(Low-)Rise
+900	Lowa	HUSBAND	kʰjoɡa	Husband:Mid
+901	Lowa	WIFE	keme	Wife:High
+902	Lowa	BOY	pidza	Boy:Fall-Rise
+903	Lowa	GIRL	pomo	Girl:(Low-)Rise
+904	Lowa	DAY (NOT NIGHT)	ɲima	Day:(Low-)Rise
+905	Lowa	NIGHT	tsʰemo	Night:Mid
+906	Lowa	MORNING	ŋat̪o	Morning:High
+907	Lowa	NOON	ɲiŋɡuŋ	Noon:Mid
+908	Lowa	EVENING	komo	Evening:(Low-)Rise
+909	Lowa	YESTERDAY	nd̪aŋ	Yesterday:(Mid-)Rise
+910	Lowa	TODAY	t̪iɾiŋ	Today:(Low-)Rise
+911	Lowa	TOMORROW	ŋeto	Tomorrow:High
+912	Lowa	WEEK	t̪yntʰaʔ	Week:
+913	Lowa	MONTH	nd̪awa	Month:(Low-)Rise
+914	Lowa	YEAR	lo	Year:Low
+915	Lowa	OLD	ɲiŋpa	Old:(Mid-)High
+916	Lowa	NEW	sawa	New:Mid
+917	Lowa	GOOD	ka	Good:(Low-)Rise
+918	Lowa	GOOD	saŋa	Good:(Low-)Rise
+919	Lowa	BAD	a	Bad:Mid
+920	Lowa	BAD	ŋempa	Bad:(Low-)Rise
+921	Lowa	WET	taŋa	Wet:(Low-)Rise
+922	Lowa	DRY	kampo	Dry:High
+923	Lowa	LONG	ɹiŋa	Long:(Low-)Rise
+924	Lowa	SHORT	t̪uŋwa	Short:(Mid-)High
+925	Lowa	HOT	tsʰa	Hot:High
+926	Lowa	COLD	taɡmo	Cold:(Low-)Rise
+927	Lowa	RIGHT	jewa	Right:High
+928	Lowa	LEFT	jømpa	Left:High
+929	Lowa	NEAR	ŋe	Near:(Low-)Rise
+930	Lowa	FAR	t̪ʰaɡɾiŋa	Far:
+931	Lowa	BIG	tsʰe	Big:High
+932	Lowa	SMALL	tɕuŋwa	Small:High
+933	Lowa	HEAVY	ndze	Heavy:Mid
+934	Lowa	LIGHT (WEIGHT)	jaŋa	Light:(Low-)Rise
+935	Lowa	ABOVE	t̪ʰøʔ	Above:High
+936	Lowa	DOWN OR BELOW	meʔ	Below:High
+937	Lowa	WHITE	kawo	White:Mid
+938	Lowa	BLACK	naɡpo	Black:Fall-Rise
+939	Lowa	RED	mawo	Red:High
+940	Lowa	ONE	tɕik	One:High
+941	Lowa	TWO	ɲi	Two:High
+942	Lowa	THREE	sum	Three:High
+943	Lowa	FOUR	ɕi	Four:(Low-)Rise
+944	Lowa	FIVE	ŋa	Five:Mid
+945	Lowa	SIX	tuk	Six:Mid
+946	Lowa	SIX	tʰɹuk	Six:Mid
+947	Lowa	SEVEN	t̪yn	Seven:(Low-)Rise
+948	Lowa	EIGHT	ke	Eight:Mid
+949	Lowa	NINE	ku	Nine:(Low-)Rise
+950	Lowa	TEN	tɕu	Ten:High
+951	Lowa	ELEVEN	tɕuɡtɕik	Eleven:
+952	Lowa	TWELVE	tɕuɲi	Twelve:
+953	Lowa	TWENTY	ɲidʑu	Twenty:
+954	Lowa	HUNDRED	kjat̪ʰampa	One Hundred:
+955	Lowa	WHO	su	Who:High
+956	Lowa	WHAT	ki	What:(Low-)Rise
+957	Lowa	WHERE	karu	Where:(low-)Rise
+958	Lowa	WHEN	nam	When:(Low-)Rise
+959	Lowa	HOW MANY	kantɕø	How many:Fall-Rise
+960	Lowa	WHICH	kʰiŋɡo	Which:
+961	Lowa	WHICH	kiŋɡo	Which:
+962	Lowa	THIS	nd̪i	This:Mid
+963	Lowa	THAT	jy	That:(Low-)Rise
+964	Lowa	THAT	wy	That:(Low-)Rise
+965	Lowa	THIS	nd̪ekja	These:
+966	Lowa	THAT	jøkja	Those:
+967	Lowa	THAT	wøkja	Those:
+968	Lowa	SAME	tɕikpa	Same:
+969	Lowa	DIFFERENT	mitɕikpa	Different:
+970	Lowa	WHOLE	kiɾi	Whole:(Low-)Rise
+971	Lowa	WHOLE	kaŋpo	Whole:(Low-)Rise
+972	Lowa	BROKEN	tɕʰaɡtɕa	Broken:
+973	Lowa	FEW	ɲuŋwa	Few:(Low-)Rise
+974	Lowa	MANY	maŋa	Many:(Low-)Rise
+975	Lowa	ALL	kiɾi	All:
+976	Lowa	EAT	saje	To eat:(Low-)Rise
+977	Lowa	BITE	soɡjapje	To bite:
+978	Lowa	BITE	mukje	To bite:
+979	Lowa	BE HUNGRY	nd̪okje	To be hungry:
+980	Lowa	DRINK	t̪ʰuŋje	To drink:Mid
+981	Lowa	THIRSTY	komje	To be thirsty:Mid 
+982	Lowa	SLEEP	ɲaje	To sleep:(Low-)Rise
+983	Lowa	LIE (REST)	tʰelaɲaje	To lie:
+984	Lowa	SIT	t̪eje	To sit:(Low-)Rise
+985	Lowa	GIVE	t̪eɾje	To give:(High-)Fall
+986	Lowa	BURN	tɕʰikje	To burn:High
+987	Lowa	DIE	ɕije	To die:Mid
+988	Lowa	KILL	seje	To kill:Mid
+989	Lowa	FLY (MOVE THROUGH AIR)	pʰuɾje	To fly:High
+990	Lowa	WALK	ndoje	To walk:Mid
+991	Lowa	RUN	paŋt̪aŋje	To run:
+992	Lowa	GO	ndoje	To go:
+993	Lowa	COME	uŋje	To come:(Low-)Rise
+994	Lowa	SPEAK	naje	To speak:High
+995	Lowa	LISTEN	ɲenje	To hear/listen:(Low-)Rise
+996	Lowa	LOOK	nd̪aje	To look:Mid
+997	Lowa	I	ŋa	I:Low
+998	Lowa	THOU	kʰøʔ	You (informal):High
+999	Lowa	YOU (FORMAL ADDRESS)	kʰeɾaŋ	You (formal):Mid
+1000	Lowa	HE	kʰo	He:High
+1001	Lowa	SHE	mo	She:(Low-)Rise
+1002	Lowa	WE (INCLUSIVE)	woɾoŋ	We (inclusive):(Low-)Rise
+1003	Lowa	WE (EXCLUSIVE)	jekja	We (exclusive):(Low-)Rise
+1004	Lowa	YOU	kʰekja	You (plural):
+1005	Lowa	THEY	kʰoŋkja	They:
+1006	Lowa	LOAD	kʰu	Load:High
+1007	Lowa	FLOUR	tsampa	Flour (eaten as food):(High-)Fall
+1008	Lowa	HAIL	seɾa	Hailstone:High
+1009	Lowa	INTESTINES	kjuma	Intestine:(Mid-)Rise
+1010	Lowa	YARD	jəku	Yard:High
+1011	Lowa	UPROOT	pije	To uproot:High
+1012	Lowa	OVEN	t̪ʰap	Oven:High
+1013	Lowa	HEEL	t̪iŋpa	Heel:High
+1014	Lowa	SPADE	t̪oktse	Spade:(High-)Fall
+1015	Lowa	HORSE	t̪a	Horse:(High-)Fall
+1016	Lowa	LOAD	kʰu	Load:
+1017	Lowa	PLOUGH	moje	To plough:High
+1018	Lowa	JOIN	kenka	Bond:(Low-)Rise
+1019	Lowa	BEAM	t̪uŋma	Beam (main wooden beam):(Mid-)Rise
+1020	Lowa	LEASH	t̪ʰaɡpa	Rope used to tie animals:Mid
+1021	Lowa	BREAD	makɾa	Bread:Mid
+1022	Lowa	MEASURE	tsʰeɡjabje	To measure:
+1023	Lowa	BOARD	paŋlep	Plank:(High-)Fall
+1024	Lowa	HOLE	miu	Hole:High
+1025	Lowa	HOLE	miɡzaŋ	Hole:High
+1026	Lowa	PLOUGH (INSTRUMENT)	t̪ʰoŋpa	Plough (noun):High
+1027	Lowa	LID (COVER, CAP)	kʰabtɕø	Lid (cover):Mid
+1028	Lowa	HANDLE	jowa	Handle:(Low-)Rise
+1029	Lowa	BEAR	t̪om	Bear:Mid
+1030	Lowa	GHOST	nde	Ghost:Low
+1031	Lowa	DUNG (ANIMAL FAECES)	ly	Manure:Mid
+1032	Lowa	BREAD	kjaŋ	Bread:(Low-)Rise
+1033	Lowa	CORPSE	ɹo	Corpse:(Low-)Rise
+1034	Lowa	PIG	pʰak	Pig:High
+1035	Lowa	GRAIN	ndu	Grains:Mid
+1036	Lowa	STICK	pekjoʔ	Stick:(Low-)Rise
+1037	Lowa	SWEAT (SUBSTANCE)	ŋunak	Sweat:High
+1038	Lowa	CHEW	leje	To chew:Mid
+1039	Lowa	SWALLOW	miɡje	To swallow:(Low-)Rise
+1040	Lowa	THROW	juɡje	To throw:Mid
+1041	Nubri	BODY	su	Body:(Low-)Rise
+1042	Nubri	HEAD	ko	Head:(Low-)Rise
+1043	Nubri	HAIR	hɹa	Hair:(Mid-)Fall
+1044	Nubri	FACE	tɕuŋu	Face:(Low-)Rise
+1045	Nubri	EYE	mik	Eye:Mid
+1046	Nubri	EAR	amtɕjoʔ	Ear:Mid
+1047	Nubri	NOSE	nat̪u	Nose:Mid
+1048	Nubri	MOUTH	kʰabt̪u	Mouth:Mid
+1049	Nubri	TOOTH	sa	Teeth:(Mid-)Fall
+1050	Nubri	TONGUE	tɕe	Tongue:Mid
+1051	Nubri	BREAST	tɕju	Breast:Mid
+1052	Nubri	BELLY	topa	Belly:(Low-)Rise
+1053	Nubri	ARM OR HAND	lakpa	Arm/Hand:(Low-)Rise
+1054	Nubri	ELBOW	tsʰikt̪oʔ	Elbow:Mid(-High)
+1055	Nubri	PALM TREE	lakpa t̪ʰil	Palm:
+1056	Nubri	FINGER	tsuku	Finger:Mid
+1057	Nubri	FINGERNAIL	sermo	Fingernail:Mid(-High)
+1058	Nubri	LEG	kaŋpa	Leg:Mid
+1059	Nubri	SKIN	pau	Skin:Mid
+1060	Nubri	BONE	hɹypa	Bone:(Mid-)Fall
+1061	Nubri	HEART	ɲiŋ	Heart:High
+1062	Nubri	BLOOD	tʰa	Blood:Mid
+1063	Nubri	URINE	tɕʰi	Urine:Mid
+1064	Nubri	FAECES (EXCREMENT)	aʔ	Faeces:High
+1065	Nubri	VILLAGE	jul	Village:Mid
+1066	Nubri	HOUSE	kʰim	House:Mid
+1067	Nubri	ROOF	t̪ʰɔ	Roof:Mid
+1068	Nubri	DOOR	ko	Door:Mid
+1069	Nubri	FIREWOOD	ɕiŋ	Firewood:High
+1070	Nubri	BROOM	koŋmo	Broom:High
+1071	Nubri	MORTAR CRUSHER	koɡtsʰum	Mortar:(Low-)Rise
+1072	Nubri	PESTLE	t̪iktsa	Pestle:Mid(-High)
+1073	Nubri	HAMMER	t̪ʰɔ	Hammer:Mid
+1074	Nubri	KNIFE	tuku	Knife:(Low-)Rise
+1075	Nubri	AXE	t̪aɹi	Axe:High
+1076	Nubri	ROPE	t̪ʰaɡpa	Rope:(Mid-)Fall
+1077	Nubri	THREAD	kupa	Thread:Mid(-High)
+1078	Nubri	NEEDLE (FOR SEWING)	kʰap	Needle:High
+1079	Nubri	CLOTH	kalaʔ	Cloth:(Low-)Rise
+1080	Nubri	RING	soɹt̪ob	Ring:High
+1081	Nubri	SUN	ɲo	Sun:(Low-)Rise
+1082	Nubri	MOON	t̪a	Moon:(Low-)Rise
+1083	Nubri	SKY	nam	Sky:High
+1084	Nubri	STAR	kaɹma	Star:Mid
+1085	Nubri	RAIN (RAINING)	nam	Rain:High
+1086	Nubri	WATER	tɕʰju	Water:High
+1087	Nubri	RIVER	kjuɡtɕʰju	River:
+1088	Nubri	CLOUD	muɡpa	Cloud:High
+1089	Nubri	LIGHTNING	tuk	Lightening:Mid
+1090	Nubri	RAINBOW	tɕja	Rainbow:Mid
+1091	Nubri	WIND	hlawa	Wind:Mid
+1092	Nubri	STONE	t̪oh	Stone:(Mid-)Fall
+1093	Nubri	PATH	lamkja	Path:(Low-)Rise
+1094	Nubri	SAND	pɛ̃:	Sand:(Low-)Rise
+1095	Nubri	FIRE	mẽ	Fire:(Low-)Rise
+1096	Nubri	SMOKE (INHALE)	t̪ohpa	Smoke:(Low-)Rise
+1097	Nubri	ASH	kot̪ʰal	Ash:(Low-)Rise
+1098	Nubri	MUD	t̪ampa	Mud:(Low-)Rise
+1099	Nubri	DUST	t̪ʰala	Dust:Mid
+1100	Nubri	GOLD	seɹ	Gold:Mid
+1101	Nubri	TREE	t̪oŋpo	Tree:(Low-)Rise
+1102	Nubri	LEAF	loma	Leaf:(Low-)Rise
+1103	Nubri	ROOT	tsa	Root:Mid
+1104	Nubri	THORN	tsʰerma	Thorn:(Mid-)Fall
+1105	Nubri	FLOWER	met̪o	Flower:(Low-)Rise
+1106	Nubri	FRUIT	ɕiŋt̪oʔ	Fruit:
+1107	Nubri	MANGO	ãb	Mango:Mid
+1108	Nubri	BANANA	kela	Banana:Mid
+1109	Nubri	WHEAT	toh	Wheat (husked):(Mid-)Fall
+1110	Nubri	BARLEY	n̪e:	Barley:(Low-)Rise
+1111	Nubri	RICE	te:	Rice (husked):(Low-)Rise
+1112	Nubri	POTATO	t̪ɔ:	Potato:(Low-)Rise
+1113	Nubri	AUBERGINE	pɛnta	Eggplant:
+1114	Nubri	PEANUT	pat̪am	Groundnut:
+1115	Nubri	NUT	kʰoɹtsʰen	Chilli:Mid
+1116	Nubri	TURMERIC	peseɹ	Turmeric:
+1117	Nubri	GARLIC	koɡpa	Garlic:(Low-)Rise
+1118	Nubri	ONION	tsoŋ	Onion:Mid
+1119	Nubri	CAULIFLOWER	kauli	Cauliflower:
+1120	Nubri	TOMATO	tumaʈa	Tomato:
+1121	Nubri	CABBAGE	pənd̪a	Cabbage:(Low-)Rise
+1122	Nubri	OIL (ORGANIC SUBSTANCE)	n̪um	Oil:High
+1123	Nubri	SALT	tsʰa	Salt:High-Fall
+1124	Nubri	MEAT	ɕja	Meat:(Mid-)Fall
+1125	Nubri	FAT (OF MEAT AND FOOD)	tsʰulu	Fat (of meat):(Mid-)High
+1126	Nubri	FISH	ɲa	Fish:(Mid-)Fall
+1127	Nubri	CHICKEN	tɕjoũ	Chicken:(Low-)Rise
+1128	Nubri	EGG	koõ	Egg:(Low-)Rise
+1129	Nubri	COW	palaŋ	Cow:(Low-)Rise
+1130	Nubri	BUFFALO	maɦi	Buffalo:(Low-)Rise
+1131	Nubri	MILK	ɦoõ	Milk:
+1132	Nubri	HORN (ANATOMY)	adkjo	Horns:High
+1133	Nubri	TAIL	ŋõ	Tail:Mid
+1134	Nubri	GOAT	ɹatse	Goat:(Low-)Rise
+1135	Nubri	DOG	kʰji	Dog:High (-Fall)
+1136	Nubri	SNAKE	tul	Snake:Mid
+1137	Nubri	MONKEY	piu	Monkey:High
+1138	Nubri	MOSQUITO	t̪ukɖaŋ	Mosquito:(Low-)Rise
+1139	Nubri	ANT	hɹomo	Ant:(Low-)Rise
+1140	Nubri	SPIDER	pabla	Spider:(Low-)Rise
+1141	Nubri	NAME	min̪	Name:Mid 
+1142	Nubri	MAN	mĩ	Man:(Low-)Rise
+1143	Nubri	WOMAN	põbetsa	Woman:
+1144	Nubri	CHILD	petsa	Child:(Low-)Rise
+1145	Nubri	FATHER	jɛ	Father:Mid
+1146	Nubri	MOTHER	aã	Mother:(Low-)Rise
+1147	Nubri	OLDER BROTHER	tɕi	Older brother:(Low-)Rise
+1148	Nubri	YOUNGER BROTHER	n̪u	Younger brother:(Low-)Rise
+1149	Nubri	OLDER SISTER	jei	Older sister:Mid
+1150	Nubri	YOUNGER SISTER	n̪u	Younger sister:(Low-)Rise
+1151	Nubri	SON	puh	Son:Mid
+1152	Nubri	DAUGHTER	poõ	Daughter:(Low-)Rise
+1153	Nubri	HUSBAND	kʰjoka	Husband:Mid
+1154	Nubri	WIFE	ɕɛt̪aŋ	Wife:(Low-)Rise
+1155	Nubri	BOY	puh	Boy:
+1156	Nubri	GIRL	poõ	Girl:
+1157	Nubri	DAY (NOT NIGHT)	ɲin̪	Day:Mid
+1158	Nubri	NIGHT	tsʰen̪	Night:Mid
+1159	Nubri	MORNING	tõŋkõ	Morning:(Low-)Rise
+1160	Nubri	NOON	n̪iŋkũ	Noon:(Low-)Rise
+1161	Nubri	EVENING	koŋmo	Evening:(Low-)Rise
+1162	Nubri	YESTERDAY	t̪aŋ	Yesterday:(Low-)Rise
+1163	Nubri	TODAY	t̪iɹiŋ	Today:(Low-)Rise
+1164	Nubri	TOMORROW	ŋaɹo	Tomorrow:Mid
+1165	Nubri	WEEK	t̪ʏntʰaʔ	Week:(Low-)Rise
+1166	Nubri	MONTH	t̪ah	Month:(Low-)Rise
+1167	Nubri	YEAR	lo	Year:(Low-)Rise
+1168	Nubri	OLD	ɲiŋpa	Old:(High-)Mid
+1169	Nubri	NEW	sampa	New:Mid
+1170	Nubri	GOOD	koŋ	Good:(Low-)Rise
+1171	Nubri	BAD	ɦawɛ	Bad:(Low-)Rise 
+1172	Nubri	WET	lompa	Wet:Mid
+1173	Nubri	DRY	kombo	Dry:Mid
+1174	Nubri	LONG	ɹiŋpo	Long:(Low-)Rise
+1175	Nubri	SHORT	t̪ɛ̃n̪d̪ɛ̃	Short:Mid
+1176	Nubri	HOT	tsʰawo	Hot:Mid
+1177	Nubri	COLD	taŋmo	Cold:(Low-)Rise
+1178	Nubri	RIGHT	je	Right:Mid
+1179	Nubri	LEFT	jon̪	Left:Mid
+1180	Nubri	NEAR	t̪ʰaɲiw	Near:
+1181	Nubri	FAR	t̪ʰaɹiŋpo	Far:
+1182	Nubri	BIG	tɕjɔ̃mpu	Big:
+1183	Nubri	SMALL	tɛtɛ	Small:Mid
+1184	Nubri	HEAVY	tsʰint̪i	Heavy:Mid
+1185	Nubri	LIGHT (WEIGHT)	jaŋpo	Light:(Low-)Rise
+1186	Nubri	ABOVE	kaŋ	Above:(Low-)Rise
+1187	Nubri	DOWN OR BELOW	ɦo	Below:(Low-)Rise
+1188	Nubri	WHITE	kaɹpo	White:Mid
+1189	Nubri	BLACK	n̪akpo	Black:(Low-)Rise
+1190	Nubri	RED	maɹpo	Red:Mid
+1191	Nubri	ONE	tɕik	One:Mid
+1192	Nubri	TWO	ɲi	Two:Mid
+1193	Nubri	THREE	sum	Three:Mid
+1194	Nubri	FOUR	ɕi	Four:Low
+1195	Nubri	FIVE	ŋa	Five:(Mid-)Low
+1196	Nubri	SIX	tuk	Six:(Mid-)Low
+1197	Nubri	SEVEN	t̪yn̪	Seven:(Low-)Rise
+1198	Nubri	EIGHT	ke	Eight:(Mid-)Low
+1199	Nubri	EIGHT	kxe	Eight:(Mid-)Low
+1200	Nubri	NINE	ku	Nine:(Mid-)Low
+1201	Nubri	TEN	tɕju	Ten:(Mid-)Fall
+1202	Nubri	ELEVEN	tɕjudʑik	Eleven:
+1203	Nubri	TWELVE	tɕjuɲi	Twelve:
+1204	Nubri	TWENTY	ɲiɕu	Twenty:
+1205	Nubri	HUNDRED	kjat̪ʰamba	One Hundred:
+1206	Nubri	WHO	su	Who:(Mid-)High
+1207	Nubri	WHAT	tɕi	What:(Mid-)High
+1208	Nubri	WHERE	kønt̪a	Where:(Low-)Rise
+1209	Nubri	WHEN	n̪am	When:(Low-)Rise
+1210	Nubri	HOW MANY	maŋlo	How many:(Low-)Rise
+1211	Nubri	WHICH	køn̪d̪i	Which:
+1212	Nubri	THIS	t̪i	This:(Low-)Mid
+1213	Nubri	THIS	d̪i	This:(Low-)Mid
+1214	Nubri	THAT	pʰu	That:(Mid-)High
+1215	Nubri	THIS	t̪id̪o	These:
+1216	Nubri	THAT	pʰud̪o	Those:
+1217	Nubri	SAME	tɕɔtɕo	Same:Mid
+1218	Nubri	DIFFERENT	alak	Different:
+1219	Nubri	WHOLE	tɕjapt̪a	Whole:High-Fall
+1220	Nubri	BROKEN	tɕʰjakjo	Broken:Mid
+1221	Nubri	FEW	alajili	Few:
+1222	Nubri	MANY	aŋsaŋ	Many:
+1223	Nubri	ALL	tɕjapt̪a	All:
+1224	Nubri	EAT	seji	To eat:(Low-)Rise
+1225	Nubri	BITE	soɡjap	To bite:
+1226	Nubri	BE HUNGRY	topat̪ɔ	To be hungry:
+1227	Nubri	DRINK	t̪ʰuŋ	To drink:High
+1228	Nubri	THIRSTY	kʰakom	To be thirsty:
+1229	Nubri	SLEEP	ɲal	To sleep:(Low-)Rise
+1230	Nubri	LIE (REST)	ɲe	To lie:High
+1231	Nubri	SIT	t̪e	To sit:Mid
+1232	Nubri	GIVE	t̪e	To give:High-Fall
+1233	Nubri	BURN	hɹø	To burn:(Mid-)High
+1234	Nubri	DIE	ɕi	To die:(High-)Fall
+1235	Nubri	KILL	se	To kill:High
+1236	Nubri	FLY (MOVE THROUGH AIR)	pʰuɹ	To fly:High
+1237	Nubri	WALK	kombaɡjap	To walk:
+1238	Nubri	RUN	lat̪aŋ	To run:
+1239	Nubri	GO	to	To go:(Mid-)Fall
+1240	Nubri	COME	oŋ	To come:(Low-)Rise
+1241	Nubri	SPEAK	ɕe	To speak:Mid
+1242	Nubri	SPEAK	lab	To speak:(Low-)Rise
+1243	Nubri	LISTEN	ɲin̪	To hear/listen:(Low-)Rise
+1244	Nubri	LOOK	t̪eji	To look:(Mid-)High
+1245	Nubri	I	ŋa	I:Low
+1246	Nubri	THOU	kʰjo	You (informal):(Mid-)Fall
+1247	Nubri	YOU (FORMAL ADDRESS)	kʰjoɹaŋ	You (formal):
+1248	Nubri	HE	kʰo	He:(Mid-)Fall
+1249	Nubri	SHE	mo	She:(Low-)Rise
+1250	Nubri	WE (INCLUSIVE)	woɹoŋd̪o	We (inclusive):
+1251	Nubri	WE (EXCLUSIVE)	ɲeɹaŋd̪o	We (exclusive):
+1252	Nubri	YOU	kʰed̪o	You (plural):
+1253	Nubri	THEY	kʰuŋd̪o	They:
+1254	Nubri	LOAD	kʰurpu	Load:Mid
+1255	Nubri	FLOUR	pʰe	Flour (eaten as food):(High-)Fall
+1256	Nubri	HAIL	kʰaɕjol	Hailstone:
+1257	Nubri	INTESTINES	kjõ	Intestine:(Low-)Rise
+1258	Nubri	YARD	kjaŋ	Yard:Mid
+1259	Nubri	UPROOT	kɔ	To uproot:Mid 
+1260	Nubri	OVEN	t̪ʰap	Oven:(Mid-)High
+1261	Nubri	HEEL	kaŋbat̪ʰil	Heel:
+1262	Nubri	SPADE	t̪otse	Spade:(Mid-)High
+1263	Nubri	SPADE	t̪ɔtse	Spade:(Mid-)High
+1264	Nubri	HORSE	t̪a	Horse:(High-)Fall
+1265	Nubri	LOAD	kʰurpu	Load:
+1266	Nubri	PLOUGH	mo	To plough:(Mid-)High
+1267	Nubri	PLOUGH	mɔ	To plough:(Mid-)High
+1268	Nubri	JOIN	kamkja	Bond:
+1269	Nubri	BEAM	kuŋɕiŋ	Beam (main wooden beam):
+1270	Nubri	LEASH	hɹeli	Rope used to tie animals:
+1271	Nubri	BREAD	kʰeu	Bread:(Mid-)High
+1272	Nubri	MEASURE	t̪ab	To measure:(Low-)Rise
+1273	Nubri	BOARD	paŋlep	Plank:(Mid-)High
+1274	Nubri	HOLE	hoɡt̪uŋ	Hole:Mid
+1275	Nubri	PLOUGH (INSTRUMENT)	t̪ʰuŋpa	Plough (noun):(Mid-)High
+1276	Nubri	LID (COVER, CAP)	kʰaptɕuk	Lid (cover):
+1277	Nubri	HANDLE	jo	Handle:(Low-)Rise
+1278	Nubri	BEAR	t̪om	Bear:(Mid-)Low
+1279	Nubri	GHOST	hlent̪i	Ghost:(Mid-)High
+1280	Nubri	DUNG (ANIMAL FAECES)	ly	Manure:(Low-)Rise
+1281	Nubri	BREAD	kʰoɹa	Bread:(Mid-)High
+1282	Nubri	CORPSE	hɹo	Corpse:Mid
+1283	Nubri	PIG	pʰa	Pig:(Mid-)High
+1284	Nubri	GRAIN	tu	Grains:(Mid-)Fall
+1285	Nubri	STICK	pikpa	Stick:(Low-)Rise
+1286	Nubri	STICK	peɹka	Stick:(Low-)Rise
+1287	Nubri	SWEAT (SUBSTANCE)	ŋulna	Sweat:(Mid-)High
+1288	Nubri	SWEAT (SUBSTANCE)	ŋylna	Sweat:(Mid-)High
+1289	Nubri	CHEW	muɹ	To chew:(Low-)Rise
+1290	Nubri	SWALLOW	mikʰ	To swallow:(Low-)Rise
+1291	Nubri	THROW	juk	To throw:High
+1292	Sherpa	BODY	dzubu	Body:Low-Rise
+1293	Sherpa	HEAD	ɡo	Head:Low
+1294	Sherpa	HAIR	hɹa	Hair:Mid
+1295	Sherpa	FACE	ŋot̪oŋ	Face:Low-Rise
+1296	Sherpa	EYE	mik	Eye:Mid
+1297	Sherpa	EAR	namdzjok	Ear:Low
+1298	Sherpa	NOSE	nəu	Nose:Mid
+1299	Sherpa	MOUTH	kʰa	Mouth:Mid-Fall
+1300	Sherpa	TOOTH	sa	Teeth:Mid-Fall
+1301	Sherpa	TONGUE	tɕjalak	Tongue:Low
+1302	Sherpa	BREAST	oma	Breast:Low-Rise
+1303	Sherpa	BELLY	tʰopa	Belly:Low-Rise
+1304	Sherpa	ARM OR HAND	laɡpa	Arm/Hand:Low-Rise
+1305	Sherpa	ELBOW	laɡpatsʰi	Elbow:
+1306	Sherpa	PALM TREE	laɡpa	Palm:
+1307	Sherpa	FINGER	t̪ʰept̪ok	Finger:Mid
+1308	Sherpa	FINGERNAIL	seɹmoŋ	Fingernail:Mid
+1309	Sherpa	LEG	kaŋba	Leg:Low-Rise
+1310	Sherpa	SKIN	kwa	Skin:Low-Rise
+1311	Sherpa	BONE	ɹukjok	Bone:Low-Rise
+1312	Sherpa	HEART	ɲiŋ	Heart:Mid
+1313	Sherpa	BLOOD	tʰak	Blood:Mid-High
+1314	Sherpa	URINE	tsiŋ	Urine:Mid
+1315	Sherpa	FAECES (EXCREMENT)	kjakpa	Faeces:Low-Rise
+1316	Sherpa	VILLAGE	iul	Village:
+1317	Sherpa	VILLAGE	jul	Village:
+1318	Sherpa	HOUSE	kʰaŋba	House:Low-Rise
+1319	Sherpa	ROOF	t̪ʰok	Roof:Mid
+1320	Sherpa	DOOR	ɡo	Door:Low-Rise
+1321	Sherpa	FIREWOOD	ɕiŋ	Firewood:Mid-High
+1322	Sherpa	BROOM	komi	Broom:Mid
+1323	Sherpa	MORTAR CRUSHER	ɡokjo	Mortar:Low-Rise
+1324	Sherpa	PESTLE	tsʰart̪um	Pestle:Low-Rise
+1325	Sherpa	HAMMER	t̪ʰoa	Hammer:Mid
+1326	Sherpa	KNIFE	tʰitɕjuŋ	Knife:(…)Rise
+1327	Sherpa	AXE	t̪əɹi	Axe:Mid-Low
+1328	Sherpa	ROPE	t̪ʰakpa	Rope:Mid-Low
+1329	Sherpa	THREAD	rut̪ak	Thread:Mid
+1330	Sherpa	NEEDLE (FOR SEWING)	kʰap	Needle:High
+1331	Sherpa	CLOTH	madzja	Cloth:Low-Rise
+1332	Sherpa	RING	sert̪ub	Ring:Low-Rise
+1333	Sherpa	SUN	ɲima	Sun:Low-Rise
+1334	Sherpa	MOON	əud̪əkar	Moon:
+1335	Sherpa	SKY	nam	Sky:Low
+1336	Sherpa	STAR	kərma	Star:Low-Rise
+1337	Sherpa	STAR	kərdzjaŋ	Star:Low-Rise
+1338	Sherpa	RAIN (RAINING)	tɕjarpa	Rain:Low-Rise
+1339	Sherpa	WATER	tɕʰju	Water:High
+1340	Sherpa	RIVER	tsəŋbu	River:Low-Rise
+1341	Sherpa	CLOUD	mukpa	Cloud:Mid
+1342	Sherpa	LIGHTNING	tsilam	Lightening:Mid-Low
+1343	Sherpa	RAINBOW	dza	Rainbow:Low-Rise
+1344	Sherpa	WIND	luŋ	Wind:Mid
+1345	Sherpa	STONE	d̪o	Stone:Low
+1346	Sherpa	PATH	lam	Path:Low-Rise
+1347	Sherpa	SAND	pʰema	Sand:Low
+1348	Sherpa	FIRE	me	Fire:Low
+1349	Sherpa	SMOKE (INHALE)	t̪ʰut̪a	Smoke:Low-Rise
+1350	Sherpa	ASH	kʰəsit̪ʰala	Ash:
+1351	Sherpa	MUD	t̪ʰala	Mud:Low-Rise
+1352	Sherpa	DUST	t̪ʰald̪uk	Dust:
+1353	Sherpa	GOLD	ser	Gold:Mid-Low
+1354	Sherpa	TREE	d̪oŋbu	Tree:Mid-Low
+1355	Sherpa	LEAF	d̪əma	Leaf:Low-Rise
+1356	Sherpa	ROOT	dzət̪ak	Root:Low-Rise
+1357	Sherpa	THORN	tsʰermaŋ	Thorn:Low
+1358	Sherpa	FLOWER	mend̪o	Flower:Low
+1359	Sherpa	FRUIT	pʰalpʰul	Fruit:
+1360	Sherpa	MANGO	ãp	Mango:
+1361	Sherpa	BANANA	kera	Banana:
+1362	Sherpa	WHEAT	tʰa	Wheat (husked):Low
+1363	Sherpa	BARLEY	dzəu	Barley:
+1364	Sherpa	RICE	ɕjoɹ	Rice (husked):Mid
+1365	Sherpa	POTATO	ɹiɡi	Potato:Low
+1366	Sherpa	AUBERGINE	bənta	Eggplant:
+1367	Sherpa	PEANUT	bəd̪əm	Groundnut:
+1368	Sherpa	NUT	mərtsi	Chilli:Mid-Low
+1369	Sherpa	TURMERIC	ɲuŋa	Turmeric:Low-Rise
+1370	Sherpa	GARLIC	ɡokpa	Garlic:Low-Rise
+1371	Sherpa	ONION	pjadz	Onion:
+1372	Sherpa	CAULIFLOWER	kauli	Cauliflower:
+1373	Sherpa	TOMATO	ɡolbeda	Tomato:
+1374	Sherpa	CABBAGE	bənd̪a	Cabbage:
+1375	Sherpa	OIL (ORGANIC SUBSTANCE)	n̪um	Oil:High
+1376	Sherpa	SALT	tsʰa	Salt:High
+1377	Sherpa	MEAT	ɕja	Meat:High
+1378	Sherpa	FAT (OF MEAT AND FOOD)	tsʰiluk	Fat (of meat):Mid-Low
+1379	Sherpa	FISH	ɲa	Fish:Low
+1380	Sherpa	CHICKEN	tsʰebruk	Chicken:Mid-Low
+1381	Sherpa	EGG	tɕʰeɡoŋa	Egg:
+1382	Sherpa	COW	tɕʰuŋma	Cow:Mid-Low
+1383	Sherpa	BUFFALO	mesi	Buffalo:Mid-Low
+1384	Sherpa	MILK	oma	Milk:Low-Rise
+1385	Sherpa	HORN (ANATOMY)	arkjok	Horns:Mid-Low
+1386	Sherpa	TAIL	ŋəma	Tail:Mid-Low
+1387	Sherpa	GOAT	ra	Goat:Low
+1388	Sherpa	DOG	ki	Dog:High
+1389	Sherpa	SNAKE	dul	Snake:Mid
+1390	Sherpa	MONKEY	te	Monkey:High
+1391	Sherpa	MONKEY	riu	Monkey:Low-Rise
+1392	Sherpa	MOSQUITO	lamkʰute	Mosquito:
+1393	Sherpa	ANT	tʰəksəŋma	Ant:
+1394	Sherpa	SPIDER	bəldzjaŋ	Spider:
+1395	Sherpa	NAME	min	Name:Mid-Low
+1396	Sherpa	MAN	mi	Man:Mid-Low
+1397	Sherpa	WOMAN	pʰumpʰedza	Woman:
+1398	Sherpa	CHILD	aŋa	Child:Mid
+1399	Sherpa	FATHER	apa	Father:Mid
+1400	Sherpa	MOTHER	ama	Mother:Low-Rise
+1401	Sherpa	OLDER BROTHER	atɕjo	Older brother:Mid
+1402	Sherpa	YOUNGER BROTHER	nuk	Younger brother:Mid 
+1403	Sherpa	OLDER SISTER	adzi	Older sister:Mid-Low
+1404	Sherpa	YOUNGER SISTER	n̪um	Younger sister:Mid
+1405	Sherpa	SON	pʰudʑjuŋ	Son:Low-Rise
+1406	Sherpa	DAUGHTER	pʰumu	Daughter:Mid
+1407	Sherpa	HUSBAND	kʰjoa	Husband:Mid-Low
+1408	Sherpa	WIFE	pʰermi	Wife:Mid-Low
+1409	Sherpa	BOY	kʰjokpʰedza	Boy:
+1410	Sherpa	GIRL	pʰumpʰedza	Girl:
+1411	Sherpa	DAY (NOT NIGHT)	ɲima	Day:Low-Rise
+1412	Sherpa	NIGHT	tsʰemu	Night:Mid
+1413	Sherpa	MORNING	tʰop	Morning:Mid
+1414	Sherpa	NOON	ɲimkʰuŋ	Noon:
+1415	Sherpa	EVENING	ɡuŋse	Evening:Low-Rise
+1416	Sherpa	YESTERDAY	d̪aŋ	Yesterday:Low
+1417	Sherpa	TODAY	ariŋ	Today:Low-Rise
+1418	Sherpa	TOMORROW	sala	Tomorrow:Low
+1419	Sherpa	WEEK	ɦapt̪a	Week:
+1420	Sherpa	MONTH	la	Month:Low-Rise
+1421	Sherpa	YEAR	lo	Year:Low-Rise
+1422	Sherpa	OLD	ɲiŋba	Old:Mid
+1423	Sherpa	NEW	samba	New:Mid-Low
+1424	Sherpa	GOOD	lemu	Good:Low-Rise
+1425	Sherpa	BAD	melokpa	Bad:
+1426	Sherpa	WET	tʰeŋa	Wet:Low-Rise
+1427	Sherpa	DRY	kaŋbu	Dry:Mid-Low
+1428	Sherpa	LONG	riŋbu	Long:Mid-Low
+1429	Sherpa	SHORT	t̪ʰinme	Short:Mid-High
+1430	Sherpa	HOT	tsʰand̪i	Hot:Mid-High
+1431	Sherpa	COLD	tʰeŋa	Cold:
+1432	Sherpa	RIGHT	laɡpaɡa	Right:
+1433	Sherpa	LEFT	pʰiloɡpa	Left:
+1434	Sherpa	NEAR	t̪ʰakŋemo	Near:
+1435	Sherpa	FAR	t̪ʰakriŋbu	Far:
+1436	Sherpa	BIG	tɕʰend̪i	Big:Mid
+1437	Sherpa	SMALL	tikpe	Small:Mid-Low
+1438	Sherpa	HEAVY	tsend̪i	Heavy:Mid-Low
+1439	Sherpa	LIGHT (WEIGHT)	jeŋɡa	Light:Low-Rise
+1440	Sherpa	ABOVE	jajo	Above:Low-Rise
+1441	Sherpa	DOWN OR BELOW	mamo	Below:Mid-Low
+1442	Sherpa	WHITE	karbu	White:Mid
+1443	Sherpa	BLACK	nakpu	Black:Low-Rise
+1444	Sherpa	RED	mərbu	Red:Mid-Low
+1445	Sherpa	ONE	tɕik	One:Mid 
+1446	Sherpa	TWO	ɲi	Two:Mid
+1447	Sherpa	THREE	sum	Three:High 
+1448	Sherpa	FOUR	ɕi	Four:Low-Rise
+1449	Sherpa	FIVE	ŋa	Five:Mid-high
+1450	Sherpa	SIX	tʰuk	Six:High
+1451	Sherpa	SEVEN	d̪in	Seven:Mid
+1452	Sherpa	EIGHT	ɡeʔ	Eight:Low-Rise
+1453	Sherpa	NINE	ɡu	Nine:Mid-Low
+1454	Sherpa	TEN	tɕju	Ten:Mid-high
+1455	Sherpa	ELEVEN	tɕjudzik	Eleven:
+1456	Sherpa	TWELVE	tɕjuŋi	Twelve:
+1457	Sherpa	TWENTY	ɲiɕju	Twenty:
+1458	Sherpa	HUNDRED	ɡjatɕik	One Hundred:
+1459	Sherpa	WHO	su	Who:High
+1460	Sherpa	WHAT	kʰaŋ	What:Mid
+1461	Sherpa	WHERE	kʰani	Where:Low-Rise
+1462	Sherpa	WHEN	nam	When:Low-Rise
+1463	Sherpa	HOW MANY	kʰədzo	How many:High
+1464	Sherpa	WHICH	kʰaŋd̪i	Which:Mid
+1465	Sherpa	THIS	d̪i	This:Mid-Low
+1466	Sherpa	THAT	t̪ʰi	That:Mid
+1467	Sherpa	THIS	d̪iba	These:
+1468	Sherpa	THAT	t̪ʰiba	Those:
+1469	Sherpa	SAME	tɕikparaŋ	Same:
+1470	Sherpa	DIFFERENT	kʰut̪uk	Different:Mid
+1471	Sherpa	WHOLE	jukəi	Whole:High
+1472	Sherpa	BROKEN	tɕʰjakpa	Broken:Mid
+1473	Sherpa	FEW	tsedzi	Few:Mid-high
+1474	Sherpa	MANY	ala	Many:Low-Rise
+1475	Sherpa	ALL	jukəj	All:
+1476	Sherpa	EAT	sap	To eat:Low-Rise
+1477	Sherpa	BITE	sət̪əbu	To bite:
+1478	Sherpa	BE HUNGRY	hləwalaŋgu	To be hungry:
+1479	Sherpa	DRINK	t̪ʰuŋɡu	To drink:Mid-Low
+1480	Sherpa	THIRSTY	kombalaŋɡu	To be thirsty:
+1481	Sherpa	SLEEP	ŋiloku	To sleep:
+1482	Sherpa	LIE (REST)	ɡjuru	To lie:
+1483	Sherpa	SIT	d̪et̪u	To sit:
+1484	Sherpa	GIVE	t̪eru	To give:
+1485	Sherpa	BURN	hreko	To burn:
+1486	Sherpa	DIE	ɕiu	To die:
+1487	Sherpa	KILL	seku	To kill:
+1488	Sherpa	FLY (MOVE THROUGH AIR)	pʰirku	To fly:Mid-High
+1489	Sherpa	WALK	dop	To walk:Low
+1490	Sherpa	RUN	tɕʰjoŋɡu	To run:
+1491	Sherpa	GO	dop	To go:
+1492	Sherpa	COME	uŋgu	To come:Low-Rise
+1493	Sherpa	SPEAK	ləbu	To speak:Low-Rise
+1494	Sherpa	LISTEN	ŋeŋɡu	To hear/listen:Low-Rise
+1495	Sherpa	LOOK	hlap	To look:..Rise
+1496	Sherpa	I	ŋa	I:Low
+1497	Sherpa	THOU	kʰjoroŋ	You (informal):
+1498	Sherpa	YOU (FORMAL ADDRESS)	kʰjoroŋ	You (formal):
+1499	Sherpa	HE	t̪ʰi	He:
+1500	Sherpa	SHE	t̪ʰi	She:
+1501	Sherpa	WE (INCLUSIVE)	oraŋ	We (inclusive):Mid
+1502	Sherpa	WE (EXCLUSIVE)	ŋiraŋ	We (exclusive):Mid-Low
+1503	Sherpa	YOU	kʰiraŋd̪iba	You (plural):
+1504	Sherpa	THEY	t̪ʰibad̪iba	They:
+1505	Sherpa	LOAD	kʰurbu	Load:Mid 
+1506	Sherpa	FLOUR	tsamba	Flour (eaten as food):Mid-Low
+1507	Sherpa	HAIL	sertɕjuŋma	Hailstone:
+1508	Sherpa	INTESTINES	ɡema	Intestine:Low-Rise
+1509	Sherpa	YARD	t̪ʰaŋsa	Yard:Mid
+1510	Sherpa	UPROOT	pʰəlɡu	To uproot:
+1511	Sherpa	OVEN	t̪ʰab	Oven:Mid
+1512	Sherpa	HEEL	t̪iŋba	Heel:High
+1513	Sherpa	SPADE	t̪oktsi	Spade:Mid-Low
+1514	Sherpa	HORSE	t̪a	Horse:Mid-Fall
+1515	Sherpa	PLOUGH	moku	To plough:Mid
+1516	Sherpa	JOIN	ɕju	Bond:High
+1517	Sherpa	BEAM	d̪uŋma	Beam (main wooden beam):Mid-Low
+1518	Sherpa	LEASH	t̪ʰakpa	Rope used to tie animals:Mid-Low
+1519	Sherpa	BREAD	ɡerok	Bread:Low-Rise
+1520	Sherpa	MEASURE	t̪ʰabɡu	To measure:
+1521	Sherpa	BOARD	jend̪ar	Plank:
+1522	Sherpa	HOLE	miksaŋ	Hole:Mid
+1523	Sherpa	PLOUGH (INSTRUMENT)	t̪ʰoŋba	Plough (noun):Mid-Low
+1524	Sherpa	LID (COVER, CAP)	kʰept̪ok	Lid (cover):Mid
+1525	Sherpa	BEAR	t̪ʰom	Bear:
+1526	Sherpa	GHOST	rendi	Ghost:Mid
+1527	Sherpa	DUNG (ANIMAL FAECES)	tɕʰja	Manure:Low
+1528	Sherpa	BREAD	kuri	Bread:High
+1529	Sherpa	CORPSE	ro	Corpse:Mid
+1530	Sherpa	PIG	pʰakpa	Pig:Low-Rise
+1531	Sherpa	GRAIN	duma	Grains:Low-Rise
+1532	Sherpa	STICK	t̪oŋləŋ	Stick:
+1533	Sherpa	SWEAT (SUBSTANCE)	ŋumn̪a	Sweat:Mid
+1534	Sherpa	CHEW	leku	To chew:Mid
+1535	Sherpa	SWALLOW	mit̪at̪oŋɡu	To swallow:
+1536	Sherpa	THROW	juku	To throw:Mid
+1537	Tsum	BODY	zu	Body:Low-Rise
+1538	Tsum	HEAD	ŋɡo	Head:Mid
+1539	Tsum	HAIR	tɹa	Hair:High
+1540	Tsum	FACE	tɕeʔ	Face:(High-)Rise
+1541	Tsum	EYE	miʔ	Eye:High
+1542	Tsum	EAR	amdʑjoʔ	Ear:High
+1543	Tsum	NOSE	na	Nose:High
+1544	Tsum	MOUTH	kʰa	Mouth:High-Fall
+1545	Tsum	TOOTH	sa	Teeth:High-Fall
+1546	Tsum	TONGUE	tɕe	Tongue:High-Fall
+1547	Tsum	BREAST	paʔ	Breast:High
+1548	Tsum	BELLY	pʰowa	Belly:High
+1549	Tsum	ARM OR HAND	lakpa	Arm/Hand:Low-Rise
+1550	Tsum	ELBOW	tɹejoʔ	Elbow:Mid-Rise
+1551	Tsum	PALM TREE	paɾa	Palm:(High-)Rise
+1552	Tsum	FINGER	ziu	Finger:Low-Rise
+1553	Tsum	FINGERNAIL	semu	Fingernail:High 
+1554	Tsum	LEG	kaŋba	Leg:High
+1555	Tsum	SKIN	koa	Skin:High
+1556	Tsum	BONE	ɹiɡoʔ	Bone:Low-Rise 
+1557	Tsum	HEART	ɲiŋ	Heart:High
+1558	Tsum	BLOOD	tʰɹaʔ	Blood:(Low-)Rise
+1559	Tsum	URINE	tsiŋ	Urine:High
+1560	Tsum	FAECES (EXCREMENT)	aʔ	Faeces:High
+1561	Tsum	VILLAGE	jul	Village:Low-Rise
+1562	Tsum	HOUSE	koɹtsa	House:Low-Rise
+1563	Tsum	HOUSE	kʰim	House:High
+1564	Tsum	ROOF	kʰand̪oʔ	Roof:Mid-Rise
+1565	Tsum	DOOR	ko	Door:Mid-Rise
+1566	Tsum	FIREWOOD	ɕiŋ	Firewood:High 
+1567	Tsum	BROOM	koŋmo	Broom:High 
+1568	Tsum	MORTAR CRUSHER	kombot	Mortar:Low-Rise
+1569	Tsum	PESTLE	tɕʰiu	Pestle:High 
+1570	Tsum	HAMMER	t̪ʰoa	Hammer:High
+1571	Tsum	KNIFE	tʰɹiu	Knife:Low-Rise
+1572	Tsum	AXE	t̪aɾi	Axe:Mid-Rise
+1573	Tsum	ROPE	t̪ʰakpa	Rope:Mid-Rise
+1574	Tsum	THREAD	kuɾt̪oʔ	Thread:High-Rise
+1575	Tsum	NEEDLE (FOR SEWING)	kʰap	Needle:High
+1576	Tsum	CLOTH	kølaʔ	Cloth:Low-Rise
+1577	Tsum	RING	sot̪ob	Ring:High-Rise
+1578	Tsum	SUN	ɲiã	Sun:Low-Rise
+1579	Tsum	MOON	nd̪akar	Moon:Low-Rise
+1580	Tsum	SKY	n̪am	Sky:High
+1581	Tsum	STAR	kaɹma	Star:Mid-Rise
+1582	Tsum	RAIN (RAINING)	n̪amkjaus̩	Rain:
+1583	Tsum	WATER	tɕʰju	Water:
+1584	Tsum	RIVER	tsaŋbo	River:Mid-Rise
+1585	Tsum	CLOUD	mukpaʔ	Cloud:Low-Rise
+1586	Tsum	LIGHTNING	loʔ	Lightening:Mid-Rise
+1587	Tsum	RAINBOW	ndʑjabe	Rainbow:Low-Rise
+1588	Tsum	WIND	hlapa	Wind:Low-Rise
+1589	Tsum	STONE	t̪o	Stone:Low-Rise
+1590	Tsum	PATH	lam	Path:Low-Rise
+1591	Tsum	SAND	ijãʔ	Sand:Low-Rise
+1592	Tsum	FIRE	me	Fire:Low-Rise
+1593	Tsum	SMOKE (INHALE)	t̪upa	Smoke:Low-Rise
+1594	Tsum	ASH	kozal	Ash:Low-Rise
+1595	Tsum	MUD	sa	Mud:Mid-Fall
+1596	Tsum	DUST	t̪ʰala	Dust:Mid-Rise
+1597	Tsum	GOLD	seɾ	Gold:High
+1598	Tsum	TREE	t̪oŋbo	Tree:Low-Rise
+1599	Tsum	LEAF	hlawa	Leaf:Mid-Rise
+1600	Tsum	ROOT	tɹat̪oʔ	Root:Low-Rise
+1601	Tsum	THORN	tsʰenma	Thorn:Mid-Rise
+1602	Tsum	FLOWER	mend̪oʔ	Flower:Low-Rise 
+1603	Tsum	FRUIT	ɕiŋd̪oʔ	Fruit:Mid-Rise
+1604	Tsum	MANGO	ap	Mango:
+1605	Tsum	BANANA	keɾa	Banana:
+1606	Tsum	WHEAT	ne	Wheat (husked):Low-Rise
+1607	Tsum	BARLEY	tsau	Barley:
+1608	Tsum	RICE	ndɹe	Rice (husked):Low-Rise
+1609	Tsum	POTATO	keza	Potato:Low-Rise
+1610	Tsum	AUBERGINE	bənda	Eggplant:
+1611	Tsum	PEANUT	bəd̪am	Groundnut:
+1612	Tsum	NUT	kʰulzan	Chilli:
+1613	Tsum	TURMERIC	beset	Turmeric:
+1614	Tsum	GARLIC	kokpa	Garlic:Low-Rise
+1615	Tsum	ONION	tsoŋɡoʔ	Onion:High
+1616	Tsum	CAULIFLOWER	kauli	Cauliflower:
+1617	Tsum	TOMATO	ɡolbeɾa	Tomato:
+1618	Tsum	CABBAGE	bənd̪a	Cabbage:
+1619	Tsum	OIL (ORGANIC SUBSTANCE)	n̪um	Oil:High
+1620	Tsum	SALT	tsʰa	Salt:High
+1621	Tsum	MEAT	ɕja	Meat:High
+1622	Tsum	FAT (OF MEAT AND FOOD)	tsʰilu	Fat (of meat):High
+1623	Tsum	FISH	ɲa	Fish:Low-Rise
+1624	Tsum	CHICKEN	tɕjauɾu	Chicken:
+1625	Tsum	EGG	koã	Egg:Low-Rise
+1626	Tsum	COW	pawo	Cow:Low-Rise
+1627	Tsum	BUFFALO	maje	Buffalo:Low-Rise
+1628	Tsum	MILK	oã	Milk:Low-Rise
+1629	Tsum	HORN (ANATOMY)	padʑjo	Horns:Low-Rise
+1630	Tsum	TAIL	ŋa	Tail:High
+1631	Tsum	GOAT	ɹa	Goat:Low-Rise
+1632	Tsum	DOG	ki	Dog:High-Fall
+1633	Tsum	SNAKE	tɹul	Snake:(Mid-)Rise
+1634	Tsum	MONKEY	tiu	Monkey:High
+1635	Tsum	MOSQUITO	lamkute	Mosquito:
+1636	Tsum	ANT	tɹomu	Ant:Low-Rise
+1637	Tsum	SPIDER	tɹaula	Spider:Low-Rise
+1638	Tsum	NAME	min	Name:Low-Rise
+1639	Tsum	MAN	mi	Man:Low-Rise
+1640	Tsum	WOMAN	poĩpiza	Woman:
+1641	Tsum	CHILD	piza	Child:Low-Rise
+1642	Tsum	FATHER	awa	Father:Low-Rise
+1643	Tsum	MOTHER	ãã	Mother:Low-Rise
+1644	Tsum	OLDER BROTHER	tɕjoʑjo	Older brother:Low-Rise
+1645	Tsum	YOUNGER BROTHER	n̪oo	Younger brother:Low-Rise
+1646	Tsum	OLDER SISTER	aʑe	Older sister:Mid-Rise
+1647	Tsum	YOUNGER SISTER	poõ	Younger sister:Low-Rise
+1648	Tsum	SON	pu	Son:High
+1649	Tsum	DAUGHTER	poõ	Daughter:
+1650	Tsum	HUSBAND	kʰjowa	Husband:Mid-Rise
+1651	Tsum	WIFE	tɕʰjumma	Wife:
+1652	Tsum	BOY	ɕjaɾa	Boy:Mid
+1653	Tsum	GIRL	naʑjuŋ	Girl:Low-Rise
+1654	Tsum	DAY (NOT NIGHT)	ɕjakpa	Day:Low-Rise
+1655	Tsum	NIGHT	n̪umu	Night:Low-Rise
+1656	Tsum	MORNING	ɕjuo	Morning:
+1657	Tsum	NOON	ɲiŋɡuŋ	Noon:Low-Rise
+1658	Tsum	EVENING	kuŋmu	Evening:Low-Rise
+1659	Tsum	YESTERDAY	nd̪aŋ	Yesterday:Low-Rise
+1660	Tsum	TODAY	t̪iɾiŋ	Today:Low-Rise
+1661	Tsum	TOMORROW	ŋaɾt̪o	Tomorrow:Mid
+1662	Tsum	WEEK	t̪yndaʔ	Week:Low-Rise
+1663	Tsum	MONTH	nd̪a	Month:Low-Rise
+1664	Tsum	YEAR	lo	Year:Low-Rise
+1665	Tsum	OLD	ɲiŋba	Old:High
+1666	Tsum	NEW	samba	New:High
+1667	Tsum	GOOD	jamu	Good:Low-Rise
+1668	Tsum	BAD	nepo	Bad:Mid-Rise
+1669	Tsum	WET	nd̪ompa	Wet:Low-Rise
+1670	Tsum	DRY	kampo	Dry:High
+1671	Tsum	LONG	ɹiŋmu	Long:Low-Rise
+1672	Tsum	SHORT	t̪ʰyma	Short:High
+1673	Tsum	HOT	tsʰand̪e	Hot:High
+1674	Tsum	COLD	ɹaŋd̪a	Cold:Low-Rise
+1675	Tsum	RIGHT	jepa	Right:High
+1676	Tsum	LEFT	joma	Left:High
+1677	Tsum	NEAR	tɹala	Near:
+1678	Tsum	FAR	t̪ʰaɹiŋmu	Far:
+1679	Tsum	BIG	tɕʰemo	Big:High
+1680	Tsum	SMALL	tɕʰyma	Small:High
+1681	Tsum	HEAVY	tɕend̪e	Heavy:High
+1682	Tsum	LIGHT (WEIGHT)	jaŋbo	Light:Low-Rise
+1683	Tsum	ABOVE	jau	Above:Low-Rise
+1684	Tsum	DOWN OR BELOW	mau	Below:Low-Rise
+1685	Tsum	WHITE	kaɹbo	White:High
+1686	Tsum	BLACK	nakpo	Black:Low-Rise
+1687	Tsum	RED	maɹbo	Red:Low-Rise
+1688	Tsum	ONE	tɕik	One:High
+1689	Tsum	TWO	ɲi	Two:High
+1690	Tsum	THREE	sum	Three:High
+1691	Tsum	FOUR	ʑi	Four:Low-Rise
+1692	Tsum	FIVE	ŋa	Five:High-Fall
+1693	Tsum	SIX	tɹu	Six:Low-Rise
+1694	Tsum	SEVEN	t̪un	Seven:Low-Rise
+1695	Tsum	EIGHT	keʔ	Eight:Low-Rise
+1696	Tsum	NINE	ku	Nine:Low-Rise
+1697	Tsum	TEN	tɕu	Ten:High-Fall
+1698	Tsum	ELEVEN	tɕutɕi	Eleven:
+1699	Tsum	TWELVE	tɕuɲi	Twelve:
+1700	Tsum	TWENTY	ɲiɕu	Twenty:
+1701	Tsum	HUNDRED	kja	One Hundred:High-Fall
+1702	Tsum	WHO	su	Who:High-Fall
+1703	Tsum	WHAT	tɕi	What:High
+1704	Tsum	WHERE	kana	Where:Low-Rise
+1705	Tsum	WHEN	n̪am	When:Low-Rise
+1706	Tsum	HOW MANY	kanʑøʔ	How many:Low-Rise
+1707	Tsum	WHICH	kaŋd̪e	Which:Low-Rise
+1708	Tsum	THIS	nd̪i	This:Low-Rise
+1709	Tsum	THAT	o	That:Low-Rise
+1710	Tsum	THIS	nd̪id̪em	These:
+1711	Tsum	THAT	od̪em	Those:
+1712	Tsum	SAME	od̪e	Same:
+1713	Tsum	DIFFERENT	minta	Different:Low-Rise
+1714	Tsum	WHOLE	tɕjop	Whole:Low-Rise
+1715	Tsum	BROKEN	tɕʰjako	Broken:Mid-Rise
+1716	Tsum	FEW	ɲyma	Few:Low-Rise
+1717	Tsum	MANY	kaʑin	Many:Low-Rise
+1718	Tsum	ALL	tɕjop	All:
+1719	Tsum	EAT	so	To eat:Low-Rise
+1720	Tsum	EAT	seso	To eat:Low-Rise
+1721	Tsum	BITE	sat̪ob	To bite:High
+1722	Tsum	BE HUNGRY	t̪oso	To be hungry:High-Fall
+1723	Tsum	DRINK	t̪ʰuŋ	To drink:High
+1724	Tsum	THIRSTY	kʰakomso	To be thirsty:
+1725	Tsum	SLEEP	ɲol	To sleep:Low-Rise
+1726	Tsum	SLEEP	ɲalso	To sleep:Low-Rise
+1727	Tsum	LIE (REST)	ləloɡjab	To lie:
+1728	Tsum	SIT	t̪øʔ	To sit:Low-Rise
+1729	Tsum	SIT	t̪øso	To sit:Low-Rise
+1730	Tsum	GIVE	t̪øʔ	To give:High
+1731	Tsum	GIVE	t̪eʔso	To give:High
+1732	Tsum	BURN	tsʰiʔso	To burn:
+1733	Tsum	DIE	ɕiso	To die:
+1734	Tsum	KILL	seso	To kill:High-Fall
+1735	Tsum	FLY (MOVE THROUGH AIR)	pʰiɹso	To fly:
+1736	Tsum	WALK	ndo	To walk:Low-Rise
+1737	Tsum	RUN	tɕʰoŋdo	To run:
+1738	Tsum	GO	ndo	To go:
+1739	Tsum	GO	pyso	To go:
+1740	Tsum	COME	ɕjoʔ	To come:
+1741	Tsum	COME	leuʑuŋ	To come:
+1742	Tsum	SPEAK	lauso	To speak:
+1743	Tsum	LISTEN	ɲan	To hear/listen:
+1744	Tsum	LISTEN	ɲanso	To hear/listen:
+1745	Tsum	LOOK	t̪ø	To look:High-Fall
+1746	Tsum	LOOK	t̪eso	To look:High-Fall
+1747	Tsum	I	ŋa	I:Low-Rise
+1748	Tsum	THOU	kʰjøʔ	You (informal):High
+1749	Tsum	YOU (FORMAL ADDRESS)	kʰeɹaŋ	You (formal):High
+1750	Tsum	HE	kʰo	He:High-Fall
+1751	Tsum	SHE	mo	She:(Low-)Rise
+1752	Tsum	WE (INCLUSIVE)	ɲoɹoŋ	We (inclusive):
+1753	Tsum	WE (INCLUSIVE)	ɲoɹoŋkja	We (inclusive):
+1754	Tsum	YOU	kʰeɹaŋkja	You (plural):
+1755	Tsum	THEY	kʰuŋkja	They:
+1756	Tsum	LOAD	kʰuɹu	Load:High
+1757	Tsum	FLOUR	pʰe	Flour (eaten as food):High-Fall
+1758	Tsum	FLOUR	tsampa	Flour (eaten as food):High
+1759	Tsum	HAIL	seɹa	Hailstone:High
+1760	Tsum	HAIL	tɕʰjaɹwa	Hailstone:High
+1761	Tsum	INTESTINES	kjuã	Intestine:Low-Rise
+1762	Tsum	YARD	ild̪oʔ	Yard:Mid-Rise
+1763	Tsum	UPROOT	waʔ	To uproot:High
+1764	Tsum	UPROOT	waso	To uproot:High
+1765	Tsum	OVEN	t̪ʰap	Oven:High
+1766	Tsum	HEEL	t̪iŋba	Heel:High
+1767	Tsum	SPADE	t̪otse	Spade:(Mid-)Rise
+1768	Tsum	HORSE	t̪a	Horse:High-Fall
+1769	Tsum	LOAD	kʰuɹu	Load:
+1770	Tsum	PLOUGH	t̪ʰoŋtsu	To plough:High
+1771	Tsum	PLOUGH	t̪ʰoŋtsuso	To plough:High
+1772	Tsum	JOIN	kamɡja	Bond:Low-Rise
+1773	Tsum	BEAM	t̪uŋ	Beam (main wooden beam):Mid-Rise
+1774	Tsum	LEASH	mit̪aʔ	Rope used to tie animals:
+1775	Tsum	BREAD	kja	Bread:Mid-Rise
+1776	Tsum	MEASURE	t̪op	To measure:
+1777	Tsum	MEASURE	t̪ʰit̪aŋso	To measure:
+1778	Tsum	BOARD	ndɹap	Plank:Low-Rise
+1779	Tsum	HOLE	mijuŋ	Hole:High
+1780	Tsum	PLOUGH (INSTRUMENT)	t̪ʰoŋ	Plough (noun):High
+1781	Tsum	LID (COVER, CAP)	kʰaʑøʔ	Lid (cover):Low-Rise
+1782	Tsum	HANDLE	joa	Handle:Low-Rise
+1783	Tsum	BEAR	t̪om	Bear:Low-Rise
+1784	Tsum	GHOST	hlande	Ghost:Mid-Rise
+1785	Tsum	DUNG (ANIMAL FAECES)	lyʔ	Manure:Low-Rise
+1786	Tsum	BREAD	pakut	Bread:Low-Rise
+1787	Tsum	CORPSE	ɹo	Corpse:Low-Rise
+1788	Tsum	CORPSE	pʰuŋbo	Corpse:High
+1789	Tsum	PIG	pʰaʔ	Pig:High
+1790	Tsum	GRAIN	lod̪oʔ	Grains:Low-Rise
+1791	Tsum	GRAIN	t̪ond̪o	Grains:Mid-Rise
+1792	Tsum	STICK	perka	Stick:Low-Rise
+1793	Tsum	SWEAT (SUBSTANCE)	ŋulʑju	Sweat:High
+1794	Tsum	SWEAT (SUBSTANCE)	ŋulnaʔ	Sweat:High
+1795	Tsum	CHEW	tɹoʔ	To chew:
+1796	Tsum	SWALLOW	ɲiʔ	To swallow:(Low-)Rise
+1797	Tsum	SWALLOW	ɲitsoŋ	To swallow:(Low-)Rise
+1798	Tsum	THROW	kjut	To throw:
+1799	Tsum	THROW	kjuɾtsoŋ	To throw:
+1800	Yolmo	BODY	ndzuɡu	Body:Mid
+1801	Yolmo	HEAD	ŋɡo	Head:Mid-High
+1802	Yolmo	HAIR	tɹa	Hair:High-Fall
+1803	Yolmo	FACE	t̪oŋba	Face:Low-Rise
+1804	Yolmo	EYE	mi	Eye:High
+1805	Yolmo	EAR	nəmdʑjo	Ear:Mid-High
+1806	Yolmo	NOSE	n̪aɾko	Nose:Mid-High 
+1807	Yolmo	MOUTH	kʰa	Mouth:Mid-High
+1808	Yolmo	TOOTH	so	Teeth:High-Fall
+1809	Yolmo	TONGUE	tsele	Tongue:High
+1810	Yolmo	BREAST	praŋɡo	Breast:Mid
+1811	Yolmo	BREAST	woma	Breast:Low-Rise
+1812	Yolmo	BELLY	pʰo	Belly:High
+1813	Yolmo	ARM OR HAND	laɡpa	Arm/Hand:(Mid-)Fall
+1814	Yolmo	ELBOW	laɡpatsi	Elbow:
+1815	Yolmo	PALM TREE	laɡpan̪aŋ	Palm:
+1816	Yolmo	FINGER	ndzuɡu	Finger:Mid-Rise
+1817	Yolmo	FINGERNAIL	simu	Fingernail:High
+1818	Yolmo	LEG	kaŋba	Leg:High
+1819	Yolmo	SKIN	pawa	Skin:High
+1820	Yolmo	BONE	ɹeko	Bone:Mid
+1821	Yolmo	HEART	ɲiŋ	Heart:High
+1822	Yolmo	BLOOD	tʰa	Blood:High
+1823	Yolmo	URINE	tsiŋ	Urine:High
+1824	Yolmo	FAECES (EXCREMENT)	kjakpa	Faeces:High-Fall
+1825	Yolmo	VILLAGE	jul	Village:Mid-Rise
+1826	Yolmo	HOUSE	kʰaŋba	House:High
+1827	Yolmo	DOOR	ko	Door:Mid-Fall
+1828	Yolmo	FIREWOOD	ɕiŋ	Firewood:High
+1829	Yolmo	BROOM	pʰjama	Broom:High
+1830	Yolmo	MORTAR CRUSHER	tsʰib	Mortar:High
+1831	Yolmo	MORTAR CRUSHER	 kuɡuɹ	Mortar:Mid-Rise
+1832	Yolmo	PESTLE	t̪imbu	Pestle:High
+1833	Yolmo	HAMMER	t̪ʰoa	Hammer:Mid-High
+1834	Yolmo	KNIFE	kaɹt̪a	Knife:High
+1835	Yolmo	AXE	t̪aɾi	Axe:High
+1836	Yolmo	ROPE	t̪ʰakpa	Rope:High
+1837	Yolmo	THREAD	kupa	Thread:High
+1838	Yolmo	NEEDLE (FOR SEWING)	kʰap	Needle:High
+1839	Yolmo	CLOTH	kəptɕja	Cloth:High
+1840	Yolmo	RING	sit̪ub	Ring:High
+1841	Yolmo	SUN	ɲima	Sun:Mid-High
+1842	Yolmo	MOON	nd̪awa	Moon:Low-Rise
+1843	Yolmo	SKY	n̪əm	Sky:High
+1844	Yolmo	STAR	kəɾma	Star:High
+1845	Yolmo	RAIN (RAINING)	n̪əm	Rain:
+1846	Yolmo	RAIN (RAINING)	n̪əmɡjabzin̪	Rain:
+1847	Yolmo	WATER	tɕʰu	Water:High
+1848	Yolmo	RIVER	tsəŋbu	River:High
+1849	Yolmo	CLOUD	mukpa	Cloud:High
+1850	Yolmo	LIGHTNING	tsiləm	Lightening:High
+1851	Yolmo	RAINBOW	za	Rainbow:Low-Rise
+1852	Yolmo	WIND	hlawa	Wind:Mid
+1853	Yolmo	STONE	t̪o	Stone:Mid-Rise
+1854	Yolmo	PATH	lam	Path:Low-Rise
+1855	Yolmo	SAND	pema	Sand:Low-Rise
+1856	Yolmo	FIRE	me	Fire:Low-Rise
+1857	Yolmo	SMOKE (INHALE)	t̪ipa	Smoke:Mid-Rise
+1858	Yolmo	ASH	t̪ʰala	Ash:Mid-High
+1859	Yolmo	MUD	sasa	Mud:
+1860	Yolmo	DUST	t̪ʰalbi	Dust:
+1861	Yolmo	GOLD	sir	Gold:High
+1862	Yolmo	TREE	t̪uŋbu	Tree:Low-Rise
+1863	Yolmo	LEAF	loma	Leaf:Low-Rise
+1864	Yolmo	ROOT	tsaɾki	Root:High
+1865	Yolmo	THORN	tsʰeɹma	Thorn:High
+1866	Yolmo	FLOWER	mend̪o	Flower:Low-Rise
+1867	Yolmo	FRUIT	pʰəlbul	Fruit:
+1868	Yolmo	MANGO	ãm	Mango:
+1869	Yolmo	BANANA	keɾa	Banana:
+1870	Yolmo	WHEAT	ne	Wheat (husked):Mid
+1871	Yolmo	BARLEY	dzəu	Barley:
+1872	Yolmo	RICE	mbɹe	Rice (husked):Mid-Rise
+1873	Yolmo	POTATO	he	Potato:High
+1874	Yolmo	AUBERGINE	bãⁿda	Eggplant:
+1875	Yolmo	PEANUT	bəd̪əm	Groundnut:
+1876	Yolmo	NUT	mətsa	Chilli:High
+1877	Yolmo	TURMERIC	juŋa	Turmeric:Mid-Rise
+1878	Yolmo	GARLIC	kɔkpa	Garlic:Low-Rise
+1879	Yolmo	ONION	pjats	Onion:
+1880	Yolmo	CAULIFLOWER	pʰulɡobi	Cauliflower:
+1881	Yolmo	TOMATO	ɡolbenda	Tomato:
+1882	Yolmo	CABBAGE	bənd̪aɡobi	Cabbage:
+1883	Yolmo	OIL (ORGANIC SUBSTANCE)	n̪um	Oil:High
+1884	Yolmo	SALT	tsʰa	Salt:High 
+1885	Yolmo	MEAT	ɕja	Meat:High-Fall
+1886	Yolmo	FAT (OF MEAT AND FOOD)	tsʰilu	Fat (of meat):High
+1887	Yolmo	FISH	ɲa	Fish:Mid-High
+1888	Yolmo	CHICKEN	tɕjamubiɹu	Chicken:
+1889	Yolmo	EGG	koŋa	Egg:Low-Rise
+1890	Yolmo	COW	palaŋ	Cow:Mid
+1891	Yolmo	BUFFALO	məji	Buffalo:Mid-Rise
+1892	Yolmo	MILK	woma	Milk:Low-Rise
+1893	Yolmo	HORN (ANATOMY)	ɹowa	Horns:Low-Rise
+1894	Yolmo	TAIL	ŋama	Tail:High
+1895	Yolmo	GOAT	ra	Goat:Mid-Rise
+1896	Yolmo	DOG	kʰi	Dog:High
+1897	Yolmo	SNAKE	pɹul	Snake:High
+1898	Yolmo	MONKEY	pɹeken	Monkey:High
+1899	Yolmo	MOSQUITO	mətɕʰəɹ	Mosquito:
+1900	Yolmo	ANT	tomaŋ	Ant:Mid-Rise
+1901	Yolmo	SPIDER	ɕwabu	Spider:High
+1902	Yolmo	NAME	min	Name:Mid-Rise
+1903	Yolmo	MAN	mi	Man:Mid-Rise
+1904	Yolmo	WOMAN	pimi	Woman:Low-Rise
+1905	Yolmo	CHILD	pedza	Child:Low-Rise
+1906	Yolmo	FATHER	aba	Father:High
+1907	Yolmo	MOTHER	ãmã	Mother:High
+1908	Yolmo	OLDER BROTHER	ad̪a	Older brother:High
+1909	Yolmo	YOUNGER BROTHER	n̪o	Younger brother:Mid
+1910	Yolmo	OLDER SISTER	adʑi	Older sister:High
+1911	Yolmo	YOUNGER SISTER	n̪omo	Younger sister:Mid-Rise
+1912	Yolmo	SON	pu	Son:High
+1913	Yolmo	DAUGHTER	pomo	Daughter:Mid-Rise
+1914	Yolmo	HUSBAND	kʰjowa	Husband:Mid-High
+1915	Yolmo	WIFE	pimi	Wife:
+1916	Yolmo	BOY	ɕjaɹa	Boy:High
+1917	Yolmo	GIRL	ɕjaɹma	Girl:High
+1918	Yolmo	DAY (NOT NIGHT)	ɲima	Day:
+1919	Yolmo	NIGHT	kuŋmu	Night:Low-Rise
+1920	Yolmo	MORNING	ɕjole	Morning:Low-Rise
+1921	Yolmo	NOON	ɲimapʰe	Noon:
+1922	Yolmo	EVENING	kuŋse	Evening:Mid-Rise
+1923	Yolmo	YESTERDAY	nd̪aŋ	Yesterday:Mid
+1924	Yolmo	TODAY	t̪iɹiŋ	Today:Mid-Rise
+1925	Yolmo	TOMORROW	n̪aŋbaɹ	Tomorrow:Low-Rise
+1926	Yolmo	WEEK	ɲimat̪in	Week:
+1927	Yolmo	MONTH	nd̪owa	Month:Low
+1928	Yolmo	YEAR	lo	Year:Low-Rise
+1929	Yolmo	OLD	ɲiŋba	Old:High
+1930	Yolmo	NEW	samba	New:High
+1931	Yolmo	GOOD	jabu	Good:Low-Rise
+1932	Yolmo	BAD	tsokpa	Bad:High
+1933	Yolmo	WET	taŋmu	Wet:Low-Rise
+1934	Yolmo	DRY	kambu	Dry:High
+1935	Yolmo	LONG	ɹiŋbu	Long:Mid-Rise
+1936	Yolmo	SHORT	t̪ʰemu	Short:High
+1937	Yolmo	HOT	tomu	Hot:Mid-Rise
+1938	Yolmo	COLD	taŋmu	Cold:Low-Rise
+1939	Yolmo	RIGHT	joba	Right:High
+1940	Yolmo	LEFT	joma	Left:High
+1941	Yolmo	NEAR	poɰla	Near:High
+1942	Yolmo	FAR	t̪ʰaɹiŋbu	Far:
+1943	Yolmo	BIG	tɕʰjimbu	Big:High
+1944	Yolmo	SMALL	tsemu	Small:High
+1945	Yolmo	HEAVY	tɕjand̪i	Heavy:High
+1946	Yolmo	LIGHT (WEIGHT)	jaŋd̪i	Light:Mid-Rise
+1947	Yolmo	ABOVE	t̪ʰola	Above:High
+1948	Yolmo	DOWN OR BELOW	t̪iŋla	Below:Mid-High
+1949	Yolmo	WHITE	kaɾpu	White:High
+1950	Yolmo	BLACK	n̪akpu	Black:Mid-Rise
+1951	Yolmo	RED	maɹmu	Red:Low-Rise
+1952	Yolmo	ONE	tɕi	One:High
+1953	Yolmo	TWO	ɲi	Two:High
+1954	Yolmo	THREE	sum	Three:High
+1955	Yolmo	FOUR	ʑi	Four:Low-Rise
+1956	Yolmo	FIVE	ŋa	Five:High
+1957	Yolmo	SIX	tu	Six:Mid-High
+1958	Yolmo	SEVEN	t̪in	Seven:Mid-High
+1959	Yolmo	EIGHT	ke	Eight:Mid-High
+1960	Yolmo	NINE	ku	Nine:Mid-High
+1961	Yolmo	TEN	tɕju	Ten:High-Fall
+1962	Yolmo	ELEVEN	tɕjuʑi	Eleven:
+1963	Yolmo	TWELVE	tɕiɲi	Twelve:
+1964	Yolmo	TWENTY	ɲiɕju	Twenty:
+1965	Yolmo	TWENTY	kʰaldʑi	Twenty:
+1966	Yolmo	HUNDRED	kjatɕi	One Hundred:
+1967	Yolmo	WHO	su	Who:High
+1968	Yolmo	WHAT	tɕi	What:
+1969	Yolmo	WHERE	ka	Where:
+1970	Yolmo	WHEN	n̪am	When:(--)Rise
+1971	Yolmo	HOW MANY	kadze	How many:Low-Rise
+1972	Yolmo	WHICH	kãd̪i	Which:
+1973	Yolmo	THIS	nd̪i	This:Low-Rise
+1974	Yolmo	THAT	pʰarŋe	That:
+1975	Yolmo	THIS	nd̪ikja	These:
+1976	Yolmo	THAT	t̪apʰarŋed̪i	Those:
+1977	Yolmo	SAME	andaɾaŋ	Same:Low-Rise
+1978	Yolmo	DIFFERENT	alak	Different:
+1979	Yolmo	WHOLE	t̪eptse	Whole:Mid-Rise
+1980	Yolmo	BROKEN	tɕʰjakjo	Broken:Mid-Rise
+1981	Yolmo	FEW	sipi	Few:
+1982	Yolmo	FEW	ɲemu	Few:
+1983	Yolmo	MANY	maŋbu	Many:Low-Rise
+1984	Yolmo	ALL	ndzamaɹaŋ	All:
+1985	Yolmo	EAT	so	To eat:Mid 
+1986	Yolmo	BITE	muɹd̪uŋ	To bite:
+1987	Yolmo	BE HUNGRY	tepat̪od̪e	To be hungry:Low-Rise
+1988	Yolmo	DRINK	t̪ʰuŋd̪uŋ	To drink:
+1989	Yolmo	THIRSTY	komzewoŋd̪e	To be thirsty:
+1990	Yolmo	SLEEP	ɲald̪uŋ	To sleep:
+1991	Yolmo	LIE (REST)	kaŋtsʰiɹiɲald̪uŋ	To lie:
+1992	Yolmo	SIT	t̪e	To sit:Mid-Rise
+1993	Yolmo	GIVE	t̪eɾt̪uŋ	To give:High
+1994	Yolmo	BURN	tsʰid̪e	To burn:
+1995	Yolmo	DIE	ɕid̪e	To die:
+1996	Yolmo	KILL	set̪oŋ	To kill:
+1997	Yolmo	FLY (MOVE THROUGH AIR)	loŋ	To fly:
+1998	Yolmo	WALK	ndo	To walk:Mid-Rise
+1999	Yolmo	RUN	tɕʰjuŋd̪uŋ	To run:
+2000	Yolmo	GO	soŋ	To go:High 
+2001	Yolmo	COME	ɕjo	To come:High
+2002	Yolmo	SPEAK	med̪oŋ	To speak:High
+2003	Yolmo	LISTEN	ɲind̪oŋ	To hear/listen:Mid-Rise
+2004	Yolmo	LOOK	t̪ed̪oŋ	To look:High
+2005	Yolmo	I	ŋa	I:Mid-Rise
+2006	Yolmo	THOU	kʰje	You (informal):
+2007	Yolmo	THOU	kʰjø	You (informal):
+2008	Yolmo	YOU (FORMAL ADDRESS)	ɲiɹaŋla	You (formal):
+2009	Yolmo	HE	kʰe	He:
+2010	Yolmo	SHE	mo	She:
+2011	Yolmo	WE (INCLUSIVE)	ɲiɹaŋ	We (inclusive):
+2012	Yolmo	WE (EXCLUSIVE)	woɹaŋ	We (exclusive):
+2013	Yolmo	YOU	kʰjapəti	You (plural):
+2014	Yolmo	THEY	kʰuŋpʰatsi	They:
+2015	Yolmo	LOAD	kʰurpu	Load:High
+2016	Yolmo	FLOUR	tsamba	Flour (eaten as food):High
+2017	Yolmo	HAIL	seɹa	Hailstone:
+2018	Yolmo	INTESTINES	kjuma	Intestine:Mid-Rise
+2019	Yolmo	YARD	t̪iŋ	Yard:Mid-Fall
+2020	Yolmo	YARD	sat̪iŋ	Yard:Mid-Fall
+2021	Yolmo	UPROOT	pod̪oŋ	To uproot:High
+2022	Yolmo	OVEN	koa	Oven:Low-Rise
+2023	Yolmo	HEEL	kaŋbat̪iŋba	Heel:
+2024	Yolmo	SPADE	t̪uzi	Spade:High
+2025	Yolmo	HORSE	t̪əbu	Horse:High
+2026	Yolmo	LOAD	kʰuɹpu	Load:High
+2027	Yolmo	PLOUGH	med̪oŋ	To plough:
+2028	Yolmo	JOIN	t̪əməsu	Bond:Low-Rise
+2029	Yolmo	JOIN	kamɡja	Bond:Low-Rise
+2030	Yolmo	BEAM	t̪uŋma	Beam (main wooden beam):Low-Rise
+2031	Yolmo	LEASH	ɹel	Rope used to tie animals:
+2032	Yolmo	BREAD	kja	Bread:Mid
+2033	Yolmo	MEASURE	t̪apt̪oŋ	To measure:Mid-Rise
+2034	Yolmo	BOARD	paŋlep	Plank:High
+2035	Yolmo	HOLE	om	Hole:High-Fall
+2036	Yolmo	PLOUGH (INSTRUMENT)	t̪ʰoŋ	Plough (noun):High
+2037	Yolmo	LID (COVER, CAP)	kʰaʑu	Lid (cover):Mid-High
+2038	Yolmo	HANDLE	jowa	Handle:Low-Rise
+2039	Yolmo	BEAR	t̪om	Bear:Mid-High
+2040	Yolmo	GHOST	hlandi	Ghost:Low-Rise
+2041	Yolmo	DUNG (ANIMAL FAECES)	li	Manure:Low-Rise
+2042	Yolmo	BREAD	kʰuɹa	Bread:High
+2043	Yolmo	CORPSE	ɹo	Corpse:Low-Rise
+2044	Yolmo	PIG	pʰa	Pig:High
+2045	Yolmo	GRAIN	ndu	Grains:Mid-High
+2046	Yolmo	STICK	pɹeka	Stick:High
+2047	Yolmo	SWEAT (SUBSTANCE)	ŋuldʑju	Sweat:
+2048	Yolmo	CHEW	muɾt̪oŋ	To chew:
+2049	Yolmo	SWALLOW	ɲit̪uŋ	To swallow:
+2050	Yolmo	THROW	kjuɹd̪uŋ	To throw:

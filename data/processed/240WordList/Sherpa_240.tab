@@ -1,0 +1,246 @@
+ID	SN	DOCULECT	CONCEPT	CONCEPTID	TRANSCRIPTION	SEGMENTS	COGID	GLOSS	SCRIPT	TONE
+1	1	Sherpa	BODY	1480	dzubu			Body	शरीर	Low-Rise
+2	2	Sherpa	HEAD	1256	ɡo			Head	टाउको	Low
+3	3	Sherpa	HAIR	1040	hɹa			Hair	कपाल	Mid
+4	4	Sherpa	FACE	1560	ŋot̪oŋ			Face	अनुहार	Low-Rise
+5	5	Sherpa	EYE	1248	mik			Eye	आँखा	Mid
+6	6	Sherpa	EAR	1247	namdzjok			Ear	कान	Low
+7	7	Sherpa	NOSE	1221	nəu			Nose	नाक	Mid
+8	8	Sherpa	MOUTH	674	kʰa			Mouth	मुख	Mid-Fall
+9	9	Sherpa	TOOTH	1380	sa			Teeth	दाँत	Mid-Fall
+10	10	Sherpa	TONGUE	1205	tɕjalak			Tongue	जिब्रो	Low
+11	11	Sherpa	BREAST	1402	oma			Breast	स्तन	Low-Rise
+12	12	Sherpa	BELLY	1251	tʰopa			Belly	पेट	Low-Rise
+13	13	Sherpa	ARM OR HAND	2121	laɡpa			Arm/Hand	हात	Low-Rise
+14	14	Sherpa	ELBOW	981	laɡpatsʰi			Elbow	कुइनो	
+15	15	Sherpa	PALM TREE	1181	laɡpa			Palm	हत्केला	
+16	16	Sherpa	FINGER	1303	t̪ʰept̪ok			Finger	औँला	Mid
+17	17	Sherpa	FINGERNAIL	1258	seɹmoŋ			Fingernail	नङ	Mid
+18	18	Sherpa	LEG	1297	kaŋba			Leg	खुट्टा	Low-Rise
+19	19	Sherpa	SKIN	763	kwa			Skin	छाला	Low-Rise
+20	20	Sherpa	BONE	1394	ɹukjok			Bone	हाड	Low-Rise
+21	21	Sherpa	HEART	1223	ɲiŋ			Heart	मुटु	Mid
+22	22	Sherpa	BLOOD	946	tʰak			Blood	रगत	Mid-High
+23	23	Sherpa	URINE	1142	tsiŋ			Urine	पिसाब	Mid
+24	24	Sherpa	FAECES (EXCREMENT)	675	kjakpa			Faeces	दिसा	Low-Rise
+25	25	Sherpa	VILLAGE	930	iul			Village	गाउँ	
+26	25	Sherpa	VILLAGE	930	jul			Village	गाउँ	
+27	26	Sherpa	HOUSE	1252	kʰaŋba			House	घर	Low-Rise
+28	27	Sherpa	ROOF	769	t̪ʰok			Roof	छानो	Mid
+29	28	Sherpa	DOOR	1567	ɡo			Door	ढोका	Low-Rise
+30	29	Sherpa	FIREWOOD	10	ɕiŋ			Firewood	दाउरा	Mid-High
+31	30	Sherpa	BROOM	245	komi			Broom	कुचो	Mid
+32	31	Sherpa	MORTAR CRUSHER	224	ɡokjo			Mortar	सिलौटो	Low-Rise
+33	32	Sherpa	PESTLE	225	tsʰart̪um			Pestle	लोहोरो	Low-Rise
+34	33	Sherpa	HAMMER	1481	t̪ʰoa			Hammer	हथौडा	Mid
+35	34	Sherpa	KNIFE	1352	tʰitɕjuŋ			Knife	चक्कु	(…)Rise
+36	35	Sherpa	AXE	677	t̪əɹi			Axe	वन्चरो	Mid-Low
+37	36	Sherpa	ROPE	1218	t̪ʰakpa			Rope	डोरी	Mid-Low
+38	37	Sherpa	THREAD	1161	rut̪ak			Thread	धागो	Mid
+39	38	Sherpa	NEEDLE (FOR SEWING)	1382	kʰap			Needle	सियो	High
+40	39	Sherpa	CLOTH	1616	madzja			Cloth	लुगा (कपडा)	Low-Rise
+41	40	Sherpa	RING	1374	sert̪ub			Ring	औँठी	Low-Rise
+42	41	Sherpa	SUN	1343	ɲima			Sun	घाम	Low-Rise
+43	42	Sherpa	MOON	1313	əud̪əkar			Moon	चन्द्रमा	
+44	43	Sherpa	SKY	1732	nam			Sky	आकास	Low
+45	44	Sherpa	STAR	1430	kərma			Star	तारा	Low-Rise
+46	44	Sherpa	STAR	1430	kərdzjaŋ			Star	तारा	Low-Rise
+47	45	Sherpa	RAIN (RAINING)	1253	tɕjarpa			Rain	वर्षा	Low-Rise
+48	46	Sherpa	WATER	948	tɕʰju			Water	पानी	High
+49	47	Sherpa	RIVER	666	tsəŋbu			River	नदी	Low-Rise
+50	48	Sherpa	CLOUD	1489	mukpa			Cloud	बादल	Mid
+51	49	Sherpa	LIGHTNING	1654	tsilam			Lightening	बिजुली चम्कनु	Mid-Low
+52	50	Sherpa	RAINBOW	1733	dza			Rainbow	इन्द्रेणी	Low-Rise
+53	51	Sherpa	WIND	960	luŋ			Wind	वतास	Mid
+54	52	Sherpa	STONE	857	d̪o			Stone	ढुङ्गा	Low
+55	53	Sherpa	PATH	2252	lam			Path	बाटो	Low-Rise
+56	54	Sherpa	SAND	671	pʰema			Sand	बालुवा	Low
+57	55	Sherpa	FIRE	221	me			Fire	आगो	Low
+58	56	Sherpa	SMOKE (INHALE)	1689	t̪ʰut̪a			Smoke	धुवाँ	Low-Rise
+59	57	Sherpa	ASH	646	kʰəsit̪ʰala			Ash	खरानी	
+60	58	Sherpa	MUD	640	t̪ʰala			Mud	माटो	Low-Rise
+61	59	Sherpa	DUST	2	t̪ʰald̪uk			Dust	धुलो	
+62	60	Sherpa	GOLD	1369	ser			Gold	सुन	Mid-Low
+63	61	Sherpa	TREE	906	d̪oŋbu			Tree	रुख	Mid-Low
+64	62	Sherpa	LEAF	628	d̪əma			Leaf	पात	Low-Rise
+65	63	Sherpa	ROOT	670	dzət̪ak			Root	जरा	Low-Rise
+66	64	Sherpa	THORN	124	tsʰermaŋ			Thorn	काँडो	Low
+67	65	Sherpa	FLOWER	239	mend̪o			Flower	फूल	Low
+68	66	Sherpa	FRUIT	1507	pʰalpʰul			Fruit	फलफुल	
+69	67	Sherpa	MANGO	2398	ãp			Mango	आँप	
+70	68	Sherpa	BANANA	868	kera			Banana	केरा	
+71	69	Sherpa	WHEAT	1077	tʰa			Wheat (husked)	गहुँ	Low
+72	70	Sherpa	BARLEY	932	dzəu			Barley	जौ	
+73	71	Sherpa	RICE	926	ɕjoɹ			Rice (husked)	चामल	Mid
+74	72	Sherpa	POTATO	593	ɹiɡi			Potato	आलु	Low
+75	73	Sherpa	AUBERGINE	1146	bənta			Eggplant	भन्टा	
+76	74	Sherpa	PEANUT	2364	bəd̪əm			Groundnut	बदाम	
+77	75	Sherpa	NUT	191	mərtsi			Chilli	खुर्सानी	Mid-Low
+78	76	Sherpa	TURMERIC	2842	ɲuŋa			Turmeric	बेसार	Low-Rise
+79	77	Sherpa	GARLIC	2368	ɡokpa			Garlic	लसुन	Low-Rise
+80	78	Sherpa	ONION	2366	pjadz			Onion	प्याज	
+81	79	Sherpa	CAULIFLOWER	2843	kauli			Cauliflower	काउली	
+82	80	Sherpa	TOMATO	986	ɡolbeda			Tomato	गोलभेँडा	
+83	81	Sherpa	CABBAGE	774	bənd̪a			Cabbage	बन्दा	
+84	82	Sherpa	OIL (ORGANIC SUBSTANCE)	1484	n̪um			Oil	तेल	High
+85	83	Sherpa	SALT	1274	tsʰa			Salt	नुन	High
+86	84	Sherpa	MEAT	634	ɕja			Meat	मासु	High
+87	85	Sherpa	FAT (OF MEAT AND FOOD)	2449	tsʰiluk			Fat (of meat)	बोसो	Mid-Low
+88	86	Sherpa	FISH	227	ɲa			Fish	माछा	Low
+89	87	Sherpa	CHICKEN	1318	tsʰebruk			Chicken	चल्ला	Mid-Low
+90	88	Sherpa	EGG	744	tɕʰeɡoŋa			Egg	अन्डा	
+91	89	Sherpa	COW	1007	tɕʰuŋma			Cow	गाइ	Mid-Low
+92	90	Sherpa	BUFFALO	934	mesi			Buffalo	भैँसी	Mid-Low
+93	91	Sherpa	MILK	635	oma			Milk	दुध	Low-Rise
+94	92	Sherpa	HORN (ANATOMY)	1393	arkjok			Horns	सिङ	Mid-Low
+95	93	Sherpa	TAIL	1220	ŋəma			Tail	पुच्छर	Mid-Low
+96	94	Sherpa	GOAT	1502	ra			Goat	बाख्रो	Low
+97	95	Sherpa	DOG	2009	ki			Dog	कुकुर	High
+98	96	Sherpa	SNAKE	730	dul			Snake	सर्प (साँप)	Mid
+99	97	Sherpa	MONKEY	1350	te			Monkey	बाँदर	High
+100	97	Sherpa	MONKEY	1350	riu			Monkey	बाँदर	Low-Rise
+101	98	Sherpa	MOSQUITO	1509	lamkʰute			Mosquito	लामखुट्टे	
+102	99	Sherpa	ANT	587	tʰəksəŋma			Ant	कमिला	
+103	100	Sherpa	SPIDER	843	bəldzjaŋ			Spider	माकुरो	
+104	101	Sherpa	NAME	1405	min			Name	नाम	Mid-Low
+105	102	Sherpa	MAN	1554	mi			Man	मान्छे	Mid-Low
+106	103	Sherpa	WOMAN	962	pʰumpʰedza			Woman	आइमाई	
+107	104	Sherpa	CHILD	2099	aŋa			Child	बच्चा	Mid
+108	105	Sherpa	FATHER	1217	apa			Father	बुबा	Mid
+109	106	Sherpa	MOTHER	1216	ama			Mother	आमा	Low-Rise
+110	107	Sherpa	OLDER BROTHER	1759	atɕjo			Older brother	दाजु	Mid
+111	108	Sherpa	YOUNGER BROTHER	1760	nuk			Younger brother	भाइ	Mid 
+112	109	Sherpa	OLDER SISTER	1758	adzi			Older sister	दिदी	Mid-Low
+113	110	Sherpa	YOUNGER SISTER	1761	n̪um			Younger sister	बहिनी	Mid
+114	111	Sherpa	SON	1620	pʰudʑjuŋ			Son	छोरो	Low-Rise
+115	112	Sherpa	DAUGHTER	1357	pʰumu			Daughter	छोरी	Mid
+116	113	Sherpa	HUSBAND	1200	kʰjoa			Husband	लोग्ने (श्रीमान)	Mid-Low
+117	114	Sherpa	WIFE	1199	pʰermi			Wife	स्वास्नी (श्रीमती)	Mid-Low
+118	115	Sherpa	BOY	1366	kʰjokpʰedza			Boy	केटो	
+119	116	Sherpa	GIRL	1646	pʰumpʰedza			Girl	केटी	
+120	117	Sherpa	DAY (NOT NIGHT)	1225	ɲima			Day	दिन	Low-Rise
+121	118	Sherpa	NIGHT	1233	tsʰemu			Night	रात	Mid
+122	119	Sherpa	MORNING	1339	tʰop			Morning	विहान	Mid
+123	120	Sherpa	NOON	2490	ɲimkʰuŋ			Noon	मध्यान्ह	
+124	121	Sherpa	EVENING	1629	ɡuŋse			Evening	साँझ	Low-Rise
+125	122	Sherpa	YESTERDAY	1174	d̪aŋ			Yesterday	हिजो	Low
+126	123	Sherpa	TODAY	1283	ariŋ			Today	आज	Low-Rise
+127	124	Sherpa	TOMORROW	1329	sala			Tomorrow	भोली	Low
+128	125	Sherpa	WEEK	1469	ɦapt̪a			Week	हप्ता (साता)	
+129	126	Sherpa	MONTH	1370	la			Month	महिना	Low-Rise
+130	127	Sherpa	YEAR	1226	lo			Year	वर्ष	Low-Rise
+131	128	Sherpa	OLD	1229	ɲiŋba			Old	पुरानो	Mid
+132	129	Sherpa	NEW	1231	samba			New	नयाँ	Mid-Low
+133	130	Sherpa	GOOD	1035	lemu			Good	राम्रो (असल)	Low-Rise
+134	131	Sherpa	BAD	1292	melokpa			Bad	नराम्रो (खराव)	
+135	132	Sherpa	WET	1726	tʰeŋa			Wet	चिसो	Low-Rise
+136	133	Sherpa	DRY	1398	kaŋbu			Dry	सुख्खा	Mid-Low
+137	134	Sherpa	LONG	1203	riŋbu			Long	लामो	Mid-Low
+138	135	Sherpa	SHORT	1645	t̪ʰinme			Short	छोटो	Mid-High
+139	136	Sherpa	HOT	1286	tsʰand̪i			Hot	तातो	Mid-High
+140	137	Sherpa	COLD	1287	tʰeŋa			Cold	चिसो	
+141	138	Sherpa	RIGHT	1019	laɡpaɡa			Right	दाहिने	
+142	139	Sherpa	LEFT	244	pʰiloɡpa			Left	देव्रे	
+143	140	Sherpa	NEAR	1942	t̪ʰakŋemo			Near	नजिक	
+144	141	Sherpa	FAR	1406	t̪ʰakriŋbu			Far	टाढा	
+145	142	Sherpa	BIG	1202	tɕʰend̪i			Big	ठुलो	Mid
+146	143	Sherpa	SMALL	1246	tikpe			Small	सानो	Mid-Low
+147	144	Sherpa	HEAVY	1210	tsend̪i			Heavy	गह्रौँ	Mid-Low
+148	145	Sherpa	LIGHT (WEIGHT)	1052	jeŋɡa			Light	हलुका	Low-Rise
+149	146	Sherpa	ABOVE	1741	jajo			Above	माथि	Low-Rise
+150	147	Sherpa	DOWN OR BELOW	2094	mamo			Below	तल	Mid-Low
+151	148	Sherpa	WHITE	1335	karbu			White	सेतो	Mid
+152	149	Sherpa	BLACK	163	nakpu			Black	कालो	Low-Rise
+153	150	Sherpa	RED	156	mərbu			Red	रातो	Mid-Low
+154	151	Sherpa	ONE	1493	tɕik			One	एक	Mid 
+155	152	Sherpa	TWO	1498	ɲi			Two	दुई	Mid
+156	153	Sherpa	THREE	492	sum			Three	तीन	High 
+157	154	Sherpa	FOUR	1500	ɕi			Four	चार	Low-Rise
+158	155	Sherpa	FIVE	493	ŋa			Five	पाँच	Mid-high
+159	156	Sherpa	SIX	1703	tʰuk			Six	छ	High
+160	157	Sherpa	SEVEN	1704	d̪in			Seven	सात	Mid
+161	158	Sherpa	EIGHT	1705	ɡeʔ			Eight	आठ	Low-Rise
+162	159	Sherpa	NINE	1483	ɡu			Nine	नौ	Mid-Low
+163	160	Sherpa	TEN	1515	tɕju			Ten	दश	Mid-high
+164	161	Sherpa	ELEVEN	1706	tɕjudzik			Eleven	एघार	
+165	162	Sherpa	TWELVE	1707	tɕjuŋi			Twelve	बाह्र	
+166	163	Sherpa	TWENTY	1710	ɲiɕju			Twenty	वीस	
+167	164	Sherpa	HUNDRED	1634	ɡjatɕik			One Hundred	एक सय	
+168	165	Sherpa	WHO	1235	su			Who	को	High
+169	166	Sherpa	WHAT	1236	kʰaŋ			What	के	Mid
+170	167	Sherpa	WHERE	1237	kʰani			Where	कहाँ	Low-Rise
+171	168	Sherpa	WHEN	1238	nam			When	कहिले	Low-Rise
+172	169	Sherpa	HOW MANY	822	kʰədzo			How many	कति	High
+173	170	Sherpa	WHICH	727	kʰaŋd̪i			Which	कुन	Mid
+174	171	Sherpa	THIS	1214	d̪i			This	यो	Mid-Low
+175	172	Sherpa	THAT	78	t̪ʰi			That	त्यो	Mid
+176	173	Sherpa	THIS	1214	d̪iba			These	यी	
+177	174	Sherpa	THAT	78	t̪ʰiba			Those	ती	
+178	175	Sherpa	SAME	200	tɕikparaŋ			Same	उही	
+179	176	Sherpa	DIFFERENT	2504	kʰut̪uk			Different	फरक	Mid
+180	177	Sherpa	WHOLE	2277	jukəi			Whole	सबै	High
+181	178	Sherpa	BROKEN	588	tɕʰjakpa			Broken	फुटेको	Mid
+182	179	Sherpa	FEW	1242	tsedzi			Few	थोरै	Mid-high
+183	180	Sherpa	MANY	1198	ala			Many	धेरै	Low-Rise
+184	181	Sherpa	ALL	98	jukəj			All	सबै	
+185	182	Sherpa	EAT	1336	sap			To eat	खानु	Low-Rise
+186	183	Sherpa	BITE	1403	sət̪əbu			To bite	टोक्नु	
+187	184	Sherpa	BE HUNGRY	1533	hləwalaŋgu			To be hungry	भोकाउनु	
+188	185	Sherpa	DRINK	1401	t̪ʰuŋɡu			To drink	पिउनु	Mid-Low
+189	186	Sherpa	THIRSTY	847	kombalaŋɡu			To be thirsty	तिर्खाउनु	
+190	187	Sherpa	SLEEP	1585	ŋiloku			To sleep	सुत्नु	
+191	188	Sherpa	LIE (REST)	1411	ɡjuru			To lie	पल्टनु	
+192	189	Sherpa	SIT	1416	d̪et̪u			To sit	बस्नु	
+193	190	Sherpa	GIVE	1447	t̪eru			To give	दिनु	
+194	191	Sherpa	BURN	2102	hreko			To burn	डढाउनु	
+195	192	Sherpa	DIE	1494	ɕiu			To die	मर्नु	
+196	193	Sherpa	KILL	1417	seku			To kill	मार्नु	
+197	194	Sherpa	FLY (MOVE THROUGH AIR)	1441	pʰirku			To fly	उड्नु	Mid-High
+198	195	Sherpa	WALK	1443	dop			To walk	हिँड्नु	Low
+199	196	Sherpa	RUN	1519	tɕʰjoŋɡu			To run	दौडिनु	
+200	197	Sherpa	GO	695	dop			To go	जानु	
+201	198	Sherpa	COME	1446	uŋgu			To come	आउनु	Low-Rise
+202	199	Sherpa	SPEAK	1623	ləbu			To speak	बोल्नु	Low-Rise
+203	200	Sherpa	LISTEN	1608	ŋeŋɡu			To hear/listen	सुन्नु	Low-Rise
+204	201	Sherpa	LOOK	1819	hlap			To look	हेर्नु	..Rise
+205	202	Sherpa	I	1209	ŋa			I	म	Low
+206	203	Sherpa	THOU	1215	kʰjoroŋ			You (informal)	तँ	
+207	204	Sherpa	YOU (FORMAL ADDRESS)	2844	kʰjoroŋ			You (formal)	तपाइँ	
+208	205	Sherpa	HE	1211	t̪ʰi			He	उ	
+209	206	Sherpa	SHE	1834	t̪ʰi			She	उनी	
+210	207	Sherpa	WE (INCLUSIVE)	1131	oraŋ			We (inclusive)	हामी (समावेशी)	Mid
+211	208	Sherpa	WE (EXCLUSIVE)	1130	ŋiraŋ			We (exclusive)	हामी (असमावेशी)	Mid-Low
+212	209	Sherpa	YOU	1213	kʰiraŋd̪iba			You (plural)	तिमीहरु	
+213	210	Sherpa	THEY	817	t̪ʰibad̪iba			They	उनीहरु	
+214	211	Sherpa	LOAD	1679	kʰurbu			Load	भारी	Mid 
+215	212	Sherpa	FLOUR	1594	tsamba			Flour (eaten as food)	पिठो	Mid-Low
+216	213	Sherpa	HAIL	609	sertɕjuŋma			Hailstone	असिना	
+217	214	Sherpa	INTESTINES	1991	ɡema			Intestine	आन्द्रा	Low-Rise
+218	215	Sherpa	YARD	736	t̪ʰaŋsa			Yard	आँगन	Mid
+219	216	Sherpa	UPROOT	99999	pʰəlɡu			To uproot	उखेल्नु	
+220	217	Sherpa	OVEN	1143	t̪ʰab			Oven	चुल्हो	Mid
+221	218	Sherpa	HEEL	980	t̪iŋba			Heel	कुर्कुच्चो	High
+222	219	Sherpa	SPADE	1176	t̪oktsi			Spade	कोदालो	Mid-Low
+223	220	Sherpa	HORSE	615	t̪a			Horse	घोडा	Mid-Fall
+225	222	Sherpa	PLOUGH	1921	moku			To plough	जोत्नु	Mid
+226	223	Sherpa	JOIN	1743	ɕju			Bond	तमसुक	High
+227	224	Sherpa	BEAM	1132	d̪uŋma			Beam (main wooden beam)	निदाल	Mid-Low
+228	225	Sherpa	LEASH	2959	t̪ʰakpa			Rope used to tie animals	दाम्लो	Mid-Low
+229	226	Sherpa	BREAD	1368	ɡerok			Bread	दाह्री	Low-Rise
+230	227	Sherpa	MEASURE	1506	t̪ʰabɡu			To measure	नाप्नु	
+231	228	Sherpa	BOARD	1227	jend̪ar			Plank	फल्याक	
+232	229	Sherpa	HOLE	1667	miksaŋ			Hole	प्वाल	Mid
+233	230	Sherpa	PLOUGH (INSTRUMENT)	2154	t̪ʰoŋba			Plough (noun)	हलो	Mid-Low
+234	231	Sherpa	LID (COVER, CAP)	2319	kʰept̪ok			Lid (cover)	बिर्को	Mid
+236	233	Sherpa	BEAR	1820	t̪ʰom			Bear	भालु	
+237	234	Sherpa	GHOST	1175	rendi			Ghost	भुत	Mid
+238	235	Sherpa	DUNG (ANIMAL FAECES)	2057	tɕʰja			Manure	मल	Low
+239	236	Sherpa	BREAD	1368	kuri			Bread	रोटी	High
+240	237	Sherpa	CORPSE	767	ro			Corpse	लास	Mid
+241	238	Sherpa	PIG	1337	pʰakpa			Pig	सुँगुर	Low-Rise
+242	239	Sherpa	GRAIN	605	duma			Grains	अन्न	Low-Rise
+243	240	Sherpa	STICK	1295	t̪oŋləŋ			Stick	लठ्ठी	
+244	241	Sherpa	SWEAT (SUBSTANCE)	125	ŋumn̪a			Sweat	पसिना	Mid
+245	242	Sherpa	CHEW	321	leku			To chew	चपाउनु	Mid
+246	243	Sherpa	SWALLOW	897	mit̪at̪oŋɡu			To swallow	निल्नु	
+247	244	Sherpa	THROW	1456	juku			To throw	फ्याँक्नु	Mid

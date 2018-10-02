@@ -1,7 +1,7 @@
 Phylogeny of South-Western Tibetic languages
 
 Convert existing wordlists to tsv (Sean)
-	Tsum, Nubi, Gyalsumdu
+	I
 	
 Digitise wordlists for other languages (Dubi):
 	Lowa/Lo-Ke

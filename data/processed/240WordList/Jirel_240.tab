@@ -1,0 +1,261 @@
+ID	SN	DOCULECT	CONCEPT	CONCEPTID	TRANSCRIPTION	SEGMENTS	COGID	GLOSS	SCRIPT	TONE
+1	1	Jirel	BODY	1480	dziu			Body	शरीर	Low
+2	2	Jirel	HEAD	1256	ŋɡo			Head	टाउको	Low
+3	3	Jirel	HAIR	1040	ŋɡokita			Hair	कपाल	
+4	4	Jirel	FACE	1560	tɕʰet̪			Face	अनुहार	Mid
+5	5	Jirel	EYE	1248	mik			Eye	आँखा	High
+6	6	Jirel	EAR	1247	n̪amdʑjok			Ear	कान	Mid-High
+7	7	Jirel	NOSE	1221	n̪əu			Nose	नाक	Mid-High
+8	8	Jirel	MOUTH	674	kʰa			Mouth	मुख	Mid-High
+9	9	Jirel	TOOTH	1380	sa			Teeth	दाँत	Mid-High
+10	10	Jirel	TONGUE	1205	tselak			Tongue	जिब्रो	Mid-High
+11	11	Jirel	BREAST	1402	n̪uma			Breast	स्तन	Low-Rise
+12	12	Jirel	BELLY	1251	suba			Belly	पेट	High
+13	13	Jirel	ARM OR HAND	2121	lakpa			Arm/Hand	हात	Low-Rise
+14	14	Jirel	ELBOW	981	kuin̪a			Elbow	कुइनो	
+15	15	Jirel	PALM TREE	1181	pəɹa			Palm	हत्केला	Mid-Fall
+16	16	Jirel	FINGER	1303	ndziu			Finger	औँला	
+17	17	Jirel	FINGERNAIL	1258	seɹmuk			Fingernail	नङ	High
+18	18	Jirel	LEG	1297	tʰekpa			Leg	खुट्टा	High
+19	19	Jirel	SKIN	763	kokt̪en			Skin	छाला	High
+20	20	Jirel	BONE	1394	ɹuba			Bone	हाड	Low-Rise
+21	21	Jirel	HEART	1223	ɲiŋ			Heart	मुटु	High
+22	22	Jirel	BLOOD	946	tʰak			Blood	रगत	High
+23	23	Jirel	URINE	1142	tsiŋ			Urine	पिसाब	High
+24	24	Jirel	FAECES (EXCREMENT)	675	kjakpa			Faeces	दिसा	High
+25	25	Jirel	VILLAGE	930	jul			Village	गाउँ	Low-Rise
+26	26	Jirel	HOUSE	1252	kʰamba			House	घर	Mid-High
+27	27	Jirel	ROOF	769	tsʰanu			Roof	छानो	
+28	28	Jirel	DOOR	1567	ŋɡo			Door	ढोका	Mid
+29	29	Jirel	FIREWOOD	10	ɕiŋ			Firewood	दाउरा	High
+30	30	Jirel	BROOM	245	komuk			Broom	कुचो	High
+31	31	Jirel	MORTAR CRUSHER	224	siləuta			Mortar	सिलौटो	
+32	32	Jirel	PESTLE	225	nd̪aɹd̪ok			Pestle	लोहोरो	
+33	33	Jirel	HAMMER	1481	toktoke			Hammer	हथौडा	
+34	34	Jirel	KNIFE	1352	tɕʰuɹa			Knife	चक्कु	
+35	34	Jirel	KNIFE	1352	tsəku			Knife	चक्कु	
+36	35	Jirel	AXE	677	t̪əɹi			Axe	वन्चरो	High
+37	36	Jirel	ROPE	1218	t̪ʰakpa			Rope	डोरी	Mid-High
+38	37	Jirel	THREAD	1161	ɕut̪ak			Thread	धागो	High
+39	38	Jirel	NEEDLE (FOR SEWING)	1382	kʰap			Needle	सियो	High
+40	39	Jirel	CLOTH	1616	kʰolak			Cloth	लुगा (कपडा)	Mid-High
+41	40	Jirel	RING	1374	əũtʰi			Ring	औँठी	
+42	41	Jirel	SUN	1343	ɲima			Sun	घाम	High
+43	42	Jirel	MOON	1313	nd̪aɡaɹ			Moon	चन्द्रमा	Mid
+44	43	Jirel	SKY	1732	n̪am			Sky	आकास	High
+45	44	Jirel	STAR	1430	kaɹma			Star	तारा	High
+46	45	Jirel	RAIN (RAINING)	1253	tɕʰjaɹba			Rain	वर्षा	High
+47	46	Jirel	WATER	948	tɕʰju			Water	पानी	High
+48	47	Jirel	RIVER	666	tʰaŋka			River	नदी	Mid
+49	48	Jirel	CLOUD	1489	mukpa			Cloud	बादल	High
+50	49	Jirel	LIGHTNING	1654	tsilim			Lightening	बिजुली चम्कनु	High
+51	49	Jirel	LIGHTNING	1654	tsilam			Lightening	बिजुली चम्कनु	High
+52	50	Jirel	RAINBOW	1733	ndza			Rainbow	इन्द्रेणी	Mid
+53	51	Jirel	WIND	960	hlaba			Wind	वतास	Mid
+54	52	Jirel	STONE	857	nd̪o			Stone	ढुङ्गा	Mid-High
+55	53	Jirel	PATH	2252	lam			Path	बाटो	Low
+56	54	Jirel	SAND	671	pʰesa			Sand	बालुवा	Mid
+57	55	Jirel	FIRE	221	me			Fire	आगो	Low-Rise
+58	56	Jirel	SMOKE (INHALE)	1689	t̪ʰut̪ak			Smoke	धुवाँ	Mid-High
+59	57	Jirel	ASH	646	t̪ʰala			Ash	खरानी	Mid
+60	58	Jirel	MUD	640	səbi			Mud	माटो	Mid
+61	59	Jirel	DUST	2	d̪ulo			Dust	धुलो	
+62	60	Jirel	GOLD	1369	seɹ			Gold	सुन	High
+63	61	Jirel	TREE	906	nd̪oŋbo			Tree	रुख	Mid
+64	62	Jirel	LEAF	628	ɕjomak			Leaf	पात	High
+65	63	Jirel	ROOT	670	tsapɹen			Root	जरा	
+66	64	Jirel	THORN	124	tsaŋ			Thorn	काँडो	High
+67	65	Jirel	FLOWER	239	mend̪ok			Flower	फूल	Mid-High
+68	66	Jirel	FRUIT	1507	pʰəlpʰul			Fruit	फलफुल	
+69	67	Jirel	MANGO	2398	ãp			Mango	आँप	
+70	68	Jirel	BANANA	868	ɹeŋaɕiŋ			Banana	केरा	
+71	69	Jirel	WHEAT	1077	tʰa			Wheat (husked)	गहुँ	Mid
+72	70	Jirel	BARLEY	932	ndzəu			Barley	जौ	Mid
+73	71	Jirel	RICE	926	ɕjoɹok			Rice (husked)	चामल	High
+74	72	Jirel	POTATO	593	ɹeɡe			Potato	आलु	Mid-High
+75	73	Jirel	AUBERGINE	1146	pənda			Eggplant	भन्टा	
+76	74	Jirel	PEANUT	2364	mbəd̪am			Groundnut	बदाम	
+77	75	Jirel	NUT	191	kʰuɹɕani			Chilli	खुर्सानी	
+78	76	Jirel	TURMERIC	2842	mbesaɹ			Turmeric	बेसार	
+79	77	Jirel	GARLIC	2368	ŋɡokpa			Garlic	लसुन	Mid
+80	78	Jirel	ONION	2366	pjats			Onion	प्याज	
+81	79	Jirel	CAULIFLOWER	2843	kauli			Cauliflower	काउली	
+82	80	Jirel	TOMATO	986	ŋɡolbeda			Tomato	गोलभेँडा	
+83	81	Jirel	CABBAGE	774	bənd̪a			Cabbage	बन्दा	
+84	82	Jirel	OIL (ORGANIC SUBSTANCE)	1484	məɹɡu			Oil	तेल	Mid-High
+85	83	Jirel	SALT	1274	tsʰa			Salt	नुन	High
+86	84	Jirel	MEAT	634	ɕja			Meat	मासु	High
+87	85	Jirel	FAT (OF MEAT AND FOOD)	2449	tsʰiluk			Fat (of meat)	बोसो	High
+88	86	Jirel	FISH	227	ɲa			Fish	माछा	Low-Rise
+89	87	Jirel	CHICKEN	1318	tsʰiɹbuk			Chicken	चल्ला	Mid
+90	88	Jirel	EGG	744	tsʰemend̪ok			Egg	अन्डा	
+91	88	Jirel	EGG	744	tsʰeɡoŋa			Egg	अन्डा	
+92	89	Jirel	COW	1007	pʰalaŋ			Cow	गाइ	Mid
+93	90	Jirel	BUFFALO	934	meɕja			Buffalo	भैँसी	
+94	91	Jirel	MILK	635	olen			Milk	दुध	
+95	91	Jirel	MILK	635	oma			Milk	दुध	
+96	92	Jirel	HORN (ANATOMY)	1393	ɹodʑjo			Horns	सिङ	Mid
+97	93	Jirel	TAIL	1220	ŋama			Tail	पुच्छर	High
+98	94	Jirel	GOAT	1502	ɹa			Goat	बाख्रो	Low-Rise
+99	95	Jirel	DOG	2009	ki			Dog	कुकुर	High
+100	96	Jirel	SNAKE	730	ɹul			Snake	सर्प (साँप)	Low-Rise
+101	97	Jirel	MONKEY	1350	moɹo			Monkey	बाँदर	Mid
+102	97	Jirel	MONKEY	1350	tʰaklapʰikant̪e			Monkey	बाँदर	Mid
+103	98	Jirel	MOSQUITO	1509	lamkute			Mosquito	लामखुट्टे	
+104	99	Jirel	ANT	587	tʰoŋmatsi			Ant	कमिला	
+105	100	Jirel	SPIDER	843	ŋɡwãpali			Spider	माकुरो	
+106	101	Jirel	NAME	1405	min̪			Name	नाम	Low-Rise
+107	102	Jirel	MAN	1554	mi			Man	मान्छे	Low-Rise
+108	103	Jirel	WOMAN	962	pʰemmemi			Woman	आइमाई	
+109	104	Jirel	CHILD	2099	pʰidza			Child	बच्चा	Mid
+110	105	Jirel	FATHER	1217	aba			Father	बुबा	Mid
+111	106	Jirel	MOTHER	1216	ãma			Mother	आमा	Mid
+112	107	Jirel	OLDER BROTHER	1759	adʑjo			Older brother	दाजु	Mid-High
+113	108	Jirel	YOUNGER BROTHER	1760	n̪ũwã			Younger brother	भाइ	Low-Rise
+114	109	Jirel	OLDER SISTER	1758	adzi			Older sister	दिदी	Mid-High
+115	110	Jirel	YOUNGER SISTER	1761	n̪umu			Younger sister	बहिनी	Mid-Rise
+116	111	Jirel	SON	1620	pʰudʑuŋ			Son	छोरो	
+117	112	Jirel	DAUGHTER	1357	pʰumu			Daughter	छोरी	
+118	113	Jirel	HUSBAND	1200	kʰjobo			Husband	लोग्ने (श्रीमान)	High 
+119	114	Jirel	WIFE	1199	pʰemme			Wife	स्वास्नी (श्रीमती)	
+120	115	Jirel	BOY	1366	kʰojobopidza			Boy	केटो	
+121	116	Jirel	GIRL	1646	pʰemmepidza			Girl	केटी	
+122	117	Jirel	DAY (NOT NIGHT)	1225	ɲima			Day	दिन	
+123	118	Jirel	NIGHT	1233	ŋɡwase			Night	रात	
+124	119	Jirel	MORNING	1339	ŋomu			Morning	विहान	High
+125	120	Jirel	NOON	2490	ɲimmu			Noon	मध्यान्ह	
+126	121	Jirel	EVENING	1629	ŋɡwase			Evening	साँझ	
+127	122	Jirel	YESTERDAY	1174	nd̪aŋ			Yesterday	हिजो	Mid
+128	123	Jirel	TODAY	1283	tʰəɹiŋ			Today	आज	Mid
+129	124	Jirel	TOMORROW	1329	ŋaɹo			Tomorrow	भोली	High
+130	125	Jirel	WEEK	1469	həpt̪a			Week	हप्ता (साता)	
+131	126	Jirel	MONTH	1370	nd̪awa			Month	महिना	Mid
+132	127	Jirel	YEAR	1226	lo			Year	वर्ष	Low-Rise
+133	128	Jirel	OLD	1229	ɲiŋba			Old	पुरानो	High 
+134	129	Jirel	NEW	1231	samba			New	नयाँ	High 
+135	130	Jirel	GOOD	1035	lemu			Good	राम्रो (असल)	High
+136	131	Jirel	BAD	1292	meleba			Bad	नराम्रो (खराव)	
+137	132	Jirel	WET	1726	tʰəŋɡe			Wet	चिसो	
+138	133	Jirel	DRY	1398	kombo			Dry	सुख्खा	High 
+139	134	Jirel	LONG	1203	ɹimbu			Long	लामो	Low-Rise
+140	135	Jirel	SHORT	1645	t̪ʰumma			Short	छोटो	High 
+141	136	Jirel	HOT	1286	tʰommu			Hot	तातो	
+142	137	Jirel	COLD	1287	tʰəŋɡe			Cold	चिसो	
+143	138	Jirel	RIGHT	1019	samapa			Right	दाहिने	
+144	139	Jirel	LEFT	244	d̪ebɹepa			Left	देव्रे	
+145	140	Jirel	NEAR	1942	ɲibid̪u			Near	नजिक	
+146	141	Jirel	FAR	1406	t̪ʰaɹid̪u			Far	टाढा	
+147	141	Jirel	FAR	1406	t̪ʰaɹipa			Far	टाढा	
+148	142	Jirel	BIG	1202	ndzod̪a			Big	ठुलो	Mid-High
+149	143	Jirel	SMALL	1246	tikti			Small	सानो	High
+150	144	Jirel	HEAVY	1210	tsend̪e			Heavy	गह्रौँ	
+151	145	Jirel	LIGHT (WEIGHT)	1052	jeŋɡe			Light	हलुका	High
+152	146	Jirel	ABOVE	1741	jine			Above	माथि	Low-Rise
+153	147	Jirel	DOWN OR BELOW	2094	mima			Below	तल	Mid-High
+154	148	Jirel	WHITE	1335	kaɹmu			White	सेतो	High
+155	149	Jirel	BLACK	163	naɡpo			Black	कालो	Low-Rise
+156	150	Jirel	RED	156	məɹmu			Red	रातो	Low-Rise
+157	151	Jirel	ONE	1493	nd̪okpəi			One	एक	
+158	151	Jirel	ONE	1493	tɕik			One	एक	
+159	152	Jirel	TWO	1498	ɲi			Two	दुई	High
+160	153	Jirel	THREE	492	sum			Three	तीन	High
+161	154	Jirel	FOUR	1500	ɕi			Four	चार	Low-Rise
+162	155	Jirel	FIVE	493	ŋa			Five	पाँच	High
+163	156	Jirel	SIX	1703	tʰok			Six	छ	Mid-High
+164	157	Jirel	SEVEN	1704	nd̪uin			Seven	सात	Mid-Rise
+165	158	Jirel	EIGHT	1705	ŋɡet̪			Eight	आठ	Low-Rise
+166	159	Jirel	NINE	1483	ŋɡu			Nine	नौ	Low-Rise
+167	160	Jirel	TEN	1515	tɕut̪amba			Ten	दश	
+168	161	Jirel	ELEVEN	1706	tɕutɕik			Eleven	एघार	
+169	162	Jirel	TWELVE	1707	tɕuŋɲi			Twelve	बाह्र	
+170	163	Jirel	TWENTY	1710	kʰaldʑik			Twenty	वीस	
+171	164	Jirel	HUNDRED	1634	kʰalŋa			One Hundred	एक सय	
+172	165	Jirel	WHO	1235	su			Who	को	High-Fall
+173	166	Jirel	WHAT	1236	tɕi			What	के	High-Fall
+174	167	Jirel	WHERE	1237	kʰapa			Where	कहाँ	Mid
+175	168	Jirel	WHEN	1238	n̪am			When	कहिले	Low-Rise
+176	169	Jirel	HOW MANY	822	t̪ʰoji			How many	कति	Mid-Rise
+177	170	Jirel	WHICH	727	kʰaŋ			Which	कुन	
+178	171	Jirel	THIS	1214	nd̪i			This	यो	Mid-Rise
+179	172	Jirel	THAT	78	t̪ʰe			That	त्यो	High 
+180	173	Jirel	THIS	1214	nd̪iba			These	यी	
+181	174	Jirel	THAT	78	t̪ʰeba			Those	ती	
+182	175	Jirel	SAME	200	t̪ʰokɹaŋ			Same	उही	
+183	176	Jirel	DIFFERENT	2504	kʰud̪uk			Different	फरक	
+184	177	Jirel	WHOLE	2277	ŋɡaŋe			Whole	सबै	Mid
+185	178	Jirel	BROKEN	588	tɕʰakpat̪e			Broken	फुटेको	
+186	179	Jirel	FEW	1242	tikpidʑik			Few	थोरै	
+187	180	Jirel	MANY	1198	kalbe			Many	धेरै	High
+188	181	Jirel	ALL	98	ŋɡaŋe			All	सबै	
+189	182	Jirel	EAT	1336	so			To eat	खानु	
+190	182	Jirel	EAT	1336	soba			To eat	खानु	
+191	182	Jirel	EAT	1336	sabla			To eat	खानु	
+192	183	Jirel	BITE	1403	muɹtɕja			To bite	टोक्नु	Low-Rise
+193	183	Jirel	BITE	1403	muɹab			To bite	टोक्नु	Low-Rise
+194	184	Jirel	BE HUNGRY	1533	t̪oaba			To be hungry	भोकाउनु	High
+195	184	Jirel	BE HUNGRY	1533	t̪oabalabat̪e			To be hungry	भोकाउनु	High
+196	185	Jirel	DRINK	1401	t̪ʰuŋ			To drink	पिउनु	High 
+197	185	Jirel	DRINK	1401	t̪ʰubat̪e			To drink	पिउनु	High 
+198	186	Jirel	THIRSTY	847	komba			To be thirsty	तिर्खाउनु	High 
+199	187	Jirel	SLEEP	1585	ɲol			To sleep	सुत्नु	
+200	187	Jirel	SLEEP	1585	ɲalat̪e			To sleep	सुत्नु	
+201	188	Jirel	LIE (REST)	1411	ɹilat̪e			To lie	पल्टनु	
+202	188	Jirel	LIE (REST)	1411	pəltekʰabat̪e			To lie	पल्टनु	
+203	189	Jirel	SIT	1416	d̪et̪at̪e			To sit	बस्नु	
+204	190	Jirel	GIVE	1447	mbind̪at̪e			To give	दिनु	
+205	191	Jirel	BURN	2102	tsʰikpat̪e			To burn	डढाउनु	
+206	191	Jirel	BURN	2102	tsʰikt̪uk			To burn	डढाउनु	
+207	192	Jirel	DIE	1494	ɕjapt̪e			To die	मर्नु	
+208	193	Jirel	KILL	1417	set̪at̪e			To kill	मार्नु	
+209	194	Jirel	FLY (MOVE THROUGH AIR)	1441	pʰuɹ			To fly	उड्नु	
+210	194	Jirel	FLY (MOVE THROUGH AIR)	1441	pʰuɹat̪e			To fly	उड्नु	
+211	195	Jirel	WALK	1443	kʰjom			To walk	हिँड्नु	High
+212	195	Jirel	WALK	1443	kʰjambat̪e			To walk	हिँड्नु	High
+213	196	Jirel	RUN	1519	tɕʰwabat̪e			To run	दौडिनु	
+214	197	Jirel	GO	695	ɡalat̪e			To go	जानु	
+215	197	Jirel	GO	695	ŋɡjuk			To go	जानु	
+216	198	Jirel	COME	1446	ɕjok			To come	आउनु	High
+217	199	Jirel	SPEAK	1623	mbat̪kʰabat̪e			To speak	बोल्नु	
+218	200	Jirel	LISTEN	1608	t̪ʰobat̪e			To hear/listen	सुन्नु	
+219	201	Jirel	LOOK	1819	t̪abat̪e			To look	हेर्नु	
+220	202	Jirel	I	1209	ŋa			I	म	Mid
+221	203	Jirel	THOU	1215	kʰo			You (informal)	तँ	
+223	205	Jirel	HE	1211	t̪ʰe			He	उ	Mid
+224	206	Jirel	SHE	1834	t̪ʰe			She	उनी	
+225	207	Jirel	WE (INCLUSIVE)	1131	oɹoŋ			We (inclusive)	हामी (समावेशी)	
+226	207	Jirel	WE (INCLUSIVE)	1131	ŋɡaŋe			We (inclusive)	हामी (समावेशी)	
+228	209	Jirel	YOU	1213	kʰjokjon			You (plural)	तिमीहरु	
+229	210	Jirel	THEY	817	t̪ʰeba			They	उनीहरु	
+230	211	Jirel	LOAD	1679	kʰuɹbo			Load	भारी	High
+231	212	Jirel	FLOUR	1594	pʰe			Flour (eaten as food)	पिठो	High
+232	213	Jirel	HAIL	609	seɹe			Hailstone	असिना	High
+233	214	Jirel	INTESTINES	1991	ŋɡjumak			Intestine	आन्द्रा	Mid-High
+234	215	Jirel	YARD	736	ɕjaŋka			Yard	आँगन	High
+235	216	Jirel	UPROOT	99999	pʰalat̪e			To uproot	उखेल्नु	
+236	217	Jirel	OVEN	1143	t̪ʰap			Oven	चुल्हो	High
+237	218	Jirel	HEEL	980	kuɹkutsa			Heel	कुर्कुच्चो	
+238	219	Jirel	SPADE	1176	t̪oktsi			Spade	कोदालो	High
+239	220	Jirel	HORSE	615	ŋɡoda			Horse	घोडा	
+241	222	Jirel	PLOUGH	1921	mowat̪e			To plough	जोत्नु	
+242	222	Jirel	PLOUGH	1921	mobak			To plough	जोत्नु	
+243	223	Jirel	JOIN	1743	t̪əmasuk			Bond	तमसुक	
+244	224	Jirel	BEAM	1132	d̪əlin			Beam (main wooden beam)	निदाल	
+245	225	Jirel	LEASH	2959	t̪ʰakpa			Rope used to tie animals	दाम्लो	
+246	226	Jirel	BREAD	1368	d̪aɹi			Bread	दाह्री	
+247	227	Jirel	MEASURE	1506	t̪ʰapat̪e			To measure	नाप्नु	
+248	228	Jirel	BOARD	1227	pʰəljak			Plank	फल्याक	
+249	229	Jirel	HOLE	1667	miu			Hole	प्वाल	High
+250	230	Jirel	PLOUGH (INSTRUMENT)	2154	t̪ʰoŋba			Plough (noun)	हलो	
+251	231	Jirel	LID (COVER, CAP)	2319	mbutso			Lid (cover)	बिर्को	
+252	232	Jirel	HANDLE	1254	tʰijuk			Handle	बिँड	
+253	233	Jirel	BEAR	1820	t̪om			Bear	भालु	Mid
+254	234	Jirel	GHOST	1175	ləndik			Ghost	भुत	Low-Rise
+255	235	Jirel	DUNG (ANIMAL FAECES)	2057	tɕʰja			Manure	मल	High
+256	236	Jirel	BREAD	1368	ɕjoben			Bread	रोटी	
+257	237	Jirel	CORPSE	767	ɹo			Corpse	लास	Low-Rise
+258	238	Jirel	PIG	1337	pʰakpa			Pig	सुँगुर	High
+260	240	Jirel	STICK	1295	dəndi			Stick	लठ्ठी	
+261	241	Jirel	SWEAT (SUBSTANCE)	125	tʰot̪			Sweat	पसिना	
+262	242	Jirel	CHEW	321	muɹat̪e			To chew	चपाउनु	
+263	243	Jirel	SWALLOW	897	mikt̪aŋat̪e			To swallow	निल्नु	
+264	244	Jirel	THROW	1456	kjuɹat̪e			To throw	फ्याँक्नु	

@@ -1,0 +1,261 @@
+ID	SN	DOCULECT	CONCEPT	CONCEPTID	TRANSCRIPTION	SEGMENTS	COGID	GLOSS	SCRIPT	TONE
+1	1	Lowa	BODY	1480	suʔ			Body	शरीर	Mid(-High)/(Low-)Rise
+2	2	Lowa	HEAD	1256	ŋɡo			Head	टाउको	Low
+3	2	Lowa	HEAD	1256	ŋɡowa			Head	टाउको	Low
+4	3	Lowa	HAIR	1040	ʂɹa			Hair	कपाल	(High-)Fall
+5	4	Lowa	FACE	1560	ŋot̪oŋ			Face	अनुहार	Fall-Rise
+6	5	Lowa	EYE	1248	mik			Eye	आँखा	(Mid-)Fall
+7	6	Lowa	EAR	1247	amtɕjoʔ			Ear	कान	(Mid-)Rise
+8	7	Lowa	NOSE	1221	na			Nose	नाक	High
+9	8	Lowa	MOUTH	674	kʰa			Mouth	मुख	(Mid-)Fall
+10	9	Lowa	TOOTH	1380	so			Teeth	दाँत	High
+11	10	Lowa	TONGUE	1205	tsemu			Tongue	जिब्रो	High
+12	11	Lowa	BREAST	1402	oma			Breast	स्तन	(Low-)Rise
+13	12	Lowa	BELLY	1251	pʰowa			Belly	पेट	Mid
+14	13	Lowa	ARM OR HAND	2121	laɡpa			Arm/Hand	हात	Fall-Rise
+15	14	Lowa	ELBOW	981	tamo			Elbow	कुइनो	(Low-)Rise
+16	15	Lowa	PALM TREE	1181	laɡt̪ʰil			Palm	हत्केला	
+17	15	Lowa	PALM TREE	1181	laɡt̪ʰi			Palm	हत्केला	
+18	16	Lowa	FINGER	1303	ndzu			Finger	औँला	Low
+19	17	Lowa	FINGERNAIL	1258	semo			Fingernail	नङ	Mid 
+20	18	Lowa	LEG	1297	kaŋpa			Leg	खुट्टा	High
+21	19	Lowa	SKIN	763	pawo			Skin	छाला	High
+22	20	Lowa	BONE	1394	ɹuko			Bone	हाड	Fall-Rise
+23	21	Lowa	HEART	1223	ɲiŋ			Heart	मुटु	High
+24	22	Lowa	BLOOD	946	tʰak			Blood	रगत	Mid
+25	23	Lowa	URINE	1142	tsiŋ			Urine	पिसाब	High
+26	24	Lowa	FAECES (EXCREMENT)	675	kjakpa			Faeces	दिसा	(Mid-)High
+27	24	Lowa	FAECES (EXCREMENT)	675	tsa			Faeces	दिसा	High-Fall
+28	25	Lowa	VILLAGE	930	toŋsep			Village	गाउँ	(Low-)Rise
+29	26	Lowa	HOUSE	1252	kʰaŋpa			House	घर	Mid
+30	27	Lowa	ROOF	769	t̪aŋ			Roof	छानो	High-Fall
+31	28	Lowa	DOOR	1567	ko			Door	ढोका	Mid
+32	29	Lowa	FIREWOOD	10	ɕiŋ			Firewood	दाउरा	High
+33	30	Lowa	BROOM	245	tɕʰjaɡma			Broom	कुचो	Mid
+34	31	Lowa	MORTAR CRUSHER	224	t̪ympo			Mortar	सिलौटो	High
+35	32	Lowa	PESTLE	225	jyt̪yn			Pestle	लोहोरो	Fall-Rise
+36	33	Lowa	HAMMER	1481	t̪ʰowa			Hammer	हथौडा	Mid
+37	34	Lowa	KNIFE	1352	tʰi			Knife	चक्कु	(Mid-)Rise
+38	35	Lowa	AXE	677	t̪iɾi			Axe	वन्चरो	High
+39	36	Lowa	ROPE	1218	t̪ʰaɡpa			Rope	डोरी	Mid
+40	37	Lowa	THREAD	1161	kupa			Thread	धागो	High
+41	38	Lowa	NEEDLE (FOR SEWING)	1382	kʰap			Needle	सियो	High
+42	39	Lowa	CLOTH	1616	kolaʔ			Cloth	लुगा (कपडा)	(Low-)Rise
+43	40	Lowa	RING	1374	set̪op			Ring	औँठी	High
+44	41	Lowa	SUN	1343	ɲima			Sun	घाम	(Low-)Rise
+45	42	Lowa	MOON	1313	nd̪a			Moon	चन्द्रमा	(Low-)Rise
+46	43	Lowa	SKY	1732	nam			Sky	आकास	High
+47	44	Lowa	STAR	1430	kaɹma			Star	तारा	Mid
+48	45	Lowa	RAIN (RAINING)	1253	tɕʰjawa			Rain	वर्षा	Mid
+49	46	Lowa	WATER	948	tɕʰju			Water	पानी	(Mid-)High
+50	47	Lowa	RIVER	666	tsaŋpo			River	नदी	High
+51	48	Lowa	CLOUD	1489	ʂɹiŋpa			Cloud	बादल	High
+52	49	Lowa	LIGHTNING	1654	lokmaɹ			Lightening	बिजुली चम्कनु	High
+53	50	Lowa	RAINBOW	1733	ndʑja			Rainbow	इन्द्रेणी	Mid
+54	51	Lowa	WIND	960	luŋ			Wind	वतास	High
+55	51	Lowa	WIND	960	luŋpo			Wind	वतास	High
+56	52	Lowa	STONE	857	t̪okoŋ			Stone	ढुङ्गा	Fall-Rise
+57	53	Lowa	PATH	2252	lam			Path	बाटो	(Low-)Rise
+58	54	Lowa	SAND	671	pema			Sand	बालुवा	Fall-Rise
+59	55	Lowa	FIRE	221	me			Fire	आगो	(Low-)Rise
+60	56	Lowa	SMOKE (INHALE)	1689	t̪ipa			Smoke	धुवाँ	(Low-)Rise
+61	57	Lowa	ASH	646	koɡt̪ʰa			Ash	खरानी	Fall-Rise
+62	58	Lowa	MUD	640	n̪d̪ampak			Mud	माटो	(Low-)Rise
+63	58	Lowa	MUD	640	sa			Mud	माटो	High-Fall
+64	59	Lowa	DUST	2	t̪ʰala			Dust	धुलो	Mid
+65	60	Lowa	GOLD	1369	seɾ			Gold	सुन	High
+66	61	Lowa	TREE	906	t̪oŋbo			Tree	रुख	Fall-Rise
+67	62	Lowa	LEAF	628	loma			Leaf	पात	Fall-Rise
+68	63	Lowa	ROOT	670	tsawa			Root	जरा	High-Fall
+69	64	Lowa	THORN	124	tsʰeɾma			Thorn	काँडो	High
+70	65	Lowa	FLOWER	239	ment̪o			Flower	फूल	Fall-Rise
+71	66	Lowa	FRUIT	1507	ɕiŋt̪oʔ			Fruit	फलफुल	Fall-Rise
+72	67	Lowa	MANGO	2398	ãm			Mango	आँप	Mid
+73	68	Lowa	BANANA	868	keɾa			Banana	केरा	High
+74	69	Lowa	WHEAT	1077	to			Wheat (husked)	गहुँ	Mid-Fall
+75	70	Lowa	BARLEY	932	ne			Barley	जौ	(Low-)Rise
+76	71	Lowa	RICE	926	nde			Rice (husked)	चामल	Mid
+77	72	Lowa	POTATO	593	alok			Potato	आलु	Mid
+78	73	Lowa	AUBERGINE	1146	t̪oluma			Eggplant	भन्टा	
+79	74	Lowa	PEANUT	2364	sat̪aɾ			Groundnut	बदाम	High
+80	75	Lowa	NUT	191	maɾtsa			Chilli	खुर्सानी	Mid
+81	76	Lowa	TURMERIC	2842	besaɾ			Turmeric	बेसार	
+82	77	Lowa	GARLIC	2368	koɡpa			Garlic	लसुन	(Low-)Rise
+83	78	Lowa	ONION	2366	tsoŋ			Onion	प्याज	High
+84	79	Lowa	CAULIFLOWER	2843	pʰulkopi			Cauliflower	काउली	
+85	80	Lowa	TOMATO	986	tomato			Tomato	गोलभेँडा	
+86	81	Lowa	CABBAGE	774	ŋɡopi			Cabbage	बन्दा	
+87	82	Lowa	OIL (ORGANIC SUBSTANCE)	1484	muku			Oil	तेल	(Low-)Rise
+88	82	Lowa	OIL (ORGANIC SUBSTANCE)	1484	num			Oil	तेल	High
+89	83	Lowa	SALT	1274	tsʰa			Salt	नुन	High-Fall
+90	84	Lowa	MEAT	634	ɕja			Meat	मासु	High-Fall
+91	85	Lowa	FAT (OF MEAT AND FOOD)	2449	tsʰiluk			Fat (of meat)	बोसो	High
+92	86	Lowa	FISH	227	ɲa			Fish	माछा	(Low-)Rise
+93	87	Lowa	CHICKEN	1318	tɕjamodʑiptʰuk			Chicken	चल्ला	
+94	88	Lowa	EGG	744	koŋa			Egg	अन्डा	(Low-)Rise
+95	89	Lowa	COW	1007	palaŋ			Cow	गाइ	(Low-)Rise
+96	90	Lowa	BUFFALO	934	maji			Buffalo	भैँसी	(Low-)Rise
+97	91	Lowa	MILK	635	oma			Milk	दुध	(Low-)Rise 
+98	92	Lowa	HORN (ANATOMY)	1393	ɹakjoʔ			Horns	सिङ	Fall-Rise 
+99	93	Lowa	TAIL	1220	ŋama			Tail	पुच्छर	High
+100	94	Lowa	GOAT	1502	ɹa			Goat	बाख्रो	(Low-)Rise
+101	95	Lowa	DOG	2009	kʰi			Dog	कुकुर	High
+102	96	Lowa	SNAKE	730	tu			Snake	सर्प (साँप)	(Low-)Rise
+103	96	Lowa	SNAKE	730	tʰu			Snake	सर्प (साँप)	(Low-)Rise
+104	97	Lowa	MONKEY	1350	piu			Monkey	बाँदर	High
+105	98	Lowa	MOSQUITO	1509	t̪uŋdaŋ			Mosquito	लामखुट्टे	Fall-Rise
+106	99	Lowa	ANT	587	mbudaɲa			Ant	कमिला	
+107	100	Lowa	SPIDER	843	mbut̪om			Spider	माकुरो	
+108	101	Lowa	NAME	1405	miŋ			Name	नाम	(Low-)Rise
+109	102	Lowa	MAN	1554	mi			Man	मान्छे	(Low-)Rise
+110	103	Lowa	WOMAN	962	keme			Woman	आइमाई	High
+111	104	Lowa	CHILD	2099	tu			Child	बच्चा	High 
+112	105	Lowa	FATHER	1217	ake			Father	बुबा	(Mid-)Rise
+113	106	Lowa	MOTHER	1216	ama			Mother	आमा	Mid
+114	107	Lowa	OLDER BROTHER	1759	adʑo			Older brother	दाजु	(Mid-)Rise
+115	108	Lowa	YOUNGER BROTHER	1760	nu			Younger brother	भाइ	(Low-)Rise
+116	109	Lowa	OLDER SISTER	1758	idʑi			Older sister	दिदी	Mid
+117	110	Lowa	YOUNGER SISTER	1761	numu			Younger sister	बहिनी	(Low-)Rise
+118	111	Lowa	SON	1620	pidza			Son	छोरो	Fall-Rise
+119	112	Lowa	DAUGHTER	1357	pomo			Daughter	छोरी	(Low-)Rise
+120	113	Lowa	HUSBAND	1200	kʰjoɡa			Husband	लोग्ने (श्रीमान)	Mid
+121	114	Lowa	WIFE	1199	keme			Wife	स्वास्नी (श्रीमती)	High
+122	115	Lowa	BOY	1366	pidza			Boy	केटो	Fall-Rise
+123	116	Lowa	GIRL	1646	pomo			Girl	केटी	(Low-)Rise
+124	117	Lowa	DAY (NOT NIGHT)	1225	ɲima			Day	दिन	(Low-)Rise
+125	118	Lowa	NIGHT	1233	tsʰemo			Night	रात	Mid
+126	119	Lowa	MORNING	1339	ŋat̪o			Morning	विहान	High
+127	120	Lowa	NOON	2490	ɲiŋɡuŋ			Noon	मध्यान्ह	Mid
+128	121	Lowa	EVENING	1629	komo			Evening	साँझ	(Low-)Rise
+129	122	Lowa	YESTERDAY	1174	nd̪aŋ			Yesterday	हिजो	(Mid-)Rise
+130	123	Lowa	TODAY	1283	t̪iɾiŋ			Today	आज	(Low-)Rise
+131	124	Lowa	TOMORROW	1329	ŋeto			Tomorrow	भोली	High
+132	125	Lowa	WEEK	1469	t̪yntʰaʔ			Week	हप्ता (साता)	
+133	126	Lowa	MONTH	1370	nd̪awa			Month	महिना	(Low-)Rise
+134	127	Lowa	YEAR	1226	lo			Year	वर्ष	Low
+135	128	Lowa	OLD	1229	ɲiŋpa			Old	पुरानो	(Mid-)High
+136	129	Lowa	NEW	1231	sawa			New	नयाँ	Mid
+137	130	Lowa	GOOD	1035	ka			Good	राम्रो (असल)	(Low-)Rise
+138	130	Lowa	GOOD	1035	saŋa			Good	राम्रो (असल)	(Low-)Rise
+139	131	Lowa	BAD	1292	a			Bad	नराम्रो (खराव)	Mid
+140	131	Lowa	BAD	1292	ŋempa			Bad	नराम्रो (खराव)	(Low-)Rise
+141	132	Lowa	WET	1726	taŋa			Wet	चिसो	(Low-)Rise
+142	133	Lowa	DRY	1398	kampo			Dry	सुख्खा	High
+143	134	Lowa	LONG	1203	ɹiŋa			Long	लामो	(Low-)Rise
+144	135	Lowa	SHORT	1645	t̪uŋwa			Short	छोटो	(Mid-)High
+145	136	Lowa	HOT	1286	tsʰa			Hot	तातो	High
+146	137	Lowa	COLD	1287	taɡmo			Cold	चिसो	(Low-)Rise
+147	138	Lowa	RIGHT	1019	jewa			Right	दाहिने	High
+148	139	Lowa	LEFT	244	jømpa			Left	देव्रे	High
+149	140	Lowa	NEAR	1942	ŋe			Near	नजिक	(Low-)Rise
+150	141	Lowa	FAR	1406	t̪ʰaɡɾiŋa			Far	टाढा	
+151	142	Lowa	BIG	1202	tsʰe			Big	ठुलो	High
+152	143	Lowa	SMALL	1246	tɕuŋwa			Small	सानो	High
+153	144	Lowa	HEAVY	1210	ndze			Heavy	गह्रौँ	Mid
+154	145	Lowa	LIGHT (WEIGHT)	1052	jaŋa			Light	हलुका	(Low-)Rise
+155	146	Lowa	ABOVE	1741	t̪ʰøʔ			Above	माथि	High
+156	147	Lowa	DOWN OR BELOW	2094	meʔ			Below	तल	High
+157	148	Lowa	WHITE	1335	kawo			White	सेतो	Mid
+158	149	Lowa	BLACK	163	naɡpo			Black	कालो	Fall-Rise
+159	150	Lowa	RED	156	mawo			Red	रातो	High
+160	151	Lowa	ONE	1493	tɕik			One	एक	High
+161	152	Lowa	TWO	1498	ɲi			Two	दुई	High
+162	153	Lowa	THREE	492	sum			Three	तीन	High
+163	154	Lowa	FOUR	1500	ɕi			Four	चार	(Low-)Rise
+164	155	Lowa	FIVE	493	ŋa			Five	पाँच	Mid
+165	156	Lowa	SIX	1703	tuk			Six	छ	Mid
+166	156	Lowa	SIX	1703	tʰɹuk			Six	छ	Mid
+167	157	Lowa	SEVEN	1704	t̪yn			Seven	सात	(Low-)Rise
+168	158	Lowa	EIGHT	1705	ke			Eight	आठ	Mid
+169	159	Lowa	NINE	1483	ku			Nine	नौ	(Low-)Rise
+170	160	Lowa	TEN	1515	tɕu			Ten	दश	High
+171	161	Lowa	ELEVEN	1706	tɕuɡtɕik			Eleven	एघार	
+172	162	Lowa	TWELVE	1707	tɕuɲi			Twelve	बाह्र	
+173	163	Lowa	TWENTY	1710	ɲidʑu			Twenty	वीस	
+174	164	Lowa	HUNDRED	1634	kjat̪ʰampa			One Hundred	एक सय	
+175	165	Lowa	WHO	1235	su			Who	को	High
+176	166	Lowa	WHAT	1236	ki			What	के	(Low-)Rise
+177	167	Lowa	WHERE	1237	karu			Where	कहाँ	(low-)Rise
+178	168	Lowa	WHEN	1238	nam			When	कहिले	(Low-)Rise
+179	169	Lowa	HOW MANY	822	kantɕø			How many	कति	Fall-Rise
+180	170	Lowa	WHICH	727	kʰiŋɡo			Which	कुन	
+181	170	Lowa	WHICH	727	kiŋɡo			Which	कुन	
+182	171	Lowa	THIS	1214	nd̪i			This	यो	Mid
+183	172	Lowa	THAT	78	jy			That	त्यो	(Low-)Rise
+184	172	Lowa	THAT	78	wy			That	त्यो	(Low-)Rise
+185	173	Lowa	THIS	1214	nd̪ekja			These	यी	
+186	174	Lowa	THAT	78	jøkja			Those	ती	
+187	174	Lowa	THAT	78	wøkja			Those	ती	
+188	175	Lowa	SAME	200	tɕikpa			Same	उही	
+189	176	Lowa	DIFFERENT	2504	mitɕikpa			Different	फरक	
+190	177	Lowa	WHOLE	2277	kiɾi			Whole	सबै	(Low-)Rise
+191	177	Lowa	WHOLE	2277	kaŋpo			Whole	सबै	(Low-)Rise
+192	178	Lowa	BROKEN	588	tɕʰaɡtɕa			Broken	फुटेको	
+193	179	Lowa	FEW	1242	ɲuŋwa			Few	थोरै	(Low-)Rise
+194	180	Lowa	MANY	1198	maŋa			Many	धेरै	(Low-)Rise
+195	181	Lowa	ALL	98	kiɾi			All	सबै	
+196	182	Lowa	EAT	1336	saje			To eat	खानु	(Low-)Rise
+197	183	Lowa	BITE	1403	soɡjapje			To bite	टोक्नु	
+198	183	Lowa	BITE	1403	mukje			To bite	टोक्नु	
+199	184	Lowa	BE HUNGRY	1533	nd̪okje			To be hungry	भोकाउनु	
+200	185	Lowa	DRINK	1401	t̪ʰuŋje			To drink	पिउनु	Mid
+201	186	Lowa	THIRSTY	847	komje			To be thirsty	तिर्खाउनु	Mid 
+202	187	Lowa	SLEEP	1585	ɲaje			To sleep	सुत्नु	(Low-)Rise
+203	188	Lowa	LIE (REST)	1411	tʰelaɲaje			To lie	पल्टनु	
+204	189	Lowa	SIT	1416	t̪eje			To sit	बस्नु	(Low-)Rise
+205	190	Lowa	GIVE	1447	t̪eɾje			To give	दिनु	(High-)Fall
+206	191	Lowa	BURN	2102	tɕʰikje			To burn	डढाउनु	High
+207	192	Lowa	DIE	1494	ɕije			To die	मर्नु	Mid
+208	193	Lowa	KILL	1417	seje			To kill	मार्नु	Mid
+209	194	Lowa	FLY (MOVE THROUGH AIR)	1441	pʰuɾje			To fly	उड्नु	High
+210	195	Lowa	WALK	1443	ndoje			To walk	हिँड्नु	Mid
+211	196	Lowa	RUN	1519	paŋt̪aŋje			To run	दौडिनु	
+212	197	Lowa	GO	695	ndoje			To go	जानु	
+213	198	Lowa	COME	1446	uŋje			To come	आउनु	(Low-)Rise
+214	199	Lowa	SPEAK	1623	naje			To speak	बोल्नु	High
+215	200	Lowa	LISTEN	1608	ɲenje			To hear/listen	सुन्नु	(Low-)Rise
+216	201	Lowa	LOOK	1819	nd̪aje			To look	हेर्नु	Mid
+217	202	Lowa	I	1209	ŋa			I	म	Low
+218	203	Lowa	THOU	1215	kʰøʔ			You (informal)	तँ	High
+219	204	Lowa	YOU (FORMAL ADDRESS)	2844	kʰeɾaŋ			You (formal)	तपाइँ	Mid
+220	205	Lowa	HE	1211	kʰo			He	उ	High
+221	206	Lowa	SHE	1834	mo			She	उनी	(Low-)Rise
+222	207	Lowa	WE (INCLUSIVE)	1131	woɾoŋ			We (inclusive)	हामी (समावेशी)	(Low-)Rise
+223	208	Lowa	WE (EXCLUSIVE)	1130	jekja			We (exclusive)	हामी (असमावेशी)	(Low-)Rise
+224	209	Lowa	YOU	1213	kʰekja			You (plural)	तिमीहरु	
+225	210	Lowa	THEY	817	kʰoŋkja			They	उनीहरु	
+226	211	Lowa	LOAD	1679	kʰu			Load	भारी	High
+227	212	Lowa	FLOUR	1594	tsampa			Flour (eaten as food)	पिठो	(High-)Fall
+228	213	Lowa	HAIL	609	seɾa			Hailstone	असिना	High
+229	214	Lowa	INTESTINES	1991	kjuma			Intestine	आन्द्रा	(Mid-)Rise
+230	215	Lowa	YARD	736	jəku			Yard	आँगन	High
+231	216	Lowa	UPROOT	99999	pije			To uproot	उखेल्नु	High
+232	217	Lowa	OVEN	1143	t̪ʰap			Oven	चुल्हो	High
+233	218	Lowa	HEEL	980	t̪iŋpa			Heel	कुर्कुच्चो	High
+234	219	Lowa	SPADE	1176	t̪oktse			Spade	कोदालो	(High-)Fall
+235	220	Lowa	HORSE	615	t̪a			Horse	घोडा	(High-)Fall
+236	221	Lowa	LOAD	1679	kʰu			Load	भारी	
+237	222	Lowa	PLOUGH	1921	moje			To plough	जोत्नु	High
+238	223	Lowa	JOIN	1743	kenka			Bond	तमसुक	(Low-)Rise
+239	224	Lowa	BEAM	1132	t̪uŋma			Beam (main wooden beam)	निदाल	(Mid-)Rise
+240	225	Lowa	LEASH	2959	t̪ʰaɡpa			Rope used to tie animals	दाम्लो	Mid
+241	226	Lowa	BREAD	1368	makɾa			Bread	दाह्री	Mid
+242	227	Lowa	MEASURE	1506	tsʰeɡjabje			To measure	नाप्नु	
+243	228	Lowa	BOARD	1227	paŋlep			Plank	फल्याक	(High-)Fall
+244	229	Lowa	HOLE	1667	miu			Hole	प्वाल	High
+245	229	Lowa	HOLE	1667	miɡzaŋ			Hole	प्वाल	High
+246	230	Lowa	PLOUGH (INSTRUMENT)	2154	t̪ʰoŋpa			Plough (noun)	हलो	High
+247	231	Lowa	LID (COVER, CAP)	2319	kʰabtɕø			Lid (cover)	बिर्को	Mid
+248	232	Lowa	HANDLE	1254	jowa			Handle	बिँड	(Low-)Rise
+249	233	Lowa	BEAR	1820	t̪om			Bear	भालु	Mid
+250	234	Lowa	GHOST	1175	nde			Ghost	भुत	Low
+251	235	Lowa	DUNG (ANIMAL FAECES)	2057	ly			Manure	मल	Mid
+252	236	Lowa	BREAD	1368	kjaŋ			Bread	रोटी	(Low-)Rise
+253	237	Lowa	CORPSE	767	ɹo			Corpse	लास	(Low-)Rise
+254	238	Lowa	PIG	1337	pʰak			Pig	सुँगुर	High
+255	239	Lowa	GRAIN	605	ndu			Grains	अन्न	Mid
+256	240	Lowa	STICK	1295	pekjoʔ			Stick	लठ्ठी	(Low-)Rise
+257	241	Lowa	SWEAT (SUBSTANCE)	125	ŋunak			Sweat	पसिना	High
+258	242	Lowa	CHEW	321	leje			To chew	चपाउनु	Mid
+259	243	Lowa	SWALLOW	897	miɡje			To swallow	निल्नु	(Low-)Rise
+260	244	Lowa	THROW	1456	juɡje			To throw	फ्याँक्नु	Mid
