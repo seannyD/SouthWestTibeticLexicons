@@ -1,0 +1,1567 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	IPA	COUNTERPART	SOURCE	TOKENS	COGID	OLDCOG	SEGMENTS	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	DUPLICATES
+#
+28154	Tibetan_Lhasa	ABOVE	jɛ	over / above	OLD	j ɛ	198	198	j ɛ	6 7	AX	JE	4	4.J.C 4.E.V	2.0 1.5	0
+28155	Tibetan_Lhasa	ABOVE	oŋla	over / above	OLD	o ŋ l a	1035	1035	o ŋ l a	7 4 5 7	XBCZ	UNLA	4	4.U.V 4.N.C 4.L.C 4.A.V	1.5 1.75 1.5 0.8	0
+29810	Tibetan_Batang	ABOVE	jaʔ	over / above	OLD	j a ʔ	198	198	j a ʔ	6 7 1	AXN	JAH	3	3.J.C 3.A.V 3.H.c	2.0 1.5 0.8	0
+31766	rGyalrong_Maerkang	ABOVE	wupri	over / above	OLD	w u p r i	2290	2290	w u p r i	6 7 1 5 7	AXBCZ	WYPRI	1	1.W.C 1.Y.V 1.P.C 1.R.C 1.I.V	2.0 1.5 1.75 1.5 0.8	0
+32401	Tibetan_Xiahe	ABOVE	janar	over / above	OLD	j a n a r	198	198	j a n a r	6 7 4 7 5	AXBYN	JANAR	5	5.J.C 5.A.V 5.N.C 5.A.V 5.R.c	2.0 1.5 1.75 1.3 0.8	0
+#
+27455	Tibetan_Xiahe	ALL	hano	all / everything	OLD	h a n o	5662	5662	h a n o	3 7 4 7	AXBZ	HANU	5	5.H.C 5.A.V 5.N.C 5.U.V	2.0 1.5 1.75 0.8	0
+27994	rGyalrong_Maerkang	ALL	kəᴇt	all / everything	OLD	k ə ᴇ t	3969	3969	k əᴇ t	1 7 1	AXN	KET	1	1.K.C 1.E.V 1.T.c	2.0 1.5 0.8	0
+28332	Tibetan_Lhasa	ALL	aŋma	all / everything	OLD	a ŋ m a	5663	5663	a ŋ m a	7 4 4 7	XMBZ	ANMA	4	4.A.V 4.N.c 4.M.C 4.A.V	1.5 1.1 1.75 0.8	0
+29950	Tibetan_Batang	ALL	jɛʔ	all / everything	OLD	j ɛ ʔ	5664	5664	j ɛ ʔ	6 7 1	AXN	JEH	3	3.J.C 3.E.V 3.H.c	2.0 1.5 0.8	0
+31326	Tibetan_Lhasa	ALL	kaŋka	all / everything	OLD	k a ŋ k a	5665	5665	k a ŋ k a	1 7 4 1 7	AXMBZ	KANKA	4	4.K.C 4.A.V 4.N.c 4.K.C 4.A.V	2.0 1.5 1.1 1.75 0.8	0
+34717	Tibetan_Alike	ALL	aŋmæ	all / everything	OLD	a ŋ m æ	5663	5663	a ŋ m æ	7 4 4 7	XMBZ	ANME	2	2.A.V 2.N.c 2.M.C 2.E.V	1.5 1.1 1.75 0.8	0
+#
+27907	Tibetan_Lhasa	ANT	ma	ant	OLD	m a	2954	2954	m a	4 7	AX	MA	4	4.M.C 4.A.V	2.0 1.5	0
+24891	Tibetan_Xiahe	ANT	mbəaχma	ant	OLD	m b ə a χ m a	2954	2954	m b əa χ m a	4 1 7 3 4 7	ACYBCZ	MPEGMA	5	5.M.C 5.P.C 5.E.V 5.G.C 5.M.C 5.A.V	2.0 1.5 1.3 1.75 1.5 0.8	0
+27592	rGyalrong_Maerkang	ANT	orok	ant	OLD	o r o k	2954	2954	o r o k	7 5 7 1	XBYN	URUK	1	1.U.V 1.R.C 1.U.V 1.K.c	1.5 1.75 1.3 0.8	0
+27825	Tibetan_Alike	ANT	okmæ	ant	OLD	o k m æ	2954	2954	o k m æ	7 1 4 7	XBCZ	UKME	2	2.U.V 2.K.C 2.M.C 2.E.V	1.5 1.75 1.5 0.8	0
+29534	Tibetan_Batang	ANT	aoʔuma	ant	OLD	a o ʔ u m a	2954	2954	ao ʔ u m a	7 1 7 4 7	XBYBZ	AHYMA	3	3.A.V 3.H.C 3.Y.V 3.M.C 3.A.V	1.5 1.75 1.3 1.75 0.8	0
+#
+27392	rGyalrong_Maerkang	ARMPIT	tɑpjɑkᴇ	armpit	OLD	t ɑ p j ɑ k ᴇ	3172	3172	t ɑ p j ɑ k ᴇ	1 7 1 6 7 1 7	AXBCYBZ	TAPJAKE	1	1.T.C 1.A.V 1.P.C 1.J.C 1.A.V 1.K.C 1.E.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	0
+27688	Tibetan_Lhasa	ARMPIT	uŋ	armpit	OLD	u ŋ	140	140	u ŋ	7 4	XN	YN	4	4.Y.V 4.N.c	1.5 0.8	0
+31238	Tibetan_Batang	ARMPIT	ĩkũ	armpit	OLD	ĩ k ũ	140	140	ĩ k ũ	7 1 7	XBZ	IKY	3	3.I.V 3.K.C 3.Y.V	1.5 1.75 0.8	0
+31965	Tibetan_Xiahe	ARMPIT	anjoχ	armpit	OLD	a n j o χ	140	140	a n j o χ	7 4 6 7 3	XBCYN	ANJUG	5	5.A.V 5.N.C 5.J.C 5.U.V 5.G.c	1.5 1.75 1.5 1.3 0.8	0
+34103	Tibetan_Alike	ARMPIT	nan	armpit	OLD	n a n	140	140	n a n	4 7 4	AXN	NAN	2	2.N.C 2.A.V 2.N.c	2.0 1.5 0.8	0
+#
+28052	rGyalrong_Maerkang	BAD	mɑkəsnɑ	bad	OLD	m ɑ k ə s n ɑ	999	999	m ɑ k ə s n ɑ	4 7 1 7 3 4 7	AXBYBCZ	MAKESNA	1	1.M.C 1.A.V 1.K.C 1.E.V 1.S.C 1.N.C 1.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	0
+28407	Tibetan_Lhasa	BAD	ŋpo	bad	OLD	ŋ p o	245	245	ŋ p o	4 1 7	ACZ	NPU	4	4.N.C 4.P.C 4.U.V	2.0 1.5 0.8	0
+28408	Tibetan_Lhasa	BAD	tuko	bad	OLD	t u k o	579	579	t u k o	1 7 1 7	AXBZ	TYKU	4	4.T.C 4.Y.V 4.K.C 4.U.V	2.0 1.5 1.75 0.8	0
+30028	Tibetan_Batang	BAD	dupu	bad	OLD	d u p u	579	579	d u p u	1 7 1 7	AXBZ	TYPY	3	3.T.C 3.Y.V 3.P.C 3.Y.V	2.0 1.5 1.75 0.8	0
+30029	Tibetan_Batang	BAD	ɕɑudɛʔ	bad	OLD	ɕ ɑ u d ɛ ʔ	2316	2316	ɕ ɑu d ɛ ʔ	3 7 1 7 1	AXBYN	SATEH	3	3.S.C 3.A.V 3.T.C 3.E.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+32606	Tibetan_Xiahe	BAD	aχama	bad	OLD	a χ a m a	2482	2482	a χ a m a	7 3 7 4 7	XBYBZ	AGAMA	5	5.A.V 5.G.C 5.A.V 5.M.C 5.A.V	1.5 1.75 1.3 1.75 0.8	0
+32607	Tibetan_Xiahe	BAD	ŋan	bad	OLD	ŋ a n	245	245	ŋ a n	4 7 4	AXN	NAN	5	5.N.C 5.A.V 5.N.c	2.0 1.5 0.8	0
+35418	Tibetan_Alike	BAD	ŋanbæ	bad	OLD	ŋ a n b æ	245	245	ŋ a n b æ	4 7 4 1 7	AXMBZ	NANPE	2	2.N.C 2.A.V 2.N.c 2.P.C 2.E.V	2.0 1.5 1.1 1.75 0.8	0
+#
+27613	rGyalrong_Maerkang	BAMBOO	ɟjo	bamboo	OLD	ɟ j o	821	821	ɟ j o	1 6 7	ACX	CJU	1	1.C.C 1.J.C 1.U.V	2.0 1.5 1.5	0
+27926	Tibetan_Lhasa	BAMBOO	ȵuŋmə	bamboo	OLD	ȵ u ŋ m ə	952	952	ȵ u ŋ m ə	4 7 4 4 7	AXMBZ	NYNME	4	4.N.C 4.Y.V 4.N.c 4.M.C 4.E.V	2.0 1.5 1.1 1.75 0.8	0
+29552	Tibetan_Batang	BAMBOO	ȵuma	bamboo	OLD	ȵ u m a	952	952	ȵ u m a	4 7 4 7	AXBZ	NYMA	3	3.N.C 3.Y.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	0
+31090	Tibetan_Alike	BAMBOO	rukmæ	bamboo	OLD	r u k m æ	952	952	r u k m æ	5 7 1 4 7	AXBCZ	RYKME	2	2.R.C 2.Y.V 2.K.C 2.M.C 2.E.V	2.0 1.5 1.75 1.5 0.8	0
+32169	Tibetan_Xiahe	BAMBOO	hȵɯxma	bamboo	OLD	h ȵ ɯ x m a	952	952	h ȵ ɯ x m a	3 4 7 3 4 7	ACXBCZ	HNIGMA	5	5.H.C 5.N.C 5.I.V 5.G.C 5.M.C 5.A.V	2.0 1.5 1.5 1.75 1.5 0.8	0
+#
+27936	Tibetan_Lhasa	BARLEY	s	barley	OLD	s	6025	6025	s	3	A	S	4	4.S.C	2.0	0
+27937	Tibetan_Lhasa	BARLEY	sowa	barley	OLD	s o w a	6025	6025	s o w a	3 7 6 7	AXBZ	SUWA	4	4.S.C 4.U.V 4.W.C 4.A.V	2.0 1.5 1.75 0.8	0
+29569	Tibetan_Batang	BARLEY	ɑ	barley	OLD	ɑ	6025	6025	ɑ	7	X	A	3	3.A.V	1.5	0
+34933	rGyalrong_Maerkang	BARLEY	wərjk	barley	OLD	w ə r j k	4037	4037	w ə r j k	6 7 5 6 1	AXBYN	WERJK	1	1.W.C 1.E.V 1.R.C 1.J.V 1.K.c	2.0 1.5 1.75 1.3 0.8	0
+#
+28072	rGyalrong_Maerkang	BE ALIVE	kəsəso	living (adj.)	OLD	k ə s ə s o	280	280	k ə s ə s o	1 7 3 7 3 7	AXBYBZ	KESESU	1	1.K.C 1.E.V 1.S.C 1.E.V 1.S.C 1.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+28437	Tibetan_Lhasa	BE ALIVE	spa	living (adj.)	OLD	s p a	280	280	s p a	3 1 7	ACZ	SPA	4	4.S.C 4.P.C 4.A.V	2.0 1.5 0.8	1
+31548	Tibetan_Xiahe	BE ALIVE	sombo	living (adj.)	OLD	s o m b o	280	280	s o m b o	3 7 4 1 7	AXMBZ	SUMPU	5	5.S.C 5.U.V 5.M.c 5.P.C 5.U.V	2.0 1.5 1.1 1.75 0.8	0
+33913	Tibetan_Batang	BE ALIVE	smbu	living (adj.)	OLD	s m b u	280	280	s m b u	3 4 1 7	AXBZ	SMPY	3	3.S.C 3.M.V 3.P.C 3.Y.V	2.0 1.5 1.75 0.8	0
+34803	Tibetan_Alike	BE ALIVE	ɣsombo	living (adj.)	OLD	ɣ s o m b o	280	280	ɣ s o m b o	3 3 7 4 1 7	ACYMBZ	GSUMPU	2	2.G.C 2.S.C 2.U.V 2.M.c 2.P.C 2.U.V	2.0 1.5 1.3 1.1 1.75 0.8	0
+#
+29999	Tibetan_Batang	BE LATE	ɪ	late	OLD	ɪ	2277	2277	ɪ	7	X	I	3	3.I.V	1.5	1
+32588	Tibetan_Xiahe	BE LATE	ngor	late	OLD	n g o r	136	136	n g o r	4 1 7 5	ACYN	NKUR	5	5.N.C 5.K.C 5.U.V 5.R.c	2.0 1.5 1.3 0.8	0
+32893	rGyalrong_Maerkang	BE LATE	kəməŋku	late	OLD	k ə m ə ŋ k u	2538	2538	k ə m ə ŋ k u	1 7 4 7 4 1 7	AXBYMBZ	KEMENKY	1	1.K.C 1.E.V 1.M.C 1.E.V 1.N.c 1.K.C 1.Y.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	0
+34760	Tibetan_Alike	BE LATE	ngor	late	OLD	n g o r	136	136	n g o r	4 1 7 5	ACYN	NKUR	2	2.N.C 2.K.C 2.U.V 2.R.c	2.0 1.5 1.3 0.8	0
+34998	Tibetan_Lhasa	BE LATE	ipu	late	OLD	i p u	2277	2277	i p u	7 1 7	XBZ	IPY	4	4.I.V 4.P.C 4.Y.V	1.5 1.75 0.8	1
+#
+28010	rGyalrong_Maerkang	BE MANY	kənɑ	many / much	OLD	k ə n ɑ	979	979	k ə n ɑ	1 7 4 7	AXBZ	KENA	1	1.K.C 1.E.V 1.N.C 1.A.V	2.0 1.5 1.75 0.8	0
+28353	Tibetan_Lhasa	BE MANY	maŋko	many / much	OLD	m a ŋ k o	1663	1663	m a ŋ k o	4 7 4 1 7	AXMBZ	MANKU	4	4.M.C 4.A.V 4.N.c 4.K.C 4.U.V	2.0 1.5 1.1 1.75 0.8	0
+29971	Tibetan_Batang	BE MANY	mõmbu	many / much	OLD	m õ m b u	1663	1663	m õ m b u	4 7 4 1 7	AXMBZ	MUMPY	3	3.M.C 3.U.V 3.M.c 3.P.C 3.Y.V	2.0 1.5 1.1 1.75 0.8	0
+32569	Tibetan_Xiahe	BE MANY	maŋ	many / much	OLD	m a ŋ	1663	1663	m a ŋ	4 7 4	AXN	MAN	5	5.M.C 5.A.V 5.N.c	2.0 1.5 0.8	0
+34738	Tibetan_Alike	BE MANY	maŋŋæ	many / much	OLD	m a ŋ ŋ æ	1663	1663	m a ŋŋ æ	4 7 4 7	AXBZ	MANE	2	2.M.C 2.A.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	0
+#
+26156	Tibetan_Alike	BELLY	ho	belly	OLD	h o	1298	1298	h o	3 7	AX	HU	2	2.H.C 2.U.V	2.0 1.5	0
+27691	Tibetan_Lhasa	BELLY	oko	belly	OLD	o k o	863	863	o k o	7 1 7	XBZ	UKU	4	4.U.V 4.K.C 4.U.V	1.5 1.75 0.8	0
+29808	Tibetan_Batang	BELLY	upa	belly	OLD	u p a	863	863	u p a	7 1 7	XBZ	YPA	3	3.Y.V 3.P.C 3.A.V	1.5 1.75 0.8	0
+31967	Tibetan_Xiahe	BELLY	ho	belly	OLD	h o	1298	1298	h o	3 7	AX	HU	5	5.H.C 5.U.V	2.0 1.5	0
+35645	rGyalrong_Maerkang	BELLY	təpok	belly	OLD	t ə p o k	10241	10241	t ə p o k	1 7 1 7 1	AXBYN	TEPUK	1	1.T.C 1.E.V 1.P.C 1.U.V 1.K.c	2.0 1.5 1.75 1.3 0.8	0
+#
+27866	rGyalrong_Maerkang	BELOW OR UNDER	wuspoi	below / under	OLD	w u s p o i	930	930	w u s p oi	6 7 3 1 7	AXMBZ	WYSPU	1	1.W.C 1.Y.V 1.S.c 1.P.C 1.U.V	2.0 1.5 1.1 1.75 0.8	0
+28156	Tibetan_Lhasa	BELOW OR UNDER	mɛ	below / under	OLD	m ɛ	1036	1036	m ɛ	4 7	AX	ME	4	4.M.C 4.E.V	2.0 1.5	0
+28157	Tibetan_Lhasa	BELOW OR UNDER	ɕamla	below / under	OLD	ɕ a m l a	380	380	ɕ a m l a	3 7 4 5 7	AXBCZ	SAMLA	4	4.S.C 4.A.V 4.M.C 4.L.C 4.A.V	2.0 1.5 1.75 1.5 0.8	0
+29811	Tibetan_Batang	BELOW OR UNDER	mãʔ	below / under	OLD	m ã ʔ	1036	1036	m ã ʔ	4 7 1	AXN	MAH	3	3.M.C 3.A.V 3.H.c	2.0 1.5 0.8	0
+34464	Tibetan_Xiahe	BELOW OR UNDER	manar	below / under	OLD	m a n a r	1036	1036	m a n a r	4 7 4 7 5	AXBYN	MANAR	5	5.M.C 5.A.V 5.N.C 5.A.V 5.R.c	2.0 1.5 1.75 1.3 0.8	0
+#
+27996	rGyalrong_Maerkang	BIG	kəktᴇ	big / large	OLD	k ə k t ᴇ	29701	29701	k ə k t ᴇ	1 7 1 1 7	AXMBZ	KEKTE	1	1.K.C 1.E.V 1.K.c 1.T.C 1.E.V	2.0 1.5 1.1 1.75 0.8	0
+28334	Tibetan_Lhasa	BIG	ẽpo	big / large	OLD	ẽ p o	412	412	ẽ p o	7 1 7	XBZ	EPU	4	4.E.V 4.P.C 4.U.V	1.5 1.75 0.8	0
+29952	Tibetan_Batang	BIG	ɪ	big / large	OLD	ɪ	412	412	ɪ	7	X	I	3	3.I.V	1.5	0
+29953	Tibetan_Batang	BIG	ɑu	big / large	OLD	ɑ u	412	412	ɑu	7	X	A	3	3.A.V	1.5	0
+33860	Tibetan_Xiahe	BIG	ewo	big / large	OLD	e w o	412	412	e w o	7 6 7	XBZ	EWU	5	5.E.V 5.W.C 5.U.V	1.5 1.75 0.8	0
+34718	Tibetan_Alike	BIG	e	big / large	OLD	e	412	412	e	7	X	E	2	2.E.V	1.5	0
+#
+27559	rGyalrong_Maerkang	BIRD	pɑɑ	bird	OLD	p ɑ ɑ	462	462	p ɑɑ	1 7	AX	PA	1	1.P.C 1.A.V	2.0 1.5	0
+27875	Tibetan_Lhasa	BIRD	a	bird	OLD	a	264	264	a	7	X	A	4	4.A.V	1.5	0
+30818	Tibetan_Batang	BIRD	ɕy	bird	OLD	ɕ y	264	264	ɕ y	3 7	AX	SY	3	3.S.C 3.Y.V	2.0 1.5	0
+32121	Tibetan_Xiahe	BIRD	ɕa	bird	OLD	ɕ a	264	264	ɕ a	3 7	AX	SA	5	5.S.C 5.A.V	2.0 1.5	0
+35648	Tibetan_Alike	BIRD	wɕæ	bird	OLD	w ɕ æ	264	264	w ɕ æ	6 3 7	ACZ	WSE	2	2.W.C 2.S.C 2.E.V	2.0 1.5 0.8	0
+#
+28531	rGyalrong_Maerkang	BITE	ɑmikklt	bite	OLD	ɑ m i k k l t	2401	2401	ɑ m i kk l t	7 4 7 1 5 1	XBYBYN	AMIKLT	1	1.A.V 1.M.C 1.I.V 1.K.C 1.L.V 1.T.c	1.5 1.75 1.3 1.75 1.3 0.8	0
+28947	Tibetan_Lhasa	BITE	soca	bite	OLD	s o c a	2552	2552	s o c a	3 7 1 7	AXBZ	SUCA	4	4.S.C 4.U.V 4.C.C 4.A.V	2.0 1.5 1.75 0.8	0
+30852	Tibetan_Batang	BITE	ɛʔ	bite	OLD	ɛ ʔ	1892	1892	ɛ ʔ	7 1	XN	EH	3	3.E.V 3.H.c	1.5 0.8	1
+32963	Tibetan_Xiahe	BITE	oep	bite	OLD	o e p	2552	2552	oe p	7 1	XN	UP	5	5.U.V 5.P.c	1.5 0.8	0
+35117	Tibetan_Alike	BITE	wawdiwɟjap	bite	OLD	w a w d i w ɟ j a p	2994	2994	w a w d i w ɟ j a p	6 7 6 1 7 6 1 6 7 1	AXMBYMBCYN	WAWTIWCJAP	2	2.W.C 2.A.V 2.W.c 2.T.C 2.I.V 2.W.c 2.C.C 2.J.C 2.A.V 2.P.c	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.5 1.3 0.8	0
+#
+28021	rGyalrong_Maerkang	BLACK	kənk	black	OLD	k ə n k	511	511	k ə n k	1 7 4 1	AXLN	KENK	1	1.K.C 1.E.V 1.N.c 1.K.c	2.0 1.5 1.1 0.8	0
+28363	Tibetan_Lhasa	BLACK	nako	black	OLD	n a k o	511	511	n a k o	4 7 1 7	AXBZ	NAKU	4	4.N.C 4.A.V 4.K.C 4.U.V	2.0 1.5 1.75 0.8	0
+30160	Tibetan_Batang	BLACK	nɑnɑʔ	black	OLD	n ɑ n ɑ ʔ	511	511	n ɑ n ɑ ʔ	4 7 4 7 1	AXBYN	NANAH	3	3.N.C 3.A.V 3.N.C 3.A.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+32578	Tibetan_Xiahe	BLACK	naχkwo	black	OLD	n a χ k w o	511	511	n a χ k w o	4 7 3 1 6 7	AXMBCZ	NAGKWU	5	5.N.C 5.A.V 5.G.c 5.K.C 5.W.C 5.U.V	2.0 1.5 1.1 1.75 1.5 0.8	0
+34749	Tibetan_Alike	BLACK	nokko	black	OLD	n o k k o	511	511	n o kk o	4 7 1 7	AXBZ	NUKU	2	2.N.C 2.U.V 2.K.C 2.U.V	2.0 1.5 1.75 0.8	0
+#
+27720	Tibetan_Lhasa	BLOOD	a	blood	OLD	a	541	541	a	7	X	A	4	4.A.V	1.5	1
+29317	rGyalrong_Maerkang	BLOOD	tɑʃi	blood	OLD	t ɑ ʃ i	29703	29703	t ɑ ʃ i	1 7 3 7	AXBZ	TASI	1	1.T.C 1.A.V 1.S.C 1.I.V	2.0 1.5 1.75 0.8	0
+29333	Tibetan_Batang	BLOOD	ɑʔ	blood	OLD	ɑ ʔ	541	541	ɑ ʔ	7 1	XN	AH	3	3.A.V 3.H.c	1.5 0.8	0
+31991	Tibetan_Xiahe	BLOOD	aχ	blood	OLD	a χ	541	541	a χ	7 3	XN	AG	5	5.A.V 5.G.c	1.5 0.8	0
+34124	Tibetan_Alike	BLOOD	ak	blood	OLD	a k	541	541	a k	7 1	XN	AK	2	2.A.V 2.K.c	1.5 0.8	0
+#
+28522	rGyalrong_Maerkang	BLOW (OF WIND)	təʃnmkɑsnɑr	blow (one's nose)	OLD	t ə ʃ n m k ɑ s n ɑ r	3361	3361	t ə ʃ n m k ɑ s n ɑ r	1 7 3 4 4 1 7 3 4 7 5	AXBCMBYBCYN	TESNMKASNAR	1	1.T.C 1.E.V 1.S.C 1.N.C 1.M.c 1.K.C 1.A.V 1.S.C 1.N.C 1.A.V 1.R.c	2.0 1.5 1.75 1.5 1.1 1.75 1.3 1.75 1.5 1.3 0.8	0
+28933	Tibetan_Lhasa	BLOW (OF WIND)	nəptui	blow (one's nose)	OLD	n ə p t u i	2729	2729	n ə p t ui	4 7 1 1 7	AXMBZ	NEPTY	4	4.N.C 4.E.V 4.P.c 4.T.C 4.Y.V	2.0 1.5 1.1 1.75 0.8	0
+30497	Tibetan_Batang	BLOW (OF WIND)	e	blow (one's nose)	OLD	e	2921	2921	e	7	X	E	3	3.E.V	1.5	1
+32955	Tibetan_Xiahe	BLOW (OF WIND)	mbə	blow (one's nose)	OLD	m b ə	2567	2567	m b ə	4 1 7	ACZ	MPE	5	5.M.C 5.P.C 5.E.V	2.0 1.5 0.8	0
+#
+26606	Tibetan_Alike	BONE	rəpæ	bone	OLD	r ə p æ	2	2	r ə p æ	5 7 1 7	AXBZ	REPE	2	2.R.C 2.E.V 2.P.C 2.E.V	2.0 1.5 1.75 0.8	0
+27417	rGyalrong_Maerkang	BONE	ʃrə	bone	OLD	ʃ r ə	2	2	ʃ r ə	3 5 7	ACX	SRE	1	1.S.C 1.R.C 1.E.V	2.0 1.5 1.5	0
+27724	Tibetan_Lhasa	BONE	ryko	bone	OLD	r y k o	2	2	r y k o	5 7 1 7	AXBZ	RYKU	4	4.R.C 4.Y.V 4.K.C 4.U.V	2.0 1.5 1.75 0.8	0
+29336	Tibetan_Batang	BONE	ʐupa	bone	OLD	ʐ u p a	2	2	ʐ u p a	3 7 1 7	AXBZ	SYPA	3	3.S.C 3.Y.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	0
+30949	Tibetan_Lhasa	BONE	rypə	bone	OLD	r y p ə	2	2	r y p ə	5 7 1 7	AXBZ	RYPE	4	4.R.C 4.Y.V 4.P.C 4.E.V	2.0 1.5 1.75 0.8	0
+33257	Tibetan_Xiahe	BONE	rəpa	bone	OLD	r ə p a	2	2	r ə p a	5 7 1 7	AXBZ	REPA	5	5.R.C 5.E.V 5.P.C 5.A.V	2.0 1.5 1.75 0.8	0
+#
+27600	rGyalrong_Maerkang	BRANCH	tijg	branch / twig	OLD	t i j g	681	681	t i j g	1 7 6 1	AXLN	TIJK	1	1.T.C 1.I.V 1.J.c 1.K.c	2.0 1.5 1.1 0.8	0
+27915	Tibetan_Lhasa	BRANCH	jɛka	branch / twig	OLD	j ɛ k a	10265	10265	j ɛ k a	6 7 1 7	AXBZ	JEKA	4	4.J.C 4.E.V 4.K.C 4.A.V	2.0 1.5 1.75 0.8	0
+29541	Tibetan_Batang	BRANCH	lɑʔ	branch / twig	OLD	l ɑ ʔ	1479	1479	l ɑ ʔ	5 7 1	AXN	LAH	3	3.L.C 3.A.V 3.H.c	2.0 1.5 0.8	0
+32154	Tibetan_Xiahe	BRANCH	raʁa	branch / twig	OLD	r a ʁ a	10265	10265	r a ʁ a	5 7 5 7	AXBZ	RARA	5	5.R.C 5.A.V 5.R.C 5.A.V	2.0 1.5 1.75 0.8	0
+35490	Tibetan_Alike	BRANCH	raɣa	branch / twig	OLD	r a ɣ a	10265	10265	r a ɣ a	5 7 3 7	AXBZ	RAGA	2	2.R.C 2.A.V 2.G.C 2.A.V	2.0 1.5 1.75 0.8	0
+#
+27689	Tibetan_Lhasa	BREAST	oma	breast	OLD	o m a	862	862	o m a	7 4 7	XBZ	UMA	4	4.U.V 4.M.C 4.A.V	1.5 1.75 0.8	0
+27393	rGyalrong_Maerkang	BREAST	tənu	breast	OLD	t ə n u	10186	10186	t ə n u	1 7 4 7	AXBZ	TENY	1	1.T.C 1.E.V 1.N.C 1.Y.V	2.0 1.5 1.75 0.8	0
+31466	Tibetan_Batang	BREAST	ȵɑȵɑʔ	breast	OLD	ȵ ɑ ȵ ɑ ʔ	10186	10186	ȵ ɑ ȵ ɑ ʔ	4 7 4 7 1	AXBYN	NANAH	3	3.N.C 3.A.V 3.N.C 3.A.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+31966	Tibetan_Xiahe	BREAST	nəma	breast	OLD	n ə m a	10186	10186	n ə m a	4 7 4 7	AXBZ	NEMA	5	5.N.C 5.E.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	0
+34104	Tibetan_Alike	BREAST	nəmæ	breast	OLD	n ə m æ	10186	10186	n ə m æ	4 7 4 7	AXBZ	NEME	2	2.N.C 2.E.V 2.M.C 2.E.V	2.0 1.5 1.75 0.8	0
+#
+28191	rGyalrong_Maerkang	BURNING	kənɑt	burn	OLD	k ə n ɑ t	3198	3198	k ə n ɑ t	1 7 4 7 1	AXBYN	KENAT	1	1.K.C 1.E.V 1.N.C 1.A.V 1.T.c	2.0 1.5 1.75 1.3 0.8	0
+28735	Tibetan_Lhasa	BURNING	par	burn	OLD	p a r	2751	2751	p a r	1 7 5	AXN	PAR	4	4.P.C 4.A.V 4.R.c	2.0 1.5 0.8	1
+33837	Tibetan_Xiahe	BURNING	mbar	burn	OLD	m b a r	2751	2751	m b a r	4 1 7 5	ACYN	MPAR	5	5.M.C 5.P.C 5.A.V 5.R.c	2.0 1.5 1.3 0.8	0
+34684	Tibetan_Batang	BURNING	mbɑ	burn	OLD	m b ɑ	2751	2751	m b ɑ	4 1 7	ACZ	MPA	3	3.M.C 3.P.C 3.A.V	2.0 1.5 0.8	0
+#
+30354	Tibetan_Batang	BUY	ȵo	buy	OLD	ȵ o	2122	2122	ȵ o	4 7	AX	NU	3	3.N.C 3.U.V	2.0 1.5	0
+31324	Tibetan_Alike	BUY	ȵo	buy	OLD	ȵ o	2122	2122	ȵ o	4 7	AX	NU	2	2.N.C 2.U.V	2.0 1.5	0
+32827	Tibetan_Xiahe	BUY	ȵo	buy	OLD	ȵ o	2122	2122	ȵ o	4 7	AX	NU	5	5.N.C 5.U.V	2.0 1.5	0
+33310	Tibetan_Lhasa	BUY	ȵo	buy	OLD	ȵ o	2122	2122	ȵ o	4 7	AX	NU	4	4.N.C 4.U.V	2.0 1.5	0
+33930	rGyalrong_Maerkang	BUY	kɑki	buy	OLD	k ɑ k i	2778	2778	k ɑ k i	1 7 1 7	AXBZ	KAKI	1	1.K.C 1.A.V 1.K.C 1.I.V	2.0 1.5 1.75 0.8	0
+#
+25626	Tibetan_Xiahe	CHEW	dal	chew	OLD	d a l	2960	2960	d a l	1 7 5	AXN	TAL	5	5.T.C 5.A.V 5.L.c	2.0 1.5 0.8	0
+26028	Tibetan_Lhasa	CHEW	mur	chew	OLD	m u r	2448	2448	m u r	4 7 5	AXN	MYR	4	4.M.C 4.Y.V 4.R.c	2.0 1.5 0.8	0
+34536	rGyalrong_Maerkang	CHEW	kɑwɑŋkᴇi	chew	OLD	k ɑ w ɑ ŋ k ᴇ i	1534	1534	k ɑ w ɑ ŋ k ᴇi	1 7 6 7 4 1 7	AXBYMBZ	KAWANKE	1	1.K.C 1.A.V 1.W.C 1.A.V 1.N.c 1.K.C 1.E.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	0
+34639	Tibetan_Batang	CHEW	a	chew	OLD	a	2742	2742	a	7	X	A	3	3.A.V	1.5	1
+34958	Tibetan_Alike	CHEW	more	chew	OLD	m o r e	2448	2448	m o r e	4 7 5 7	AXBZ	MURE	2	2.M.C 2.U.V 2.R.C 2.E.V	2.0 1.5 1.75 0.8	0
+34959	Tibetan_Alike	CHEW	rdat	chew	OLD	r d a t	2960	2960	r d a t	5 1 7 1	ACYN	RTAT	2	2.R.C 2.T.C 2.A.V 2.T.c	2.0 1.5 1.3 0.8	0
+35363	Tibetan_Batang	CHEW	mu	chew	OLD	m u	2448	2448	m u	4 7	AX	MY	3	3.M.C 3.Y.V	2.0 1.5	0
+#
+27442	rGyalrong_Maerkang	CHILD (YOUNG HUMAN)	tɑpu	child	OLD	t ɑ p u	4033	4033	t ɑ p u	1 7 1 7	AXBZ	TAPY	1	1.T.C 1.A.V 1.P.C 1.Y.V	2.0 1.5 1.75 0.8	0
+29368	Tibetan_Batang	CHILD (YOUNG HUMAN)	ʔakɑʔ	child	OLD	ʔ a k ɑ ʔ	5983	5983	ʔ a k ɑ ʔ	1 7 1 7 1	AXBYN	HAKAH	3	3.H.C 3.A.V 3.K.C 3.A.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+29369	Tibetan_Batang	CHILD (YOUNG HUMAN)	aȵoʔ	child	OLD	a ȵ o ʔ	5983	5983	a ȵ o ʔ	7 4 7 1	XBYN	ANUH	3	3.A.V 3.N.C 3.U.V 3.H.c	1.5 1.75 1.3 0.8	0
+32016	Tibetan_Xiahe	CHILD (YOUNG HUMAN)	ɕaji	child	OLD	ɕ a j i	5982	5982	ɕ a j i	3 7 6 7	AXBZ	SAJI	5	5.S.C 5.A.V 5.J.C 5.I.V	2.0 1.5 1.75 0.8	0
+34512	Tibetan_Lhasa	CHILD (YOUNG HUMAN)	puku	child	OLD	p u k u	5981	5981	p u k u	1 7 1 7	AXBZ	PYKY	4	4.P.C 4.Y.V 4.K.C 4.Y.V	2.0 1.5 1.75 0.8	0
+34618	Tibetan_Alike	CHILD (YOUNG HUMAN)	ɕaʑi	child	OLD	ɕ a ʑ i	5982	5982	ɕ a ʑ i	3 7 3 7	AXBZ	SASI	2	2.S.C 2.A.V 2.S.C 2.I.V	2.0 1.5 1.75 0.8	0
+#
+26058	rGyalrong_Maerkang	CLAW OR NAIL	tɑnru	nail	OLD	t ɑ n r u	1194	1194	t ɑ n r u	1 7 4 5 7	AXBCZ	TANRY	1	1.T.C 1.A.V 1.N.C 1.R.C 1.Y.V	2.0 1.5 1.75 1.5 0.8	0
+29324	Tibetan_Batang	CLAW OR NAIL	emo	nail	OLD	e m o	88	88	e m o	7 4 7	XBZ	EMU	3	3.E.V 3.M.C 3.U.V	1.5 1.75 0.8	0
+30856	Tibetan_Lhasa	CLAW OR NAIL	sẽmo	nail	OLD	s ẽ m o	88	88	s ẽ m o	3 7 4 7	AXBZ	SEMU	4	4.S.C 4.E.V 4.M.C 4.U.V	2.0 1.5 1.75 0.8	0
+31979	Tibetan_Xiahe	CLAW OR NAIL	enmo	nail	OLD	e n m o	88	88	e n m o	7 4 4 7	XMBZ	ENMU	5	5.E.V 5.N.c 5.M.C 5.U.V	1.5 1.1 1.75 0.8	0
+34116	Tibetan_Alike	CLAW OR NAIL	enmo	nail	OLD	e n m o	88	88	e n m o	7 4 4 7	XMBZ	ENMU	2	2.E.V 2.N.c 2.M.C 2.U.V	1.5 1.1 1.75 0.8	0
+#
+28801	rGyalrong_Maerkang	CLOUD	zdᴇm	cloud	OLD	z d ᴇ m	927	927	z d ᴇ m	3 1 7 4	ACYN	STEM	1	1.S.C 1.T.C 1.E.V 1.M.c	2.0 1.5 1.3 0.8	0
+29230	Tibetan_Batang	CLOUD	ĩ	cloud	OLD	ĩ	915	915	ĩ	7	X	I	3	3.I.V	1.5	1
+31907	Tibetan_Xiahe	CLOUD	ʂən	cloud	OLD	ʂ ə n	915	915	ʂ ə n	3 7 4	AXN	SEN	5	5.S.C 5.E.V 5.N.c	2.0 1.5 0.8	0
+32163	Tibetan_Lhasa	CLOUD	ĩpə	cloud	OLD	ĩ p ə	915	915	ĩ p ə	7 1 7	XBZ	IPE	4	4.I.V 4.P.C 4.E.V	1.5 1.75 0.8	0
+34044	Tibetan_Alike	CLOUD	wən	cloud	OLD	w ə n	915	915	w ə n	6 7 4	AXN	WEN	2	2.W.C 2.E.V 2.N.c	2.0 1.5 0.8	0
+#
+27871	Tibetan_Xiahe	COLD	aŋ	cold (weather)	OLD	a ŋ	933	933	a ŋ	7 4	XN	AN	5	5.A.V 5.N.c	1.5 0.8	0
+28059	rGyalrong_Maerkang	COLD	kəməʃtɑk	cold (weather, water)	OLD	k ə m ə ʃ t ɑ k	1002	1002	k ə m ə ʃ t ɑ k	1 7 4 7 3 1 7 1	AXBYMBYN	KEMESTAK	1	1.K.C 1.E.V 1.M.C 1.E.V 1.S.c 1.T.C 1.A.V 1.K.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	0
+28417	Tibetan_Lhasa	COLD	əŋŋu	cold (weather, water)	OLD	ə ŋ ŋ u	933	933	ə ŋŋ u	7 4 7	XBZ	ENY	4	4.E.V 4.N.C 4.Y.V	1.5 1.75 0.8	0
+28418	Tibetan_Lhasa	COLD	ako	cold (weather, water)	OLD	a k o	1102	1102	a k o	7 1 7	XBZ	AKU	4	4.A.V 4.K.C 4.U.V	1.5 1.75 0.8	0
+30034	Tibetan_Batang	COLD	õmu	cold (weather, water)	OLD	õ m u	933	933	õ m u	7 4 7	XBZ	UMY	3	3.U.V 3.M.C 3.Y.V	1.5 1.75 0.8	0
+32615	Tibetan_Xiahe	COLD	aχkwa	cold (water)	OLD	a χ k w a	1102	1102	a χ k w a	7 3 1 6 7	XMBCZ	AGKWA	5	5.A.V 5.G.c 5.K.C 5.W.C 5.A.V	1.5 1.1 1.75 1.5 0.8	0
+34788	Tibetan_Alike	COLD	nak	cold (weather, water)	OLD	n a k	1102	1102	n a k	4 7 1	AXN	NAK	2	2.N.C 2.A.V 2.K.c	2.0 1.5 0.8	0
+#
+26309	Tibetan_Lhasa	COME	ɕo	come	OLD	ɕ o	2712	2712	ɕ o	3 7	AX	SU	4	4.S.C 4.U.V	2.0 1.5	0
+28349	rGyalrong_Maerkang	COME	kɑpo	come	OLD	k ɑ p o	759	759	k ɑ p o	1 7 1 7	AXBZ	KAPU	1	1.K.C 1.A.V 1.P.C 1.U.V	2.0 1.5 1.75 0.8	0
+28718	Tibetan_Lhasa	COME	joŋ	come	OLD	j o ŋ	2445	2445	j o ŋ	6 7 4	AXN	JUN	4	4.J.C 4.U.V 4.N.c	2.0 1.5 0.8	0
+28720	Tibetan_Lhasa	COME	e	come	OLD	e	3823	3823	e	7	X	E	4	4.E.V	1.5	1
+30335	Tibetan_Batang	COME	ʔõ	come	OLD	ʔ õ	2445	2445	ʔ õ	1 7	AX	HU	3	3.H.C 3.U.V	2.0 1.5	0
+30336	Tibetan_Batang	COME	oʔ	come (imperative)	OLD	o ʔ	2712	2712	o ʔ	7 1	XN	UH	3	3.U.V 3.H.c	1.5 0.8	0
+32812	Tibetan_Xiahe	COME	joŋ	come	OLD	j o ŋ	2445	2445	j o ŋ	6 7 4	AXN	JUN	5	5.J.C 5.U.V 5.N.c	2.0 1.5 0.8	0
+34989	Tibetan_Alike	COME	joŋ	come	OLD	j o ŋ	2445	2445	j o ŋ	6 7 4	AXN	JUN	2	2.J.C 2.U.V 2.N.c	2.0 1.5 0.8	0
+34990	Tibetan_Alike	COME	ok	come	OLD	o k	2712	2712	o k	7 1	XN	UK	2	2.U.V 2.K.c	1.5 0.8	0
+#
+28456	rGyalrong_Maerkang	COUNT	krə	count (numbers)	OLD	k r ə	1019	1019	k r ə	1 5 7	ACX	KRE	1	1.K.C 1.R.C 1.E.V	2.0 1.5 1.5	0
+28842	Tibetan_Lhasa	COUNT	aŋkaca	count (numbers)	OLD	a ŋ k a c a	3229	3229	a ŋ k a c a	7 4 1 7 1 7	XMBYBZ	ANKACA	4	4.A.V 4.N.c 4.K.C 4.A.V 4.C.C 4.A.V	1.5 1.1 1.75 1.3 1.75 0.8	0
+30428	Tibetan_Batang	COUNT	euɑu	count (numbers)	OLD	e u ɑ u	2849	2849	euɑu	7	X	E	3	3.E.V	1.5	0
+32900	Tibetan_Xiahe	COUNT	hə	count (numbers)	OLD	h ə	1019	1019	h ə	3 7	AX	HE	5	5.H.C 5.E.V	2.0 1.5	0
+35068	Tibetan_Alike	COUNT	wi	count (numbers)	OLD	w i	1019	1019	w i	6 7	AX	WI	2	2.W.C 2.I.V	2.0 1.5	0
+#
+26271	Tibetan_Lhasa	CRY	ŋu	cry	OLD	ŋ u	1127	1127	ŋ u	4 7	AX	NY	4	4.N.C 4.Y.V	2.0 1.5	0
+30332	Tibetan_Batang	CRY	ʔɑutɑuʔ	cry	OLD	ʔ ɑ u t ɑ u ʔ	3250	3250	ʔ ɑu t ɑu ʔ	1 7 1 7 1	AXBYN	HATAH	3	3.H.C 3.A.V 3.T.C 3.A.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+30697	rGyalrong_Maerkang	CRY	kɑŋɑkru	cry	OLD	k ɑ ŋ ɑ k r u	3414	3414	k ɑ ŋ ɑ k r u	1 7 4 7 1 5 7	AXBYBCZ	KANAKRY	1	1.K.C 1.A.V 1.N.C 1.A.V 1.K.C 1.R.C 1.Y.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	0
+34534	Tibetan_Xiahe	CRY	ŋə	cry	OLD	ŋ ə	1127	1127	ŋ ə	4 7	AX	NE	5	5.N.C 5.E.V	2.0 1.5	0
+34985	Tibetan_Alike	CRY	ŋə	cry	OLD	ŋ ə	1127	1127	ŋ ə	4 7	AX	NE	2	2.N.C 2.E.V	2.0 1.5	0
+34986	Tibetan_Alike	CRY	ɣȵəkəjoŋ	cry	OLD	ɣ ȵ ə k ə j o ŋ	2965	2965	ɣ ȵ ə k ə j o ŋ	3 4 7 1 7 6 7 4	ACXBYBYN	GNEKEJUN	2	2.G.C 2.N.C 2.E.V 2.K.C 2.E.V 2.J.C 2.U.V 2.N.c	2.0 1.5 1.5 1.75 1.3 1.75 1.3 0.8	0
+#
+28028	rGyalrong_Maerkang	DARK	mkəsl	dark	OLD	m k ə s l	990	990	m k ə s l	4 1 7 3 5	ACYBC	MKESL	1	1.M.C 1.K.C 1.E.V 1.S.C 1.L.C	2.0 1.5 1.3 1.75 1.5	0
+28372	Tibetan_Lhasa	DARK	mỹna	dark	OLD	m ỹ n a	144	144	m ỹ n a	4 7 4 7	AXBZ	MYNA	4	4.M.C 4.Y.V 4.N.C 4.A.V	2.0 1.5 1.75 0.8	0
+29994	Tibetan_Batang	DARK	nɑpuʔ	dark	OLD	n ɑ p u ʔ	144	144	n ɑ p u ʔ	4 7 1 7 1	AXBYN	NAPYH	3	3.N.C 3.A.V 3.P.C 3.Y.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+32584	Tibetan_Xiahe	DARK	naχdəp	dark	OLD	n a χ d ə p	144	144	n a χ d ə p	4 7 3 1 7 1	AXMBYN	NAGTEP	5	5.N.C 5.A.V 5.G.c 5.T.C 5.E.V 5.P.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+34962	Tibetan_Lhasa	DARK	nəuŋ	dark	OLD	n ə u ŋ	1278	1278	n əu ŋ	4 7 4	AXN	NEN	4	4.N.C 4.E.V 4.N.c	2.0 1.5 0.8	0
+#
+27479	rGyalrong_Maerkang	DAUGHTER	təmi	daughter	OLD	t ə m i	746	746	t ə m i	1 7 4 7	AXBZ	TEMI	1	1.T.C 1.E.V 1.M.C 1.I.V	2.0 1.5 1.75 0.8	0
+27796	Tibetan_Lhasa	DAUGHTER	omo	daughter	OLD	o m o	903	903	o m o	7 4 7	XBZ	UMU	4	4.U.V 4.M.C 4.U.V	1.5 1.75 0.8	0
+30348	Tibetan_Batang	DAUGHTER	pmu	daughter	OLD	p m u	903	903	p m u	1 4 7	ACX	PMY	3	3.P.C 3.M.C 3.Y.V	2.0 1.5 1.5	0
+35318	Tibetan_Xiahe	DAUGHTER	ɕəmo	daughter	OLD	ɕ ə m o	3044	3044	ɕ ə m o	3 7 4 7	AXBZ	SEMU	5	5.S.C 5.E.V 5.M.C 5.U.V	2.0 1.5 1.75 0.8	0
+35697	Tibetan_Alike	DAUGHTER	ɕəmo	daughter	OLD	ɕ ə m o	3044	3044	ɕ ə m o	3 7 4 7	AXBZ	SEMU	2	2.S.C 2.E.V 2.M.C 2.U.V	2.0 1.5 1.75 0.8	0
+#
+27337	rGyalrong_Maerkang	DEW	əri	dew	OLD	ə r i	10257	10257	ə r i	7 5 7	XBZ	ERI	1	1.E.V 1.R.C 1.I.V	1.5 1.75 0.8	0
+29238	Tibetan_Batang	DEW	siu	dew	OLD	s i u	175	175	s iu	3 7	AX	SI	3	3.S.C 3.I.V	2.0 1.5	0
+30374	Tibetan_Lhasa	DEW	spə	dew	OLD	s p ə	175	175	s p ə	3 1 7	ACZ	SPE	4	4.S.C 4.P.C 4.E.V	2.0 1.5 0.8	0
+30914	Tibetan_Lhasa	DEW	su	dew	OLD	s u	175	175	s u	3 7	AX	SY	4	4.S.C 4.Y.V	2.0 1.5	0
+34052	Tibetan_Alike	DEW	wsiwæ	dew	OLD	w s i w æ	175	175	w s i w æ	6 3 7 6 7	ACYBZ	WSIWE	2	2.W.C 2.S.C 2.I.V 2.W.C 2.E.V	2.0 1.5 1.3 1.75 0.8	0
+34436	Tibetan_Xiahe	DEW	siwa	dew	OLD	s i w a	175	175	s i w a	3 7 6 7	AXBZ	SIWA	5	5.S.C 5.I.V 5.W.C 5.A.V	2.0 1.5 1.75 0.8	0
+#
+28462	rGyalrong_Maerkang	DIE	kɑʃi	die	OLD	k ɑ ʃ i	163	163	k ɑ ʃ i	1 7 3 7	AXBZ	KASI	1	1.K.C 1.A.V 1.S.C 1.I.V	2.0 1.5 1.75 0.8	0
+31556	Tibetan_Lhasa	DIE	ɕi	die	OLD	ɕ i	163	163	ɕ i	3 7	AX	SI	4	4.S.C 4.I.V	2.0 1.5	1
+32713	Tibetan_Batang	DIE	i	die	OLD	i	163	163	i	7	X	I	3	3.I.V	1.5	0
+32904	Tibetan_Xiahe	DIE	ə	die	OLD	ə	163	163	ə	7	X	E	5	5.E.V	1.5	1
+35075	Tibetan_Alike	DIE	ə	die	OLD	ə	163	163	ə	7	X	E	2	2.E.V	1.5	1
+#
+28487	rGyalrong_Maerkang	DIG	kɑlwɑ	dig / scoop out	OLD	k ɑ l w ɑ	3223	3223	k ɑ l w ɑ	1 7 5 6 7	AXBCZ	KALWA	1	1.K.C 1.A.V 1.L.C 1.W.C 1.A.V	2.0 1.5 1.75 1.5 0.8	0
+28589	Tibetan_Alike	DIG	wku	dig / scoop out	OLD	w k u	2548	2548	w k u	6 1 7	ACZ	WKY	2	2.W.C 2.K.C 2.Y.V	2.0 1.5 0.8	0
+30470	Tibetan_Batang	DIG	ku	dig / scoop out	OLD	k u	2548	2548	k u	1 7	AX	KY	3	3.K.C 3.Y.V	2.0 1.5	0
+32926	Tibetan_Xiahe	DIG	hko	dig / scoop out	OLD	h k o	2548	2548	h k o	3 1 7	ACZ	HKU	5	5.H.C 5.K.C 5.U.V	2.0 1.5 0.8	0
+33489	Tibetan_Lhasa	DIG	ko	dig / scoop out	OLD	k o	2548	2548	k o	1 7	AX	KU	4	4.K.C 4.U.V	2.0 1.5	1
+35096	Tibetan_Alike	DIG	rko	dig / scoop out	OLD	r k o	2548	2548	r k o	5 1 7	ACZ	RKU	2	2.R.C 2.K.C 2.U.V	2.0 1.5 0.8	0
+#
+27946	Tibetan_Xiahe	DIRTY	hoto	dirty	OLD	h o t o	599	599	h o t o	3 7 1 7	AXBZ	HUTU	5	5.H.C 5.U.V 5.T.C 5.U.V	2.0 1.5 1.75 0.8	0
+28071	rGyalrong_Maerkang	DIRTY	mɑkʃo	dirty	OLD	m ɑ k ʃ o	1009	1009	m ɑ k ʃ o	4 7 1 3 7	AXBCZ	MAKSU	1	1.M.C 1.A.V 1.K.C 1.S.C 1.U.V	2.0 1.5 1.75 1.5 0.8	0
+28436	Tibetan_Lhasa	DIRTY	okpa	dirty	OLD	o k p a	599	599	o k p a	7 1 1 7	XMBZ	UKPA	4	4.U.V 4.K.c 4.P.C 4.A.V	1.5 1.1 1.75 0.8	0
+30044	Tibetan_Batang	DIRTY	opa	dirty	OLD	o p a	599	599	o p a	7 1 7	XBZ	UPA	3	3.U.V 3.P.C 3.A.V	1.5 1.75 0.8	0
+34802	Tibetan_Alike	DIRTY	rokkwa	dirty	OLD	r o k k w a	599	599	r o kk w a	5 7 1 6 7	AXBCZ	RUKWA	2	2.R.C 2.U.V 2.K.C 2.W.C 2.A.V	2.0 1.5 1.75 1.5 0.8	0
+35596	Tibetan_Alike	DIRTY	mȵok	dirty	OLD	m ȵ o k	3080	3080	m ȵ o k	4 4 7 1	ACYN	MNUK	2	2.M.C 2.N.C 2.U.V 2.K.c	2.0 1.5 1.3 0.8	0
+#
+45710	rGyalrong_Maerkang	DOG	ənɑ		OLD	ə n ɑ	2065	2065	ə n ɑ	7 4 7	XBZ	ENA	1	1.E.V 1.N.C 1.A.V	1.5 1.75 0.8	0
+27536	rGyalrong_Maerkang	DOG	ənɑ	dog	OLD	ə n ɑ	2065	2065	ə n ɑ	7 4 7	XBZ	ENA	1	1.E.V 1.N.C 1.A.V	1.5 1.75 0.8	1
+27847	Tibetan_Lhasa	DOG	i	dog	OLD	i	2065	2065	i	7	X	I	4	4.I.V	1.5	1
+29467	Tibetan_Batang	DOG	ɪ	dog	OLD	ɪ	2065	2065	ɪ	7	X	I	3	3.I.V	1.5	1
+32091	Tibetan_Xiahe	DOG	əɣə	dog	OLD	ə ɣ ə	2065	2065	ə ɣ ə	7 3 7	XBZ	EGE	5	5.E.V 5.G.C 5.E.V	1.5 1.75 0.8	0
+34227	Tibetan_Alike	DOG	əɣə	dog	OLD	ə ɣ ə	2065	2065	ə ɣ ə	7 3 7	XBZ	EGE	2	2.E.V 2.G.C 2.E.V	1.5 1.75 0.8	0
+#
+26399	Tibetan_Xiahe	DREAM	hȵəlam	dream	OLD	h ȵ ə l a m	10555	10555	h ȵ ə l a m	3 4 7 5 7 4	ACXBYN	HNELAM	5	5.H.C 5.N.C 5.E.V 5.L.C 5.A.V 5.M.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+27845	rGyalrong_Maerkang	DREAM	tɑrmo	dream	OLD	t ɑ r m o	10217	10217	t ɑ r m o	1 7 5 4 7	AXMBZ	TARMU	1	1.T.C 1.A.V 1.R.c 1.M.C 1.U.V	2.0 1.5 1.1 1.75 0.8	0
+28121	Tibetan_Lhasa	DREAM	ȵləm	dream	OLD	ȵ l ə m	10555	10555	ȵ l ə m	4 5 7 4	ACXN	NLEM	4	4.N.C 4.L.C 4.E.V 4.M.c	2.0 1.5 1.5 0.8	0
+29787	Tibetan_Batang	DREAM	mɪl	dream	OLD	m ɪ l	10555	10555	m ɪ l	4 7 5	AXN	MIL	3	3.M.C 3.I.V 3.L.c	2.0 1.5 0.8	0
+34647	Tibetan_Alike	DREAM	ȵəlam	dream	OLD	ȵ ə l a m	10555	10555	ȵ ə l a m	4 7 5 7 4	AXBYN	NELAM	2	2.N.C 2.E.V 2.L.C 2.A.V 2.M.c	2.0 1.5 1.75 1.3 0.8	0
+#
+28641	Tibetan_Lhasa	DRINK	uŋ	drink	OLD	u ŋ	2228	2228	u ŋ	7 4	XN	YN	4	4.Y.V 4.N.c	1.5 0.8	1
+32743	Tibetan_Xiahe	DRINK	oŋ	drink	OLD	o ŋ	2228	2228	o ŋ	7 4	XN	UN	5	5.U.V 5.N.c	1.5 0.8	0
+34313	rGyalrong_Maerkang	DRINK	kɑmot	drink	OLD	k ɑ m o t	2857	2857	k ɑ m o t	1 7 4 7 1	AXBYN	KAMUT	1	1.K.C 1.A.V 1.M.C 1.U.V 1.T.c	2.0 1.5 1.75 1.3 0.8	0
+35067	Tibetan_Alike	DRINK	oŋ	drink	OLD	o ŋ	2228	2228	o ŋ	7 4	XN	UN	2	2.U.V 2.N.c	1.5 0.8	1
+35123	Tibetan_Batang	DRINK	û	drink	OLD	û	2228	2228	û	7	X	Y	3	3.Y.V	1.5	0
+#
+28038	rGyalrong_Maerkang	DRY	kərɑm	dry	OLD	k ə r ɑ m	993	993	k ə r ɑ m	1 7 5 7 4	AXBYN	KERAM	1	1.K.C 1.E.V 1.R.C 1.A.V 1.M.c	2.0 1.5 1.75 1.3 0.8	0
+28385	Tibetan_Lhasa	DRY	kampo	dry	OLD	k a m p o	1092	1092	k a m p o	1 7 4 1 7	AXMBZ	KAMPU	4	4.K.C 4.A.V 4.M.c 4.P.C 4.U.V	2.0 1.5 1.1 1.75 0.8	0
+30006	Tibetan_Batang	DRY	kambu	dry	OLD	k a m b u	1092	1092	k a m b u	1 7 4 1 7	AXMBZ	KAMPY	3	3.K.C 3.A.V 3.M.c 3.P.C 3.Y.V	2.0 1.5 1.1 1.75 0.8	0
+30229	Tibetan_Xiahe	DRY	hkambo	dry	OLD	h k a m b o	1092	1092	h k a m b o	3 1 7 4 1 7	ACYMBZ	HKAMPU	5	5.H.C 5.K.C 5.A.V 5.M.c 5.P.C 5.U.V	2.0 1.5 1.3 1.1 1.75 0.8	0
+30359	Tibetan_Alike	DRY	rkambo	dry	OLD	r k a m b o	1092	1092	r k a m b o	5 1 7 4 1 7	ACYMBZ	RKAMPU	2	2.R.C 2.K.C 2.A.V 2.M.c 2.P.C 2.U.V	2.0 1.5 1.3 1.1 1.75 0.8	0
+#
+27359	rGyalrong_Maerkang	DUST	tndər	dust	OLD	t n d ə r	507	507	t n d ə r	1 4 1 7 5	AXBYN	TNTER	1	1.T.C 1.N.V 1.T.C 1.E.V 1.R.c	2.0 1.5 1.75 1.3 0.8	0
+27636	Tibetan_Lhasa	DUST	ɛla	dust	OLD	ɛ l a	835	835	ɛ l a	7 5 7	XBZ	ELA	4	4.E.V 4.L.C 4.A.V	1.5 1.75 0.8	0
+29265	Tibetan_Batang	DUST	eikɑ	dust	OLD	e i k ɑ	835	835	ei k ɑ	7 1 7	XBZ	EKA	3	3.E.V 3.K.C 3.A.V	1.5 1.75 0.8	0
+29266	Tibetan_Batang	DUST	ewɑ	dust	OLD	e w ɑ	835	835	e w ɑ	7 6 7	XBZ	EWA	3	3.E.V 3.W.C 3.A.V	1.5 1.75 0.8	0
+31937	Tibetan_Xiahe	DUST	adu	dust	OLD	a d u	507	507	a d u	7 1 7	XBZ	ATY	5	5.A.V 5.T.C 5.Y.V	1.5 1.75 0.8	0
+34070	Tibetan_Alike	DUST	ardu	dust	OLD	a r d u	835	835	a r d u	7 5 1 7	XMBZ	ARTY	2	2.A.V 2.R.c 2.T.C 2.Y.V	1.5 1.1 1.75 0.8	0
+#
+26107	Tibetan_Alike	EAR	rnæ	ear	OLD	r n æ	32	32	r n æ	5 4 7	ACZ	RNE	2	2.R.C 2.N.C 2.E.V	2.0 1.5 0.8	0
+27673	Tibetan_Lhasa	EAR	amo	ear	OLD	a m o	855	855	a m o	7 4 7	XBZ	AMU	4	4.A.V 4.M.C 4.U.V	1.5 1.75 0.8	0
+29125	rGyalrong_Maerkang	EAR	tərnɑ	ear	OLD	t ə r n ɑ	32	32	t ə r n ɑ	1 7 5 4 7	AXMBZ	TERNA	1	1.T.C 1.E.V 1.R.c 1.N.C 1.A.V	2.0 1.5 1.1 1.75 0.8	0
+29296	Tibetan_Batang	EAR	najo	ear	OLD	n a j o	32	32	n a j o	4 7 6 7	AXBZ	NAJU	3	3.N.C 3.A.V 3.J.C 3.U.V	2.0 1.5 1.75 0.8	0
+31957	Tibetan_Xiahe	EAR	naoχ	ear	OLD	n a o χ	32	32	n ao χ	4 7 3	AXN	NAG	5	5.N.C 5.A.V 5.G.c	2.0 1.5 0.8	0
+#
+28032	rGyalrong_Maerkang	EARLY	kənəso	early	OLD	k ə n ə s o	991	991	k ə n ə s o	1 7 4 7 3 7	AXBYBZ	KENESU	1	1.K.C 1.E.V 1.N.C 1.E.V 1.S.C 1.U.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+29998	Tibetan_Batang	EARLY	a	early	OLD	a	259	259	a	7	X	A	3	3.A.V	1.5	0
+30250	Tibetan_Alike	EARLY	rŋæ	early	OLD	r ŋ æ	259	259	r ŋ æ	5 4 7	ACZ	RNE	2	2.R.C 2.N.C 2.E.V	2.0 1.5 0.8	0
+32587	Tibetan_Xiahe	EARLY	hŋa	early	OLD	h ŋ a	259	259	h ŋ a	3 4 7	ACX	HNA	5	5.H.C 5.N.C 5.A.V	2.0 1.5 1.5	0
+34994	Tibetan_Lhasa	EARLY	ŋapo	early	OLD	ŋ a p o	259	259	ŋ a p o	4 7 1 7	AXBZ	NAPU	4	4.N.C 4.A.V 4.P.C 4.U.V	2.0 1.5 1.75 0.8	0
+#
+28961	rGyalrong_Maerkang	EARTH (SOIL)	tɑo	soil / earth	OLD	t ɑ o	1275	1275	t ɑo	1 7	AX	TA	1	1.T.C 1.A.V	2.0 1.5	0
+29261	Tibetan_Batang	EARTH (SOIL)	a	soil / earth	OLD	a	373	373	a	7	X	A	3	3.A.V	1.5	1
+31150	Tibetan_Xiahe	EARTH (SOIL)	a	soil / earth	OLD	a	373	373	a	7	X	A	5	5.A.V	1.5	0
+31582	Tibetan_Lhasa	EARTH (SOIL)	sa	soil / earth	OLD	s a	373	373	s a	3 7	AX	SA	4	4.S.C 4.A.V	2.0 1.5	0
+34067	Tibetan_Alike	EARTH (SOIL)	æ	soil / earth	OLD	æ	373	373	æ	7	X	E	2	2.E.V	1.5	0
+#
+27590	rGyalrong_Maerkang	EARTHWORM	rdəlu	earthworm	OLD	r d ə l u	811	811	r d ə l u	5 1 7 5 7	ACYBZ	RTELY	1	1.R.C 1.T.C 1.E.V 1.L.C 1.Y.V	2.0 1.5 1.3 1.75 0.8	0
+27906	Tibetan_Lhasa	EARTHWORM	pum	earthworm	OLD	p u m	946	946	p u m	1 7 4	AXN	PYM	4	4.P.C 4.Y.V 4.M.c	2.0 1.5 0.8	0
+29532	Tibetan_Batang	EARTHWORM	mbuɕaoʔ	earthworm	OLD	m b u ɕ a o ʔ	946	946	m b u ɕ ao ʔ	4 1 7 3 7 1	ACYBYN	MPYSAH	3	3.M.C 3.P.C 3.Y.V 3.S.C 3.A.V 3.H.c	2.0 1.5 1.3 1.75 1.3 0.8	0
+35595	Tibetan_Xiahe	EARTHWORM	ambəaχnə	earthworm	OLD	a m b ə a χ n ə	946	946	a m b əa χ n ə	7 4 1 7 3 4 7	XMBYBCZ	AMPEGNE	5	5.A.V 5.M.c 5.P.C 5.E.V 5.G.C 5.N.C 5.E.V	1.5 1.1 1.75 1.3 1.75 1.5 0.8	0
+#
+28138	rGyalrong_Maerkang	EAT	kɑzɑ	eat	OLD	k ɑ z ɑ	3419	3419	k ɑ z ɑ	1 7 3 7	AXBZ	KASA	1	1.K.C 1.A.V 1.S.C 1.A.V	2.0 1.5 1.75 0.8	0
+28528	Tibetan_Lhasa	EAT	sa	eat	OLD	s a	3419	3419	s a	3 7	AX	SA	4	4.S.C 4.A.V	2.0 1.5	1
+29925	Tibetan_Batang	EAT	sa	eat	OLD	s a	3419	3419	s a	3 7	AX	SA	3	3.S.C 3.A.V	2.0 1.5	0
+32686	Tibetan_Xiahe	EAT	sa	eat	OLD	s a	3419	3419	s a	3 7	AX	SA	5	5.S.C 5.A.V	2.0 1.5	0
+34861	Tibetan_Alike	EAT	sæ	eat	OLD	s æ	3419	3419	s æ	3 7	AX	SE	2	2.S.C 2.E.V	2.0 1.5	0
+#
+27663	Tibetan_Alike	EGG	wɕarrgoŋ	egg	OLD	w ɕ a r r g o ŋ	850	850	w ɕ a rr g o ŋ	6 3 7 5 1 7 4	ACYMBYN	WSARKUN	2	2.W.C 2.S.C 2.A.V 2.R.c 2.K.C 2.U.V 2.N.c	2.0 1.5 1.3 1.1 1.75 1.3 0.8	0
+27666	rGyalrong_Maerkang	EGG	tɑgɑm	egg	OLD	t ɑ g ɑ m	852	852	t ɑ g ɑ m	1 7 1 7 4	AXBYN	TAKAM	1	1.T.C 1.A.V 1.K.C 1.A.V 1.M.c	2.0 1.5 1.75 1.3 0.8	0
+27957	Tibetan_Lhasa	EGG	koŋa	egg	OLD	k o ŋ a	850	850	k o ŋ a	1 7 4 7	AXBZ	KUNA	4	4.K.C 4.U.V 4.N.C 4.A.V	2.0 1.5 1.75 0.8	0
+29597	Tibetan_Batang	EGG	gũŋɑʔ	egg	OLD	g ũ ŋ ɑ ʔ	850	850	g ũ ŋ ɑ ʔ	1 7 4 7 1	AXBYN	KYNAH	3	3.K.C 3.Y.V 3.N.C 3.A.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+32211	Tibetan_Xiahe	EGG	goŋŋa	egg	OLD	g o ŋ ŋ a	850	850	g o ŋŋ a	1 7 4 7	AXBZ	KUNA	5	5.K.C 5.U.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	0
+#
+28214	Tibetan_Lhasa	EIGHT	cɛ	eight	OLD	c ɛ	183	183	c ɛ	1 7	AX	CE	4	4.C.C 4.E.V	2.0 1.5	0
+29829	Tibetan_Xiahe	EIGHT	al	eight	OLD	a l	183	183	a l	7 5	XN	AL	5	5.A.V 5.L.c	1.5 0.8	0
+29858	Tibetan_Batang	EIGHT	ɛʔ	eight	OLD	ɛ ʔ	183	183	ɛ ʔ	7 1	XN	EH	3	3.E.V 3.H.c	1.5 0.8	0
+32081	rGyalrong_Maerkang	EIGHT	wərjɑt	eight	OLD	w ə r j ɑ t	183	183	w ə r j ɑ t	6 7 5 6 7 1	AXBCYN	WERJAT	1	1.W.C 1.E.V 1.R.C 1.J.C 1.A.V 1.T.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+34615	Tibetan_Alike	EIGHT	wat	eight	OLD	w a t	183	183	w a t	6 7 1	AXN	WAT	2	2.W.C 2.A.V 2.T.c	2.0 1.5 0.8	0
+#
+27382	rGyalrong_Maerkang	EYE	təmȵɑk	eye	OLD	t ə m ȵ ɑ k	4	4	t ə m ȵ ɑ k	1 7 4 4 7 1	AXMBYN	TEMNAK	1	1.T.C 1.E.V 1.M.c 1.N.C 1.A.V 1.K.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+27671	Tibetan_Lhasa	EYE	mi	eye	OLD	m i	4	4	m i	4 7	AX	MI	4	4.M.C 4.I.V	2.0 1.5	0
+29294	Tibetan_Batang	EYE	miʔ	eye	OLD	m i ʔ	4	4	m i ʔ	4 7 1	AXN	MIH	3	3.M.C 3.I.V 3.H.c	2.0 1.5 0.8	0
+31955	Tibetan_Xiahe	EYE	hȵɔχ	eye	OLD	h ȵ ɔ χ	4	4	h ȵ ɔ χ	3 4 7 3	ACXN	HNUG	5	5.H.C 5.N.C 5.U.V 5.G.c	2.0 1.5 1.5 0.8	0
+34091	Tibetan_Alike	EYE	ɣȵək	eye	OLD	ɣ ȵ ə k	4	4	ɣ ȵ ə k	3 4 7 1	ACXN	GNEK	2	2.G.C 2.N.C 2.E.V 2.K.c	2.0 1.5 1.5 0.8	0
+#
+40577	Tibetan_Batang	FAECES (EXCREMENT)	apa	excrement (noun)	OLD	a p a	544	544	a p a	7 1 7	XBZ	APA	3	3.A.V 3.P.C 3.A.V	1.5 1.75 0.8	0
+40609	Tibetan_Lhasa	FAECES (EXCREMENT)	cakpa	excrement (noun)	OLD	c a k p a	544	544	c a k p a	1 7 1 1 7	AXMBZ	CAKPA	4	4.C.C 4.A.V 4.K.c 4.P.C 4.A.V	2.0 1.5 1.1 1.75 0.8	0
+40610	rGyalrong_Maerkang	FAECES (EXCREMENT)	təʃᴇ	excrement (noun)	OLD	t ə ʃ ᴇ	3581	3581	t ə ʃ ᴇ	1 7 3 7	AXBZ	TESE	1	1.T.C 1.E.V 1.S.C 1.E.V	2.0 1.5 1.75 0.8	0
+40627	Tibetan_Alike	FAECES (EXCREMENT)	ɣcçokkwa	excrement (noun)	OLD	ɣ c ç o k k w a	544	544	ɣ c ç o kk w a	3 1 3 7 1 6 7	ACCYBCZ	GCSUKWA	2	2.G.C 2.C.C 2.S.C 2.U.V 2.K.C 2.W.C 2.A.V	2.0 1.5 1.5 1.3 1.75 1.5 0.8	0
+40703	Tibetan_Xiahe	FAECES (EXCREMENT)	haχkwa	excrement (noun)	OLD	h a χ k w a	544	544	h a χ k w a	3 7 3 1 6 7	AXMBCZ	HAGKWA	5	5.H.C 5.A.V 5.G.c 5.K.C 5.W.C 5.A.V	2.0 1.5 1.1 1.75 1.5 0.8	0
+#
+28002	rGyalrong_Maerkang	FAR	kəə	far / distant	OLD	k ə ə	973	973	k əə	1 7	AX	KE	1	1.K.C 1.E.V	2.0 1.5	0
+28343	Tibetan_Lhasa	FAR	ariŋku	far / distant	OLD	a r i ŋ k u	549	549	a r i ŋ k u	7 5 7 4 1 7	XBYMBZ	ARINKY	4	4.A.V 4.R.C 4.I.V 4.N.c 4.K.C 4.Y.V	1.5 1.75 1.3 1.1 1.75 0.8	0
+32560	Tibetan_Xiahe	FAR	aχraŋ	far / distant	OLD	a χ r a ŋ	549	549	a χ r a ŋ	7 3 5 7 4	XBCYN	AGRAN	5	5.A.V 5.G.C 5.R.C 5.A.V 5.N.c	1.5 1.75 1.5 1.3 0.8	0
+33431	Tibetan_Batang	FAR	aʔrĩpu	far / distant	OLD	a ʔ r ĩ p u	549	549	a ʔ r ĩ p u	7 1 5 7 1 7	XBCYBZ	AHRIPY	3	3.A.V 3.H.C 3.R.C 3.I.V 3.P.C 3.Y.V	1.5 1.75 1.5 1.3 1.75 0.8	0
+34725	Tibetan_Alike	FAR	akraŋ	far / distant	OLD	a k r a ŋ	549	549	a k r a ŋ	7 1 5 7 4	XBCYN	AKRAN	2	2.A.V 2.K.C 2.R.C 2.A.V 2.N.c	1.5 1.75 1.5 1.3 0.8	0
+#
+27475	rGyalrong_Maerkang	FATHER	tp	father	OLD	t p	107	107	t p	1 1	AN	TP	1	1.T.C 1.P.c	2.0 0.8	0
+27792	Tibetan_Lhasa	FATHER	apa	father	OLD	a p a	107	107	a p a	7 1 7	XBZ	APA	4	4.A.V 4.P.C 4.A.V	1.5 1.75 0.8	0
+27793	Tibetan_Lhasa	FATHER	papa	father	OLD	p a p a	107	107	p a p a	1 7 1 7	AXBZ	PAPA	4	4.P.C 4.A.V 4.P.C 4.A.V	2.0 1.5 1.75 0.8	0
+29403	Tibetan_Batang	FATHER	ʔaa	father	OLD	ʔ a a	107	107	ʔ aa	1 7	AX	HA	3	3.H.C 3.A.V	2.0 1.5	0
+29404	Tibetan_Batang	FATHER	agẽ	father	OLD	a g ẽ	107	107	a g ẽ	7 1 7	XBZ	AKE	3	3.A.V 3.K.C 3.E.V	1.5 1.75 0.8	0
+32046	Tibetan_Xiahe	FATHER	ʔaa	father	OLD	ʔ a a	2361	2361	ʔ aa	1 7	AX	HA	5	5.H.C 5.A.V	2.0 1.5	0
+34180	Tibetan_Alike	FATHER	aræ	father	OLD	a r æ	2361	2361	a r æ	7 5 7	XBZ	ARE	2	2.A.V 2.R.C 2.E.V	1.5 1.75 0.8	0
+#
+27854	Tibetan_Lhasa	FEATHER	əpu	feather / plume	OLD	ə p u	921	921	ə p u	7 1 7	XBZ	EPY	4	4.E.V 4.P.C 4.Y.V	1.5 1.75 0.8	0
+27855	Tibetan_Lhasa	FEATHER	o	feather / plume	OLD	o	922	922	o	7	X	U	4	4.U.V	1.5	1
+29474	Tibetan_Batang	FEATHER	u	feather / plume	OLD	u	922	922	u	7	X	Y	3	3.Y.V	1.5	1
+30061	rGyalrong_Maerkang	FEATHER	tɑmŋi	feather / plume	OLD	t ɑ m ŋ i	1374	1374	t ɑ m ŋ i	1 7 4 4 7	AXMBZ	TAMNI	1	1.T.C 1.A.V 1.M.c 1.N.C 1.I.V	2.0 1.5 1.1 1.75 0.8	0
+32098	Tibetan_Xiahe	FEATHER	o	feather / plume	OLD	o	922	922	o	7	X	U	5	5.U.V	1.5	1
+32725	Tibetan_Alike	FEATHER	ro	feather / plume	OLD	r o	922	922	r o	5 7	AX	RU	2	2.R.C 2.U.V	2.0 1.5	0
+32802	Tibetan_Alike	FEATHER	wɕarpə	feather / plume	OLD	w ɕ a r p ə	921	921	w ɕ a r p ə	6 3 7 5 1 7	ACYMBZ	WSARPE	2	2.W.C 2.S.C 2.A.V 2.R.c 2.P.C 2.E.V	2.0 1.5 1.3 1.1 1.75 0.8	0
+#
+28162	rGyalrong_Maerkang	FIGHT	tlltkɑpɑ	fight	OLD	t l l t k ɑ p ɑ	1456	1456	t ll t k ɑ p ɑ	1 5 1 1 7 1 7	AXMBYBZ	TLTKAPA	1	1.T.C 1.L.V 1.T.c 1.K.C 1.A.V 1.P.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	0
+28544	Tibetan_Lhasa	FIGHT	careca	fight	OLD	c a r e c a	1152	1152	c a r e c a	1 7 5 7 1 7	AXBYBZ	CARECA	4	4.C.C 4.A.V 4.R.C 4.E.V 4.C.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+30151	Tibetan_Batang	FIGHT	urʔgu	fight	OLD	u r ʔ g u	2480	2480	u r ʔ g u	7 5 1 1 7	XLMBZ	YRHKY	3	3.Y.V 3.R.c 3.H.c 3.K.C 3.Y.V	1.5 1.1 1.1 1.75 0.8	0
+32702	Tibetan_Xiahe	FIGHT	doŋriaχ	fight	OLD	d o ŋ r i a χ	1152	1152	d o ŋ r ia χ	1 7 4 5 7 3	AXBCYN	TUNRIG	5	5.T.C 5.U.V 5.N.C 5.R.C 5.I.V 5.G.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+34877	Tibetan_Alike	FIGHT	onniji	fight	OLD	o n n i j i	2949	2949	o nn i j i	7 4 7 6 7	XBYBZ	UNIJI	2	2.U.V 2.N.C 2.I.V 2.J.C 2.I.V	1.5 1.75 1.3 1.75 0.8	0
+34878	Tibetan_Alike	FIGHT	rɟjakriji	fight	OLD	r ɟ j a k r i j i	1152	1152	r ɟ j a k r i j i	5 1 6 7 1 5 7 6 7	ACCYBCYBZ	RCJAKRIJI	2	2.R.C 2.C.C 2.J.C 2.A.V 2.K.C 2.R.C 2.I.V 2.J.C 2.I.V	2.0 1.5 1.5 1.3 1.75 1.5 1.3 1.75 0.8	0
+#
+27340	rGyalrong_Maerkang	FIRE	təmək	fire	OLD	t ə m ə k	670	670	t ə m ə k	1 7 4 7 1	AXBYN	TEMEK	1	1.T.C 1.E.V 1.M.C 1.E.V 1.K.c	2.0 1.5 1.75 1.3 0.8	0
+27606	Tibetan_Lhasa	FIRE	me	fire	OLD	m e	1746	1746	m e	4 7	AX	ME	4	4.M.C 4.E.V	2.0 1.5	0
+29440	Tibetan_Batang	FIRE	ȵe	fire	OLD	ȵ e	1746	1746	ȵ e	4 7	AX	NE	3	3.N.C 3.E.V	2.0 1.5	0
+31581	Tibetan_Alike	FIRE	mȵe	fire	OLD	m ȵ e	1746	1746	m ȵ e	4 4 7	ACZ	MNE	2	2.M.C 2.N.C 2.E.V	2.0 1.5 0.8	0
+34453	Tibetan_Xiahe	FIRE	ȵe	fire	OLD	ȵ e	1746	1746	ȵ e	4 7	AX	NE	5	5.N.C 5.E.V	2.0 1.5	0
+#
+26406	Tibetan_Alike	FIREWOOD	æmæ	firewood	OLD	æ m æ	6005	6005	æ m æ	7 4 7	XBZ	EME	2	2.E.V 2.M.C 2.E.V	1.5 1.75 0.8	0
+27737	rGyalrong_Maerkang	FIREWOOD	ʃᴇ	firewood	OLD	ʃ ᴇ	6006	6006	ʃ ᴇ	3 7	AX	SE	1	1.S.C 1.E.V	2.0 1.5	0
+28006	Tibetan_Lhasa	FIREWOOD	miɕiŋ	firewood	OLD	m i ɕ i ŋ	6006	6006	m i ɕ i ŋ	4 7 3 7 4	AXBYN	MISIN	4	4.M.C 4.I.V 4.S.C 4.I.V 4.N.c	2.0 1.5 1.75 1.3 0.8	0
+29661	Tibetan_Batang	FIREWOOD	ĩ	firewood	OLD	ĩ	6006	6006	ĩ	7	X	I	3	3.I.V	1.5	0
+32258	Tibetan_Xiahe	FIREWOOD	ama	firewood	OLD	a m a	6005	6005	a m a	7 4 7	XBZ	AMA	5	5.A.V 5.M.C 5.A.V	1.5 1.75 0.8	0
+#
+27514	Tibetan_Alike	FISH	ȵæ	fish	OLD	ȵ æ	186	186	ȵ æ	4 7	AX	NE	2	2.N.C 2.E.V	2.0 1.5	0
+27579	rGyalrong_Maerkang	FISH	pʃəujo	fish	OLD	p ʃ ə u j o	804	804	p ʃ əu j o	1 3 7 6 7	ACXBZ	PSEJU	1	1.P.C 1.S.C 1.E.V 1.J.C 1.U.V	2.0 1.5 1.5 1.75 0.8	0
+27894	Tibetan_Lhasa	FISH	ȵa	fish	OLD	ȵ a	186	186	ȵ a	4 7	AX	NA	4	4.N.C 4.A.V	2.0 1.5	0
+29521	Tibetan_Batang	FISH	ȵa	fish	OLD	ȵ a	186	186	ȵ a	4 7	AX	NA	3	3.N.C 3.A.V	2.0 1.5	0
+32138	Tibetan_Xiahe	FISH	ȵa	fish	OLD	ȵ a	186	186	ȵ a	4 7	AX	NA	5	5.N.C 5.A.V	2.0 1.5	0
+#
+27916	rGyalrong_Maerkang	FIVE	kəmŋo	five	OLD	k ə m ŋ o	10357	10357	k ə m ŋ o	1 7 4 4 7	AXMBZ	KEMNU	1	1.K.C 1.E.V 1.M.c 1.N.C 1.U.V	2.0 1.5 1.1 1.75 0.8	0
+28211	Tibetan_Lhasa	FIVE	ŋa	five	OLD	ŋ a	10357	10357	ŋ a	4 7	AX	NA	4	4.N.C 4.A.V	2.0 1.5	1
+29855	Tibetan_Batang	FIVE	ŋa	five	OLD	ŋ a	10357	10357	ŋ a	4 7	AX	NA	3	3.N.C 3.A.V	2.0 1.5	1
+32447	Tibetan_Xiahe	FIVE	hŋa	five	OLD	h ŋ a	10357	10357	h ŋ a	3 4 7	ACX	HNA	5	5.H.C 5.N.C 5.A.V	2.0 1.5 1.5	1
+34612	Tibetan_Alike	FIVE	rŋæ	five	OLD	r ŋ æ	10357	10357	r ŋ æ	5 4 7	ACZ	RNE	2	2.R.C 2.N.C 2.E.V	2.0 1.5 0.8	1
+#
+27898	Tibetan_Lhasa	FLEA	uo	flea	OLD	u o	944	944	uo	7	X	Y	4	4.Y.V	1.5	0
+29525	Tibetan_Batang	FLEA	ɑ	flea	OLD	ɑ	944	944	ɑ	7	X	A	3	3.A.V	1.5	1
+30299	rGyalrong_Maerkang	FLEA	nɑjᴇ	flea	OLD	n ɑ j ᴇ	944	944	n ɑ j ᴇ	4 7 6 7	AXBZ	NAJE	1	1.N.C 1.A.V 1.J.C 1.E.V	2.0 1.5 1.75 0.8	0
+32141	Tibetan_Xiahe	FLEA	e	flea	OLD	e	944	944	e	7	X	E	5	5.E.V	1.5	0
+34286	Tibetan_Alike	FLEA	ɣe	flea	OLD	ɣ e	944	944	ɣ e	3 7	AX	GE	2	2.G.C 2.E.V	2.0 1.5	0
+#
+28394	rGyalrong_Maerkang	FLOAT	kəwiwt	float	OLD	k ə w i w t	3288	3288	k ə w i w t	1 7 6 7 6 1	AXBYLN	KEWIWT	1	1.K.C 1.E.V 1.W.C 1.I.V 1.W.c 1.T.c	2.0 1.5 1.75 1.3 1.1 0.8	0
+28766	Tibetan_Lhasa	FLOAT	çaŋ	float	OLD	ç a ŋ	1229	1229	ç a ŋ	3 7 4	AXN	SAN	4	4.S.C 4.A.V 4.N.c	2.0 1.5 0.8	0
+30375	Tibetan_Batang	FLOAT	dĩ	float	OLD	d ĩ	2766	2766	d ĩ	1 7	AX	TI	3	3.T.C 3.I.V	2.0 1.5	0
+32846	Tibetan_Xiahe	FLOAT	ər	float	OLD	ə r	2530	2530	ə r	7 5	XN	ER	5	5.E.V 5.R.c	1.5 0.8	0
+35026	Tibetan_Alike	FLOAT	ɣjaŋ	float	OLD	ɣ j a ŋ	2970	2970	ɣ j a ŋ	3 6 7 4	ACXN	GJAN	2	2.G.C 2.J.C 2.A.V 2.N.c	2.0 1.5 1.5 0.8	0
+#
+28356	rGyalrong_Maerkang	FLOW	təikəndə	flow (of water)	OLD	t ə i k ə n d ə	3267	3267	t əi k ə n d ə	1 7 1 7 4 1 7	AXBYMBZ	TEKENTE	1	1.T.C 1.E.V 1.K.C 1.E.V 1.N.c 1.T.C 1.E.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	0
+30345	Tibetan_Batang	FLOW	uʔ	flow (of water)	OLD	u ʔ	2725	2725	u ʔ	7 1	XN	YH	3	3.Y.V 3.H.c	1.5 0.8	1
+32818	Tibetan_Xiahe	FLOW	ʑər	flow (of water)	OLD	ʑ ə r	2529	2529	ʑ ə r	3 7 5	AXN	SER	5	5.S.C 5.E.V 5.R.c	2.0 1.5 0.8	0
+33249	Tibetan_Lhasa	FLOW	ucu	flow (of water)	OLD	u c u	2620	2620	u c u	7 1 7	XBZ	YCY	4	4.Y.V 4.C.C 4.Y.V	1.5 1.75 0.8	0
+#
+27603	rGyalrong_Maerkang	FLOWER	məntok	flower	OLD	m ə n t o k	248	248	m ə n t o k	4 7 4 1 7 1	AXMBYN	MENTUK	1	1.M.C 1.E.V 1.N.c 1.T.C 1.U.V 1.K.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+29544	Tibetan_Batang	FLOWER	metoʔ	flower	OLD	m e t o ʔ	248	248	m e t o ʔ	4 7 1 7 1	AXBYN	METUH	3	3.M.C 3.E.V 3.T.C 3.U.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+32077	Tibetan_Lhasa	FLOWER	meto	flower	OLD	m e t o	248	248	m e t o	4 7 1 7	AXBZ	METU	4	4.M.C 4.E.V 4.T.C 4.U.V	2.0 1.5 1.75 0.8	0
+32157	Tibetan_Xiahe	FLOWER	metoχ	flower	OLD	m e t o χ	248	248	m e t o χ	4 7 1 7 3	AXBYN	METUG	5	5.M.C 5.E.V 5.T.C 5.U.V 5.G.c	2.0 1.5 1.75 1.3 0.8	0
+34305	Tibetan_Alike	FLOWER	meok	flower	OLD	m e o k	248	248	m eo k	4 7 1	AXN	MEK	2	2.M.C 2.E.V 2.K.c	2.0 1.5 0.8	0
+#
+28219	rGyalrong_Maerkang	FLY (MOVE THROUGH AIR)	kɑbjɑm	fly	OLD	k ɑ b j ɑ m	10206	10206	k ɑ b j ɑ m	1 7 1 6 7 4	AXBCYN	KAPJAM	1	1.K.C 1.A.V 1.P.C 1.J.C 1.A.V 1.M.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+30226	Tibetan_Batang	FLY (MOVE THROUGH AIR)	dĩ	fly	OLD	d ĩ	2572	2572	d ĩ	1 7	AX	TI	3	3.T.C 3.I.V	2.0 1.5	1
+32729	Tibetan_Xiahe	FLY (MOVE THROUGH AIR)	ər	fly	OLD	ə r	430	430	ə r	7 5	XN	ER	5	5.E.V 5.R.c	1.5 0.8	1
+33361	Tibetan_Lhasa	FLY (MOVE THROUGH AIR)	ir	fly	OLD	i r	430	430	i r	7 5	XN	IR	4	4.I.V 4.R.c	1.5 0.8	0
+34909	Tibetan_Alike	FLY (MOVE THROUGH AIR)	mpər	fly	OLD	m p ə r	430	430	m p ə r	4 1 7 5	ACYN	MPER	2	2.M.C 2.P.C 2.E.V 2.R.c	2.0 1.5 1.3 0.8	0
+#
+27338	rGyalrong_Maerkang	FOG	sɑzdᴇm	fog	OLD	s ɑ z d ᴇ m	668	668	s ɑ z d ᴇ m	3 7 3 1 7 4	AXMBYN	SASTEM	1	1.S.C 1.A.V 1.S.c 1.T.C 1.E.V 1.M.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+29429	Tibetan_Batang	FOG	upa	fog	OLD	u p a	99	99	u p a	7 1 7	XBZ	YPA	3	3.Y.V 3.P.C 3.A.V	1.5 1.75 0.8	1
+30379	Tibetan_Lhasa	FOG	mukpə	fog	OLD	m u k p ə	99	99	m u k p ə	4 7 1 1 7	AXMBZ	MYKPE	4	4.M.C 4.Y.V 4.K.c 4.P.C 4.E.V	2.0 1.5 1.1 1.75 0.8	0
+34053	Tibetan_Alike	FOG	rmukkwa	fog	OLD	r m u k k w a	99	99	r m u kk w a	5 4 7 1 6 7	ACYBCZ	RMYKWA	2	2.R.C 2.M.C 2.Y.V 2.K.C 2.W.C 2.A.V	2.0 1.5 1.3 1.75 1.5 0.8	0
+34442	Tibetan_Xiahe	FOG	hməχkwa	fog	OLD	h m ə χ k w a	99	99	h m ə χ k w a	3 4 7 3 1 6 7	ACXMBCZ	HMEGKWA	5	5.H.C 5.M.C 5.E.V 5.G.c 5.K.C 5.W.C 5.A.V	2.0 1.5 1.5 1.1 1.75 1.5 0.8	0
+#
+27400	rGyalrong_Maerkang	FOOT	tɑmᴇ	foot	OLD	t ɑ m ᴇ	701	701	t ɑ m ᴇ	1 7 4 7	AXBZ	TAME	1	1.T.C 1.A.V 1.M.C 1.E.V	2.0 1.5 1.75 0.8	0
+27697	Tibetan_Lhasa	FOOT	kaŋpa	foot	OLD	k a ŋ p a	866	866	k a ŋ p a	1 7 4 1 7	AXMBZ	KANPA	4	4.K.C 4.A.V 4.N.c 4.P.C 4.A.V	2.0 1.5 1.1 1.75 0.8	0
+29314	Tibetan_Batang	FOOT	kõmba	foot	OLD	k õ m b a	866	866	k õ m b a	1 7 4 1 7	AXMBZ	KUMPA	3	3.K.C 3.U.V 3.M.c 3.P.C 3.A.V	2.0 1.5 1.1 1.75 0.8	0
+31972	Tibetan_Xiahe	FOOT	hkaŋwa	foot	OLD	h k a ŋ w a	866	866	h k a ŋ w a	3 1 7 4 6 7	ACYBCZ	HKANWA	5	5.H.C 5.K.C 5.A.V 5.N.C 5.W.C 5.A.V	2.0 1.5 1.3 1.75 1.5 0.8	0
+34110	Tibetan_Alike	FOOT	rkoŋŋæ	foot	OLD	r k o ŋ ŋ æ	866	866	r k o ŋŋ æ	5 1 7 4 7	ACYBZ	RKUNE	2	2.R.C 2.K.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.3 1.75 0.8	0
+#
+27363	rGyalrong_Maerkang	FOREST	ʃəɑ	forest	OLD	ʃ ə ɑ	683	683	ʃ əɑ	3 7	AX	SE	1	1.S.C 1.E.V	2.0 1.5	0
+27642	Tibetan_Lhasa	FOREST	ɕiŋna	forest	OLD	ɕ i ŋ n a	840	840	ɕ i ŋ n a	3 7 4 4 7	AXMBZ	SINNA	4	4.S.C 4.I.V 4.N.c 4.N.C 4.A.V	2.0 1.5 1.1 1.75 0.8	0
+29596	Tibetan_Batang	FOREST	nɑʔ	forest	OLD	n ɑ ʔ	840	840	n ɑ ʔ	4 7 1	AXN	NAH	3	3.N.C 3.A.V 3.H.c	2.0 1.5 0.8	0
+30552	Tibetan_Lhasa	FOREST	nakɛ	forest	OLD	n a k ɛ	840	840	n a k ɛ	4 7 1 7	AXBZ	NAKE	4	4.N.C 4.A.V 4.K.C 4.E.V	2.0 1.5 1.75 0.8	0
+31941	Tibetan_Xiahe	FOREST	naχ	forest	OLD	n a χ	840	840	n a χ	4 7 3	AXN	NAG	5	5.N.C 5.A.V 5.G.c	2.0 1.5 0.8	0
+34074	Tibetan_Alike	FOREST	nak	forest	OLD	n a k	840	840	n a k	4 7 1	AXN	NAK	2	2.N.C 2.A.V 2.K.c	2.0 1.5 0.8	1
+#
+26744	Tibetan_Lhasa	FORGET	e	forget	OLD	e	1153	1153	e	7	X	E	4	4.E.V	1.5	1
+28492	rGyalrong_Maerkang	FORGET	kjməs	forget	OLD	k j m ə s	1575	1575	k j m ə s	1 6 4 7 3	AXBYN	KJMES	1	1.K.C 1.J.V 1.M.C 1.E.V 1.S.c	2.0 1.5 1.75 1.3 0.8	0
+30473	Tibetan_Batang	FORGET	eiʔ	forget	OLD	e i ʔ	1153	1153	ei ʔ	7 1	XN	EH	3	3.E.V 3.H.c	1.5 0.8	0
+32931	Tibetan_Xiahe	FORGET	el	forget	OLD	e l	1153	1153	e l	7 5	XN	EL	5	5.E.V 5.L.c	1.5 0.8	1
+35098	Tibetan_Alike	FORGET	wet	forget	OLD	w e t	1153	1153	w e t	6 7 1	AXN	WET	2	2.W.C 2.E.V 2.T.c	2.0 1.5 0.8	0
+#
+28210	Tibetan_Lhasa	FOUR	ɕi	four	OLD	ɕ i	263	263	ɕ i	3 7	AX	SI	4	4.S.C 4.I.V	2.0 1.5	0
+29102	Tibetan_Alike	FOUR	wʑə	four	OLD	w ʑ ə	263	263	w ʑ ə	6 3 7	ACZ	WSE	2	2.W.C 2.S.C 2.E.V	2.0 1.5 0.8	0
+29854	Tibetan_Batang	FOUR	ɣɪ	four	OLD	ɣ ɪ	263	263	ɣ ɪ	3 7	AX	GI	3	3.G.C 3.I.V	2.0 1.5	0
+31340	rGyalrong_Maerkang	FOUR	kəwdi	four	OLD	k ə w d i	263	263	k ə w d i	1 7 6 1 7	AXMBZ	KEWTI	1	1.K.C 1.E.V 1.W.c 1.T.C 1.I.V	2.0 1.5 1.1 1.75 0.8	0
+32446	Tibetan_Xiahe	FOUR	ʑə	four	OLD	ʑ ə	263	263	ʑ ə	3 7	AX	SE	5	5.S.C 5.E.V	2.0 1.5	0
+#
+27874	Tibetan_Lhasa	FOX	wmo	fox	OLD	w m o	379	379	w m o	6 4 7	ACZ	WMU	4	4.W.C 4.M.C 4.U.V	2.0 1.5 0.8	0
+29500	Tibetan_Batang	FOX	wɑ	fox	OLD	w ɑ	379	379	w ɑ	6 7	AX	WA	3	3.W.C 3.A.V	2.0 1.5	0
+31858	rGyalrong_Maerkang	FOX	kəwi	fox	OLD	k ə w i	2312	2312	k ə w i	1 7 6 7	AXBZ	KEWI	1	1.K.C 1.E.V 1.W.C 1.I.V	2.0 1.5 1.75 0.8	0
+32120	Tibetan_Xiahe	FOX	ʁa	fox	OLD	ʁ a	379	379	ʁ a	5 7	AX	RA	5	5.R.C 5.A.V	2.0 1.5	0
+35579	Tibetan_Alike	FOX	ɣa	fox	OLD	ɣ a	379	379	ɣ a	3 7	AX	GA	2	2.G.C 2.A.V	2.0 1.5	0
+#
+26115	Tibetan_Alike	FROG	rbæwa	frog	OLD	r b æ w a	145	145	r b æ w a	5 1 7 6 7	ACYBZ	RPEWA	2	2.R.C 2.P.C 2.E.V 2.W.C 2.A.V	2.0 1.5 1.3 1.75 0.8	0
+27578	rGyalrong_Maerkang	FROG	ɑʃpɑ	frog	OLD	ɑ ʃ p ɑ	145	145	ɑ ʃ p ɑ	7 3 1 7	XMBZ	ASPA	1	1.A.V 1.S.c 1.P.C 1.A.V	1.5 1.1 1.75 0.8	0
+27892	Tibetan_Lhasa	FROG	pɛpaŋbiɑ	frog	OLD	p ɛ p a ŋ b i ɑ	145	145	p ɛ p a ŋ b iɑ	1 7 1 7 4 1 7	AXBYMBZ	PEPANPI	4	4.P.C 4.E.V 4.P.C 4.A.V 4.N.c 4.P.C 4.I.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	0
+29519	Tibetan_Batang	FROG	biɑ	frog	OLD	b i ɑ	145	145	b iɑ	1 7	AX	PI	3	3.P.C 3.I.V	2.0 1.5	0
+32136	Tibetan_Xiahe	FROG	wawa	frog	OLD	w a w a	145	145	w a w a	6 7 6 7	AXBZ	WAWA	5	5.W.C 5.A.V 5.W.C 5.A.V	2.0 1.5 1.75 0.8	0
+#
+27853	rGyalrong_Maerkang	FRONT (PART)	təi	front	OLD	t ə i	171	171	t əi	1 7	AX	TE	1	1.T.C 1.E.V	2.0 1.5	0
+28136	Tibetan_Lhasa	FRONT (PART)	ŋla	front	OLD	ŋ l a	1305	1305	ŋ l a	4 5 7	ACX	NLA	4	4.N.C 4.L.C 4.A.V	2.0 1.5 1.5	0
+29795	Tibetan_Batang	FRONT (PART)	ŋyoʔ	front	OLD	ŋ y o ʔ	1305	1305	ŋ yo ʔ	4 7 1	AXN	NYH	3	3.N.C 3.Y.V 3.H.c	2.0 1.5 0.8	0
+32384	Tibetan_Xiahe	FRONT (PART)	hŋəno	front	OLD	h ŋ ə n o	1305	1305	h ŋ ə n o	3 4 7 4 7	ACXBZ	HNENU	5	5.H.C 5.N.C 5.E.V 5.N.C 5.U.V	2.0 1.5 1.5 1.75 0.8	0
+33601	Tibetan_Lhasa	FRONT (PART)	tỹ	front	OLD	t ỹ	2688	2688	t ỹ	1 7	AX	TY	4	4.T.C 4.Y.V	2.0 1.5	1
+34919	Tibetan_Alike	FRONT (PART)	rŋən	front	OLD	r ŋ ə n	1305	1305	r ŋ ə n	5 4 7 4	ACYN	RNEN	2	2.R.C 2.N.C 2.E.V 2.N.c	2.0 1.5 1.3 0.8	0
+#
+27336	rGyalrong_Maerkang	FROST	sŋr	frost	OLD	s ŋ r	666	666	s ŋ r	3 4 5	ACC	SNR	1	1.S.C 1.N.C 1.R.C	2.0 1.5 1.5	0
+29419	Tibetan_Batang	FROST	pmbo	frost	OLD	p m b o	97	97	p m b o	1 4 1 7	AXBZ	PMPU	3	3.P.C 3.M.V 3.P.C 3.U.V	2.0 1.5 1.75 0.8	0
+30370	Tibetan_Lhasa	FROST	amo	frost	OLD	a m o	97	97	a m o	7 4 7	XBZ	AMU	4	4.A.V 4.M.C 4.U.V	1.5 1.75 0.8	1
+31914	Tibetan_Xiahe	FROST	wal	frost	OLD	w a l	97	97	w a l	6 7 5	AXN	WAL	5	5.W.C 5.A.V 5.L.c	2.0 1.5 0.8	0
+34051	Tibetan_Alike	FROST	wat	frost	OLD	w a t	97	97	w a t	6 7 1	AXN	WAT	2	2.W.C 2.A.V 2.T.c	2.0 1.5 0.8	1
+#
+27343	Tibetan_Alike	FRUIT	si	fruit	OLD	s i	3525	3525	s i	3 7	AX	SI	2	2.S.C 2.I.V	2.0 1.5	0
+27604	rGyalrong_Maerkang	FRUIT	ʃəŋtok	fruit	OLD	ʃ ə ŋ t o k	817	817	ʃ ə ŋ t o k	3 7 4 1 7 1	AXMBYN	SENTUK	1	1.S.C 1.E.V 1.N.c 1.T.C 1.U.V 1.K.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+27919	Tibetan_Lhasa	FRUIT	ɕiŋto	fruit	OLD	ɕ i ŋ t o	817	817	ɕ i ŋ t o	3 7 4 1 7	AXMBZ	SINTU	4	4.S.C 4.I.V 4.N.c 4.T.C 4.U.V	2.0 1.5 1.1 1.75 0.8	0
+29545	Tibetan_Batang	FRUIT	ĩoʔ	fruit	OLD	ĩ o ʔ	817	817	ĩo ʔ	7 1	XN	IH	3	3.I.V 3.H.c	1.5 0.8	0
+32158	Tibetan_Xiahe	FRUIT	itoχ	fruit	OLD	i t o χ	817	817	i t o χ	7 1 7 3	XBYN	ITUG	5	5.I.V 5.T.C 5.U.V 5.G.c	1.5 1.75 1.3 0.8	0
+#
+27551	Tibetan_Xiahe	FULL	kaŋwo	full	OLD	k a ŋ w o	1085	1085	k a ŋ w o	1 7 4 6 7	AXBCZ	KANWU	5	5.K.C 5.A.V 5.N.C 5.W.C 5.U.V	2.0 1.5 1.75 1.5 0.8	0
+28009	rGyalrong_Maerkang	FULL	kəmȵot	full	OLD	k ə m ȵ o t	978	978	k ə m ȵ o t	1 7 4 4 7 1	AXMBYN	KEMNUT	1	1.K.C 1.E.V 1.M.c 1.N.C 1.U.V 1.T.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+28352	Tibetan_Lhasa	FULL	aŋpa	full	OLD	a ŋ p a	1085	1085	a ŋ p a	7 4 1 7	XMBZ	ANPA	4	4.A.V 4.N.c 4.P.C 4.A.V	1.5 1.1 1.75 0.8	0
+29879	Tibetan_Alike	FULL	kaŋ	full	OLD	k a ŋ	1085	1085	k a ŋ	1 7 4	AXN	KAN	2	2.K.C 2.A.V 2.N.c	2.0 1.5 0.8	0
+33469	Tibetan_Batang	FULL	kõ	full	OLD	k õ	1085	1085	k õ	1 7	AX	KU	3	3.K.C 3.U.V	2.0 1.5	0
+#
+28627	Tibetan_Lhasa	GIVE	ɛ	give	OLD	ɛ	1192	1192	ɛ	7	X	E	4	4.E.V	1.5	0
+29396	Tibetan_Lhasa	GIVE	t	give	OLD	t	1010	1010	t	1	A	T	4	4.T.C	2.0	1
+32735	Tibetan_Xiahe	GIVE	hter	give	OLD	h t e r	1010	1010	h t e r	3 1 7 5	ACYN	HTER	5	5.H.C 5.T.C 5.E.V 5.R.c	2.0 1.5 1.3 0.8	0
+34196	rGyalrong_Maerkang	GIVE	kwə	give	OLD	k w ə	1913	1913	k w ə	1 6 7	ACX	KWE	1	1.K.C 1.W.C 1.E.V	2.0 1.5 1.5	0
+34920	Tibetan_Alike	GIVE	rter	give	OLD	r t e r	1010	1010	r t e r	5 1 7 5	ACYN	RTER	2	2.R.C 2.T.C 2.E.V 2.R.c	2.0 1.5 1.3 0.8	0
+34921	Tibetan_Alike	GIVE	wɕən	give	OLD	w ɕ ə n	1913	1913	w ɕ ə n	6 3 7 4	ACYN	WSEN	2	2.W.C 2.S.C 2.E.V 2.N.c	2.0 1.5 1.3 0.8	0
+35027	Tibetan_Batang	GIVE	tɛʔ	give	OLD	t ɛ ʔ	1010	1010	t ɛ ʔ	1 7 1	AXN	TEH	3	3.T.C 3.E.V 3.H.c	2.0 1.5 0.8	0
+#
+25941	Tibetan_Alike	GOAT	əra	goat (male)	OLD	ə r a	241	241	ə r a	7 5 7	XBZ	ERA	2	2.E.V 2.R.C 2.A.V	1.5 1.75 0.8	0
+27526	rGyalrong_Maerkang	GOAT	ət	goat	OLD	ə t	774	774	ə t	7 1	XN	ET	1	1.E.V 1.T.c	1.5 0.8	0
+27840	Tibetan_Lhasa	GOAT	ra	goat	OLD	r a	241	241	r a	5 7	AX	RA	4	4.R.C 4.A.V	2.0 1.5	0
+29461	Tibetan_Batang	GOAT	ʐa	goat	OLD	ʐ a	241	241	ʐ a	3 7	AX	SA	3	3.S.C 3.A.V	2.0 1.5	0
+30502	Tibetan_Alike	GOAT	ræmæ	goat (female)	OLD	r æ m æ	241	241	r æ m æ	5 7 4 7	AXBZ	REME	2	2.R.C 2.E.V 2.M.C 2.E.V	2.0 1.5 1.75 0.8	0
+35580	Tibetan_Xiahe	GOAT	rama	goat	OLD	r a m a	241	241	r a m a	5 7 4 7	AXBZ	RAMA	5	5.R.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	0
+#
+28051	rGyalrong_Maerkang	GOOD	kəhou	good	OLD	k ə h o u	998	998	k ə h ou	1 7 3 7	AXBZ	KEHU	1	1.K.C 1.E.V 1.H.C 1.U.V	2.0 1.5 1.75 0.8	0
+28405	Tibetan_Lhasa	GOOD	jako	good	OLD	j a k o	1099	1099	j a k o	6 7 1 7	AXBZ	JAKU	4	4.J.C 4.A.V 4.K.C 4.U.V	2.0 1.5 1.75 0.8	0
+28406	Tibetan_Lhasa	GOOD	lekpo	good	OLD	l e k p o	1004	1004	l e k p o	5 7 1 1 7	AXMBZ	LEKPU	4	4.L.C 4.E.V 4.K.c 4.P.C 4.U.V	2.0 1.5 1.1 1.75 0.8	0
+30026	Tibetan_Batang	GOOD	jɑpu	good	OLD	j ɑ p u	1099	1099	j ɑ p u	6 7 1 7	AXBZ	JAPY	3	3.J.C 3.A.V 3.P.C 3.Y.V	2.0 1.5 1.75 0.8	0
+30027	Tibetan_Batang	GOOD	zõbu	good	OLD	z õ b u	1680	1680	z õ b u	3 7 1 7	AXBZ	SUPY	3	3.S.C 3.U.V 3.P.C 3.Y.V	2.0 1.5 1.75 0.8	0
+32604	Tibetan_Xiahe	GOOD	ao	good	OLD	a o	2481	2481	ao	7	X	A	5	5.A.V	1.5	0
+32605	Tibetan_Xiahe	GOOD	zaŋ	good	OLD	z a ŋ	1680	1680	z a ŋ	3 7 4	AXN	SAN	5	5.S.C 5.A.V 5.N.c	2.0 1.5 0.8	0
+34782	Tibetan_Alike	GOOD	jakkə	good	OLD	j a k k ə	1099	1099	j a kk ə	6 7 1 7	AXBZ	JAKE	2	2.J.C 2.A.V 2.K.C 2.E.V	2.0 1.5 1.75 0.8	0
+#
+27656	rGyalrong_Maerkang	GRASS	kɑɑ	grass	OLD	k ɑ ɑ	2792	2792	k ɑɑ	1 7	AX	KA	1	1.K.C 1.A.V	2.0 1.5	1
+27950	Tibetan_Lhasa	GRASS	a	grass	OLD	a	959	959	a	7	X	A	4	4.A.V	1.5	1
+29583	Tibetan_Batang	GRASS	a	grass	OLD	a	959	959	a	7	X	A	3	3.A.V	1.5	1
+32201	Tibetan_Xiahe	GRASS	ha	grass	OLD	h a	959	959	h a	3 7	AX	HA	5	5.H.C 5.A.V	2.0 1.5	1
+34346	Tibetan_Alike	GRASS	ræ	grass	OLD	r æ	959	959	r æ	5 7	AX	RE	2	2.R.C 2.E.V	2.0 1.5	1
+#
+28025	rGyalrong_Maerkang	GREEN	llkə	green	OLD	l l k ə	3142	3142	ll k ə	5 1 7	ACZ	LKE	1	1.L.C 1.K.C 1.E.V	2.0 1.5 0.8	0
+28367	Tibetan_Lhasa	GREEN	əŋku	green	OLD	ə ŋ k u	564	564	ə ŋ k u	7 4 1 7	XMBZ	ENKY	4	4.E.V 4.N.c 4.K.C 4.Y.V	1.5 1.1 1.75 0.8	0
+29082	Tibetan_Xiahe	GREEN	aŋə	green	OLD	a ŋ ə	564	564	a ŋ ə	7 4 7	XBZ	ANE	5	5.A.V 5.N.C 5.E.V	1.5 1.75 0.8	0
+30550	Tibetan_Batang	GREEN	õu	green	OLD	õ u	564	564	õu	7	X	U	3	3.U.V	1.5	0
+34753	Tibetan_Alike	GREEN	raŋə	green	OLD	r a ŋ ə	564	564	r a ŋ ə	5 7 4 7	AXBZ	RANE	2	2.R.C 2.A.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	0
+#
+31913	Tibetan_Xiahe	HAIL	era	hail	OLD	e r a	384	384	e r a	7 5 7	XBZ	ERA	5	5.E.V 5.R.C 5.A.V	1.5 1.75 0.8	0
+27335	rGyalrong_Maerkang	HAIL	tərmo	hail	OLD	t ə r m o	1166	1166	t ə r m o	1 7 5 4 7	AXMBZ	TERMU	1	1.T.C 1.E.V 1.R.c 1.M.C 1.U.V	2.0 1.5 1.1 1.75 0.8	0
+29236	Tibetan_Batang	HAIL	ɑ	hail	OLD	ɑ	384	384	ɑ	7	X	A	3	3.A.V	1.5	1
+30860	Tibetan_Lhasa	HAIL	sra	hail	OLD	s r a	384	384	s r a	3 5 7	ACX	SRA	4	4.S.C 4.R.C 4.A.V	2.0 1.5 1.5	0
+34050	Tibetan_Alike	HAIL	sera	hail	OLD	s e r a	384	384	s e r a	3 7 5 7	AXBZ	SERA	2	2.S.C 2.E.V 2.R.C 2.A.V	2.0 1.5 1.75 0.8	0
+#
+27519	rGyalrong_Maerkang	HAIR (HEAD)	tɑrȵᴇ	hair / down	OLD	t ɑ r ȵ ᴇ	141	141	t ɑ r ȵ ᴇ	1 7 5 4 7	AXMBZ	TARNE	1	1.T.C 1.A.V 1.R.c 1.N.C 1.E.V	2.0 1.5 1.1 1.75 0.8	0
+27829	Tibetan_Lhasa	HAIR (HEAD)	pu	hair / down	OLD	p u	137	137	p u	1 7	AX	PY	4	4.P.C 4.Y.V	2.0 1.5	0
+29452	Tibetan_Batang	HAIR (HEAD)	pu	hair / down	OLD	p u	137	137	p u	1 7	AX	PY	3	3.P.C 3.Y.V	2.0 1.5	0
+35537	Tibetan_Xiahe	HAIR (HEAD)	χwə	hair / down	OLD	χ w ə	137	137	χ w ə	3 6 7	ACX	GWE	5	5.G.C 5.W.C 5.E.V	2.0 1.5 1.5	0
+26082	Tibetan_Alike	HAIR (HEAD)	ræ	hair	OLD	r æ	210	210	r æ	5 7	AX	RE	2	2.R.C 2.E.V	2.0 1.5	0
+27379	rGyalrong_Maerkang	HAIR (HEAD)	tɑkorȵᴇ	hair	OLD	t ɑ k o r ȵ ᴇ	2014	2014	t ɑ k o r ȵ ᴇ	1 7 1 7 5 4 7	AXBYMBZ	TAKURNE	1	1.T.C 1.A.V 1.K.C 1.U.V 1.R.c 1.N.C 1.E.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	0
+29293	Tibetan_Batang	HAIR (HEAD)	a	hair	OLD	a	210	210	a	7	X	A	3	3.A.V	1.5	1
+32367	Tibetan_Lhasa	HAIR (HEAD)	a	hair	OLD	a	210	210	a	7	X	A	4	4.A.V	1.5	1
+34694	Tibetan_Xiahe	HAIR (HEAD)	ha	hair	OLD	h a	210	210	h a	3 7	AX	HA	5	5.H.C 5.A.V	2.0 1.5	0
+#
+27700	Tibetan_Lhasa	HAND	lakpa	hand	OLD	l a k p a	229	229	l a k p a	5 7 1 1 7	AXMBZ	LAKPA	4	4.L.C 4.A.V 4.K.c 4.P.C 4.A.V	2.0 1.5 1.1 1.75 0.8	0
+28604	Tibetan_Batang	HAND	lapa	hand	OLD	l a p a	229	229	l a p a	5 7 1 7	AXBZ	LAPA	3	3.L.C 3.A.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	0
+29213	rGyalrong_Maerkang	HAND	tjk	hand	OLD	t j k	229	229	t j k	1 6 1	AXN	TJK	1	1.T.C 1.J.V 1.K.c	2.0 1.5 0.8	0
+31475	Tibetan_Alike	HAND	lokkwæ	hand	OLD	l o k k w æ	229	229	l o kk w æ	5 7 1 6 7	AXBCZ	LUKWE	2	2.L.C 2.U.V 2.K.C 2.W.C 2.E.V	2.0 1.5 1.75 1.5 0.8	0
+31976	Tibetan_Xiahe	HAND	laχkwa	hand	OLD	l a χ k w a	229	229	l a χ k w a	5 7 3 1 6 7	AXMBCZ	LAGKWA	5	5.L.C 5.A.V 5.G.c 5.K.C 5.W.C 5.A.V	2.0 1.5 1.1 1.75 1.5 0.8	0
+#
+28042	rGyalrong_Maerkang	HARD	kərko	hard	OLD	k ə r k o	341	341	k ə r k o	1 7 5 1 7	AXMBZ	KERKU	1	1.K.C 1.E.V 1.R.c 1.K.C 1.U.V	2.0 1.5 1.1 1.75 0.8	0
+28390	Tibetan_Lhasa	HARD	ako	hard	OLD	a k o	211	211	a k o	7 1 7	XBZ	AKU	4	4.A.V 4.K.C 4.U.V	1.5 1.75 0.8	1
+28391	Tibetan_Lhasa	HARD	reŋpo	hard	OLD	r e ŋ p o	3286	3286	r e ŋ p o	5 7 4 1 7	AXMBZ	RENPU	4	4.R.C 4.E.V 4.N.c 4.P.C 4.U.V	2.0 1.5 1.1 1.75 0.8	0
+29508	Tibetan_Xiahe	HARD	ʂamo	hard	OLD	ʂ a m o	1458	1458	ʂ a m o	3 7 4 7	AXBZ	SAMU	5	5.S.C 5.A.V 5.M.C 5.U.V	2.0 1.5 1.75 0.8	0
+30011	Tibetan_Batang	HARD	samu	hard	OLD	s a m u	1458	1458	s a m u	3 7 4 7	AXBZ	SAMY	3	3.S.C 3.A.V 3.M.C 3.Y.V	2.0 1.5 1.75 0.8	0
+34770	Tibetan_Alike	HARD	ʂamo	hard	OLD	ʂ a m o	1458	1458	ʂ a m o	3 7 4 7	AXBZ	SAMU	2	2.S.C 2.A.V 2.M.C 2.U.V	2.0 1.5 1.75 0.8	0
+#
+27975	rGyalrong_Maerkang	HE OR SHE	mə	he	OLD	m ə	964	964	m ə	4 7	AX	ME	1	1.M.C 1.E.V	2.0 1.5	0
+27976	rGyalrong_Maerkang	HE OR SHE	wəjo	he	OLD	w ə j o	965	965	w ə j o	6 7 6 7	AXBZ	WEJU	1	1.W.C 1.E.V 1.J.C 1.U.V	2.0 1.5 1.75 0.8	0
+28036	Tibetan_Xiahe	HE OR SHE	əka	he	OLD	ə k a	788	788	ə k a	7 1 7	XBZ	EKA	5	5.E.V 5.K.C 5.A.V	1.5 1.75 0.8	0
+28306	Tibetan_Lhasa	HE OR SHE	o	he	OLD	o	788	788	o	7	X	U	4	4.U.V	1.5	0
+29678	Tibetan_Alike	HE OR SHE	ərgo	he	OLD	ə r g o	788	788	ə r g o	7 5 1 7	XMBZ	ERKU	2	2.E.V 2.R.c 2.K.C 2.U.V	1.5 1.1 1.75 0.8	0
+32528	Tibetan_Xiahe	HE OR SHE	o	he	OLD	o	788	788	o	7	X	U	5	5.U.V	1.5	0
+33245	Tibetan_Batang	HE OR SHE	u	he	OLD	u	788	788	u	7	X	Y	3	3.Y.V	1.5	0
+#
+27378	rGyalrong_Maerkang	HEAD	tɑko	head	OLD	t ɑ k o	1426	1426	t ɑ k o	1 7 1 7	AXBZ	TAKU	1	1.T.C 1.A.V 1.K.C 1.U.V	2.0 1.5 1.75 0.8	0
+27664	Tibetan_Lhasa	HEAD	ko	head	OLD	k o	1426	1426	k o	1 7	AX	KU	4	4.K.C 4.U.V	2.0 1.5	0
+29292	Tibetan_Batang	HEAD	ŋgu	head	OLD	ŋ g u	1426	1426	ŋ g u	4 1 7	ACZ	NKY	3	3.N.C 3.K.C 3.Y.V	2.0 1.5 0.8	0
+31953	Tibetan_Xiahe	HEAD	ngotə	head	OLD	n g o t ə	1426	1426	n g o t ə	4 1 7 1 7	ACYBZ	NKUTE	5	5.N.C 5.K.C 5.U.V 5.T.C 5.E.V	2.0 1.5 1.3 1.75 0.8	0
+34087	Tibetan_Alike	HEAD	ngo	head	OLD	n g o	1426	1426	n g o	4 1 7	ACZ	NKU	2	2.N.C 2.K.C 2.U.V	2.0 1.5 0.8	0
+#
+25552	Tibetan_Batang	HEAR	ku	hear	OLD	k u	2543	2543	k u	1 7	AX	KY	3	3.K.C 3.Y.V	2.0 1.5	1
+26220	Tibetan_Lhasa	HEAR	o	hear	OLD	o	2543	2543	o	7	X	U	4	4.U.V	1.5	1
+28399	Tibetan_Alike	HEAR	ko	hear	OLD	k o	2543	2543	k o	1 7	AX	KU	2	2.K.C 2.U.V	2.0 1.5	0
+28477	rGyalrong_Maerkang	HEAR	kɑmsɑm	hear	OLD	k ɑ m s ɑ m	3152	3152	k ɑ m s ɑ m	1 7 4 3 7 4	AXMBYN	KAMSAM	1	1.K.C 1.A.V 1.M.c 1.S.C 1.A.V 1.M.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+30456	Tibetan_Batang	HEAR	o	hear	OLD	o	2897	2897	o	7	X	U	3	3.U.V	1.5	1
+32914	Tibetan_Xiahe	HEAR	ko	hear	OLD	k o	2543	2543	k o	1 7	AX	KU	5	5.K.C 5.U.V	2.0 1.5	0
+#
+27426	rGyalrong_Maerkang	HEART	təʃnᴇ	heart	OLD	t ə ʃ n ᴇ	539	539	t ə ʃ n ᴇ	1 7 3 4 7	AXBCZ	TESNE	1	1.T.C 1.E.V 1.S.C 1.N.C 1.E.V	2.0 1.5 1.75 1.5 0.8	0
+27735	Tibetan_Lhasa	HEART	ȵiŋ	heart	OLD	ȵ i ŋ	539	539	ȵ i ŋ	4 7 4	AXN	NIN	4	4.N.C 4.I.V 4.N.c	2.0 1.5 0.8	0
+29346	Tibetan_Batang	HEART	ȵĩ	heart	OLD	ȵ ĩ	539	539	ȵ ĩ	4 7	AX	NI	3	3.N.C 3.I.V	2.0 1.5	0
+32001	Tibetan_Xiahe	HEART	hȵaŋ	heart	OLD	h ȵ a ŋ	539	539	h ȵ a ŋ	3 4 7 4	ACXN	HNAN	5	5.H.C 5.N.C 5.A.V 5.N.c	2.0 1.5 1.5 0.8	0
+34075	Tibetan_Alike	HEART	raŋ	heart	OLD	r a ŋ	539	539	r a ŋ	5 7 4	AXN	RAN	2	2.R.C 2.A.V 2.N.c	2.0 1.5 0.8	0
+#
+25356	Tibetan_Alike	HEAVY	rəɣə	heavy	OLD	r ə ɣ ə	10379	10379	r ə ɣ ə	5 7 3 7	AXBZ	REGE	2	2.R.C 2.E.V 2.G.C 2.E.V	2.0 1.5 1.75 0.8	0
+28029	rGyalrong_Maerkang	HEAVY	kəli	heavy	OLD	k ə l i	10379	10379	k ə l i	1 7 5 7	AXBZ	KELI	1	1.K.C 1.E.V 1.L.C 1.I.V	2.0 1.5 1.75 0.8	0
+28373	Tibetan_Lhasa	HEAVY	ipu	heavy	OLD	i p u	10379	10379	i p u	7 1 7	XBZ	IPY	4	4.I.V 4.P.C 4.Y.V	1.5 1.75 0.8	0
+29995	Tibetan_Batang	HEAVY	ipu	heavy	OLD	i p u	10379	10379	i p u	7 1 7	XBZ	IPY	3	3.I.V 3.P.C 3.Y.V	1.5 1.75 0.8	0
+32585	Tibetan_Xiahe	HEAVY	əmo	heavy	OLD	ə m o	10379	10379	ə m o	7 4 7	XBZ	EMU	5	5.E.V 5.M.C 5.U.V	1.5 1.75 0.8	0
+#
+27984	rGyalrong_Maerkang	HERE	ʃtəi	here	OLD	ʃ t ə i	3989	3989	ʃ t əi	3 1 7	ACZ	STE	1	1.S.C 1.T.C 1.E.V	2.0 1.5 0.8	0
+28315	Tibetan_Lhasa	HERE	t	here	OLD	t	5756	5756	t	1	A	T	4	4.T.C	2.0	0
+29932	Tibetan_Batang	HERE	ʔɑɑ	here	OLD	ʔ ɑ ɑ	5756	5756	ʔ ɑɑ	1 7	AX	HA	3	3.H.C 3.A.V	2.0 1.5	0
+32535	Tibetan_Xiahe	HERE	əna	here	OLD	ə n a	5756	5756	ə n a	7 4 7	XBZ	ENA	5	5.E.V 5.N.C 5.A.V	1.5 1.75 0.8	0
+34703	Tibetan_Alike	HERE	ndənæ	here	OLD	n d ə n æ	5756	5756	n d ə n æ	4 1 7 4 7	ACYBZ	NTENE	2	2.N.C 2.T.C 2.E.V 2.N.C 2.E.V	2.0 1.5 1.3 1.75 0.8	0
+#
+28118	rGyalrong_Maerkang	HIDE (CONCEAL)	kɑʃɑpki	hide (sthg.)	OLD	k ɑ ʃ ɑ p k i	3170	3170	k ɑ ʃ ɑ p k i	1 7 3 7 1 1 7	AXBYMBZ	KASAPKI	1	1.K.C 1.A.V 1.S.C 1.A.V 1.P.c 1.K.C 1.I.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	0
+28502	Tibetan_Lhasa	HIDE (CONCEAL)	jip	hide (sthg.)	OLD	j i p	3345	3345	j i p	6 7 1	AXN	JIP	4	4.J.C 4.I.V 4.P.c	2.0 1.5 0.8	0
+30102	Tibetan_Batang	HIDE (CONCEAL)	kũ	hide (sthg.)	OLD	k ũ	3491	3491	k ũ	1 7	AX	KY	3	3.K.C 3.Y.V	2.0 1.5	0
+32669	Tibetan_Xiahe	HIDE (CONCEAL)	ʑa	hide (sthg.)	OLD	ʑ a	2496	2496	ʑ a	3 7	AX	SA	5	5.S.C 5.A.V	2.0 1.5	0
+34850	Tibetan_Alike	HIDE (CONCEAL)	rwi	hide (sthg.)	OLD	r w i	2943	2943	r w i	5 6 7	ACX	RWI	2	2.R.C 2.W.C 2.I.V	2.0 1.5 1.5	0
+35723	Tibetan_Lhasa	HIDE (CONCEAL)	əp	hide (sthg.)	OLD	ə p	3308	3308	ə p	7 1	XN	EP	4	4.E.V 4.P.c	1.5 0.8	1
+#
+27998	rGyalrong_Maerkang	HIGH	kəmbro	high / tall	OLD	k ə m b r o	896	896	k ə m b r o	1 7 4 1 5 7	AXMBCZ	KEMPRU	1	1.K.C 1.E.V 1.M.c 1.P.C 1.R.C 1.U.V	2.0 1.5 1.1 1.75 1.5 0.8	0
+29955	Tibetan_Batang	HIGH	u	high / tall	OLD	u	139	139	u	7	X	Y	3	3.Y.V	1.5	1
+29956	Tibetan_Batang	HIGH	umbu	high / tall	OLD	u m b u	139	139	u m b u	7 4 1 7	XMBZ	YMPY	3	3.Y.V 3.M.c 3.P.C 3.Y.V	1.5 1.1 1.75 0.8	0
+32524	Tibetan_Lhasa	HIGH	opo	high / tall	OLD	o p o	139	139	o p o	7 1 7	XBZ	UPU	4	4.U.V 4.P.C 4.U.V	1.5 1.75 0.8	0
+32556	Tibetan_Xiahe	HIGH	ombo	high / tall	OLD	o m b o	139	139	o m b o	7 4 1 7	XMBZ	UMPU	5	5.U.V 5.M.c 5.P.C 5.U.V	1.5 1.1 1.75 0.8	0
+34722	Tibetan_Alike	HIGH	mo	high / tall	OLD	m o	139	139	m o	4 7	AX	MU	2	2.M.C 2.U.V	2.0 1.5	0
+#
+25683	Tibetan_Batang	HOLD	u	hold (a pen)	OLD	u	3184	3184	u	7	X	Y	3	3.Y.V	1.5	1
+27354	Tibetan_Lhasa	HOLD	ĩ	hold (a pen)	OLD	ĩ	1986	1986	ĩ	7	X	I	4	4.I.V	1.5	0
+28903	Tibetan_Lhasa	HOLD	u	hold (a pen)	OLD	u	3184	3184	u	7	X	Y	4	4.Y.V	1.5	1
+32934	Tibetan_Xiahe	HOLD	ən	hold (a pen)	OLD	ə n	1986	1986	ə n	7 4	XN	EN	5	5.E.V 5.N.c	1.5 0.8	0
+35709	rGyalrong_Maerkang	HOLD	pərknət	hold (a pen)	OLD	p ə r k n ə t	1441	1441	p ə r k n ə t	1 7 5 1 4 7 1	AXMBCYN	PERKNET	1	1.P.C 1.E.V 1.R.c 1.K.C 1.N.C 1.E.V 1.T.c	2.0 1.5 1.1 1.75 1.5 1.3 0.8	0
+#
+26835	Tibetan_Alike	HOOF	rȵukxa	hoof	OLD	r ȵ u k x a	912	912	r ȵ u k x a	5 4 7 1 3 7	ACYBCZ	RNYKGA	2	2.R.C 2.N.C 2.Y.V 2.K.C 2.G.C 2.A.V	2.0 1.5 1.3 1.75 1.5 0.8	0
+27517	rGyalrong_Maerkang	HOOF	tɑkɑ	hoof	OLD	t ɑ k ɑ	2609	2609	t ɑ k ɑ	1 7 1 7	AXBZ	TAKA	1	1.T.C 1.A.V 1.K.C 1.A.V	2.0 1.5 1.75 0.8	0
+27827	Tibetan_Lhasa	HOOF	mikpə	hoof (odd number)	OLD	m i k p ə	912	912	m i k p ə	4 7 1 1 7	AXMBZ	MIKPE	4	4.M.C 4.I.V 4.K.c 4.P.C 4.E.V	2.0 1.5 1.1 1.75 0.8	0
+27828	Tibetan_Lhasa	HOOF	sup	hoof (even number)	OLD	s u p	913	913	s u p	3 7 1	AXN	SYP	4	4.S.C 4.Y.V 4.P.c	2.0 1.5 0.8	0
+29449	Tibetan_Batang	HOOF	uɤɪ	hoof (odd number)	OLD	u ɤ ɪ	913	913	uɤɪ	7	X	Y	3	3.Y.V	1.5	0
+29450	Tibetan_Batang	HOOF	mipa	hoof (even number)	OLD	m i p a	912	912	m i p a	4 7 1 7	AXBZ	MIPA	3	3.M.C 3.I.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	0
+32076	Tibetan_Xiahe	HOOF	hȵəχkwa	hoof	OLD	h ȵ ə χ k w a	912	912	h ȵ ə χ k w a	3 4 7 3 1 6 7	ACXMBCZ	HNEGKWA	5	5.H.C 5.N.C 5.E.V 5.G.c 5.K.C 5.W.C 5.A.V	2.0 1.5 1.5 1.1 1.75 1.5 0.8	0
+#
+27615	Tibetan_Xiahe	HORIZONTAL	el	horizontal	OLD	e l	268	268	e l	7 5	XN	EL	5	5.E.V 5.L.c	1.5 0.8	0
+28018	rGyalrong_Maerkang	HORIZONTAL	kɑmkrɑk	horizontal	OLD	k ɑ m k r ɑ k	982	982	k ɑ m k r ɑ k	1 7 4 1 5 7 1	AXMBCYN	KAMKRAK	1	1.K.C 1.A.V 1.M.c 1.K.C 1.R.C 1.A.V 1.K.c	2.0 1.5 1.1 1.75 1.5 1.3 0.8	0
+28359	Tibetan_Lhasa	HORIZONTAL	e	horizontal	OLD	e	268	268	e	7	X	E	4	4.E.V	1.5	0
+29982	Tibetan_Batang	HORIZONTAL	eiʔei	horizontal	OLD	e i ʔ e i	268	268	ei ʔ ei	7 1 7	XBZ	EHE	3	3.E.V 3.H.C 3.E.V	1.5 1.75 0.8	0
+34746	Tibetan_Alike	HORIZONTAL	ər	horizontal	OLD	ə r	2928	2928	ə r	7 5	XN	ER	2	2.E.V 2.R.c	1.5 0.8	0
+#
+27516	rGyalrong_Maerkang	HORN (ANATOMY)	təru	horn	OLD	t ə r u	312	312	t ə r u	1 7 5 7	AXBZ	TERY	1	1.T.C 1.E.V 1.R.C 1.Y.V	2.0 1.5 1.75 0.8	0
+27826	Tibetan_Lhasa	HORN (ANATOMY)	rako	horn	OLD	r a k o	312	312	r a k o	5 7 1 7	AXBZ	RAKU	4	4.R.C 4.A.V 4.K.C 4.U.V	2.0 1.5 1.75 0.8	0
+28867	Tibetan_Alike	HORN (ANATOMY)	rao	horn	OLD	r a o	312	312	r ao	5 7	AX	RA	2	2.R.C 2.A.V	2.0 1.5	0
+29448	Tibetan_Batang	HORN (ANATOMY)	ʐajo	horn	OLD	ʐ a j o	312	312	ʐ a j o	3 7 6 7	AXBZ	SAJU	3	3.S.C 3.A.V 3.J.C 3.U.V	2.0 1.5 1.75 0.8	0
+32075	Tibetan_Xiahe	HORN (ANATOMY)	rao	horn	OLD	r a o	312	312	r ao	5 7	AX	RA	5	5.R.C 5.A.V	2.0 1.5	0
+#
+25752	Tibetan_Alike	HORSE	rtæ	horse	OLD	r t æ	3150	3150	r t æ	5 1 7	ACZ	RTE	2	2.R.C 2.T.C 2.E.V	2.0 1.5 0.8	0
+27521	rGyalrong_Maerkang	HORSE	mbro	horse	OLD	m b r o	3151	3151	m b r o	4 1 5 7	ACCZ	MPRU	1	1.M.C 1.P.C 1.R.C 1.U.V	2.0 1.5 1.5 0.8	0
+27832	Tibetan_Lhasa	HORSE	ta	horse	OLD	t a	3150	3150	t a	1 7	AX	TA	4	4.T.C 4.A.V	2.0 1.5	0
+29454	Tibetan_Batang	HORSE	ta	horse	OLD	t a	3150	3150	t a	1 7	AX	TA	3	3.T.C 3.A.V	2.0 1.5	0
+32080	Tibetan_Xiahe	HORSE	hta	horse	OLD	h t a	3150	3150	h t a	3 1 7	ACZ	HTA	5	5.H.C 5.T.C 5.A.V	2.0 1.5 0.8	0
+#
+28058	rGyalrong_Maerkang	HOT	kəwɑsᴇ	hot	OLD	k ə w ɑ s ᴇ	4221	4221	k ə w ɑ s ᴇ	1 7 6 7 3 7	AXBYBZ	KEWASE	1	1.K.C 1.E.V 1.W.C 1.A.V 1.S.C 1.E.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+28416	Tibetan_Lhasa	HOT	apo	hot	OLD	a p o	586	586	a p o	7 1 7	XBZ	APU	4	4.A.V 4.P.C 4.U.V	1.5 1.75 0.8	0
+30033	Tibetan_Batang	HOT	amu	hot	OLD	a m u	586	586	a m u	7 4 7	XBZ	AMY	3	3.A.V 3.M.C 3.Y.V	1.5 1.75 0.8	0
+32612	Tibetan_Xiahe	HOT	hŋu	hot (weather)	OLD	h ŋ u	2484	2484	h ŋ u	3 4 7	ACX	HNY	5	5.H.C 5.N.C 5.Y.V	2.0 1.5 1.5	0
+32613	Tibetan_Xiahe	HOT	ae	hot (water)	OLD	a e	586	586	ae	7	X	A	5	5.A.V	1.5	0
+34787	Tibetan_Alike	HOT	oɣə	hot	OLD	o ɣ ə	2931	2931	o ɣ ə	7 3 7	XBZ	UGE	2	2.U.V 2.G.C 2.E.V	1.5 1.75 0.8	0
+#
+27707	rGyalrong_Maerkang	HOUSE	təəm	house	OLD	t ə ə m	209	209	t əə m	1 7 4	AXN	TEM	1	1.T.C 1.E.V 1.M.c	2.0 1.5 0.8	0
+29630	Tibetan_Batang	HOUSE	õmba	house	OLD	õ m b a	1523	1523	õ m b a	7 4 1 7	XMBZ	UMPA	3	3.U.V 3.M.c 3.P.C 3.A.V	1.5 1.1 1.75 0.8	0
+32235	Tibetan_Xiahe	HOUSE	aŋwa	house	OLD	a ŋ w a	1523	1523	a ŋ w a	7 4 6 7	XBCZ	ANWA	5	5.A.V 5.N.C 5.W.C 5.A.V	1.5 1.75 1.5 0.8	0
+32594	Tibetan_Lhasa	HOUSE	aŋpa	house	OLD	a ŋ p a	1523	1523	a ŋ p a	7 4 1 7	XMBZ	ANPA	4	4.A.V 4.N.c 4.P.C 4.A.V	1.5 1.1 1.75 0.8	1
+34388	Tibetan_Alike	HOUSE	noŋŋæ	house	OLD	n o ŋ ŋ æ	1523	1523	n o ŋŋ æ	4 7 4 7	AXBZ	NUNE	2	2.N.C 2.U.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	0
+#
+27929	rGyalrong_Maerkang	HUNDRED	pərj	hundred	OLD	p ə r j	185	185	p ə r j	1 7 5 6	AXBC	PERJ	1	1.P.C 1.E.V 1.R.C 1.J.C	2.0 1.5 1.75 1.5	0
+28224	Tibetan_Lhasa	HUNDRED	ca	hundred	OLD	c a	185	185	c a	1 7	AX	CA	4	4.C.C 4.A.V	2.0 1.5	0
+29867	Tibetan_Batang	HUNDRED	a	hundred	OLD	a	185	185	a	7	X	A	3	3.A.V	1.5	1
+32462	Tibetan_Xiahe	HUNDRED	aamba	hundred	OLD	a a m b a	185	185	aa m b a	7 4 1 7	XMBZ	AMPA	5	5.A.V 5.M.c 5.P.C 5.A.V	1.5 1.1 1.75 0.8	0
+34627	Tibetan_Alike	HUNDRED	wɟjæ	hundred	OLD	w ɟ j æ	185	185	w ɟ j æ	6 1 6 7	ACCZ	WCJE	2	2.W.C 2.C.C 2.J.C 2.E.V	2.0 1.5 1.5 0.8	0
+#
+26095	rGyalrong_Maerkang	HUNT	trwkkɑpɑ	hunt	OLD	t r w k k ɑ p ɑ	1455	1455	t r w kk ɑ p ɑ	1 5 6 1 7 1 7	ACXBYBZ	TRWKAPA	1	1.T.C 1.R.C 1.W.V 1.K.C 1.A.V 1.P.C 1.A.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	0
+26307	Tibetan_Batang	HUNT	ŋjeʔ	hunt	OLD	ŋ j e ʔ	2309	2309	ŋ j e ʔ	4 6 7 1	ACXN	NJEH	3	3.N.C 3.J.C 3.E.V 3.H.c	2.0 1.5 1.5 0.8	0
+28543	Tibetan_Lhasa	HUNT	ritaca	hunt	OLD	r i t a c a	2502	2502	r i t a c a	5 7 1 7 1 7	AXBYBZ	RITACA	4	4.R.C 4.I.V 4.T.C 4.A.V 4.C.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+32699	Tibetan_Xiahe	HUNT	rədaxda	hunt	OLD	r ə d a x d a	2502	2502	r ə d a x d a	5 7 1 7 3 1 7	AXBYMBZ	RETAGTA	5	5.R.C 5.E.V 5.T.C 5.A.V 5.G.c 5.T.C 5.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	0
+34876	Tibetan_Alike	HUNT	rədakwdæ	hunt	OLD	r ə d a k w d æ	2502	2502	r ə d a k w d æ	5 7 1 7 1 6 1 7	AXBYBYBZ	RETAKWTE	2	2.R.C 2.E.V 2.T.C 2.A.V 2.K.C 2.W.V 2.T.C 2.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	0
+#
+27501	rGyalrong_Maerkang	HUSBAND	oujɑ	husband	OLD	o u j ɑ	3992	3992	ou j ɑ	7 6 7	XBZ	UJA	1	1.U.V 1.J.C 1.A.V	1.5 1.75 0.8	0
+27813	Tibetan_Lhasa	HUSBAND	oka	husband	OLD	o k a	5771	5771	o k a	7 1 7	XBZ	UKA	4	4.U.V 4.K.C 4.A.V	1.5 1.75 0.8	0
+29431	Tibetan_Batang	HUSBAND	ɕepa	husband	OLD	ɕ e p a	5768	5768	ɕ e p a	3 7 1 7	AXBZ	SEPA	3	3.S.C 3.E.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	0
+29432	Tibetan_Batang	HUSBAND	uroʔ	husband	OLD	u r o ʔ	5769	5769	u r o ʔ	7 5 7 1	XBYN	YRUH	3	3.Y.V 3.R.C 3.U.V 3.H.c	1.5 1.75 1.3 0.8	0
+32065	Tibetan_Xiahe	HUSBAND	ȵəru	husband	OLD	ȵ ə r u	5766	5766	ȵ ə r u	4 7 5 7	AXBZ	NERY	5	5.N.C 5.E.V 5.R.C 5.Y.V	2.0 1.5 1.75 0.8	0
+34199	Tibetan_Alike	HUSBAND	rgapo	husband	OLD	r g a p o	5770	5770	r g a p o	5 1 7 1 7	ACYBZ	RKAPU	2	2.R.C 2.K.C 2.A.V 2.P.C 2.U.V	2.0 1.5 1.3 1.75 0.8	0
+#
+27972	rGyalrong_Maerkang	I	ŋɑ	I	OLD	ŋ ɑ	327	327	ŋ ɑ	4 7	AX	NA	1	1.N.C 1.A.V	2.0 1.5	0
+29921	Tibetan_Batang	I	ŋa	I	OLD	ŋ a	327	327	ŋ a	4 7	AX	NA	3	3.N.C 3.A.V	2.0 1.5	0
+32525	Tibetan_Xiahe	I	ŋa	I	OLD	ŋ a	327	327	ŋ a	4 7	AX	NA	5	5.N.C 5.A.V	2.0 1.5	0
+34581	Tibetan_Lhasa	I	ŋa	I	OLD	ŋ a	327	327	ŋ a	4 7	AX	NA	4	4.N.C 4.A.V	2.0 1.5	0
+34693	Tibetan_Alike	I	ŋæ	I	OLD	ŋ æ	327	327	ŋ æ	4 7	AX	NE	2	2.N.C 2.E.V	2.0 1.5	0
+#
+27605	Tibetan_Lhasa	ICE	akpa	ice	OLD	a k p a	818	818	a k p a	7 1 1 7	XMBZ	AKPA	4	4.A.V 4.K.c 4.P.C 4.A.V	1.5 1.1 1.75 0.8	0
+27339	rGyalrong_Maerkang	ICE	tarkɑm	ice	OLD	t a r k ɑ m	2388	2388	t a r k ɑ m	1 7 5 1 7 4	AXMBYN	TARKAM	1	1.T.C 1.A.V 1.R.c 1.K.C 1.A.V 1.M.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+33975	Tibetan_Batang	ICE	ɑr	ice	OLD	ɑ r	818	818	ɑ r	7 5	XN	AR	3	3.A.V 3.R.c	1.5 0.8	0
+34054	Tibetan_Alike	ICE	dar	ice	OLD	d a r	2797	2797	d a r	1 7 5	AXN	TAR	2	2.T.C 2.A.V 2.R.c	2.0 1.5 0.8	0
+34448	Tibetan_Xiahe	ICE	tar	ice	OLD	t a r	2797	2797	t a r	1 7 5	AXN	TAR	5	5.T.C 5.A.V 5.R.c	2.0 1.5 0.8	0
+#
+27856	rGyalrong_Maerkang	INSIDE	wugu	inside	OLD	w u g u	626	626	w u g u	6 7 1 7	AXBZ	WYKY	1	1.W.C 1.Y.V 1.K.C 1.Y.V	2.0 1.5 1.75 0.8	0
+28140	Tibetan_Lhasa	INSIDE	naŋ	inside	OLD	n a ŋ	255	255	n a ŋ	4 7 4	AXN	NAN	4	4.N.C 4.A.V 4.N.c	2.0 1.5 0.8	0
+28141	Tibetan_Lhasa	INSIDE	naŋlo	inside	OLD	n a ŋ l o	255	255	n a ŋ l o	4 7 4 5 7	AXBCZ	NANLU	4	4.N.C 4.A.V 4.N.C 4.L.C 4.U.V	2.0 1.5 1.75 1.5 0.8	0
+29798	Tibetan_Batang	INSIDE	nõ	inside	OLD	n õ	255	255	n õ	4 7	AX	NU	3	3.N.C 3.U.V	2.0 1.5	0
+32386	Tibetan_Xiahe	INSIDE	naŋ	inside	OLD	n a ŋ	255	255	n a ŋ	4 7 4	AXN	NAN	5	5.N.C 5.A.V 5.N.c	2.0 1.5 0.8	0
+34546	Tibetan_Alike	INSIDE	naŋ	inside	OLD	n a ŋ	255	255	n a ŋ	4 7 4	AXN	NAN	2	2.N.C 2.A.V 2.N.c	2.0 1.5 0.8	0
+#
+28808	Tibetan_Lhasa	KILL	sɛ	kill	OLD	s ɛ	3125	3125	s ɛ	3 7	AX	SE	4	4.S.C 4.E.V	2.0 1.5	0
+30401	Tibetan_Batang	KILL	ũ	kill	OLD	ũ	2802	2802	ũ	7	X	Y	3	3.Y.V	1.5	0
+30402	Tibetan_Batang	KILL	sɛʔ	kill	OLD	s ɛ ʔ	3125	3125	s ɛ ʔ	3 7 1	AXN	SEH	3	3.S.C 3.E.V 3.H.c	2.0 1.5 0.8	0
+32876	Tibetan_Xiahe	KILL	sɕl	kill (a person)	OLD	s ɕ l	3125	3125	s ɕ l	3 3 5	ACC	SSL	5	5.S.C 5.S.C 5.L.C	2.0 1.5 1.5	0
+32877	Tibetan_Xiahe	KILL	ɕa	kill / slaughter (an animal)	OLD	ɕ a	3125	3125	ɕ a	3 7	AX	SA	5	5.S.C 5.A.V	2.0 1.5	1
+35050	Tibetan_Alike	KILL	psat	kill	OLD	p s a t	3125	3125	p s a t	1 3 7 1	ACXN	PSAT	2	2.P.C 2.S.C 2.A.V 2.T.c	2.0 1.5 1.5 0.8	0
+35276	rGyalrong_Maerkang	KILL	kɑsɑt	kill	OLD	k ɑ s ɑ t	3125	3125	k ɑ s ɑ t	1 7 3 7 1	AXBYN	KASAT	1	1.K.C 1.A.V 1.S.C 1.A.V 1.T.c	2.0 1.5 1.75 1.3 0.8	0
+#
+25199	Tibetan_Batang	KNEAD	lĩ	knead (dough)	OLD	l ĩ	3059	3059	l ĩ	5 7	AX	LI	3	3.L.C 3.I.V	2.0 1.5	0
+28422	rGyalrong_Maerkang	KNEAD	kɑni	knead (dough)	OLD	k ɑ n i	4197	4197	k ɑ n i	1 7 4 7	AXBZ	KANI	1	1.K.C 1.A.V 1.N.C 1.I.V	2.0 1.5 1.75 0.8	0
+28751	Tibetan_Xiahe	KNEAD	hno	knead (dough)	OLD	h n o	3579	3579	h n o	3 4 7	ACX	HNU	5	5.H.C 5.N.C 5.U.V	2.0 1.5 1.5	0
+28800	Tibetan_Lhasa	KNEAD	i	knead (dough)	OLD	i	2773	2773	i	7	X	I	4	4.I.V	1.5	1
+35047	Tibetan_Alike	KNEAD	ɣər	knead (dough)	OLD	ɣ ə r	2976	2976	ɣ ə r	3 7 5	AXN	GER	2	2.G.C 2.E.V 2.R.c	2.0 1.5 0.8	0
+#
+27695	Tibetan_Lhasa	KNEE	pymu	knee	OLD	p y m u	22	22	p y m u	1 7 4 7	AXBZ	PYMY	4	4.P.C 4.Y.V 4.M.C 4.Y.V	2.0 1.5 1.75 0.8	0
+29192	rGyalrong_Maerkang	KNEE	təmŋɑ	knee	OLD	t ə m ŋ ɑ	1193	1193	t ə m ŋ ɑ	1 7 4 4 7	AXMBZ	TEMNA	1	1.T.C 1.E.V 1.M.c 1.N.C 1.A.V	2.0 1.5 1.1 1.75 0.8	0
+29825	Tibetan_Batang	KNEE	pemu	knee	OLD	p e m u	22	22	p e m u	1 7 4 7	AXBZ	PEMY	3	3.P.C 3.E.V 3.M.C 3.Y.V	2.0 1.5 1.75 0.8	0
+31971	Tibetan_Xiahe	KNEE	wio	knee	OLD	w i o	22	22	w io	6 7	AX	WI	5	5.W.C 5.I.V	2.0 1.5	0
+34109	Tibetan_Alike	KNEE	wingo	knee	OLD	w i n g o	22	22	w i n g o	6 7 4 1 7	AXMBZ	WINKU	2	2.W.C 2.I.V 2.N.c 2.K.C 2.U.V	2.0 1.5 1.1 1.75 0.8	0
+#
+25725	Tibetan_Alike	KNIFE	ə	knife	OLD	ə	3655	3655	ə	7	X	E	2	2.E.V	1.5	0
+25778	Tibetan_Xiahe	KNIFE	ə	knife	OLD	ə	3655	3655	ə	7	X	E	5	5.E.V	1.5	0
+27750	rGyalrong_Maerkang	KNIFE	mbərɑ	knife	OLD	m b ə r ɑ	3645	3645	m b ə r ɑ	4 1 7 5 7	ACYBZ	MPERA	1	1.M.C 1.P.C 1.E.V 1.R.C 1.A.V	2.0 1.5 1.3 1.75 0.8	0
+28015	Tibetan_Lhasa	KNIFE	i	knife	OLD	i	3655	3655	i	7	X	I	4	4.I.V	1.5	0
+31670	Tibetan_Batang	KNIFE	ɪ	knife	OLD	ɪ	3655	3655	ɪ	7	X	I	3	3.I.V	1.5	1
+34426	Tibetan_Alike	KNIFE	ə	knife	OLD	ə	3655	3655	ə	7	X	E	2	2.E.V	1.5	1
+#
+28550	rGyalrong_Maerkang	KNOW (SOMETHING)	kʃə	know	OLD	k ʃ ə	2279	2279	k ʃ ə	1 3 7	ACX	KSE	1	1.K.C 1.S.C 1.E.V	2.0 1.5 1.5	0
+28989	Tibetan_Lhasa	KNOW (SOMETHING)	ɕẽ	know	OLD	ɕ ẽ	2279	2279	ɕ ẽ	3 7	AX	SE	4	4.S.C 4.E.V	2.0 1.5	0
+30004	Tibetan_Alike	KNOW (SOMETHING)	i	know	OLD	i	2279	2279	i	7	X	I	2	2.I.V	1.5	0
+30544	Tibetan_Batang	KNOW (SOMETHING)	e	know	OLD	e	2279	2279	e	7	X	E	3	3.E.V	1.5	1
+32989	Tibetan_Xiahe	KNOW (SOMETHING)	i	know	OLD	i	2279	2279	i	7	X	I	5	5.I.V	1.5	0
+#
+26964	Tibetan_Batang	LAKE	u	lake	OLD	u	387	387	u	7	X	Y	3	3.Y.V	1.5	1
+27352	rGyalrong_Maerkang	LAKE	mo	lake	OLD	m o	387	387	m o	4 7	AX	MU	1	1.M.C 1.U.V	2.0 1.5	0
+27618	Tibetan_Lhasa	LAKE	o	lake	OLD	o	387	387	o	7	X	U	4	4.U.V	1.5	1
+31929	Tibetan_Xiahe	LAKE	o	lake	OLD	o	387	387	o	7	X	U	5	5.U.V	1.5	1
+34062	Tibetan_Alike	LAKE	mo	lake	OLD	m o	387	387	m o	4 7	AX	MU	2	2.M.C 2.U.V	2.0 1.5	1
+#
+25785	Tibetan_Batang	LAUGH	ga	laugh / smile	OLD	g a	2301	2301	g a	1 7	AX	KA	3	3.K.C 3.A.V	2.0 1.5	0
+28521	rGyalrong_Maerkang	LAUGH	kɑnɑri	laugh / smile	OLD	k ɑ n ɑ r i	438	438	k ɑ n ɑ r i	1 7 4 7 5 7	AXBYBZ	KANARI	1	1.K.C 1.A.V 1.N.C 1.A.V 1.R.C 1.I.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+28930	Tibetan_Lhasa	LAUGH	kɛmokɛ	laugh / smile	OLD	k ɛ m o k ɛ	2301	2301	k ɛ m o k ɛ	1 7 4 7 1 7	AXBYBZ	KEMUKE	4	4.K.C 4.E.V 4.M.C 4.U.V 4.K.C 4.E.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+28931	Tibetan_Lhasa	LAUGH	ɕ	laugh / smile	OLD	ɕ	3240	3240	ɕ	3	A	S	4	4.S.C	2.0	0
+30494	Tibetan_Batang	LAUGH	gʔo	laugh / smile	OLD	g ʔ o	2301	2301	g ʔ o	1 1 7	ACZ	KHU	3	3.K.C 3.H.C 3.U.V	2.0 1.5 0.8	0
+32953	Tibetan_Xiahe	LAUGH	gol	laugh / smile	OLD	g o l	2301	2301	g o l	1 7 5	AXN	KUL	5	5.K.C 5.U.V 5.L.c	2.0 1.5 0.8	0
+35108	Tibetan_Alike	LAUGH	wgat	laugh / smile	OLD	w g a t	2301	2301	w g a t	6 1 7 1	ACYN	WKAT	2	2.W.C 2.K.C 2.A.V 2.T.c	2.0 1.5 1.3 0.8	0
+#
+27602	rGyalrong_Maerkang	LEAF	tiwk	leaf	OLD	t i w k	881	881	t i w k	1 7 6 1	AXLN	TIWK	1	1.T.C 1.I.V 1.W.c 1.K.c	2.0 1.5 1.1 0.8	0
+27917	Tibetan_Lhasa	LEAF	loma	leaf	OLD	l o m a	948	948	l o m a	5 7 4 7	AXBZ	LUMA	4	4.L.C 4.U.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	0
+29543	Tibetan_Batang	LEAF	loma	leaf	OLD	l o m a	948	948	l o m a	5 7 4 7	AXBZ	LUMA	3	3.L.C 3.U.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	0
+34304	Tibetan_Alike	LEAF	loma	leaf	OLD	l o m a	948	948	l o m a	5 7 4 7	AXBZ	LUMA	2	2.L.C 2.U.V 2.M.C 2.A.V	2.0 1.5 1.75 0.8	0
+35467	Tibetan_Xiahe	LEAF	loma	leaf	OLD	l o m a	948	948	l o m a	5 7 4 7	AXBZ	LUMA	5	5.L.C 5.U.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	0
+#
+28524	rGyalrong_Maerkang	LEARN	kslp	learn	OLD	k s l p	439	439	k s l p	1 3 5 1	ACXN	KSLP	1	1.K.C 1.S.C 1.L.V 1.P.c	2.0 1.5 1.5 0.8	0
+28936	Tibetan_Lhasa	LEARN	ləp	learn	OLD	l ə p	439	439	l ə p	5 7 1	AXN	LEP	4	4.L.C 4.E.V 4.P.c	2.0 1.5 0.8	0
+30625	Tibetan_Batang	LEARN	ʑõ	learn	OLD	ʑ õ	2435	2435	ʑ õ	3 7	AX	SU	3	3.S.C 3.U.V	2.0 1.5	0
+32956	Tibetan_Xiahe	LEARN	ho	learn	OLD	h o	2551	2551	h o	3 7	AX	HU	5	5.H.C 5.U.V	2.0 1.5	1
+35112	Tibetan_Alike	LEARN	ɬowɟjoŋ	learn	OLD	ɬ o w ɟ j o ŋ	439	439	ɬ o w ɟ j o ŋ	5 7 6 1 6 7 4	AXMBCYN	LUWCJUN	2	2.L.C 2.U.V 2.W.c 2.C.C 2.J.C 2.U.V 2.N.c	2.0 1.5 1.1 1.75 1.5 1.3 0.8	0
+#
+27850	rGyalrong_Maerkang	LEFT HAND	kouwlɑ	left	OLD	k o u w l ɑ	918	918	k ou w l ɑ	1 7 6 5 7	AXMBZ	KUWLA	1	1.K.C 1.U.V 1.W.c 1.L.C 1.A.V	2.0 1.5 1.1 1.75 0.8	0
+29793	Tibetan_Batang	LEFT HAND	joɣu	left	OLD	j o ɣ u	200	200	j o ɣ u	6 7 3 7	AXBZ	JUGY	3	3.J.C 3.U.V 3.G.C 3.Y.V	2.0 1.5 1.75 0.8	0
+32382	Tibetan_Xiahe	LEFT HAND	hjon	left	OLD	h j o n	200	200	h j o n	3 6 7 4	ACXN	HJUN	5	5.H.C 5.J.C 5.U.V 5.N.c	2.0 1.5 1.5 0.8	0
+32940	rGyalrong_Maerkang	LEFT HAND	kɑwi	left	OLD	k ɑ w i	422	422	k ɑ w i	1 7 6 7	AXBZ	KAWI	1	1.K.C 1.A.V 1.W.C 1.I.V	2.0 1.5 1.75 0.8	0
+33589	Tibetan_Lhasa	LEFT HAND	j	left	OLD	j	200	200	j	6	A	J	4	4.J.C	2.0	0
+34541	Tibetan_Alike	LEFT HAND	ɣjon	left	OLD	ɣ j o n	200	200	ɣ j o n	3 6 7 4	ACXN	GJUN	2	2.G.C 2.J.C 2.U.V 2.N.c	2.0 1.5 1.5 0.8	0
+#
+28472	rGyalrong_Maerkang	LICK	kɑnənok	lick / lap	OLD	k ɑ n ə n o k	3164	3164	k ɑ n ə n o k	1 7 4 7 4 7 1	AXBYBYN	KANENUK	1	1.K.C 1.A.V 1.N.C 1.E.V 1.N.C 1.U.V 1.K.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	0
+28872	Tibetan_Lhasa	LICK	ta	lick / lap	OLD	t a	101	101	t a	1 7	AX	TA	4	4.T.C 4.A.V	2.0 1.5	1
+29132	Tibetan_Batang	LICK	dɑʔ	lick / lap	OLD	d ɑ ʔ	101	101	d ɑ ʔ	1 7 1	AXN	TAH	3	3.T.C 3.A.V 3.H.c	2.0 1.5 0.8	0
+32912	Tibetan_Xiahe	LICK	daχ	lick / lap	OLD	d a χ	101	101	d a χ	1 7 3	AXN	TAG	5	5.T.C 5.A.V 5.G.c	2.0 1.5 0.8	0
+35086	Tibetan_Alike	LICK	wnan	lick / lap	OLD	w n a n	2986	2986	w n a n	6 4 7 4	ACYN	WNAN	2	2.W.C 2.N.C 2.A.V 2.N.c	2.0 1.5 1.3 0.8	0
+35087	Tibetan_Alike	LICK	rdak	lick / lap	OLD	r d a k	101	101	r d a k	5 1 7 1	ACYN	RTAK	2	2.R.C 2.T.C 2.A.V 2.K.c	2.0 1.5 1.3 0.8	0
+35224	Tibetan_Batang	LICK	ɕoʔ	lick / lap	OLD	ɕ o ʔ	3020	3020	ɕ o ʔ	3 7 1	AXN	SUH	3	3.S.C 3.U.V 3.H.c	2.0 1.5 0.8	0
+#
+28084	Tibetan_Alike	LIE DOWN	ȵæ	lie down	OLD	ȵ æ	2353	2353	ȵ æ	4 7	AX	NE	2	2.N.C 2.E.V	2.0 1.5	1
+28468	rGyalrong_Maerkang	LIE DOWN	lnəʒgə	lie down	OLD	l n ə ʒ g ə	2363	2363	l n ə ʒ g ə	5 4 7 3 1 7	ACYMBZ	LNESKE	1	1.L.C 1.N.C 1.E.V 1.S.c 1.K.C 1.E.V	2.0 1.5 1.3 1.1 1.75 0.8	0
+28861	Tibetan_Lhasa	LIE DOWN	ȵɛ	lie down	OLD	ȵ ɛ	2353	2353	ȵ ɛ	4 7	AX	NE	4	4.N.C 4.E.V	2.0 1.5	0
+28862	Tibetan_Lhasa	LIE DOWN	tɛ	lie down	OLD	t ɛ	1251	1251	t ɛ	1 7	AX	TE	4	4.T.C 4.E.V	2.0 1.5	0
+30441	Tibetan_Batang	LIE DOWN	ɑuejeʔ	lie down	OLD	ɑ u e j e ʔ	3243	3243	ɑue j e ʔ	7 6 7 1	XBYN	AJEH	3	3.A.V 3.J.C 3.E.V 3.H.c	1.5 1.75 1.3 0.8	0
+32906	Tibetan_Xiahe	LIE DOWN	loχ	lie down	OLD	l o χ	2541	2541	l o χ	5 7 3	AXN	LUG	5	5.L.C 5.U.V 5.G.c	2.0 1.5 0.8	0
+#
+28030	rGyalrong_Maerkang	LIGHT (WEIGHT)	kəjo	light (weight)	OLD	k ə j o	10542	10542	k ə j o	1 7 6 7	AXBZ	KEJU	1	1.K.C 1.E.V 1.J.C 1.U.V	2.0 1.5 1.75 0.8	0
+28374	Tibetan_Lhasa	LIGHT (WEIGHT)	jaŋko	light (weight)	OLD	j a ŋ k o	10542	10542	j a ŋ k o	6 7 4 1 7	AXMBZ	JANKU	4	4.J.C 4.A.V 4.N.c 4.K.C 4.U.V	2.0 1.5 1.1 1.75 0.8	0
+29996	Tibetan_Batang	LIGHT (WEIGHT)	jõmu	light (weight)	OLD	j õ m u	10542	10542	j õ m u	6 7 4 7	AXBZ	JUMY	3	3.J.C 3.U.V 3.M.C 3.Y.V	2.0 1.5 1.75 0.8	0
+32586	Tibetan_Xiahe	LIGHT (WEIGHT)	jaŋmo	light (weight)	OLD	j a ŋ m o	10542	10542	j a ŋ m o	6 7 4 4 7	AXMBZ	JANMU	5	5.J.C 5.A.V 5.N.c 5.M.C 5.U.V	2.0 1.5 1.1 1.75 0.8	0
+34757	Tibetan_Alike	LIGHT (WEIGHT)	jaŋmo	light (weight)	OLD	j a ŋ m o	10542	10542	j a ŋ m o	6 7 4 4 7	AXMBZ	JANMU	2	2.J.C 2.A.V 2.N.c 2.M.C 2.U.V	2.0 1.5 1.1 1.75 0.8	0
+#
+29138	rGyalrong_Maerkang	LIP	təʃnos	lip	OLD	t ə ʃ n o s	1254	1254	t ə ʃ n o s	1 7 3 4 7 3	AXBCYN	TESNUS	1	1.T.C 1.E.V 1.S.C 1.N.C 1.U.V 1.S.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+29299	Tibetan_Batang	LIP	udu	lip	OLD	u d u	10522	10522	u d u	7 1 7	XBZ	YTY	3	3.Y.V 3.T.C 3.Y.V	1.5 1.75 0.8	0
+31960	Tibetan_Xiahe	LIP	əto	lip	OLD	ə t o	10522	10522	ə t o	7 1 7	XBZ	ETU	5	5.E.V 5.T.C 5.U.V	1.5 1.75 0.8	0
+32631	Tibetan_Lhasa	LIP	oto	lip	OLD	o t o	10522	10522	o t o	7 1 7	XBZ	UTU	4	4.U.V 4.T.C 4.U.V	1.5 1.75 0.8	0
+34096	Tibetan_Alike	LIP	nə	lip	OLD	n ə	10522	10522	n ə	4 7	AX	NE	2	2.N.C 2.E.V	2.0 1.5	0
+#
+27427	rGyalrong_Maerkang	LIVER	təpʃu	liver	OLD	t ə p ʃ u	2076	2076	t ə p ʃ u	1 7 1 3 7	AXBCZ	TEPSY	1	1.T.C 1.E.V 1.P.C 1.S.C 1.Y.V	2.0 1.5 1.75 1.5 0.8	0
+27736	Tibetan_Lhasa	LIVER	ĩpə	liver	OLD	ĩ p ə	2076	2076	ĩ p ə	7 1 7	XBZ	IPE	4	4.I.V 4.P.C 4.E.V	1.5 1.75 0.8	1
+27823	Tibetan_Alike	LIVER	nənbæ	liver	OLD	n ə n b æ	2076	2076	n ə n b æ	4 7 4 1 7	AXMBZ	NENPE	2	2.N.C 2.E.V 2.N.c 2.P.C 2.E.V	2.0 1.5 1.1 1.75 0.8	0
+29374	Tibetan_Batang	LIVER	ĩmba	liver	OLD	ĩ m b a	2076	2076	ĩ m b a	7 4 1 7	XMBZ	IMPA	3	3.I.V 3.M.c 3.P.C 3.A.V	1.5 1.1 1.75 0.8	0
+32002	Tibetan_Xiahe	LIVER	əmba	liver	OLD	ə m b a	2076	2076	ə m b a	7 4 1 7	XMBZ	EMPA	5	5.E.V 5.M.c 5.P.C 5.A.V	1.5 1.1 1.75 0.8	0
+#
+28000	rGyalrong_Maerkang	LONG	kəskrᴇn	long	OLD	k ə s k r ᴇ n	971	971	k ə s k r ᴇ n	1 7 3 1 5 7 4	AXMBCYN	KESKREN	1	1.K.C 1.E.V 1.S.c 1.K.C 1.R.C 1.E.V 1.N.c	2.0 1.5 1.1 1.75 1.5 1.3 0.8	0
+29385	Tibetan_Alike	LONG	raŋkə	long	OLD	r a ŋ k ə	547	547	r a ŋ k ə	5 7 4 1 7	AXMBZ	RANKE	2	2.R.C 2.A.V 2.N.c 2.K.C 2.E.V	2.0 1.5 1.1 1.75 0.8	0
+29959	Tibetan_Batang	LONG	rĩmbu	long	OLD	r ĩ m b u	547	547	r ĩ m b u	5 7 4 1 7	AXMBZ	RIMPY	3	3.R.C 3.I.V 3.M.c 3.P.C 3.Y.V	2.0 1.5 1.1 1.75 0.8	0
+31536	Tibetan_Lhasa	LONG	riŋku	long	OLD	r i ŋ k u	547	547	r i ŋ k u	5 7 4 1 7	AXMBZ	RINKY	4	4.R.C 4.I.V 4.N.c 4.K.C 4.Y.V	2.0 1.5 1.1 1.75 0.8	0
+32558	Tibetan_Xiahe	LONG	raŋwo	long	OLD	r a ŋ w o	547	547	r a ŋ w o	5 7 4 6 7	AXBCZ	RANWU	5	5.R.C 5.A.V 5.N.C 5.W.C 5.U.V	2.0 1.5 1.75 1.5 0.8	0
+#
+27583	rGyalrong_Maerkang	LOUSE	sor	louse	OLD	s o r	807	807	s o r	3 7 5	AXN	SUR	1	1.S.C 1.U.V 1.R.c	2.0 1.5 0.8	0
+27899	Tibetan_Lhasa	LOUSE	ɕi	louse	OLD	ɕ i	2077	2077	ɕ i	3 7	AX	SI	4	4.S.C 4.I.V	2.0 1.5	1
+29526	Tibetan_Batang	LOUSE	xiʔ	louse	OLD	x i ʔ	2077	2077	x i ʔ	3 7 1	AXN	GIH	3	3.G.C 3.I.V 3.H.c	2.0 1.5 0.8	0
+32142	Tibetan_Xiahe	LOUSE	əχ	louse	OLD	ə χ	2077	2077	ə χ	7 3	XN	EG	5	5.E.V 5.G.c	1.5 0.8	1
+34287	Tibetan_Alike	LOUSE	xək	louse	OLD	x ə k	2077	2077	x ə k	3 7 1	AXN	GEK	2	2.G.C 2.E.V 2.K.c	2.0 1.5 0.8	0
+#
+27425	rGyalrong_Maerkang	LUNG	təros	lung	OLD	t ə r o s	716	716	t ə r o s	1 7 5 7 3	AXBYN	TERUS	1	1.T.C 1.E.V 1.R.C 1.U.V 1.S.c	2.0 1.5 1.75 1.3 0.8	0
+27734	Tibetan_Lhasa	LUNG	l	lung	OLD	l	177	177	l	5	A	L	4	4.L.C	2.0	0
+29345	Tibetan_Batang	LUNG	lɑ	lung	OLD	l ɑ	177	177	l ɑ	5 7	AX	LA	3	3.L.C 3.A.V	2.0 1.5	0
+32000	Tibetan_Xiahe	LUNG	hlo	lung	OLD	h l o	177	177	h l o	3 5 7	ACX	HLU	5	5.H.C 5.L.C 5.U.V	2.0 1.5 1.5	0
+34133	Tibetan_Alike	LUNG	rlo	lung	OLD	r l o	177	177	r l o	5 5 7	ACZ	RLU	2	2.R.C 2.L.C 2.U.V	2.0 1.5 0.8	0
+#
+27446	rGyalrong_Maerkang	MAN	təɑ	man	OLD	t ə ɑ	730	730	t əɑ	1 7	AX	TE	1	1.T.C 1.E.V	2.0 1.5	0
+27758	Tibetan_Lhasa	MAN	oka	man	OLD	o k a	2912	2912	o k a	7 1 7	XBZ	UKA	4	4.U.V 4.K.C 4.A.V	1.5 1.75 0.8	1
+29372	Tibetan_Batang	MAN	ɕepa	man	OLD	ɕ e p a	1389	1389	ɕ e p a	3 7 1 7	AXBZ	SEPA	3	3.S.C 3.E.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	1
+32019	Tibetan_Xiahe	MAN	ɕələo	man	OLD	ɕ ə l ə o	2351	2351	ɕ ə l əo	3 7 5 7	AXBZ	SELE	5	5.S.C 5.E.V 5.L.C 5.E.V	2.0 1.5 1.75 0.8	0
+32188	Tibetan_Alike	MAN	hoar	man	OLD	h o a r	2407	2407	h oa r	3 7 5	AXN	HUR	2	2.H.C 2.U.V 2.R.c	2.0 1.5 0.8	0
+#
+28411	rGyalrong_Maerkang	MARRY (AS MAN)	kɑkro	marry (a woman)	OLD	k ɑ k r o	3106	3106	k ɑ k r o	1 7 1 5 7	AXBCZ	KAKRU	1	1.K.C 1.A.V 1.K.C 1.R.C 1.U.V	2.0 1.5 1.75 1.5 0.8	0
+28788	Tibetan_Lhasa	MARRY (AS MAN)	namalẽ	marry (a woman)	OLD	n a m a l ẽ	2533	2533	n a m a l ẽ	4 7 4 7 5 7	AXBYBZ	NAMALE	4	4.N.C 4.A.V 4.M.C 4.A.V 4.L.C 4.E.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+30389	Tibetan_Batang	MARRY (AS MAN)	lẽ	marry (a woman)	OLD	l ẽ	2533	2533	l ẽ	5 7	AX	LE	3	3.L.C 3.E.V	2.0 1.5	0
+32858	Tibetan_Xiahe	MARRY (AS MAN)	len	marry (a woman)	OLD	l e n	2533	2533	l e n	5 7 4	AXN	LEN	5	5.L.C 5.E.V 5.N.c	2.0 1.5 0.8	0
+35039	Tibetan_Alike	MARRY (AS MAN)	mnæmælen	marry (a woman)	OLD	m n æ m æ l e n	2533	2533	m n æ m æ l e n	4 4 7 4 7 5 7 4	ACYBYBYN	MNEMELEN	2	2.M.C 2.N.C 2.E.V 2.M.C 2.E.V 2.L.C 2.E.V 2.N.c	2.0 1.5 1.3 1.75 1.3 1.75 1.3 0.8	0
+#
+24923	Tibetan_Batang	MEAT	a	meat	OLD	a	10227	10227	a	7	X	A	3	3.A.V	1.5	1
+27661	rGyalrong_Maerkang	MEAT	ʃɑ	meat	OLD	ʃ ɑ	10227	10227	ʃ ɑ	3 7	AX	SA	1	1.S.C 1.A.V	2.0 1.5	0
+27956	Tibetan_Lhasa	MEAT	ɕa	meat	OLD	ɕ a	10227	10227	ɕ a	3 7	AX	SA	4	4.S.C 4.A.V	2.0 1.5	0
+29356	Tibetan_Alike	MEAT	a	meat	OLD	a	10227	10227	a	7	X	A	2	2.A.V	1.5	0
+32206	Tibetan_Xiahe	MEAT	a	meat	OLD	a	10227	10227	a	7	X	A	5	5.A.V	1.5	1
+#
+27877	rGyalrong_Maerkang	MIDDAY	sksə	noon	OLD	s k s ə	936	936	s k s ə	3 1 3 7	ACCZ	SKSE	1	1.S.C 1.K.C 1.S.C 1.E.V	2.0 1.5 1.5 0.8	0
+27878	rGyalrong_Maerkang	MIDDAY	təmo	noon	OLD	t ə m o	937	937	t ə m o	1 7 4 7	AXBZ	TEMU	1	1.T.C 1.E.V 1.M.C 1.U.V	2.0 1.5 1.75 0.8	0
+31514	Tibetan_Batang	MIDDAY	ȵĩu	noon	OLD	ȵ ĩ u	2218	2218	ȵ ĩu	4 7	AX	NI	3	3.N.C 3.I.V	2.0 1.5	0
+32416	Tibetan_Xiahe	MIDDAY	ea	noon	OLD	e a	2458	2458	ea	7	X	E	5	5.E.V	1.5	0
+34205	Tibetan_Lhasa	MIDDAY	ȵĩkuŋ	noon	OLD	ȵ ĩ k u ŋ	1143	1143	ȵ ĩ k u ŋ	4 7 1 7 4	AXBYN	NIKYN	4	4.N.C 4.I.V 4.K.C 4.Y.V 4.N.c	2.0 1.5 1.75 1.3 0.8	0
+34573	Tibetan_Alike	MIDDAY	ȵəmakoŋ	noon	OLD	ȵ ə m a k o ŋ	1143	1143	ȵ ə m a k o ŋ	4 7 4 7 1 7 4	AXBYBYN	NEMAKUN	2	2.N.C 2.E.V 2.M.C 2.A.V 2.K.C 2.U.V 2.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	0
+#
+27849	rGyalrong_Maerkang	MIDDLE	təlɑ	middle	OLD	t ə l ɑ	917	917	t ə l ɑ	1 7 5 7	AXBZ	TELA	1	1.T.C 1.E.V 1.L.C 1.A.V	2.0 1.5 1.75 0.8	0
+28131	Tibetan_Lhasa	MIDDLE	c	middle	OLD	c	205	205	c	1	A	C	4	4.C.C	2.0	0
+28132	Tibetan_Lhasa	MIDDLE	par	middle	OLD	p a r	1026	1026	p a r	1 7 5	AXN	PAR	4	4.P.C 4.A.V 4.R.c	2.0 1.5 0.8	0
+29791	Tibetan_Batang	MIDDLE	iuʔ	middle	OLD	i u ʔ	205	205	iu ʔ	7 1	XN	IH	3	3.I.V 3.H.c	1.5 0.8	0
+33978	Tibetan_Xiahe	MIDDLE	hial	middle	OLD	h i a l	205	205	h ia l	3 7 5	AXN	HIL	5	5.H.C 5.I.V 5.L.c	2.0 1.5 0.8	0
+34841	Tibetan_Alike	MIDDLE	war	middle	OLD	w a r	1026	1026	w a r	6 7 5	AXN	WAR	2	2.W.C 2.A.V 2.R.c	2.0 1.5 0.8	0
+#
+27326	rGyalrong_Maerkang	MOON	əlɑ	moon	OLD	ə l ɑ	2081	2081	ə l ɑ	7 5 7	XBZ	ELA	1	1.E.V 1.L.C 1.A.V	1.5 1.75 0.8	0
+27591	Tibetan_Lhasa	MOON	tawa	moon	OLD	t a w a	2081	2081	t a w a	1 7 6 7	AXBZ	TAWA	4	4.T.C 4.A.V 4.W.C 4.A.V	2.0 1.5 1.75 0.8	0
+29227	Tibetan_Batang	MOON	aɣɑ	moon	OLD	a ɣ ɑ	2081	2081	a ɣ ɑ	7 3 7	XBZ	AGA	3	3.A.V 3.G.C 3.A.V	1.5 1.75 0.8	0
+31903	Tibetan_Xiahe	MOON	a	moon	OLD	a	2081	2081	a	7	X	A	5	5.A.V	1.5	1
+34041	Tibetan_Alike	MOON	ra	moon	OLD	r a	2081	2081	r a	5 7	AX	RA	2	2.R.C 2.A.V	2.0 1.5	0
+34394	Tibetan_Xiahe	MOON	dawa	moon	OLD	d a w a	2081	2081	d a w a	1 7 6 7	AXBZ	TAWA	5	5.T.C 5.A.V 5.W.C 5.A.V	2.0 1.5 1.75 0.8	0
+#
+26621	Tibetan_Xiahe	MORNING	naŋdi	morning	OLD	n a ŋ d i	206	206	n a ŋ d i	4 7 4 1 7	AXMBZ	NANTI	5	5.N.C 5.A.V 5.N.c 5.T.C 5.I.V	2.0 1.5 1.1 1.75 0.8	0
+27876	rGyalrong_Maerkang	MORNING	tɑnɑp	morning	OLD	t ɑ n ɑ p	1142	1142	t ɑ n ɑ p	1 7 4 7 1	AXBYN	TANAP	1	1.T.C 1.A.V 1.N.C 1.A.V 1.P.c	2.0 1.5 1.75 1.3 0.8	0
+28168	Tibetan_Lhasa	MORNING	ɕokɛ	morning	OLD	ɕ o k ɛ	1040	1040	ɕ o k ɛ	3 7 1 7	AXBZ	SUKE	4	4.S.C 4.U.V 4.K.C 4.E.V	2.0 1.5 1.75 0.8	0
+29822	Tibetan_Batang	MORNING	xopɑ	morning	OLD	x o p ɑ	1040	1040	x o p ɑ	3 7 1 7	AXBZ	GUPA	3	3.G.C 3.U.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	0
+34571	Tibetan_Alike	MORNING	rŋamo	morning	OLD	r ŋ a m o	261	261	r ŋ a m o	5 4 7 4 7	ACYBZ	RNAMU	2	2.R.C 2.N.C 2.A.V 2.M.C 2.U.V	2.0 1.5 1.3 1.75 0.8	0
+34572	Tibetan_Alike	MORNING	rŋaro	morning	OLD	r ŋ a r o	261	261	r ŋ a r o	5 4 7 5 7	ACYBZ	RNARU	2	2.R.C 2.N.C 2.A.V 2.R.C 2.U.V	2.0 1.5 1.3 1.75 0.8	0
+#
+27587	rGyalrong_Maerkang	MOSQUITO	wss	mosquito	OLD	w s s	2689	2689	w ss	6 3	AN	WS	1	1.W.C 1.S.c	2.0 0.8	0
+27904	Tibetan_Lhasa	MOSQUITO	ukpaŋ	mosquito	OLD	u k p a ŋ	3074	3074	u k p a ŋ	7 1 1 7 4	XMBYN	YKPAN	4	4.Y.V 4.K.c 4.P.C 4.A.V 4.N.c	1.5 1.1 1.75 1.3 0.8	0
+29530	Tibetan_Batang	MOSQUITO	mbulũ	mosquito	OLD	m b u l ũ	3392	3392	m b u l ũ	4 1 7 5 7	ACYBZ	MPYLY	3	3.M.C 3.P.C 3.Y.V 3.L.C 3.Y.V	2.0 1.5 1.3 1.75 0.8	0
+30521	Tibetan_Alike	MOSQUITO	wadakɣa	mosquito	OLD	w a d a k ɣ a	1805	1805	w a d a k ɣ a	6 7 1 7 1 3 7	AXBYBCZ	WATAKGA	2	2.W.C 2.A.V 2.T.C 2.A.V 2.K.C 2.G.C 2.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	0
+32145	Tibetan_Xiahe	MOSQUITO	ajaŋə	mosquito	OLD	a j a ŋ ə	2397	2397	a j a ŋ ə	7 6 7 4 7	XBYBZ	AJANE	5	5.A.V 5.J.C 5.A.V 5.N.C 5.E.V	1.5 1.75 1.3 1.75 0.8	0
+#
+26050	rGyalrong_Maerkang	MOTHER	təmo	mother	OLD	t ə m o	1213	1213	t ə m o	1 7 4 7	AXBZ	TEMU	1	1.T.C 1.E.V 1.M.C 1.U.V	2.0 1.5 1.75 0.8	1
+27794	Tibetan_Lhasa	MOTHER	ama	mother	OLD	a m a	902	902	a m a	7 4 7	XBZ	AMA	4	4.A.V 4.M.C 4.A.V	1.5 1.75 0.8	0
+29405	Tibetan_Batang	MOTHER	ʔama	mother	OLD	ʔ a m a	902	902	ʔ a m a	1 7 4 7	AXBZ	HAMA	3	3.H.C 3.A.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	0
+29406	Tibetan_Batang	MOTHER	magẽ	mother	OLD	m a g ẽ	902	902	m a g ẽ	4 7 1 7	AXBZ	MAKE	3	3.M.C 3.A.V 3.K.C 3.E.V	2.0 1.5 1.75 0.8	0
+32047	Tibetan_Xiahe	MOTHER	ʔama	mother	OLD	ʔ a m a	902	902	ʔ a m a	1 7 4 7	AXBZ	HAMA	5	5.H.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	0
+34181	Tibetan_Alike	MOTHER	æmæ	mother	OLD	æ m æ	902	902	æ m æ	7 4 7	XBZ	EME	2	2.E.V 2.M.C 2.E.V	1.5 1.75 0.8	1
+#
+25890	Tibetan_Alike	MOUNTAIN	rə	hill / mountain	OLD	r ə	121	121	r ə	5 7	AX	RE	2	2.R.C 2.E.V	2.0 1.5	0
+27345	rGyalrong_Maerkang	MOUNTAIN	tɑwɑt	hill / mountain	OLD	t ɑ w ɑ t	673	673	t ɑ w ɑ t	1 7 6 7 1	AXBYN	TAWAT	1	1.T.C 1.A.V 1.W.C 1.A.V 1.T.c	2.0 1.5 1.75 1.3 0.8	0
+27611	Tibetan_Lhasa	MOUNTAIN	ri	hill / mountain	OLD	r i	121	121	r i	5 7	AX	RI	4	4.R.C 4.I.V	2.0 1.5	0
+29246	Tibetan_Batang	MOUNTAIN	ʐɪ	hill / mountain	OLD	ʐ ɪ	121	121	ʐ ɪ	3 7	AX	SI	3	3.S.C 3.I.V	2.0 1.5	0
+32703	Tibetan_Xiahe	MOUNTAIN	rə	hill / mountain	OLD	r ə	121	121	r ə	5 7	AX	RE	5	5.R.C 5.E.V	2.0 1.5	0
+#
+27387	rGyalrong_Maerkang	MOUTH	təɑ	mouth	OLD	t ə ɑ	10405	10405	t əɑ	1 7	AX	TE	1	1.T.C 1.E.V	2.0 1.5	1
+27677	Tibetan_Lhasa	MOUTH	a	mouth	OLD	a	10405	10405	a	7	X	A	4	4.A.V	1.5	1
+29298	Tibetan_Batang	MOUTH	a	mouth	OLD	a	10405	10405	a	7	X	A	3	3.A.V	1.5	1
+30870	Tibetan_Alike	MOUTH	æ	mouth	OLD	æ	10405	10405	æ	7	X	E	2	2.E.V	1.5	1
+34733	Tibetan_Xiahe	MOUTH	a	mouth	OLD	a	10405	10405	a	7	X	A	5	5.A.V	1.5	1
+#
+27360	rGyalrong_Maerkang	MUD	tɑo	mud	OLD	t ɑ o	682	682	t ɑo	1 7	AX	TA	1	1.T.C 1.A.V	2.0 1.5	1
+29577	Tibetan_Batang	MUD	ɑbɑʔ	mud	OLD	ɑ b ɑ ʔ	1500	1500	ɑ b ɑ ʔ	7 1 7 1	XBYN	APAH	3	3.A.V 3.P.C 3.A.V 3.H.c	1.5 1.75 1.3 0.8	0
+31938	Tibetan_Xiahe	MUD	ambax	mud	OLD	a m b a x	1500	1500	a m b a x	7 4 1 7 3	XMBYN	AMPAG	5	5.A.V 5.M.c 5.P.C 5.A.V 5.G.c	1.5 1.1 1.75 1.3 0.8	0
+32823	Tibetan_Lhasa	MUD	takpa	mud	OLD	t a k p a	1500	1500	t a k p a	1 7 1 1 7	AXMBZ	TAKPA	4	4.T.C 4.A.V 4.K.c 4.P.C 4.A.V	2.0 1.5 1.1 1.75 0.8	0
+34071	Tibetan_Alike	MUD	ndammbak	mud	OLD	n d a m m b a k	1500	1500	n d a mm b a k	4 1 7 4 1 7 1	ACYMBYN	NTAMPAK	2	2.N.C 2.T.C 2.A.V 2.M.c 2.P.C 2.A.V 2.K.c	2.0 1.5 1.3 1.1 1.75 1.3 0.8	0
+#
+27553	rGyalrong_Maerkang	MUROID (MOUSE OR RAT)	pəju	mouse	OLD	p ə j u	10424	10424	p ə j u	1 7 6 7	AXBZ	PEJY	1	1.P.C 1.E.V 1.J.C 1.Y.V	2.0 1.5 1.75 0.8	0
+29496	Tibetan_Batang	MUROID (MOUSE OR RAT)	ɕɑ	mouse	OLD	ɕ ɑ	10424	10424	ɕ ɑ	3 7	AX	SA	3	3.S.C 3.A.V	2.0 1.5	0
+31820	Tibetan_Lhasa	MUROID (MOUSE OR RAT)	ii	mouse	OLD	i i	10424	10424	ii	7	X	I	4	4.I.V	1.5	0
+32117	Tibetan_Xiahe	MUROID (MOUSE OR RAT)	əɣə	mouse	OLD	ə ɣ ə	10424	10424	ə ɣ ə	7 3 7	XBZ	EGE	5	5.E.V 5.G.C 5.E.V	1.5 1.75 0.8	1
+35065	Tibetan_Alike	MUROID (MOUSE OR RAT)	əɣə	mouse	OLD	ə ɣ ə	10424	10424	ə ɣ ə	7 3 7	XBZ	EGE	2	2.E.V 2.G.C 2.E.V	1.5 1.75 0.8	1
+#
+27837	rGyalrong_Maerkang	NAME	tərmᴇ	name	OLD	t ə r m ᴇ	18	18	t ə r m ᴇ	1 7 5 4 7	AXMBZ	TERME	1	1.T.C 1.E.V 1.R.c 1.M.C 1.E.V	2.0 1.5 1.1 1.75 0.8	0
+28113	Tibetan_Lhasa	NAME	miŋ	name	OLD	m i ŋ	18	18	m i ŋ	4 7 4	AXN	MIN	4	4.M.C 4.I.V 4.N.c	2.0 1.5 0.8	0
+30070	Tibetan_Batang	NAME	mĩ	name	OLD	m ĩ	18	18	m ĩ	4 7	AX	MI	3	3.M.C 3.I.V	2.0 1.5	0
+32364	Tibetan_Xiahe	NAME	ȵaŋ	name	OLD	ȵ a ŋ	18	18	ȵ a ŋ	4 7 4	AXN	NAN	5	5.N.C 5.A.V 5.N.c	2.0 1.5 0.8	0
+34524	Tibetan_Alike	NAME	ȵaŋŋæ	name	OLD	ȵ a ŋ ŋ æ	18	18	ȵ a ŋŋ æ	4 7 4 7	AXBZ	NANE	2	2.N.C 2.A.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	0
+#
+28005	rGyalrong_Maerkang	NARROW	kəor	narrow	OLD	k ə o r	671	671	k əo r	1 7 5	AXN	KER	1	1.K.C 1.E.V 1.R.c	2.0 1.5 0.8	0
+28346	Tibetan_Lhasa	NARROW	okpo	narrow	OLD	o k p o	1084	1084	o k p o	7 1 1 7	XMBZ	UKPU	4	4.U.V 4.K.c 4.P.C 4.U.V	1.5 1.1 1.75 0.8	0
+29964	Tibetan_Batang	NARROW	xĩaũũ	narrow	OLD	x ĩ a ũ ũ	1659	1659	x ĩaũũ	3 7	AX	GI	3	3.G.C 3.I.V	2.0 1.5	0
+32562	Tibetan_Xiahe	NARROW	toχmo	narrow	OLD	t o χ m o	1084	1084	t o χ m o	1 7 3 4 7	AXBCZ	TUGMU	5	5.T.C 5.U.V 5.G.C 5.M.C 5.U.V	2.0 1.5 1.75 1.5 0.8	0
+34728	Tibetan_Alike	NARROW	tok	narrow	OLD	t o k	1084	1084	t o k	1 7 1	AXN	TUK	2	2.T.C 2.U.V 2.K.c	2.0 1.5 0.8	0
+#
+27515	Tibetan_Xiahe	NEAR	aχȵi	near	OLD	a χ ȵ i	7	7	a χ ȵ i	7 3 4 7	XBCZ	AGNI	5	5.A.V 5.G.C 5.N.C 5.I.V	1.5 1.75 1.5 0.8	0
+28003	rGyalrong_Maerkang	NEAR	kəwɑt	near	OLD	k ə w ɑ t	974	974	k ə w ɑ t	1 7 6 7 1	AXBYN	KEWAT	1	1.K.C 1.E.V 1.W.C 1.A.V 1.T.c	2.0 1.5 1.75 1.3 0.8	0
+28344	Tibetan_Lhasa	NEAR	aȵepo	near	OLD	a ȵ e p o	7	7	a ȵ e p o	7 4 7 1 7	XBYBZ	ANEPU	4	4.A.V 4.N.C 4.E.V 4.P.C 4.U.V	1.5 1.75 1.3 1.75 0.8	0
+29962	Tibetan_Batang	NEAR	ɑʔũũ	near	OLD	ɑ ʔ ũ ũ	1657	1657	ɑ ʔ ũũ	7 1 7	XBZ	AHY	3	3.A.V 3.H.C 3.Y.V	1.5 1.75 0.8	0
+31605	Tibetan_Alike	NEAR	akȵe	near	OLD	a k ȵ e	7	7	a k ȵ e	7 1 4 7	XBCZ	AKNE	2	2.A.V 2.K.C 2.N.C 2.E.V	1.5 1.75 1.5 0.8	0
+#
+27390	rGyalrong_Maerkang	NECK	təmki	neck	OLD	t ə m k i	695	695	t ə m k i	1 7 4 1 7	AXMBZ	TEMKI	1	1.T.C 1.E.V 1.M.c 1.K.C 1.I.V	2.0 1.5 1.1 1.75 0.8	0
+27684	Tibetan_Lhasa	NECK	ke	neck	OLD	k e	695	695	k e	1 7	AX	KE	4	4.K.C 4.E.V	2.0 1.5	0
+27685	Tibetan_Lhasa	NECK	iŋpə	neck (back of, hindneck, nape)	OLD	i ŋ p ə	122	122	i ŋ p ə	7 4 1 7	XMBZ	INPE	4	4.I.V 4.N.c 4.P.C 4.E.V	1.5 1.1 1.75 0.8	0
+29302	Tibetan_Batang	NECK	ke	neck	OLD	k e	695	695	k e	1 7	AX	KE	3	3.K.C 3.E.V	2.0 1.5	0
+34100	Tibetan_Alike	NECK	rke	neck	OLD	r k e	695	695	r k e	5 1 7	ACZ	RKE	2	2.R.C 2.K.C 2.E.V	2.0 1.5 0.8	0
+34759	Tibetan_Xiahe	NECK	hketə	neck	OLD	h k e t ə	695	695	h k e t ə	3 1 7 1 7	ACYBZ	HKETE	5	5.H.C 5.K.C 5.E.V 5.T.C 5.E.V	2.0 1.5 1.3 1.75 0.8	0
+#
+28037	Tibetan_Lhasa	NEEDLE (FOR SEWING)	əp	needle	OLD	ə p	10231	10231	ə p	7 1	XN	EP	4	4.E.V 4.P.c	1.5 0.8	0
+31182	rGyalrong_Maerkang	NEEDLE (FOR SEWING)	tɑkɑp	needle	OLD	t ɑ k ɑ p	10231	10231	t ɑ k ɑ p	1 7 1 7 1	AXBYN	TAKAP	1	1.T.C 1.A.V 1.K.C 1.A.V 1.P.c	2.0 1.5 1.75 1.3 0.8	0
+31778	Tibetan_Batang	NEEDLE (FOR SEWING)	ɑuʔ	needle	OLD	ɑ u ʔ	10231	10231	ɑu ʔ	7 1	XN	AH	3	3.A.V 3.H.c	1.5 0.8	0
+34450	Tibetan_Alike	NEEDLE (FOR SEWING)	ap	needle	OLD	a p	10231	10231	a p	7 1	XN	AP	2	2.A.V 2.P.c	1.5 0.8	0
+35578	Tibetan_Xiahe	NEEDLE (FOR SEWING)	ap	needle	OLD	a p	10231	10231	a p	7 1	XN	AP	5	5.A.V 5.P.c	1.5 0.8	0
+#
+28403	Tibetan_Lhasa	NEW	spa	new	OLD	s p a	23	23	s p a	3 1 7	ACZ	SPA	4	4.S.C 4.P.C 4.A.V	2.0 1.5 0.8	0
+27812	Tibetan_Xiahe	NEW	oma	new	OLD	o m a	23	23	o m a	7 4 7	XBZ	UMA	5	5.U.V 5.M.C 5.A.V	1.5 1.75 0.8	0
+28050	rGyalrong_Maerkang	NEW	kəʃək	new	OLD	k ə ʃ ə k	997	997	k ə ʃ ə k	1 7 3 7 1	AXBYN	KESEK	1	1.K.C 1.E.V 1.S.C 1.E.V 1.K.c	2.0 1.5 1.75 1.3 0.8	0
+30025	Tibetan_Batang	NEW	sɛba	new	OLD	s ɛ b a	23	23	s ɛ b a	3 7 1 7	AXBZ	SEPA	3	3.S.C 3.E.V 3.P.C 3.A.V	2.0 1.5 1.75 0.8	0
+34780	Tibetan_Alike	NEW	omæ	new	OLD	o m æ	23	23	o m æ	7 4 7	XBZ	UME	2	2.U.V 2.M.C 2.E.V	1.5 1.75 0.8	0
+#
+25061	Tibetan_Xiahe	NINE	gə	nine	OLD	g ə	24	24	g ə	1 7	AX	KE	5	5.K.C 5.E.V	2.0 1.5	0
+28215	Tibetan_Lhasa	NINE	ku	nine	OLD	k u	24	24	k u	1 7	AX	KY	4	4.K.C 4.Y.V	2.0 1.5	0
+29859	Tibetan_Batang	NINE	gu	nine	OLD	g u	24	24	g u	1 7	AX	KY	3	3.K.C 3.Y.V	2.0 1.5	0
+32084	rGyalrong_Maerkang	NINE	kəngu	nine	OLD	k ə n g u	24	24	k ə n g u	1 7 4 1 7	AXMBZ	KENKY	1	1.K.C 1.E.V 1.N.c 1.K.C 1.Y.V	2.0 1.5 1.1 1.75 0.8	0
+34616	Tibetan_Alike	NINE	rgə	nine	OLD	r g ə	24	24	r g ə	5 1 7	ACZ	RKE	2	2.R.C 2.K.C 2.E.V	2.0 1.5 0.8	0
+#
+29471	rGyalrong_Maerkang	NIT	nəru	nit	OLD	n ə r u	190	190	n ə r u	4 7 5 7	AXBZ	NERY	1	1.N.C 1.E.V 1.R.C 1.Y.V	2.0 1.5 1.75 0.8	0
+30936	Tibetan_Batang	NIT	sɪmɑʔ	nit	OLD	s ɪ m ɑ ʔ	190	190	s ɪ m ɑ ʔ	3 7 4 7 1	AXBYN	SIMAH	3	3.S.C 3.I.V 3.M.C 3.A.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+31996	Tibetan_Lhasa	NIT	oma	nit	OLD	o m a	190	190	o m a	7 4 7	XBZ	UMA	4	4.U.V 4.M.C 4.A.V	1.5 1.75 0.8	1
+32143	Tibetan_Xiahe	NIT	ʂomo	nit	OLD	ʂ o m o	190	190	ʂ o m o	3 7 4 7	AXBZ	SUMU	5	5.S.C 5.U.V 5.M.C 5.U.V	2.0 1.5 1.75 0.8	0
+34288	Tibetan_Alike	NIT	ʂomaŋ	nit	OLD	ʂ o m a ŋ	190	190	ʂ o m a ŋ	3 7 4 7 4	AXBYN	SUMAN	2	2.S.C 2.U.V 2.M.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	0
+#
+27383	rGyalrong_Maerkang	NOSE	təʃnɑ	nose	OLD	t ə ʃ n ɑ	2090	2090	t ə ʃ n ɑ	1 7 3 4 7	AXBCZ	TESNA	1	1.T.C 1.E.V 1.S.C 1.N.C 1.A.V	2.0 1.5 1.75 1.5 0.8	0
+27672	Tibetan_Lhasa	NOSE	nəku	nose	OLD	n ə k u	2090	2090	n ə k u	4 7 1 7	AXBZ	NEKY	4	4.N.C 4.E.V 4.K.C 4.Y.V	2.0 1.5 1.75 0.8	0
+29295	Tibetan_Batang	NOSE	a	nose	OLD	a	2090	2090	a	7	X	A	3	3.A.V	1.5	1
+34092	Tibetan_Alike	NOSE	ræ	nose	OLD	r æ	2090	2090	r æ	5 7	AX	RE	2	2.R.C 2.E.V	2.0 1.5	1
+34714	Tibetan_Xiahe	NOSE	hnaʁoŋ	nose	OLD	h n a ʁ o ŋ	2090	2090	h n a ʁ o ŋ	3 4 7 5 7 4	ACXBYN	HNARUN	5	5.H.C 5.N.C 5.A.V 5.R.C 5.U.V 5.N.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+#
+28054	rGyalrong_Maerkang	OLD (AGED)	kəmo	old / elderly	OLD	k ə m o	1000	1000	k ə m o	1 7 4 7	AXBZ	KEMU	1	1.K.C 1.E.V 1.M.C 1.U.V	2.0 1.5 1.75 0.8	0
+28412	Tibetan_Lhasa	OLD (AGED)	kpa	old / elderly	OLD	k p a	583	583	k p a	1 1 7	ACZ	KPA	4	4.K.C 4.P.C 4.A.V	2.0 1.5 0.8	0
+30030	Tibetan_Batang	OLD (AGED)	gɛpo	old / elderly	OLD	g ɛ p o	583	583	g ɛ p o	1 7 1 7	AXBZ	KEPU	3	3.K.C 3.E.V 3.P.C 3.U.V	2.0 1.5 1.75 0.8	0
+33697	Tibetan_Xiahe	OLD (AGED)	lolon	old / elderly	OLD	l o l o n	2707	2707	l o l o n	5 7 5 7 4	AXBYN	LULUN	5	5.L.C 5.U.V 5.L.C 5.U.V 5.N.c	2.0 1.5 1.75 1.3 0.8	0
+34784	Tibetan_Alike	OLD (AGED)	rgi	old / elderly	OLD	r g i	583	583	r g i	5 1 7	ACZ	RKI	2	2.R.C 2.K.C 2.I.V	2.0 1.5 0.8	0
+#
+27912	rGyalrong_Maerkang	ONE	kətᴇk	one	OLD	k ə t ᴇ k	302	302	k ə t ᴇ k	1 7 1 7 1	AXBYN	KETEK	1	1.K.C 1.E.V 1.T.C 1.E.V 1.K.c	2.0 1.5 1.75 1.3 0.8	0
+28207	Tibetan_Lhasa	ONE	i	one	OLD	i	302	302	i	7	X	I	4	4.I.V	1.5	1
+29851	Tibetan_Batang	ONE	iʔ	one	OLD	i ʔ	302	302	i ʔ	7 1	XN	IH	3	3.I.V 3.H.c	1.5 0.8	0
+30057	Tibetan_Alike	ONE	ɣək	one	OLD	ɣ ə k	302	302	ɣ ə k	3 7 1	AXN	GEK	2	2.G.C 2.E.V 2.K.c	2.0 1.5 0.8	0
+32443	Tibetan_Xiahe	ONE	həχ	one	OLD	h ə χ	302	302	h ə χ	3 7 3	AXN	HEG	5	5.H.C 5.E.V 5.G.c	2.0 1.5 0.8	0
+#
+27389	Tibetan_Lhasa	OTTER	am	otter	OLD	a m	1290	1290	a m	7 4	XN	AM	4	4.A.V 4.M.c	1.5 0.8	0
+27552	rGyalrong_Maerkang	OTTER	əsrɑm	otter	OLD	ə s r ɑ m	1290	1290	ə s r ɑ m	7 3 5 7 4	XBCYN	ESRAM	1	1.E.V 1.S.C 1.R.C 1.A.V 1.M.c	1.5 1.75 1.5 1.3 0.8	0
+33222	Tibetan_Batang	OTTER	s	otter	OLD	s	1290	1290	s	3	A	S	3	3.S.C	2.0	0
+34254	Tibetan_Alike	OTTER	ʂam	otter	OLD	ʂ a m	1290	1290	ʂ a m	3 7 4	AXN	SAM	2	2.S.C 2.A.V 2.M.c	2.0 1.5 0.8	0
+35733	Tibetan_Xiahe	OTTER	ʂam	otter	OLD	ʂ a m	1290	1290	ʂ a m	3 7 4	AXN	SAM	5	5.S.C 5.A.V 5.M.c	2.0 1.5 0.8	0
+#
+28139	Tibetan_Lhasa	OUTSIDE	ilo	outside	OLD	i l o	267	267	i l o	7 5 7	XBZ	ILU	4	4.I.V 4.L.C 4.U.V	1.5 1.75 0.8	0
+31697	rGyalrong_Maerkang	OUTSIDE	wuji	outside	OLD	w u j i	267	267	w u j i	6 7 6 7	AXBZ	WYJI	1	1.W.C 1.Y.V 1.J.C 1.I.V	2.0 1.5 1.75 0.8	0
+32385	Tibetan_Xiahe	OUTSIDE	ɕəno	outside	OLD	ɕ ə n o	267	267	ɕ ə n o	3 7 4 7	AXBZ	SENU	5	5.S.C 5.E.V 5.N.C 5.U.V	2.0 1.5 1.75 0.8	0
+32387	Tibetan_Batang	OUTSIDE	e	outside	OLD	e	267	267	e	7	X	E	3	3.E.V	1.5	0
+33615	Tibetan_Lhasa	OUTSIDE	i	outside	OLD	i	267	267	i	7	X	I	4	4.I.V	1.5	1
+34964	Tibetan_Alike	OUTSIDE	wɕənso	outside	OLD	w ɕ ə n s o	267	267	w ɕ ə n s o	6 3 7 4 3 7	ACYMBZ	WSENSU	2	2.W.C 2.S.C 2.E.V 2.N.c 2.S.C 2.U.V	2.0 1.5 1.3 1.1 1.75 0.8	0
+#
+27532	rGyalrong_Maerkang	PIG	pɑk	pig	OLD	p ɑ k	2092	2092	p ɑ k	1 7 1	AXN	PAK	1	1.P.C 1.A.V 1.K.c	2.0 1.5 0.8	0
+29466	Tibetan_Batang	PIG	ɑʔ	pig	OLD	ɑ ʔ	2092	2092	ɑ ʔ	7 1	XN	AH	3	3.A.V 3.H.c	1.5 0.8	1
+32088	Tibetan_Xiahe	PIG	haχ	pig	OLD	h a χ	2092	2092	h a χ	3 7 3	AXN	HAG	5	5.H.C 5.A.V 5.G.c	2.0 1.5 0.8	0
+33464	Tibetan_Lhasa	PIG	akpa	pig	OLD	a k p a	2092	2092	a k p a	7 1 1 7	XMBZ	AKPA	4	4.A.V 4.K.c 4.P.C 4.A.V	1.5 1.1 1.75 0.8	1
+34224	Tibetan_Alike	PIG	hak	pig	OLD	h a k	2092	2092	h a k	3 7 1	AXN	HAK	2	2.H.C 2.A.V 2.K.c	2.0 1.5 0.8	0
+#
+28539	rGyalrong_Maerkang	PLANT (SOMETHING)	kɑplu	plant (trees)	OLD	k ɑ p l u	3373	3373	k ɑ p l u	1 7 1 5 7	AXBCZ	KAPLY	1	1.K.C 1.A.V 1.P.C 1.L.C 1.Y.V	2.0 1.5 1.75 1.5 0.8	0
+28968	Tibetan_Lhasa	PLANT (SOMETHING)	u	plant (trees)	OLD	u	123	123	u	7	X	Y	4	4.Y.V	1.5	1
+30527	Tibetan_Batang	PLANT (SOMETHING)	uʔ	plant (trees)	OLD	u ʔ	123	123	u ʔ	7 1	XN	YH	3	3.Y.V 3.H.c	1.5 0.8	1
+32976	Tibetan_Xiahe	PLANT (SOMETHING)	əχ	plant (trees)	OLD	ə χ	123	123	ə χ	7 3	XN	EG	5	5.E.V 5.G.c	1.5 0.8	1
+#
+28491	rGyalrong_Maerkang	PLAY	kɑmbri	play / amuse oneself	OLD	k ɑ m b r i	3341	3341	k ɑ m b r i	1 7 4 1 5 7	AXMBCZ	KAMPRI	1	1.K.C 1.A.V 1.M.c 1.P.C 1.R.C 1.I.V	2.0 1.5 1.1 1.75 1.5 0.8	0
+28687	Tibetan_Alike	PLAY	re	play / amuse oneself	OLD	r e	1448	1448	r e	5 7	AX	RE	2	2.R.C 2.E.V	2.0 1.5	1
+28896	Tibetan_Lhasa	PLAY	emoe	play / amuse oneself	OLD	e m o e	1448	1448	e m oe	7 4 7	XBZ	EMU	4	4.E.V 4.M.C 4.U.V	1.5 1.75 0.8	0
+30472	Tibetan_Batang	PLAY	emujeʔ	play / amuse oneself	OLD	e m u j e ʔ	1448	1448	e m u j e ʔ	7 4 7 6 7 1	XBYBYN	EMYJEH	3	3.E.V 3.M.C 3.Y.V 3.J.C 3.E.V 3.H.c	1.5 1.75 1.3 1.75 1.3 0.8	0
+32930	Tibetan_Xiahe	PLAY	he	play / amuse oneself	OLD	h e	1448	1448	h e	3 7	AX	HE	5	5.H.C 5.E.V	2.0 1.5	1
+34197	Tibetan_Lhasa	PLAY	e	play / amuse oneself	OLD	e	1448	1448	e	7	X	E	4	4.E.V	1.5	1
+#
+28780	Tibetan_Lhasa	PULL	i	pull / lead (a cow) along	OLD	i	2532	2532	i	7	X	I	4	4.I.V	1.5	1
+32803	rGyalrong_Maerkang	PULL	kɑprɑk	pull / lead (a cow) along	OLD	k ɑ p r ɑ k	2525	2525	k ɑ p r ɑ k	1 7 1 5 7 1	AXBCYN	KAPRAK	1	1.K.C 1.A.V 1.P.C 1.R.C 1.A.V 1.K.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+32854	Tibetan_Xiahe	PULL	ə	pull / lead (a cow) along	OLD	ə	2532	2532	ə	7	X	E	5	5.E.V	1.5	1
+34715	Tibetan_Batang	PULL	iʔ	pull / lead (a cow) along	OLD	i ʔ	2532	2532	i ʔ	7 1	XN	IH	3	3.I.V 3.H.c	1.5 0.8	1
+#
+28482	rGyalrong_Maerkang	PUSH	kkk	push / shove	OLD	k k k	1116	1116	kkk	1	A	K	1	1.K.C	2.0	0
+28886	Tibetan_Lhasa	PUSH	picataŋ	push / shove	OLD	p i c a t a ŋ	2961	2961	p i c a t a ŋ	1 7 1 7 1 7 4	AXBYBYN	PICATAN	4	4.P.C 4.I.V 4.C.C 4.A.V 4.T.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	0
+30461	Tibetan_Batang	PUSH	jabiʔ	push / shove	OLD	j a b i ʔ	2961	2961	j a b i ʔ	6 7 1 7 1	AXBYN	JAPIH	3	3.J.C 3.A.V 3.P.C 3.I.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+32920	Tibetan_Xiahe	PUSH	el	push / shove	OLD	e l	2546	2546	e l	7 5	XN	EL	5	5.E.V 5.L.c	1.5 0.8	1
+#
+27332	rGyalrong_Maerkang	RAIN (PRECIPITATION)	təmu	rain	OLD	t ə m u	1164	1164	t ə m u	1 7 4 7	AXBZ	TEMY	1	1.T.C 1.E.V 1.M.C 1.Y.V	2.0 1.5 1.75 0.8	0
+29233	Tibetan_Batang	RAIN (PRECIPITATION)	aba	rain	OLD	a b a	1342	1342	a b a	7 1 7	XBZ	APA	3	3.A.V 3.P.C 3.A.V	1.5 1.75 0.8	0
+30355	Tibetan_Lhasa	RAIN (PRECIPITATION)	pa	rain	OLD	p a	1342	1342	p a	1 7	AX	PA	4	4.P.C 4.A.V	2.0 1.5	0
+31910	Tibetan_Xiahe	RAIN (PRECIPITATION)	arwa	rain	OLD	a r w a	1342	1342	a r w a	7 5 6 7	XBCZ	ARWA	5	5.A.V 5.R.C 5.W.C 5.A.V	1.5 1.75 1.5 0.8	0
+34047	Tibetan_Alike	RAIN (PRECIPITATION)	arwæ	rain	OLD	a r w æ	1342	1342	a r w æ	7 5 6 7	XBCZ	ARWE	2	2.A.V 2.R.C 2.W.C 2.E.V	1.5 1.75 1.5 0.8	0
+#
+26581	Tibetan_Batang	RAINBOW	a	rainbow	OLD	a	94	94	a	7	X	A	3	3.A.V	1.5	1
+27333	rGyalrong_Maerkang	RAINBOW	nɑ	rainbow	OLD	n ɑ	94	94	n ɑ	4 7	AX	NA	1	1.N.C 1.A.V	2.0 1.5	0
+27597	Tibetan_Lhasa	RAINBOW	a	rainbow	OLD	a	94	94	a	7	X	A	4	4.A.V	1.5	1
+34048	Tibetan_Alike	RAINBOW	næ	rainbow	OLD	n æ	94	94	n æ	4 7	AX	NE	2	2.N.C 2.E.V	2.0 1.5	0
+34423	Tibetan_Xiahe	RAINBOW	a	rainbow	OLD	a	94	94	a	7	X	A	5	5.A.V	1.5	1
+#
+28023	rGyalrong_Maerkang	RED	kəwurnᴇ	red	OLD	k ə w u r n ᴇ	1306	1306	k ə w u r n ᴇ	1 7 6 7 5 4 7	AXBYMBZ	KEWYRNE	1	1.K.C 1.E.V 1.W.C 1.Y.V 1.R.c 1.N.C 1.E.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	0
+28365	Tibetan_Lhasa	RED	mpo	red	OLD	m p o	1088	1088	m p o	4 1 7	ACZ	MPU	4	4.M.C 4.P.C 4.U.V	2.0 1.5 0.8	0
+29988	Tibetan_Batang	RED	mɑmɑ	red	OLD	m ɑ m ɑ	1088	1088	m ɑ m ɑ	4 7 4 7	AXBZ	MAMA	3	3.M.C 3.A.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	0
+32580	Tibetan_Xiahe	RED	hmaro	red	OLD	h m a r o	1088	1088	h m a r o	3 4 7 5 7	ACXBZ	HMARU	5	5.H.C 5.M.C 5.A.V 5.R.C 5.U.V	2.0 1.5 1.5 1.75 0.8	0
+34751	Tibetan_Alike	RED	ɣmæro	red	OLD	ɣ m æ r o	1088	1088	ɣ m æ r o	3 4 7 5 7	ACXBZ	GMERU	2	2.G.C 2.M.C 2.E.V 2.R.C 2.U.V	2.0 1.5 1.5 1.75 0.8	0
+#
+28316	rGyalrong_Maerkang	RESIDE	kɑȵi	live / reside	OLD	k ɑ ȵ i	1038	1038	k ɑ ȵ i	1 7 4 7	AXBZ	KANI	1	1.K.C 1.A.V 1.N.C 1.I.V	2.0 1.5 1.75 0.8	0
+28689	Tibetan_Lhasa	RESIDE	tɛ	live / reside	OLD	t ɛ	2022	2022	t ɛ	1 7	AX	TE	4	4.T.C 4.E.V	2.0 1.5	1
+28690	Tibetan_Lhasa	RESIDE	nɛ	live / reside	OLD	n ɛ	3488	3488	n ɛ	4 7	AX	NE	4	4.N.C 4.E.V	2.0 1.5	0
+31151	Tibetan_Alike	RESIDE	wdat	live / reside	OLD	w d a t	2022	2022	w d a t	6 1 7 1	ACYN	WTAT	2	2.W.C 2.T.C 2.A.V 2.T.c	2.0 1.5 1.3 0.8	0
+32786	Tibetan_Xiahe	RESIDE	əχ	live / reside	OLD	ə χ	2519	2519	ə χ	7 3	XN	EG	5	5.E.V 5.G.c	1.5 0.8	1
+35272	Tibetan_Batang	RESIDE	uʔ	live / reside	OLD	u ʔ	2519	2519	u ʔ	7 1	XN	YH	3	3.Y.V 3.H.c	1.5 0.8	1
+#
+26347	Tibetan_Alike	RICE PLANT	mi	rice	OLD	m i	4932	4932	m i	4 7	AX	MI	2	2.M.C 2.I.V	2.0 1.5	0
+27952	Tibetan_Lhasa	RICE PLANT	umɛ	rice	OLD	u m ɛ	4932	4932	u m ɛ	7 4 7	XBZ	YME	4	4.Y.V 4.M.C 4.E.V	1.5 1.75 0.8	0
+31256	Tibetan_Batang	RICE PLANT	ɛ	rice	OLD	ɛ	4932	4932	ɛ	7	X	E	3	3.E.V	1.5	0
+32203	Tibetan_Xiahe	RICE PLANT	e	rice	OLD	e	4932	4932	e	7	X	E	5	5.E.V	1.5	1
+#
+26447	Tibetan_Xiahe	RIGHT	hje	right	OLD	h j e	10429	10429	h j e	3 6 7	ACX	HJE	5	5.H.C 5.J.C 5.E.V	2.0 1.5 1.5	0
+27852	rGyalrong_Maerkang	RIGHT	kɑɑ	right	OLD	k ɑ ɑ	920	920	k ɑɑ	1 7	AX	KA	1	1.K.C 1.A.V	2.0 1.5	0
+28134	Tibetan_Lhasa	RIGHT	jɛ	right	OLD	j ɛ	10429	10429	j ɛ	6 7	AX	JE	4	4.J.C 4.E.V	2.0 1.5	1
+29794	Tibetan_Batang	RIGHT	õku	right	OLD	õ k u	1617	1617	õ k u	7 1 7	XBZ	UKY	3	3.U.V 3.K.C 3.Y.V	1.5 1.75 0.8	0
+34542	Tibetan_Alike	RIGHT	ɣji	right	OLD	ɣ j i	10429	10429	ɣ j i	3 6 7	ACX	GJI	2	2.G.C 2.J.C 2.I.V	2.0 1.5 1.5	0
+#
+27351	rGyalrong_Maerkang	RIVER	əɑ	river	OLD	ə ɑ	400	400	əɑ	7	X	E	1	1.E.V	1.5	0
+27365	Tibetan_Batang	RIVER	u	river	OLD	u	400	400	u	7	X	Y	3	3.Y.V	1.5	1
+27617	Tibetan_Lhasa	RIVER	aŋpo	river	OLD	a ŋ p o	823	823	a ŋ p o	7 4 1 7	XMBZ	ANPU	4	4.A.V 4.N.c 4.P.C 4.U.V	1.5 1.1 1.75 0.8	0
+31306	Tibetan_Lhasa	RIVER	u	river	OLD	u	400	400	u	7	X	Y	4	4.Y.V	1.5	1
+31928	Tibetan_Xiahe	RIVER	ə	river	OLD	ə	400	400	ə	7	X	E	5	5.E.V	1.5	1
+34061	Tibetan_Alike	RIVER	ə	river	OLD	ə	400	400	ə	7	X	E	2	2.E.V	1.5	1
+#
+27355	rGyalrong_Maerkang	ROAD	əlɑ	road	OLD	ə l ɑ	2850	2850	ə l ɑ	7 5 7	XBZ	ELA	1	1.E.V 1.L.C 1.A.V	1.5 1.75 0.8	1
+27627	Tibetan_Lhasa	ROAD	laŋka	road	OLD	l a ŋ k a	2206	2206	l a ŋ k a	5 7 4 1 7	AXMBZ	LANKA	4	4.L.C 4.A.V 4.N.c 4.K.C 4.A.V	2.0 1.5 1.1 1.75 0.8	0
+29260	Tibetan_Batang	ROAD	l	road	OLD	l	2206	2206	l	5	A	L	3	3.L.C	2.0	0
+30490	Tibetan_Lhasa	ROAD	lam	road	OLD	l a m	2206	2206	l a m	5 7 4	AXN	LAM	4	4.L.C 4.A.V 4.M.c	2.0 1.5 0.8	0
+31933	Tibetan_Xiahe	ROAD	lam	road	OLD	l a m	2206	2206	l a m	5 7 4	AXN	LAM	5	5.L.C 5.A.V 5.M.c	2.0 1.5 0.8	0
+34065	Tibetan_Alike	ROAD	lam	road	OLD	l a m	2206	2206	l a m	5 7 4	AXN	LAM	2	2.L.C 2.A.V 2.M.c	2.0 1.5 0.8	0
+#
+25888	Tibetan_Xiahe	ROOT	hapa	root	OLD	h a p a	285	285	h a p a	3 7 1 7	AXBZ	HAPA	5	5.H.C 5.A.V 5.P.C 5.A.V	2.0 1.5 1.75 0.8	0
+29542	Tibetan_Batang	ROOT	ɛʔ	root	OLD	ɛ ʔ	3449	3449	ɛ ʔ	7 1	XN	EH	3	3.E.V 3.H.c	1.5 0.8	1
+30529	rGyalrong_Maerkang	ROOT	tsrm	root	OLD	t s r m	225	225	t s r m	1 3 5 4	ACXN	TSRM	1	1.T.C 1.S.C 1.R.V 1.M.c	2.0 1.5 1.5 0.8	0
+34303	Tibetan_Alike	ROOT	ɣapa	root	OLD	ɣ a p a	285	285	ɣ a p a	3 7 1 7	AXBZ	GAPA	2	2.G.C 2.A.V 2.P.C 2.A.V	2.0 1.5 1.75 0.8	0
+#
+27797	rGyalrong_Maerkang	ROPE	təbrᴇ	rope / string	OLD	t ə b r ᴇ	10164	10164	t ə b r ᴇ	1 7 1 5 7	AXBCZ	TEPRE	1	1.T.C 1.E.V 1.P.C 1.R.C 1.E.V	2.0 1.5 1.75 1.5 0.8	0
+28065	Tibetan_Lhasa	ROPE	akpa	rope / string	OLD	a k p a	540	540	a k p a	7 1 1 7	XMBZ	AKPA	4	4.A.V 4.K.c 4.P.C 4.A.V	1.5 1.1 1.75 0.8	1
+29721	Tibetan_Batang	ROPE	ɑpa	rope / string	OLD	ɑ p a	540	540	ɑ p a	7 1 7	XBZ	APA	3	3.A.V 3.P.C 3.A.V	1.5 1.75 0.8	0
+32314	Tibetan_Xiahe	ROPE	aχkwa	rope / string	OLD	a χ k w a	540	540	a χ k w a	7 3 1 6 7	XMBCZ	AGKWA	5	5.A.V 5.G.c 5.K.C 5.W.C 5.A.V	1.5 1.1 1.75 1.5 0.8	1
+32772	Tibetan_Alike	ROPE	re	rope / string	OLD	r e	2516	2516	r e	5 7	AX	RE	2	2.R.C 2.E.V	2.0 1.5	0
+34478	Tibetan_Alike	ROPE	okkwa	rope / string	OLD	o k k w a	540	540	o kk w a	7 1 6 7	XBCZ	UKWA	2	2.U.V 2.K.C 2.W.C 2.A.V	1.5 1.75 1.5 0.8	0
+#
+28012	rGyalrong_Maerkang	ROUND	kpərlor	circle / circular	OLD	k p ə r l o r	980	980	k p ə r l o r	1 1 7 5 5 7 5	ACYMBYN	KPERLUR	1	1.K.C 1.P.C 1.E.V 1.R.c 1.L.C 1.U.V 1.R.c	2.0 1.5 1.3 1.1 1.75 1.3 0.8	0
+28355	Tibetan_Lhasa	ROUND	kk	circle / circular	OLD	k k	125	125	kk	1	A	K	4	4.K.C	2.0	0
+28761	Tibetan_Xiahe	ROUND	hkorhko	circle / circular	OLD	h k o r h k o	125	125	h k o r h k o	3 1 7 5 3 1 7	ACYLMBZ	HKURHKU	5	5.H.C 5.K.C 5.U.V 5.R.c 5.H.c 5.K.C 5.U.V	2.0 1.5 1.3 1.1 1.1 1.75 0.8	0
+29974	Tibetan_Batang	ROUND	gɑgɑ	circle / circular	OLD	g ɑ g ɑ	125	125	g ɑ g ɑ	1 7 1 7	AXBZ	KAKA	3	3.K.C 3.A.V 3.K.C 3.A.V	2.0 1.5 1.75 0.8	0
+34741	Tibetan_Alike	ROUND	korrkor	circle / circular	OLD	k o r r k o r	125	125	k o rr k o r	1 7 5 1 7 5	AXMBYN	KURKUR	2	2.K.C 2.U.V 2.R.c 2.K.C 2.U.V 2.R.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+#
+28760	Tibetan_Lhasa	RUN	cu	run	OLD	c u	729	729	c u	1 7	AX	CY	4	4.C.C 4.Y.V	2.0 1.5	0
+32053	Tibetan_Batang	RUN	uʔ	run	OLD	u ʔ	729	729	u ʔ	7 1	XN	YH	3	3.Y.V 3.H.c	1.5 0.8	1
+32718	Tibetan_Alike	RUN	ruk	run	OLD	r u k	729	729	r u k	5 7 1	AXN	RYK	2	2.R.C 2.Y.V 2.K.c	2.0 1.5 0.8	0
+32842	Tibetan_Xiahe	RUN	əχ	run	OLD	ə χ	729	729	ə χ	7 3	XN	EG	5	5.E.V 5.G.c	1.5 0.8	1
+33998	rGyalrong_Maerkang	RUN	krək	run	OLD	k r ə k	729	729	k r ə k	1 5 7 1	ACXN	KREK	1	1.K.C 1.R.C 1.E.V 1.K.c	2.0 1.5 1.5 0.8	0
+#
+28158	Tibetan_Lhasa	SALT	a	salt	OLD	a	4160	4160	a	7	X	A	4	4.A.V	1.5	1
+29280	Tibetan_Batang	SALT	a	salt	OLD	a	4160	4160	a	7	X	A	3	3.A.V	1.5	1
+31945	Tibetan_Xiahe	SALT	akə	salt	OLD	a k ə	4160	4160	a k ə	7 1 7	XBZ	AKE	5	5.A.V 5.K.C 5.E.V	1.5 1.75 0.8	0
+34080	Tibetan_Alike	SALT	aə	salt	OLD	a ə	4160	4160	aə	7	X	A	2	2.A.V	1.5	0
+#
+28067	rGyalrong_Maerkang	SALTY	kəri	salty	OLD	k ə r i	1006	1006	k ə r i	1 7 5 7	AXBZ	KERI	1	1.K.C 1.E.V 1.R.C 1.I.V	2.0 1.5 1.75 0.8	0
+28423	Tibetan_Lhasa	SALTY	əu	salty	OLD	ə u	324	324	əu	7	X	E	4	4.E.V	1.5	0
+30041	Tibetan_Batang	SALTY	akedu	salty	OLD	a k e d u	324	324	a k e d u	7 1 7 1 7	XBYBZ	AKETY	3	3.A.V 3.K.C 3.E.V 3.T.C 3.Y.V	1.5 1.75 1.3 1.75 0.8	0
+32626	Tibetan_Xiahe	SALTY	aa	salty	OLD	a a	324	324	aa	7	X	A	5	5.A.V	1.5	0
+35610	Tibetan_Alike	SALTY	æəmaŋ	salty	OLD	æ ə m a ŋ	324	324	æə m a ŋ	7 4 7 4	XBYN	EMAN	2	2.E.V 2.M.C 2.A.V 2.N.c	1.5 1.75 1.3 0.8	0
+#
+27358	rGyalrong_Maerkang	SAND	kəwᴇk	sand	OLD	k ə w ᴇ k	2415	2415	k ə w ᴇ k	1 7 6 7 1	AXBYN	KEWEK	1	1.K.C 1.E.V 1.W.C 1.E.V 1.K.c	2.0 1.5 1.75 1.3 0.8	0
+29264	Tibetan_Batang	SAND	ɕɪma	sand	OLD	ɕ ɪ m a	118	118	ɕ ɪ m a	3 7 4 7	AXBZ	SIMA	3	3.S.C 3.I.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	0
+30528	Tibetan_Lhasa	SAND	ema	sand	OLD	e m a	118	118	e m a	7 4 7	XBZ	EMA	4	4.E.V 4.M.C 4.A.V	1.5 1.75 0.8	0
+31229	Tibetan_Xiahe	SAND	ɕema	sand	OLD	ɕ e m a	118	118	ɕ e m a	3 7 4 7	AXBZ	SEMA	5	5.S.C 5.E.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	0
+34069	Tibetan_Alike	SAND	wɕemæ	sand	OLD	w ɕ e m æ	118	118	w ɕ e m æ	6 3 7 4 7	ACYBZ	WSEME	2	2.W.C 2.S.C 2.E.V 2.M.C 2.E.V	2.0 1.5 1.3 1.75 0.8	0
+#
+28377	rGyalrong_Maerkang	SCRATCH	krrok	scratch (an itch)	OLD	k r r o k	3276	3276	k rr o k	1 5 7 1	ACXN	KRUK	1	1.K.C 1.R.C 1.U.V 1.K.c	2.0 1.5 1.5 0.8	0
+28749	Tibetan_Lhasa	SCRATCH	pɛpɛtaŋ	scratch (an itch)	OLD	p ɛ p ɛ t a ŋ	3577	3577	p ɛ p ɛ t a ŋ	1 7 1 7 1 7 4	AXBYBYN	PEPETAN	4	4.P.C 4.E.V 4.P.C 4.E.V 4.T.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	0
+30691	Tibetan_Batang	SCRATCH	uʔ	scratch (an itch)	OLD	u ʔ	126	126	u ʔ	7 1	XN	YH	3	3.Y.V 3.H.c	1.5 0.8	1
+32834	Tibetan_Xiahe	SCRATCH	əχ	scratch (an itch)	OLD	ə χ	126	126	ə χ	7 3	XN	EG	5	5.E.V 5.G.c	1.5 0.8	1
+35012	Tibetan_Alike	SCRATCH	nuk	scratch (an itch)	OLD	n u k	126	126	n u k	4 7 1	AXN	NYK	2	2.N.C 2.Y.V 2.K.c	2.0 1.5 0.8	1
+#
+26983	Tibetan_Batang	SEA	au	sea	OLD	a u	3122	3122	au	7	X	A	3	3.A.V	1.5	0
+27353	rGyalrong_Maerkang	SEA	rɟjmo	sea	OLD	r ɟ j m o	3122	3122	r ɟ j m o	5 1 6 4 7	ACYBZ	RCJMU	1	1.R.C 1.C.C 1.J.V 1.M.C 1.U.V	2.0 1.5 1.3 1.75 0.8	0
+27619	Tibetan_Lhasa	SEA	cao	sea	OLD	c a o	3122	3122	c ao	1 7	AX	CA	4	4.C.C 4.A.V	2.0 1.5	0
+34063	Tibetan_Alike	SEA	ramo	sea	OLD	r a m o	3122	3122	r a m o	5 7 4 7	AXBZ	RAMU	2	2.R.C 2.A.V 2.M.C 2.U.V	2.0 1.5 1.75 0.8	0
+34508	Tibetan_Xiahe	SEA	amo	sea	OLD	a m o	3122	3122	a m o	7 4 7	XBZ	AMU	5	5.A.V 5.M.C 5.U.V	1.5 1.75 0.8	0
+#
+26195	Tibetan_Lhasa	SEE	oŋ	see	OLD	o ŋ	2472	2472	o ŋ	7 4	XN	UN	4	4.U.V 4.N.c	1.5 0.8	0
+30956	rGyalrong_Maerkang	SEE	kɑmto	see	OLD	k ɑ m t o	2472	2472	k ɑ m t o	1 7 4 1 7	AXMBZ	KAMTU	1	1.K.C 1.A.V 1.M.c 1.T.C 1.U.V	2.0 1.5 1.1 1.75 0.8	0
+32796	Tibetan_Xiahe	SEE	rəχ	see	OLD	r ə χ	2523	2523	r ə χ	5 7 3	AXN	REG	5	5.R.C 5.E.V 5.G.c	2.0 1.5 0.8	0
+34979	Tibetan_Alike	SEE	rik	see	OLD	r i k	2523	2523	r i k	5 7 1	AXN	RIK	2	2.R.C 2.I.V 2.K.c	2.0 1.5 0.8	0
+35582	Tibetan_Batang	SEE	riʔ	see	OLD	r i ʔ	2523	2523	r i ʔ	5 7 1	AXN	RIH	3	3.R.C 3.I.V 3.H.c	2.0 1.5 0.8	0
+#
+27624	rGyalrong_Maerkang	SEED	tərpi	seed	OLD	t ə r p i	4165	4165	t ə r p i	1 7 5 1 7	AXMBZ	TERPI	1	1.T.C 1.E.V 1.R.c 1.P.C 1.I.V	2.0 1.5 1.1 1.75 0.8	0
+27933	Tibetan_Lhasa	SEED	s	seed	OLD	s	955	955	s	3	A	S	4	4.S.C	2.0	1
+32180	Tibetan_Xiahe	SEED	əʁoŋ	seed	OLD	ə ʁ o ŋ	955	955	ə ʁ o ŋ	7 5 7 4	XBYN	ERUN	5	5.E.V 5.R.C 5.U.V 5.N.c	1.5 1.75 1.3 0.8	0
+34327	Tibetan_Alike	SEED	sæwon	seed	OLD	s æ w o n	955	955	s æ w o n	3 7 6 7 4	AXBYN	SEWUN	2	2.S.C 2.E.V 2.W.C 2.U.V 2.N.c	2.0 1.5 1.75 1.3 0.8	0
+#
+27918	rGyalrong_Maerkang	SEVEN	kəʃnəs	seven	OLD	k ə ʃ n ə s	55	55	k ə ʃ n ə s	1 7 3 4 7 3	AXBCYN	KESNES	1	1.K.C 1.E.V 1.S.C 1.N.C 1.E.V 1.S.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+28213	Tibetan_Lhasa	SEVEN	tỹ	seven	OLD	t ỹ	1049	1049	t ỹ	1 7	AX	TY	4	4.T.C 4.Y.V	2.0 1.5	0
+29857	Tibetan_Batang	SEVEN	dỹ	seven	OLD	d ỹ	1049	1049	d ỹ	1 7	AX	TY	3	3.T.C 3.Y.V	2.0 1.5	0
+32449	Tibetan_Xiahe	SEVEN	dən	seven	OLD	d ə n	1049	1049	d ə n	1 7 4	AXN	TEN	5	5.T.C 5.E.V 5.N.c	2.0 1.5 0.8	0
+34614	Tibetan_Alike	SEVEN	wdən	seven	OLD	w d ə n	1049	1049	w d ə n	6 1 7 4	ACYN	WTEN	2	2.W.C 2.T.C 2.E.V 2.N.c	2.0 1.5 1.3 0.8	0
+#
+28034	rGyalrong_Maerkang	SHARP	kɑmok	sharp	OLD	k ɑ m o k	992	992	k ɑ m o k	1 7 4 7 1	AXBYN	KAMUK	1	1.K.C 1.A.V 1.M.C 1.U.V 1.K.c	2.0 1.5 1.75 1.3 0.8	0
+29997	Tibetan_Alike	SHARP	rnoɣə	sharp	OLD	r n o ɣ ə	1770	1770	r n o ɣ ə	5 4 7 3 7	ACYBZ	RNUGE	2	2.R.C 2.N.C 2.U.V 2.G.C 2.E.V	2.0 1.5 1.3 1.75 0.8	0
+30000	Tibetan_Batang	SHARP	nubu	sharp	OLD	n u b u	1770	1770	n u b u	4 7 1 7	AXBZ	NYPY	3	3.N.C 3.Y.V 3.P.C 3.Y.V	2.0 1.5 1.75 0.8	0
+30383	Tibetan_Lhasa	SHARP	nopo	sharp	OLD	n o p o	1770	1770	n o p o	4 7 1 7	AXBZ	NUPU	4	4.N.C 4.U.V 4.P.C 4.U.V	2.0 1.5 1.75 0.8	0
+32589	Tibetan_Xiahe	SHARP	hnombo	sharp	OLD	h n o m b o	1770	1770	h n o m b o	3 4 7 4 1 7	ACXMBZ	HNUMPU	5	5.H.C 5.N.C 5.U.V 5.M.c 5.P.C 5.U.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+#
+27525	rGyalrong_Maerkang	SHEEP	kəjo	sheep	OLD	k ə j o	342	342	k ə j o	1 7 6 7	AXBZ	KEJU	1	1.K.C 1.E.V 1.J.C 1.U.V	2.0 1.5 1.75 0.8	1
+27839	Tibetan_Lhasa	SHEEP	lu	sheep	OLD	l u	1428	1428	l u	5 7	AX	LY	4	4.L.C 4.Y.V	2.0 1.5	0
+29459	Tibetan_Batang	SHEEP	luʔ	sheep	OLD	l u ʔ	1428	1428	l u ʔ	5 7 1	AXN	LYH	3	3.L.C 3.Y.V 3.H.c	2.0 1.5 0.8	0
+29460	Tibetan_Batang	SHEEP	jõkɑɿuʔ	sheep	OLD	j õ k ɑ ɿ u ʔ	342	342	j õ k ɑɿu ʔ	6 7 1 7 1	AXBYN	JUKAH	3	3.J.C 3.U.V 3.K.C 3.A.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+32083	Tibetan_Xiahe	SHEEP	ləχ	sheep	OLD	l ə χ	1428	1428	l ə χ	5 7 3	AXN	LEG	5	5.L.C 5.E.V 5.G.c	2.0 1.5 0.8	0
+34216	Tibetan_Alike	SHEEP	om	sheep	OLD	o m	2835	2835	o m	7 4	XN	UM	2	2.U.V 2.M.c	1.5 0.8	0
+34217	Tibetan_Alike	SHEEP	mamo	sheep	OLD	m a m o	2836	2836	m a m o	4 7 4 7	AXBZ	MAMU	2	2.M.C 2.A.V 2.M.C 2.U.V	2.0 1.5 1.75 0.8	0
+#
+26872	Tibetan_Lhasa	SHOOT	taca	shoot (an arrow)	OLD	t a c a	2814	2814	t a c a	1 7 1 7	AXBZ	TACA	4	4.T.C 4.A.V 4.C.C 4.A.V	2.0 1.5 1.75 0.8	0
+28816	Tibetan_Lhasa	SHOOT	paŋ	shoot (an arrow)	OLD	p a ŋ	2979	2979	p a ŋ	1 7 4	AXN	PAN	4	4.P.C 4.A.V 4.N.c	2.0 1.5 0.8	0
+30409	Tibetan_Batang	SHOOT	ɑuʔ	shoot (an arrow)	OLD	ɑ u ʔ	2814	2814	ɑu ʔ	7 1	XN	AH	3	3.A.V 3.H.c	1.5 0.8	1
+35053	Tibetan_Alike	SHOOT	mdænen	shoot (an arrow)	OLD	m d æ n e n	2979	2979	m d æ n e n	4 1 7 4 7 4	ACYBYN	MTENEN	2	2.M.C 2.T.C 2.E.V 2.N.C 2.E.V 2.N.c	2.0 1.5 1.3 1.75 1.3 0.8	0
+35151	Tibetan_Xiahe	SHOOT	hen	shoot (an arrow)	OLD	h e n	2979	2979	h e n	3 7 4	AXN	HEN	5	5.H.C 5.E.V 5.N.c	2.0 1.5 0.8	0
+35320	rGyalrong_Maerkang	SHOOT	kəpᴇklt	shoot (an arrow)	OLD	k ə p ᴇ k l t	2933	2933	k ə p ᴇ k l t	1 7 1 7 1 5 1	AXBYBYN	KEPEKLT	1	1.K.C 1.E.V 1.P.C 1.E.V 1.K.C 1.L.V 1.T.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	0
+#
+25789	Tibetan_Alike	SHORT	oŋ	short	OLD	o ŋ	4170	4170	o ŋ	7 4	XN	UN	2	2.U.V 2.N.c	1.5 0.8	0
+27505	Tibetan_Xiahe	SHORT	oŋoŋ	short	OLD	o ŋ o ŋ	4170	4170	o ŋ o ŋ	7 4 7 4	XBYN	UNUN	5	5.U.V 5.N.C 5.U.V 5.N.c	1.5 1.75 1.3 0.8	0
+28001	rGyalrong_Maerkang	SHORT	kəkən	short	OLD	k ə k ə n	972	972	k ə k ə n	1 7 1 7 4	AXBYN	KEKEN	1	1.K.C 1.E.V 1.K.C 1.E.V 1.N.c	2.0 1.5 1.75 1.3 0.8	0
+33428	Tibetan_Batang	SHORT	ũũ	short	OLD	ũ ũ	4170	4170	ũũ	7	X	Y	3	3.Y.V	1.5	0
+34794	Tibetan_Lhasa	SHORT	ỹỹ	short	OLD	ỹ ỹ	4170	4170	ỹỹ	7	X	Y	4	4.Y.V	1.5	0
+#
+26140	Tibetan_Alike	SHOULDER	makæ	shoulder	OLD	m a k æ	13	13	m a k æ	4 7 1 7	AXBZ	MAKE	2	2.M.C 2.A.V 2.K.C 2.E.V	2.0 1.5 1.75 0.8	0
+27391	rGyalrong_Maerkang	SHOULDER	tɑrpɑk	shoulder	OLD	t ɑ r p ɑ k	13	13	t ɑ r p ɑ k	1 7 5 1 7 1	AXMBYN	TARPAK	1	1.T.C 1.A.V 1.R.c 1.P.C 1.A.V 1.K.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+27686	Tibetan_Lhasa	SHOULDER	puŋpə	shoulder	OLD	p u ŋ p ə	10168	10168	p u ŋ p ə	1 7 4 1 7	AXMBZ	PYNPE	4	4.P.C 4.Y.V 4.N.c 4.P.C 4.E.V	2.0 1.5 1.1 1.75 0.8	0
+29786	Tibetan_Batang	SHOULDER	ɑpa	shoulder	OLD	ɑ p a	13	13	ɑ p a	7 1 7	XBZ	APA	3	3.A.V 3.P.C 3.A.V	1.5 1.75 0.8	1
+31964	Tibetan_Xiahe	SHOULDER	aχka	shoulder	OLD	a χ k a	13	13	a χ k a	7 3 1 7	XMBZ	AGKA	5	5.A.V 5.G.c 5.K.C 5.A.V	1.5 1.1 1.75 0.8	0
+#
+28253	rGyalrong_Maerkang	SHY	kɑnɑsrɑk	shy, be / bashful	OLD	k ɑ n ɑ s r ɑ k	2478	2478	k ɑ n ɑ s r ɑ k	1 7 4 7 3 5 7 1	AXBYBCYN	KANASRAK	1	1.K.C 1.A.V 1.N.C 1.A.V 1.S.C 1.R.C 1.A.V 1.K.c	2.0 1.5 1.75 1.3 1.75 1.5 1.3 0.8	0
+28638	Tibetan_Lhasa	SHY	ŋoa	shy, be / bashful	OLD	ŋ o a	5877	5877	ŋ oa	4 7	AX	NU	4	4.N.C 4.U.V	2.0 1.5	0
+34997	Tibetan_Alike	SHY	ŋoæ	shy, be / bashful	OLD	ŋ o æ	5877	5877	ŋ oæ	4 7	AX	NU	2	2.N.C 2.U.V	2.0 1.5	0
+35106	Tibetan_Batang	SHY	ŋua	shy, be / bashful	OLD	ŋ u a	5877	5877	ŋ ua	4 7	AX	NY	3	3.N.C 3.Y.V	2.0 1.5	0
+35454	Tibetan_Xiahe	SHY	ŋoa	shy, be / bashful	OLD	ŋ o a	5877	5877	ŋ oa	4 7	AX	NU	5	5.N.C 5.U.V	2.0 1.5	0
+#
+27801	rGyalrong_Maerkang	SICKLE	təntwɑ	sickle	OLD	t ə n t w ɑ	3299	3299	t ə n t w ɑ	1 7 4 1 6 7	AXMBCZ	TENTWA	1	1.T.C 1.E.V 1.N.c 1.T.C 1.W.C 1.A.V	2.0 1.5 1.1 1.75 1.5 0.8	0
+28069	Tibetan_Lhasa	SICKLE	sra	sickle	OLD	s r a	3290	3290	s r a	3 5 7	ACX	SRA	4	4.S.C 4.R.C 4.A.V	2.0 1.5 1.5	1
+29724	Tibetan_Batang	SICKLE	sura	sickle	OLD	s u r a	3290	3290	s u r a	3 7 5 7	AXBZ	SYRA	3	3.S.C 3.Y.V 3.R.C 3.A.V	2.0 1.5 1.75 0.8	0
+32318	Tibetan_Xiahe	SICKLE	sora	sickle	OLD	s o r a	3290	3290	s o r a	3 7 5 7	AXBZ	SURA	5	5.S.C 5.U.V 5.R.C 5.A.V	2.0 1.5 1.75 0.8	0
+34481	Tibetan_Alike	SICKLE	soræ	sickle	OLD	s o r æ	3290	3290	s o r æ	3 7 5 7	AXBZ	SURE	2	2.S.C 2.U.V 2.R.C 2.E.V	2.0 1.5 1.75 0.8	0
+#
+28128	rGyalrong_Maerkang	SING	bʒəkɑpɑ	sing	OLD	b ʒ ə k ɑ p ɑ	3254	3254	b ʒ ə k ɑ p ɑ	1 3 7 1 7 1 7	ACXBYBZ	PSEKAPA	1	1.P.C 1.S.C 1.E.V 1.K.C 1.A.V 1.P.C 1.A.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	0
+28538	Tibetan_Lhasa	SING	ɕɛtaŋ	sing	OLD	ɕ ɛ t a ŋ	3053	3053	ɕ ɛ t a ŋ	3 7 1 7 4	AXBYN	SETAN	4	4.S.C 4.E.V 4.T.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 0.8	0
+32676	Tibetan_Xiahe	SING	len	sing	OLD	l e n	2497	2497	l e n	5 7 4	AXN	LEN	5	5.L.C 5.E.V 5.N.c	2.0 1.5 0.8	1
+34309	Tibetan_Batang	SING	eĩ	sing	OLD	e ĩ	2856	2856	eĩ	7	X	E	3	3.E.V	1.5	0
+34856	Tibetan_Alike	SING	len	sing	OLD	l e n	2497	2497	l e n	5 7 4	AXN	LEN	2	2.L.C 2.E.V 2.N.c	2.0 1.5 0.8	0
+#
+28212	Tibetan_Lhasa	SIX	u	six	OLD	u	306	306	u	7	X	Y	4	4.Y.V	1.5	0
+29856	Tibetan_Batang	SIX	uʔ	six	OLD	u ʔ	306	306	u ʔ	7 1	XN	YH	3	3.Y.V 3.H.c	1.5 0.8	0
+30549	Tibetan_Alike	SIX	uk	six	OLD	u k	306	306	u k	7 1	XN	YK	2	2.Y.V 2.K.c	1.5 0.8	0
+32071	rGyalrong_Maerkang	SIX	kəok	six	OLD	k ə o k	306	306	k əo k	1 7 1	AXN	KEK	1	1.K.C 1.E.V 1.K.c	2.0 1.5 0.8	0
+32448	Tibetan_Xiahe	SIX	əχ	six	OLD	ə χ	306	306	ə χ	7 3	XN	EG	5	5.E.V 5.G.c	1.5 0.8	0
+#
+27410	rGyalrong_Maerkang	SKIN	təni	skin	OLD	t ə n i	2473	2473	t ə n i	1 7 4 7	AXBZ	TENI	1	1.T.C 1.E.V 1.N.C 1.I.V	2.0 1.5 1.75 0.8	0
+29887	Tibetan_Batang	SKIN	apɑ	skin	OLD	a p ɑ	1965	1965	a p ɑ	7 1 7	XBZ	APA	3	3.A.V 3.P.C 3.A.V	1.5 1.75 0.8	0
+33379	Tibetan_Lhasa	SKIN	pakpa	skin	OLD	p a k p a	2885	2885	p a k p a	1 7 1 1 7	AXMBZ	PAKPA	4	4.P.C 4.A.V 4.K.c 4.P.C 4.A.V	2.0 1.5 1.1 1.75 0.8	0
+34961	Tibetan_Xiahe	SKIN	həmo	skin	OLD	h ə m o	1965	1965	h ə m o	3 7 4 7	AXBZ	HEMU	5	5.H.C 5.E.V 5.M.C 5.U.V	2.0 1.5 1.75 0.8	0
+#
+27588	Tibetan_Lhasa	SKY	nama	sky	OLD	n a m a	254	254	n a m a	4 7 4 7	AXBZ	NAMA	4	4.N.C 4.A.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	0
+28777	rGyalrong_Maerkang	SKY	nm	sky	OLD	n m	254	254	n m	4 4	AN	NM	1	1.N.C 1.M.c	2.0 0.8	0
+29224	Tibetan_Batang	SKY	nã	sky	OLD	n ã	254	254	n ã	4 7	AX	NA	3	3.N.C 3.A.V	2.0 1.5	0
+30317	Tibetan_Lhasa	SKY	nam	sky	OLD	n a m	254	254	n a m	4 7 4	AXN	NAM	4	4.N.C 4.A.V 4.M.c	2.0 1.5 0.8	0
+31901	Tibetan_Xiahe	SKY	hnam	sky	OLD	h n a m	254	254	h n a m	3 4 7 4	ACXN	HNAM	5	5.H.C 5.N.C 5.A.V 5.M.c	2.0 1.5 1.5 0.8	0
+34039	Tibetan_Alike	SKY	ɣnam	sky	OLD	ɣ n a m	254	254	ɣ n a m	3 4 7 4	ACXN	GNAM	2	2.G.C 2.N.C 2.A.V 2.M.c	2.0 1.5 1.5 0.8	0
+#
+28460	rGyalrong_Maerkang	SLEEP	kɑrmɑ	sleep	OLD	k ɑ r m ɑ	1107	1107	k ɑ r m ɑ	1 7 5 4 7	AXMBZ	KARMA	1	1.K.C 1.A.V 1.R.c 1.M.C 1.A.V	2.0 1.5 1.1 1.75 0.8	0
+28846	Tibetan_Lhasa	SLEEP	ȵɛ	sleep	OLD	ȵ ɛ	2540	2540	ȵ ɛ	4 7	AX	NE	4	4.N.C 4.E.V	2.0 1.5	1
+30433	Tibetan_Batang	SLEEP	ȵe	sleep	OLD	ȵ e	2540	2540	ȵ e	4 7	AX	NE	3	3.N.C 3.E.V	2.0 1.5	1
+32902	Tibetan_Xiahe	SLEEP	na	sleep	OLD	n a	2540	2540	n a	4 7	AX	NA	5	5.N.C 5.A.V	2.0 1.5	0
+35071	Tibetan_Alike	SLEEP	ȵa	sleep	OLD	ȵ a	2540	2540	ȵ a	4 7	AX	NA	2	2.N.C 2.A.V	2.0 1.5	0
+#
+27468	Tibetan_Xiahe	SMALL	oŋwo	small	OLD	o ŋ w o	742	742	o ŋ w o	7 4 6 7	XBCZ	UNWU	5	5.U.V 5.N.C 5.W.C 5.U.V	1.5 1.75 1.5 0.8	0
+27997	rGyalrong_Maerkang	SMALL	kəki	small	OLD	k ə k i	440	440	k ə k i	1 7 1 7	AXBZ	KEKI	1	1.K.C 1.E.V 1.K.C 1.I.V	2.0 1.5 1.75 0.8	0
+28335	Tibetan_Lhasa	SMALL	ỹỹ	small	OLD	ỹ ỹ	742	742	ỹỹ	7	X	Y	4	4.Y.V	1.5	1
+29220	Tibetan_Alike	SMALL	oŋ	small	OLD	o ŋ	742	742	o ŋ	7 4	XN	UN	2	2.U.V 2.N.c	1.5 0.8	1
+29954	Tibetan_Batang	SMALL	ũũ	small	OLD	ũ ũ	742	742	ũũ	7	X	Y	3	3.Y.V	1.5	1
+#
+30475	Tibetan_Batang	SMELL (PERCEIVE)	ũ	smell	OLD	ũ	67	67	ũ	7	X	Y	3	3.Y.V	1.5	1
+32932	Tibetan_Xiahe	SMELL (PERCEIVE)	hnəm	smell	OLD	h n ə m	67	67	h n ə m	3 4 7 4	ACXN	HNEM	5	5.H.C 5.N.C 5.E.V 5.M.c	2.0 1.5 1.5 0.8	0
+34727	Tibetan_Lhasa	SMELL (PERCEIVE)	imənum	smell	OLD	i m ə n u m	67	67	i m ə n u m	7 4 7 4 7 4	XBYBYN	IMENYM	4	4.I.V 4.M.C 4.E.V 4.N.C 4.Y.V 4.M.c	1.5 1.75 1.3 1.75 1.3 0.8	0
+35650	rGyalrong_Maerkang	SMELL (PERCEIVE)	knŋsəŋsət	smell	OLD	k n ŋ s ə ŋ s ə t	3087	3087	k n ŋ s ə ŋ s ə t	1 4 4 3 7 4 3 7 1	ACACYMBYN	KNNSENSET	1	1.K.C 1.N.C 1.N.C 1.S.C 1.E.V 1.N.c 1.S.C 1.E.V 1.T.c	2.0 1.5 2.0 1.5 1.3 1.1 1.75 1.3 0.8	0
+#
+27341	rGyalrong_Maerkang	SMOKE (EXHAUST)	tə	smoke	OLD	t ə	68	68	t ə	1 7	AX	TE	1	1.T.C 1.E.V	2.0 1.5	0
+27607	Tibetan_Lhasa	SMOKE (EXHAUST)	uo	smoke	OLD	u o	1421	1421	uo	7	X	Y	4	4.Y.V	1.5	1
+29444	Tibetan_Batang	SMOKE (EXHAUST)	tɑ	smoke	OLD	t ɑ	1421	1421	t ɑ	1 7	AX	TA	3	3.T.C 3.A.V	2.0 1.5	0
+31919	Tibetan_Xiahe	SMOKE (EXHAUST)	to	smoke	OLD	t o	1421	1421	t o	1 7	AX	TU	5	5.T.C 5.U.V	2.0 1.5	0
+34056	Tibetan_Alike	SMOKE (EXHAUST)	to	smoke	OLD	t o	1421	1421	t o	1 7	AX	TU	2	2.T.C 2.U.V	2.0 1.5	0
+#
+28393	Tibetan_Lhasa	SMOOTH	ampo	smooth / glossy / sleek	OLD	a m p o	176	176	a m p o	7 4 1 7	XMBZ	AMPU	4	4.A.V 4.M.c 4.P.C 4.U.V	1.5 1.1 1.75 0.8	0
+29576	Tibetan_Xiahe	SMOOTH	ambo	smooth / glossy / sleek	OLD	a m b o	176	176	a m b o	7 4 1 7	XMBZ	AMPU	5	5.A.V 5.M.c 5.P.C 5.U.V	1.5 1.1 1.75 0.8	0
+30014	Tibetan_Batang	SMOOTH	mbu	smooth / glossy / sleek	OLD	m b u	176	176	m b u	4 1 7	ACZ	MPY	3	3.M.C 3.P.C 3.Y.V	2.0 1.5 0.8	0
+33511	rGyalrong_Maerkang	SMOOTH	kəmno	smooth / glossy / sleek	OLD	k ə m n o	2670	2670	k ə m n o	1 7 4 4 7	AXMBZ	KEMNU	1	1.K.C 1.E.V 1.M.c 1.N.C 1.U.V	2.0 1.5 1.1 1.75 0.8	0
+#
+26833	Tibetan_Alike	SNAKE	rbu	snake	OLD	r b u	70	70	r b u	5 1 7	ACZ	RPY	2	2.R.C 2.P.C 2.Y.V	2.0 1.5 0.8	0
+27890	Tibetan_Lhasa	SNAKE	y	snake	OLD	y	70	70	y	7	X	Y	4	4.Y.V	1.5	0
+29517	Tibetan_Batang	SNAKE	y	snake	OLD	y	70	70	y	7	X	Y	3	3.Y.V	1.5	0
+29968	rGyalrong_Maerkang	SNAKE	abrᴇ	snake	OLD	a b r ᴇ	70	70	a b r ᴇ	7 1 5 7	XBCZ	APRE	1	1.A.V 1.P.C 1.R.C 1.E.V	1.5 1.75 1.5 0.8	0
+32134	Tibetan_Xiahe	SNAKE	ru	snake	OLD	r u	70	70	r u	5 7	AX	RY	5	5.R.C 5.Y.V	2.0 1.5	0
+#
+27334	rGyalrong_Maerkang	SNOW	tipɑ	snow	OLD	t i p ɑ	2372	2372	t i p ɑ	1 7 1 7	AXBZ	TIPA	1	1.T.C 1.I.V 1.P.C 1.A.V	2.0 1.5 1.75 0.8	0
+27598	Tibetan_Lhasa	SNOW	aŋ	snow	OLD	a ŋ	2796	2796	a ŋ	7 4	XN	AN	4	4.A.V 4.N.c	1.5 0.8	0
+30842	Tibetan_Lhasa	SNOW	awa	snow	OLD	a w a	131	131	a w a	7 6 7	XBZ	AWA	4	4.A.V 4.W.C 4.A.V	1.5 1.75 0.8	0
+33457	Tibetan_Batang	SNOW	ɑ	snow	OLD	ɑ	131	131	ɑ	7	X	A	3	3.A.V	1.5	1
+34049	Tibetan_Alike	SNOW	kaŋ	snow	OLD	k a ŋ	2796	2796	k a ŋ	1 7 4	AXN	KAN	2	2.K.C 2.A.V 2.N.c	2.0 1.5 0.8	1
+34425	Tibetan_Xiahe	SNOW	aŋ	snow	OLD	a ŋ	2796	2796	a ŋ	7 4	XN	AN	5	5.A.V 5.N.c	1.5 0.8	1
+#
+27760	Tibetan_Xiahe	SOFT	hȵəmo	soft	OLD	h ȵ ə m o	894	894	h ȵ ə m o	3 4 7 4 7	ACXBZ	HNEMU	5	5.H.C 5.N.C 5.E.V 5.M.C 5.U.V	2.0 1.5 1.5 1.75 0.8	0
+28043	rGyalrong_Maerkang	SOFT	kənm	soft	OLD	k ə n m	573	573	k ə n m	1 7 4 4	AXLN	KENM	1	1.K.C 1.E.V 1.N.c 1.M.c	2.0 1.5 1.1 0.8	0
+28392	Tibetan_Lhasa	SOFT	ȵẽpo	soft	OLD	ȵ ẽ p o	894	894	ȵ ẽ p o	4 7 1 7	AXBZ	NEPU	4	4.N.C 4.E.V 4.P.C 4.U.V	2.0 1.5 1.75 0.8	0
+30486	Tibetan_Alike	SOFT	ɣȵenbo	soft	OLD	ɣ ȵ e n b o	894	894	ɣ ȵ e n b o	3 4 7 4 1 7	ACXMBZ	GNENPU	2	2.G.C 2.N.C 2.E.V 2.N.c 2.P.C 2.U.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+30506	Tibetan_Alike	SOFT	nambo	soft	OLD	n a m b o	573	573	n a m b o	4 7 4 1 7	AXMBZ	NAMPU	2	2.N.C 2.A.V 2.M.c 2.P.C 2.U.V	2.0 1.5 1.1 1.75 0.8	0
+35066	Tibetan_Batang	SOFT	ĩmu	soft	OLD	ĩ m u	894	894	ĩ m u	7 4 7	XBZ	IMY	3	3.I.V 3.M.C 3.Y.V	1.5 1.75 0.8	0
+#
+27477	rGyalrong_Maerkang	SON	təɑ	son	OLD	t ə ɑ	73	73	t əɑ	1 7	AX	TE	1	1.T.C 1.E.V	2.0 1.5	1
+27795	Tibetan_Lhasa	SON	u	son	OLD	u	726	726	u	7	X	Y	4	4.Y.V	1.5	1
+30340	Tibetan_Batang	SON	pu	son	OLD	p u	726	726	p u	1 7	AX	PY	3	3.P.C 3.Y.V	2.0 1.5	1
+32048	Tibetan_Xiahe	SON	ɕələ	son	OLD	ɕ ə l ə	2362	2362	ɕ ə l ə	3 7 5 7	AXBZ	SELE	5	5.S.C 5.E.V 5.L.C 5.E.V	2.0 1.5 1.75 0.8	0
+34182	Tibetan_Alike	SON	ɕələ	son	OLD	ɕ ə l ə	2362	2362	ɕ ə l ə	3 7 5 7	AXBZ	SELE	2	2.S.C 2.E.V 2.L.C 2.E.V	2.0 1.5 1.75 0.8	0
+#
+40576	Tibetan_Batang	SOW SEEDS	tɑuʔ	scatter (seeds) (verb)	OLD	t ɑ u ʔ	3578	3578	t ɑu ʔ	1 7 1	AXN	TAH	3	3.T.C 3.A.V 3.H.c	2.0 1.5 0.8	0
+40628	rGyalrong_Maerkang	SOW SEEDS	kktor	scatter (seeds) (verb)	OLD	k k t o r	3584	3584	kk t o r	1 1 7 5	ACYN	KTUR	1	1.K.C 1.T.C 1.U.V 1.R.c	2.0 1.5 1.3 0.8	0
+40659	Tibetan_Lhasa	SOW SEEDS	sɕo	scatter (seeds) (verb)	OLD	s ɕ o	3588	3588	s ɕ o	3 3 7	ACZ	SSU	4	4.S.C 4.S.C 4.U.V	2.0 1.5 0.8	0
+40672	Tibetan_Xiahe	SOW SEEDS	ndep	scatter (seeds) (verb)	OLD	n d e p	3578	3578	n d e p	4 1 7 1	ACYN	NTEP	5	5.N.C 5.T.C 5.E.V 5.P.c	2.0 1.5 1.3 0.8	0
+40705	Tibetan_Alike	SOW SEEDS	ndep	scatter (seeds) (verb)	OLD	n d e p	3578	3578	n d e p	4 1 7 1	ACYN	NTEP	2	2.N.C 2.T.C 2.E.V 2.P.c	2.0 1.5 1.3 0.8	0
+#
+27565	rGyalrong_Maerkang	SPARROW	pɑɑ	sparrow	OLD	p ɑ ɑ	3599	3599	p ɑɑ	1 7	AX	PA	1	1.P.C 1.A.V	2.0 1.5	1
+27882	Tibetan_Lhasa	SPARROW	əŋ	sparrow	OLD	ə ŋ	6021	6021	ə ŋ	7 4	XN	EN	4	4.E.V 4.N.c	1.5 0.8	0
+29509	Tibetan_Batang	SPARROW	ɕy	sparrow	OLD	ɕ y	6021	6021	ɕ y	3 7	AX	SY	3	3.S.C 3.Y.V	2.0 1.5	1
+32127	Tibetan_Xiahe	SPARROW	ɕitə	sparrow	OLD	ɕ i t ə	6021	6021	ɕ i t ə	3 7 1 7	AXBZ	SITE	5	5.S.C 5.I.V 5.T.C 5.E.V	2.0 1.5 1.75 0.8	0
+34270	Tibetan_Alike	SPARROW	wɕiə	sparrow	OLD	w ɕ i ə	6021	6021	w ɕ iə	6 3 7	ACZ	WSI	2	2.W.C 2.S.C 2.I.V	2.0 1.5 0.8	0
+#
+29531	Tibetan_Batang	SPIDER	akara	spider	OLD	a k a r a	3395	3395	a k a r a	7 1 7 5 7	XBYBZ	AKARA	3	3.A.V 3.K.C 3.A.V 3.R.C 3.A.V	1.5 1.75 1.3 1.75 0.8	0
+30321	rGyalrong_Maerkang	SPIDER	ɑʃnɑ	spider	OLD	ɑ ʃ n ɑ	1756	1756	ɑ ʃ n ɑ	7 3 4 7	XBCZ	ASNA	1	1.A.V 1.S.C 1.N.C 1.A.V	1.5 1.75 1.5 0.8	0
+32015	Tibetan_Lhasa	SPIDER	tom	spider	OLD	t o m	2348	2348	t o m	1 7 4	AXN	TUM	4	4.T.C 4.U.V 4.M.c	2.0 1.5 0.8	0
+32146	Tibetan_Xiahe	SPIDER	dom	spider	OLD	d o m	2348	2348	d o m	1 7 4	AXN	TUM	5	5.T.C 5.U.V 5.M.c	2.0 1.5 0.8	0
+34291	Tibetan_Alike	SPIDER	ngoŋŋonakrbət	spider	OLD	n g o ŋ ŋ o n a k r b ə t	3160	3160	n g o ŋŋ o n a k r b ə t	4 1 7 4 7 4 7 1 5 1 7 1	ACYBYBYBYBYN	NKUNUNAKRPET	2	2.N.C 2.K.C 2.U.V 2.N.C 2.U.V 2.N.C 2.A.V 2.K.C 2.R.V 2.P.C 2.E.V 2.T.c	2.0 1.5 1.3 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	0
+#
+28481	rGyalrong_Maerkang	SPIT	təŋɑrkʃət	spit	OLD	t ə ŋ ɑ r k ʃ ə t	1115	1115	t ə ŋ ɑ r k ʃ ə t	1 7 4 7 5 1 3 7 1	AXBYMBCYN	TENARKSET	1	1.T.C 1.E.V 1.N.C 1.A.V 1.R.c 1.K.C 1.S.C 1.E.V 1.T.c	2.0 1.5 1.75 1.3 1.1 1.75 1.5 1.3 0.8	0
+28885	Tibetan_Lhasa	SPIT	cu	spit	OLD	c u	2988	2988	c u	1 7	AX	CY	4	4.C.C 4.Y.V	2.0 1.5	1
+30460	Tibetan_Batang	SPIT	u	spit	OLD	u	2911	2911	u	7	X	Y	3	3.Y.V	1.5	1
+32919	Tibetan_Xiahe	SPIT	hen	spit	OLD	h e n	2545	2545	h e n	3 7 4	AXN	HEN	5	5.H.C 5.E.V 5.N.c	2.0 1.5 0.8	1
+35092	Tibetan_Alike	SPIT	ruk	spit	OLD	r u k	2988	2988	r u k	5 7 1	AXN	RYK	2	2.R.C 2.Y.V 2.K.c	2.0 1.5 0.8	1
+#
+28542	rGyalrong_Maerkang	STAND	kɑrjɑp	stand	OLD	k ɑ r j ɑ p	2246	2246	k ɑ r j ɑ p	1 7 5 6 7 1	AXBCYN	KARJAP	1	1.K.C 1.A.V 1.R.C 1.J.C 1.A.V 1.P.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+28978	Tibetan_Lhasa	STAND	laŋ	stand	OLD	l a ŋ	2265	2265	l a ŋ	5 7 4	AXN	LAN	4	4.L.C 4.A.V 4.N.c	2.0 1.5 0.8	0
+30534	Tibetan_Batang	STAND	lõ	stand	OLD	l õ	2265	2265	l õ	5 7	AX	LU	3	3.L.C 3.U.V	2.0 1.5	0
+32982	Tibetan_Xiahe	STAND	laŋ	stand	OLD	l a ŋ	2265	2265	l a ŋ	5 7 4	AXN	LAN	5	5.L.C 5.A.V 5.N.c	2.0 1.5 0.8	0
+35126	Tibetan_Alike	STAND	laŋ	stand	OLD	l a ŋ	2265	2265	l a ŋ	5 7 4	AXN	LAN	2	2.L.C 2.A.V 2.N.c	2.0 1.5 0.8	0
+#
+27327	rGyalrong_Maerkang	STAR	əuri	star	OLD	ə u r i	1073	1073	əu r i	7 5 7	XBZ	ERI	1	1.E.V 1.R.C 1.I.V	1.5 1.75 0.8	0
+29228	Tibetan_Batang	STAR	mama	star	OLD	m a m a	3127	3127	m a m a	4 7 4 7	AXBZ	MAMA	3	3.M.C 3.A.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	0
+30676	Tibetan_Lhasa	STAR	kma	star	OLD	k m a	78	78	k m a	1 4 7	ACX	KMA	4	4.K.C 4.M.C 4.A.V	2.0 1.5 1.5	0
+31351	Tibetan_Alike	STAR	rkarmæ	star	OLD	r k a r m æ	78	78	r k a r m æ	5 1 7 5 4 7	ACYMBZ	RKARME	2	2.R.C 2.K.C 2.A.V 2.R.c 2.M.C 2.E.V	2.0 1.5 1.3 1.1 1.75 0.8	0
+34397	Tibetan_Xiahe	STAR	hkarma	star	OLD	h k a r m a	78	78	h k a r m a	3 1 7 5 4 7	ACYMBZ	HKARMA	5	5.H.C 5.K.C 5.A.V 5.R.c 5.M.C 5.A.V	2.0 1.5 1.3 1.1 1.75 0.8	0
+#
+26316	Tibetan_Lhasa	STEAL	ku	steal	OLD	k u	10464	10464	k u	1 7	AX	KY	4	4.K.C 4.Y.V	2.0 1.5	1
+28479	rGyalrong_Maerkang	STEAL	kɑnəʃmo	steal	OLD	k ɑ n ə ʃ m o	3334	3334	k ɑ n ə ʃ m o	1 7 4 7 3 4 7	AXBYBCZ	KANESMU	1	1.K.C 1.A.V 1.N.C 1.E.V 1.S.C 1.M.C 1.U.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	0
+28883	Tibetan_Lhasa	STEAL	kuməku	steal	OLD	k u m ə k u	10464	10464	k u m ə k u	1 7 4 7 1 7	AXBYBZ	KYMEKY	4	4.K.C 4.Y.V 4.M.C 4.E.V 4.K.C 4.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+30457	Tibetan_Batang	STEAL	kujeʔ	steal	OLD	k u j e ʔ	10464	10464	k u j e ʔ	1 7 6 7 1	AXBYN	KYJEH	3	3.K.C 3.Y.V 3.J.C 3.E.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+32917	Tibetan_Xiahe	STEAL	hkə	steal	OLD	h k ə	10464	10464	h k ə	3 1 7	ACZ	HKE	5	5.H.C 5.K.C 5.E.V	2.0 1.5 0.8	0
+35090	Tibetan_Alike	STEAL	hki	steal	OLD	h k i	10464	10464	h k i	3 1 7	ACZ	HKI	2	2.H.C 2.K.C 2.I.V	2.0 1.5 0.8	0
+35091	Tibetan_Alike	STEAL	rkə	steal	OLD	r k ə	10464	10464	r k ə	5 1 7	ACZ	RKE	2	2.R.C 2.K.C 2.E.V	2.0 1.5 0.8	0
+#
+29697	Tibetan_Batang	STICK	jupɑʔ	rod / stick	OLD	j u p ɑ ʔ	1554	1554	j u p ɑ ʔ	6 7 1 7 1	AXBYN	JYPAH	3	3.J.C 3.Y.V 3.P.C 3.A.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+30251	Tibetan_Lhasa	STICK	jukpə	rod / stick	OLD	j u k p ə	1554	1554	j u k p ə	6 7 1 1 7	AXMBZ	JYKPE	4	4.J.C 4.Y.V 4.K.c 4.P.C 4.E.V	2.0 1.5 1.1 1.75 0.8	0
+31218	rGyalrong_Maerkang	STICK	tndr	rod / stick	OLD	t n d r	3340	3340	t n d r	1 4 1 5	AXBC	TNTR	1	1.T.C 1.N.V 1.T.C 1.R.C	2.0 1.5 1.75 1.5	0
+32293	Tibetan_Xiahe	STICK	ʔoo	rod / stick	OLD	ʔ o o	2432	2432	ʔ oo	1 7	AX	HU	5	5.H.C 5.U.V	2.0 1.5	0
+33372	Tibetan_Lhasa	STICK	cukpa	rod / stick	OLD	c u k p a	1554	1554	c u k p a	1 7 1 1 7	AXMBZ	CYKPA	4	4.C.C 4.Y.V 4.K.c 4.P.C 4.A.V	2.0 1.5 1.1 1.75 0.8	0
+34456	Tibetan_Alike	STICK	oo	rod / stick	OLD	o o	2432	2432	oo	7	X	U	2	2.U.V	1.5	0
+#
+40584	Tibetan_Alike	STONE	rdo	stone (noun)	OLD	r d o	3156	3156	r d o	5 1 7	ACZ	RTU	2	2.R.C 2.T.C 2.U.V	2.0 1.5 0.8	0
+40679	Tibetan_Xiahe	STONE	do	stone (noun)	OLD	d o	3156	3156	d o	1 7	AX	TU	5	5.T.C 5.U.V	2.0 1.5	0
+40680	rGyalrong_Maerkang	STONE	ɟjələk	stone (noun)	OLD	ɟ j ə l ə k	3594	3594	ɟ j ə l ə k	1 6 7 5 7 1	ACXBYN	CJELEK	1	1.C.C 1.J.C 1.E.V 1.L.C 1.E.V 1.K.c	2.0 1.5 1.5 1.75 1.3 0.8	0
+40707	Tibetan_Batang	STONE	du	stone (noun)	OLD	d u	3156	3156	d u	1 7	AX	TY	3	3.T.C 3.Y.V	2.0 1.5	0
+40711	Tibetan_Lhasa	STONE	to	stone (noun)	OLD	t o	3156	3156	t o	1 7	AX	TU	4	4.T.C 4.U.V	2.0 1.5	0
+#
+28019	rGyalrong_Maerkang	STRAIGHT	kɑsto	straight	OLD	k ɑ s t o	983	983	k ɑ s t o	1 7 3 1 7	AXMBZ	KASTU	1	1.K.C 1.A.V 1.S.c 1.T.C 1.U.V	2.0 1.5 1.1 1.75 0.8	0
+29984	Tibetan_Batang	STRAIGHT	xẽmbu	straight	OLD	x ẽ m b u	1668	1668	x ẽ m b u	3 7 4 1 7	AXMBZ	GEMPY	3	3.G.C 3.E.V 3.M.c 3.P.C 3.Y.V	2.0 1.5 1.1 1.75 0.8	0
+32102	Tibetan_Lhasa	STRAIGHT	oŋko	straight	OLD	o ŋ k o	1595	1595	o ŋ k o	7 4 1 7	XMBZ	UNKU	4	4.U.V 4.N.c 4.K.C 4.U.V	1.5 1.1 1.75 0.8	0
+34479	Tibetan_Xiahe	STRAIGHT	aŋmo	straight	OLD	a ŋ m o	1595	1595	a ŋ m o	7 4 4 7	XMBZ	ANMU	5	5.A.V 5.N.c 5.M.C 5.U.V	1.5 1.1 1.75 0.8	0
+34747	Tibetan_Alike	STRAIGHT	aŋmo	straight	OLD	a ŋ m o	1595	1595	a ŋ m o	7 4 4 7	XMBZ	ANMU	2	2.A.V 2.N.c 2.M.C 2.U.V	1.5 1.1 1.75 0.8	0
+#
+27325	rGyalrong_Maerkang	SUN	kəjɑm	sun	OLD	k ə j ɑ m	2355	2355	k ə j ɑ m	1 7 6 7 4	AXBYN	KEJAM	1	1.K.C 1.E.V 1.J.C 1.A.V 1.M.c	2.0 1.5 1.75 1.3 0.8	0
+29370	Tibetan_Batang	SUN	nɪmɑ	sun	OLD	n ɪ m ɑ	83	83	n ɪ m ɑ	4 7 4 7	AXBZ	NIMA	3	3.N.C 3.I.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	0
+30324	Tibetan_Lhasa	SUN	ȵimə	sun	OLD	ȵ i m ə	83	83	ȵ i m ə	4 7 4 7	AXBZ	NIME	4	4.N.C 4.I.V 4.M.C 4.E.V	2.0 1.5 1.75 0.8	0
+31902	Tibetan_Xiahe	SUN	ȵəma	sun	OLD	ȵ ə m a	83	83	ȵ ə m a	4 7 4 7	AXBZ	NEMA	5	5.N.C 5.E.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	0
+34040	Tibetan_Alike	SUN	ȵəmæ	sun	OLD	ȵ ə m æ	83	83	ȵ ə m æ	4 7 4 7	AXBZ	NEME	2	2.N.C 2.E.V 2.M.C 2.E.V	2.0 1.5 1.75 0.8	0
+#
+27520	rGyalrong_Maerkang	TAIL	tjmi	tail	OLD	t j m i	84	84	t j m i	1 6 4 7	AXBZ	TJMI	1	1.T.C 1.J.V 1.M.C 1.I.V	2.0 1.5 1.75 0.8	0
+27830	Tibetan_Lhasa	TAIL	ŋama	tail	OLD	ŋ a m a	914	914	ŋ a m a	4 7 4 7	AXBZ	NAMA	4	4.N.C 4.A.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	0
+27831	Tibetan_Lhasa	TAIL	ɕuku	tail	OLD	ɕ u k u	608	608	ɕ u k u	3 7 1 7	AXBZ	SYKY	4	4.S.C 4.Y.V 4.K.C 4.Y.V	2.0 1.5 1.75 0.8	0
+32198	Tibetan_Batang	TAIL	ŋama	tail	OLD	ŋ a m a	914	914	ŋ a m a	4 7 4 7	AXBZ	NAMA	3	3.N.C 3.A.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	0
+34210	Tibetan_Alike	TAIL	rŋamæ	tail	OLD	r ŋ a m æ	914	914	r ŋ a m æ	5 4 7 4 7	ACYBZ	RNAME	2	2.R.C 2.N.C 2.A.V 2.M.C 2.E.V	2.0 1.5 1.3 1.75 0.8	0
+35539	Tibetan_Xiahe	TAIL	hŋama	tail	OLD	h ŋ a m a	914	914	h ŋ a m a	3 4 7 4 7	ACXBZ	HNAMA	5	5.H.C 5.N.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.5 1.75 0.8	0
+#
+26022	Tibetan_Xiahe	TEN	əamba	ten	OLD	ə a m b a	296	296	əa m b a	7 4 1 7	XMBZ	EMPA	5	5.E.V 5.M.c 5.P.C 5.A.V	1.5 1.1 1.75 0.8	0
+27921	rGyalrong_Maerkang	TEN	ʃᴇ	ten	OLD	ʃ ᴇ	364	364	ʃ ᴇ	3 7	AX	SE	1	1.S.C 1.E.V	2.0 1.5	1
+28216	Tibetan_Lhasa	TEN	u	ten	OLD	u	296	296	u	7	X	Y	4	4.Y.V	1.5	1
+29127	Tibetan_Alike	TEN	pə	ten	OLD	p ə	296	296	p ə	1 7	AX	PE	2	2.P.C 2.E.V	2.0 1.5	0
+29860	Tibetan_Batang	TEN	u	ten	OLD	u	296	296	u	7	X	Y	3	3.Y.V	1.5	1
+#
+27986	rGyalrong_Maerkang	THAT	wutə	that	OLD	w u t ə	5244	5244	w u t ə	6 7 1 7	AXBZ	WYTE	1	1.W.C 1.Y.V 1.T.C 1.E.V	2.0 1.5 1.75 0.8	0
+28319	Tibetan_Lhasa	THAT	əki	that	OLD	ə k i	5920	5920	ə k i	7 1 7	XBZ	EKI	4	4.E.V 4.K.C 4.I.V	1.5 1.75 0.8	0
+29935	Tibetan_Batang	THAT	ede	that	OLD	e d e	2690	2690	e d e	7 1 7	XBZ	ETE	3	3.E.V 3.T.C 3.E.V	1.5 1.75 0.8	0
+32537	Tibetan_Xiahe	THAT	kan	that	OLD	k a n	5919	5919	k a n	1 7 4	AXN	KAN	5	5.K.C 5.A.V 5.N.c	2.0 1.5 0.8	0
+34043	Tibetan_Alike	THAT	kannæ	that	OLD	k a n n æ	5919	5919	k a nn æ	1 7 4 7	AXBZ	KANE	2	2.K.C 2.A.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	0
+#
+27988	rGyalrong_Maerkang	THERE	wutəi	there	OLD	w u t ə i	4019	4019	w u t əi	6 7 1 7	AXBZ	WYTE	1	1.W.C 1.Y.V 1.T.C 1.E.V	2.0 1.5 1.75 0.8	0
+28321	Tibetan_Lhasa	THERE	t	there	OLD	t	2704	2704	t	1	A	T	4	4.T.C	2.0	1
+32540	Tibetan_Xiahe	THERE	kanna	there	OLD	k a n n a	5921	5921	k a nn a	1 7 4 7	AXBZ	KANA	5	5.K.C 5.A.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	0
+34708	Tibetan_Alike	THERE	kaŋ	there	OLD	k a ŋ	5921	5921	k a ŋ	1 7 4	AXN	KAN	2	2.K.C 2.A.V 2.N.c	2.0 1.5 0.8	1
+35577	Tibetan_Batang	THERE	eɑ	there	OLD	e ɑ	5922	5922	eɑ	7	X	E	3	3.E.V	1.5	0
+#
+28008	rGyalrong_Maerkang	THICK	kəjɑk	thick	OLD	k ə j ɑ k	977	977	k ə j ɑ k	1 7 6 7 1	AXBYN	KEJAK	1	1.K.C 1.E.V 1.J.C 1.A.V 1.K.c	2.0 1.5 1.75 1.3 0.8	0
+29966	Tibetan_Batang	THICK	upu	thick	OLD	u p u	2146	2146	u p u	7 1 7	XBZ	YPY	3	3.Y.V 3.P.C 3.Y.V	1.5 1.75 0.8	0
+31362	Tibetan_Lhasa	THICK	pu	thick	OLD	p u	2146	2146	p u	1 7	AX	PY	4	4.P.C 4.Y.V	2.0 1.5	1
+32564	Tibetan_Xiahe	THICK	əχkwo	thick	OLD	ə χ k w o	2146	2146	ə χ k w o	7 3 1 6 7	XMBCZ	EGKWU	5	5.E.V 5.G.c 5.K.C 5.W.C 5.U.V	1.5 1.1 1.75 1.5 0.8	0
+34731	Tibetan_Alike	THICK	tokpo	thick	OLD	t o k p o	2146	2146	t o k p o	1 7 1 1 7	AXMBZ	TUKPU	2	2.T.C 2.U.V 2.K.c 2.P.C 2.U.V	2.0 1.5 1.1 1.75 0.8	0
+#
+26168	Tibetan_Alike	THIGH	wla	thigh	OLD	w l a	865	865	w l a	6 5 7	ACZ	WLA	2	2.W.C 2.L.C 2.A.V	2.0 1.5 0.8	0
+27397	rGyalrong_Maerkang	THIGH	təəkpɑ	thigh	OLD	t ə ə k p ɑ	699	699	t əə k p ɑ	1 7 1 1 7	AXMBZ	TEKPA	1	1.T.C 1.E.V 1.K.c 1.P.C 1.A.V	2.0 1.5 1.1 1.75 0.8	0
+27694	Tibetan_Lhasa	THIGH	lɛɕa	thigh	OLD	l ɛ ɕ a	865	865	l ɛ ɕ a	5 7 3 7	AXBZ	LESA	4	4.L.C 4.E.V 4.S.C 4.A.V	2.0 1.5 1.75 0.8	0
+29311	Tibetan_Batang	THIGH	lɑkeiʔ	thigh	OLD	l ɑ k e i ʔ	865	865	l ɑ k ei ʔ	5 7 1 7 1	AXBYN	LAKEH	3	3.L.C 3.A.V 3.K.C 3.E.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+31970	Tibetan_Xiahe	THIGH	la	thigh	OLD	l a	865	865	l a	5 7	AX	LA	5	5.L.C 5.A.V	2.0 1.5	0
+#
+40562	Tibetan_Alike	THIN (OF SHAPE OF OBJECT)	ʂawə	thin	OLD	ʂ a w ə	3192	3192	ʂ a w ə	3 7 6 7	AXBZ	SAWE	2	2.S.C 2.A.V 2.W.C 2.E.V	2.0 1.5 1.75 0.8	0
+40586	rGyalrong_Maerkang	THIN (OF SHAPE OF OBJECT)	kəmbɑ	thin	OLD	k ə m b ɑ	3196	3196	k ə m b ɑ	1 7 4 1 7	AXMBZ	KEMPA	1	1.K.C 1.E.V 1.M.c 1.P.C 1.A.V	2.0 1.5 1.1 1.75 0.8	0
+40587	Tibetan_Lhasa	THIN (OF SHAPE OF OBJECT)	əpu	thin	OLD	ə p u	3192	3192	ə p u	7 1 7	XBZ	EPY	4	4.E.V 4.P.C 4.Y.V	1.5 1.75 0.8	1
+40634	Tibetan_Batang	THIN (OF SHAPE OF OBJECT)	sɑu	thin	OLD	s ɑ u	3192	3192	s ɑu	3 7	AX	SA	3	3.S.C 3.A.V	2.0 1.5	0
+40637	Tibetan_Batang	THIN (OF SHAPE OF OBJECT)	sɑuɣu	thin	OLD	s ɑ u ɣ u	3192	3192	s ɑu ɣ u	3 7 3 7	AXBZ	SAGY	3	3.S.C 3.A.V 3.G.C 3.Y.V	2.0 1.5 1.75 0.8	0
+40660	Tibetan_Xiahe	THIN (OF SHAPE OF OBJECT)	ʂapwə	thin	OLD	ʂ a p w ə	3192	3192	ʂ a p w ə	3 7 1 6 7	AXBCZ	SAPWE	5	5.S.C 5.A.V 5.P.C 5.W.C 5.E.V	2.0 1.5 1.75 1.5 0.8	0
+#
+27434	Tibetan_Lhasa	THINK (REFLECT)	sam	think	OLD	s a m	2500	2500	s a m	3 7 4	AXN	SAM	4	4.S.C 4.A.V 4.M.c	2.0 1.5 0.8	0
+28511	rGyalrong_Maerkang	THINK (REFLECT)	səmmnotkɑpɑ	think	OLD	s ə m m n o t k ɑ p ɑ	2500	2500	s ə mm n o t k ɑ p ɑ	3 7 4 4 7 1 1 7 1 7	AXMBYMBYBZ	SEMNUTKAPA	1	1.S.C 1.E.V 1.M.c 1.N.C 1.U.V 1.T.c 1.K.C 1.A.V 1.P.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 0.8	0
+28512	rGyalrong_Maerkang	THINK (REFLECT)	səsokɑpɑ	think	OLD	s ə s o k ɑ p ɑ	10586	10586	s ə s o k ɑ p ɑ	3 7 3 7 1 7 1 7	AXBYBYBZ	SESUKAPA	1	1.S.C 1.E.V 1.S.C 1.U.V 1.K.C 1.A.V 1.P.C 1.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	0
+28924	Tibetan_Lhasa	THINK (REFLECT)	samlotaŋ	think	OLD	s a m l o t a ŋ	2500	2500	s a m l o t a ŋ	3 7 4 5 7 1 7 4	AXBCYBYN	SAMLUTAN	4	4.S.C 4.A.V 4.M.C 4.L.C 4.U.V 4.T.C 4.A.V 4.N.c	2.0 1.5 1.75 1.5 1.3 1.75 1.3 0.8	0
+30488	Tibetan_Batang	THINK (REFLECT)	slutõ	think	OLD	s l u t õ	2500	2500	s l u t õ	3 5 7 1 7	ACXBZ	SLYTU	3	3.S.C 3.L.C 3.Y.V 3.T.C 3.U.V	2.0 1.5 1.5 1.75 0.8	0
+35104	Tibetan_Alike	THINK (REFLECT)	wsamloptaŋ	think	OLD	w s a m l o p t a ŋ	2500	2500	w s a m l o p t a ŋ	6 3 7 4 5 7 1 1 7 4	ACYBCYMBYN	WSAMLUPTAN	2	2.W.C 2.S.C 2.A.V 2.M.C 2.L.C 2.U.V 2.P.c 2.T.C 2.A.V 2.N.c	2.0 1.5 1.3 1.75 1.5 1.3 1.1 1.75 1.3 0.8	0
+35234	Tibetan_Xiahe	THINK (REFLECT)	aŋap	think	OLD	a ŋ a p	3023	3023	a ŋ a p	7 4 7 1	XBYN	ANAP	5	5.A.V 5.N.C 5.A.V 5.P.c	1.5 1.75 1.3 0.8	0
+#
+27982	rGyalrong_Maerkang	THIS	ʃtə	this	OLD	ʃ t ə	4022	4022	ʃ t ə	3 1 7	ACZ	STE	1	1.S.C 1.T.C 1.E.V	2.0 1.5 0.8	0
+28312	Tibetan_Lhasa	THIS	ti	this	OLD	t i	5928	5928	t i	1 7	AX	TI	4	4.T.C 4.I.V	2.0 1.5	0
+32533	Tibetan_Xiahe	THIS	ndə	this	OLD	n d ə	5928	5928	n d ə	4 1 7	ACZ	NTE	5	5.N.C 5.T.C 5.E.V	2.0 1.5 0.8	0
+33286	Tibetan_Batang	THIS	ʔede	this	OLD	ʔ e d e	5928	5928	ʔ e d e	1 7 1 7	AXBZ	HETE	3	3.H.C 3.E.V 3.T.C 3.E.V	2.0 1.5 1.75 0.8	0
+34701	Tibetan_Alike	THIS	ndə	this	OLD	n d ə	5928	5928	n d ə	4 1 7	ACZ	NTE	2	2.N.C 2.T.C 2.E.V	2.0 1.5 0.8	0
+#
+26120	Tibetan_Lhasa	THOU	eraŋ	you	OLD	e r a ŋ	2471	2471	e r a ŋ	7 5 7 4	XBYN	ERAN	4	4.E.V 4.R.C 4.A.V 4.N.c	1.5 1.75 1.3 0.8	0
+27974	rGyalrong_Maerkang	THOU	no	you	OLD	n o	10475	10475	n o	4 7	AX	NU	1	1.N.C 1.U.V	2.0 1.5	0
+29923	Tibetan_Batang	THOU	hʔ	you	OLD	h ʔ	2471	2471	h ʔ	3 1	AN	HH	3	3.H.C 3.H.c	2.0 0.8	0
+32527	Tibetan_Xiahe	THOU	o	you	OLD	o	2471	2471	o	7	X	U	5	5.U.V	1.5	1
+34696	Tibetan_Alike	THOU	o	you	OLD	o	2471	2471	o	7	X	U	2	2.U.V	1.5	1
+#
+29853	Tibetan_Batang	THREE	s	three	OLD	s	283	283	s	3	A	S	3	3.S.C	2.0	1
+32064	rGyalrong_Maerkang	THREE	kəsɑm	three	OLD	k ə s ɑ m	283	283	k ə s ɑ m	1 7 3 7 4	AXBYN	KESAM	1	1.K.C 1.E.V 1.S.C 1.A.V 1.M.c	2.0 1.5 1.75 1.3 0.8	0
+32445	Tibetan_Xiahe	THREE	hsəm	three	OLD	h s ə m	283	283	h s ə m	3 3 7 4	ACYN	HSEM	5	5.H.C 5.S.C 5.E.V 5.M.c	2.0 1.5 1.3 0.8	0
+34038	Tibetan_Lhasa	THREE	sum	three	OLD	s u m	283	283	s u m	3 7 4	AXN	SYM	4	4.S.C 4.Y.V 4.M.c	2.0 1.5 0.8	0
+34610	Tibetan_Alike	THREE	ɣsəm	three	OLD	ɣ s ə m	283	283	ɣ s ə m	3 3 7 4	ACYN	GSEM	2	2.G.C 2.S.C 2.E.V 2.M.c	2.0 1.5 1.3 0.8	0
+#
+27247	Tibetan_Lhasa	THROW	ju	throw / hurl	OLD	j u	928	928	j u	6 7	AX	JY	4	4.J.C 4.Y.V	2.0 1.5	0
+28480	rGyalrong_Maerkang	THROW	knstəm	throw / hurl	OLD	k n s t ə m	3336	3336	k n s t ə m	1 4 3 1 7 4	AXMBYN	KNSTEM	1	1.K.C 1.N.V 1.S.c 1.T.C 1.E.V 1.M.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+30458	Tibetan_Batang	THROW	õ	throw / hurl	OLD	õ	2906	2906	õ	7	X	U	3	3.U.V	1.5	0
+30459	Tibetan_Batang	THROW	ʑuʔ	throw / hurl	OLD	ʑ u ʔ	928	928	ʑ u ʔ	3 7 1	AXN	SYH	3	3.S.C 3.Y.V 3.H.c	2.0 1.5 0.8	0
+32918	Tibetan_Xiahe	THROW	hen	throw / hurl	OLD	h e n	873	873	h e n	3 7 4	AXN	HEN	5	5.H.C 5.E.V 5.N.c	2.0 1.5 0.8	1
+#
+27330	rGyalrong_Maerkang	THUNDER	tɑrmok	thunder	OLD	t ɑ r m o k	90	90	t ɑ r m o k	1 7 5 4 7 1	AXMBYN	TARMUK	1	1.T.C 1.A.V 1.R.c 1.M.C 1.U.V 1.K.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+29231	Tibetan_Batang	THUNDER	uʔ	thunder	OLD	u ʔ	133	133	u ʔ	7 1	XN	YH	3	3.Y.V 3.H.c	1.5 0.8	1
+31908	Tibetan_Xiahe	THUNDER	əχ	thunder	OLD	ə χ	133	133	ə χ	7 3	XN	EG	5	5.E.V 5.G.c	1.5 0.8	1
+32255	Tibetan_Lhasa	THUNDER	u	thunder	OLD	u	133	133	u	7	X	Y	4	4.Y.V	1.5	1
+34045	Tibetan_Alike	THUNDER	nuk	thunder	OLD	n u k	133	133	n u k	4 7 1	AXN	NYK	2	2.N.C 2.Y.V 2.K.c	2.0 1.5 0.8	0
+#
+27545	rGyalrong_Maerkang	TIGER	uŋ	tiger	OLD	u ŋ	2645	2645	u ŋ	7 4	XN	YN	1	1.Y.V 1.N.c	1.5 0.8	0
+27860	Tibetan_Lhasa	TIGER	ta	tiger	OLD	t a	1105	1105	t a	1 7	AX	TA	4	4.T.C 4.A.V	2.0 1.5	1
+32103	Tibetan_Xiahe	TIGER	htaχ	tiger	OLD	h t a χ	1105	1105	h t a χ	3 1 7 3	ACYN	HTAG	5	5.H.C 5.T.C 5.A.V 5.G.c	2.0 1.5 1.3 0.8	0
+32941	Tibetan_Batang	TIGER	tɑʔ	tiger	OLD	t ɑ ʔ	1105	1105	t ɑ ʔ	1 7 1	AXN	TAH	3	3.T.C 3.A.V 3.H.c	2.0 1.5 0.8	0
+34241	Tibetan_Alike	TIGER	rtak	tiger	OLD	r t a k	1105	1105	r t a k	5 1 7 1	ACYN	RTAK	2	2.R.C 2.T.C 2.A.V 2.K.c	2.0 1.5 1.3 0.8	0
+#
+27867	rGyalrong_Maerkang	TODAY	məsni	today	OLD	m ə s n i	1313	1313	m ə s n i	4 7 3 4 7	AXBCZ	MESNI	1	1.M.C 1.E.V 1.S.C 1.N.C 1.I.V	2.0 1.5 1.75 1.5 0.8	0
+28160	Tibetan_Lhasa	TODAY	əri	today	OLD	ə r i	2389	2389	ə r i	7 5 7	XBZ	ERI	4	4.E.V 4.R.C 4.I.V	1.5 1.75 0.8	0
+29815	Tibetan_Batang	TODAY	ari	today	OLD	a r i	2270	2270	a r i	7 5 7	XBZ	ARI	3	3.A.V 3.R.C 3.I.V	1.5 1.75 0.8	0
+32406	Tibetan_Xiahe	TODAY	teraŋ	today	OLD	t e r a ŋ	2389	2389	t e r a ŋ	1 7 5 7 4	AXBYN	TERAN	5	5.T.C 5.E.V 5.R.C 5.A.V 5.N.c	2.0 1.5 1.75 1.3 0.8	0
+34564	Tibetan_Alike	TODAY	teraŋ	today	OLD	t e r a ŋ	2389	2389	t e r a ŋ	1 7 5 7 4	AXBYN	TERAN	2	2.T.C 2.E.V 2.R.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	0
+#
+27870	rGyalrong_Maerkang	TOMORROW	sosni	tomorrow	OLD	s o s n i	2832	2832	s o s n i	3 7 3 4 7	AXBCZ	SUSNI	1	1.S.C 1.U.V 1.S.C 1.N.C 1.I.V	2.0 1.5 1.75 1.5 0.8	0
+28163	Tibetan_Lhasa	TOMORROW	səŋȵĩ	tomorrow	OLD	s ə ŋ ȵ ĩ	2832	2832	s ə ŋ ȵ ĩ	3 7 4 4 7	AXMBZ	SENNI	4	4.S.C 4.E.V 4.N.c 4.N.C 4.I.V	2.0 1.5 1.1 1.75 0.8	0
+28837	Tibetan_Alike	TOMORROW	naŋrka	tomorrow	OLD	n a ŋ r k a	2456	2456	n a ŋ r k a	4 7 4 5 1 7	AXBYBZ	NANRKA	2	2.N.C 2.A.V 2.N.C 2.R.V 2.K.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	0
+29817	Tibetan_Batang	TOMORROW	sõŋȵĩ	tomorrow	OLD	s õ ŋ ȵ ĩ	2832	2832	s õ ŋ ȵ ĩ	3 7 4 4 7	AXMBZ	SUNNI	3	3.S.C 3.U.V 3.N.c 3.N.C 3.I.V	2.0 1.5 1.1 1.75 0.8	0
+32409	Tibetan_Xiahe	TOMORROW	naŋhka	tomorrow	OLD	n a ŋ h k a	2456	2456	n a ŋ h k a	4 7 4 3 1 7	AXLMBZ	NANHKA	5	5.N.C 5.A.V 5.N.c 5.H.c 5.K.C 5.A.V	2.0 1.5 1.1 1.1 1.75 0.8	0
+#
+26239	Tibetan_Lhasa	TONGUE	e	tongue	OLD	e	4190	4190	e	7	X	E	4	4.E.V	1.5	1
+27422	rGyalrong_Maerkang	TONGUE	təʃmᴇ	tongue	OLD	t ə ʃ m ᴇ	3784	3784	t ə ʃ m ᴇ	1 7 3 4 7	AXBCZ	TESME	1	1.T.C 1.E.V 1.S.C 1.M.C 1.E.V	2.0 1.5 1.75 1.5 0.8	0
+27730	Tibetan_Lhasa	TONGUE	ele	tongue	OLD	e l e	4190	4190	e l e	7 5 7	XBZ	ELE	4	4.E.V 4.L.C 4.E.V	1.5 1.75 0.8	0
+29341	Tibetan_Batang	TONGUE	ele	tongue	OLD	e l e	4190	4190	e l e	7 5 7	XBZ	ELE	3	3.E.V 3.L.C 3.E.V	1.5 1.75 0.8	0
+31997	Tibetan_Xiahe	TONGUE	he	tongue	OLD	h e	4190	4190	h e	3 7	AX	HE	5	5.H.C 5.E.V	2.0 1.5	0
+34130	Tibetan_Alike	TONGUE	ri	tongue	OLD	r i	4190	4190	r i	5 7	AX	RI	2	2.R.C 2.I.V	2.0 1.5	0
+#
+29339	Tibetan_Batang	TOOTH	su	tooth	OLD	s u	10482	10482	s u	3 7	AX	SY	3	3.S.C 3.Y.V	2.0 1.5	0
+29355	rGyalrong_Maerkang	TOOTH	təswɑ	tooth	OLD	t ə s w ɑ	10482	10482	t ə s w ɑ	1 7 3 6 7	AXBCZ	TESWA	1	1.T.C 1.E.V 1.S.C 1.W.C 1.A.V	2.0 1.5 1.75 1.5 0.8	0
+31995	Tibetan_Xiahe	TOOTH	o	tooth	OLD	o	10482	10482	o	7	X	U	5	5.U.V	1.5	1
+33787	Tibetan_Lhasa	TOOTH	so	tooth	OLD	s o	10482	10482	s o	3 7	AX	SU	4	4.S.C 4.U.V	2.0 1.5	0
+34128	Tibetan_Alike	TOOTH	o	tooth	OLD	o	10482	10482	o	7	X	U	2	2.U.V	1.5	0
+#
+30361	rGyalrong_Maerkang	TREE	ʃəu	tree	OLD	ʃ ə u	3396	3396	ʃ əu	3 7	AX	SE	1	1.S.C 1.E.V	2.0 1.5	0
+31015	Tibetan_Batang	TREE	xĩũ	tree	OLD	x ĩ ũ	3396	3396	x ĩũ	3 7	AX	GI	3	3.G.C 3.I.V	2.0 1.5	0
+32153	Tibetan_Xiahe	TREE	doŋwo	tree	OLD	d o ŋ w o	134	134	d o ŋ w o	1 7 4 6 7	AXBCZ	TUNWU	5	5.T.C 5.U.V 5.N.C 5.W.C 5.U.V	2.0 1.5 1.75 1.5 0.8	0
+32760	Tibetan_Lhasa	TREE	ɕiŋtuŋ	tree	OLD	ɕ i ŋ t u ŋ	3396	3396	ɕ i ŋ t u ŋ	3 7 4 1 7 4	AXMBYN	SINTYN	4	4.S.C 4.I.V 4.N.c 4.T.C 4.Y.V 4.N.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+34300	Tibetan_Alike	TREE	ɣdoŋŋo	tree	OLD	ɣ d o ŋ ŋ o	134	134	ɣ d o ŋŋ o	3 1 7 4 7	ACYBZ	GTUNU	2	2.G.C 2.T.C 2.U.V 2.N.C 2.U.V	2.0 1.5 1.3 1.75 0.8	0
+#
+27925	rGyalrong_Maerkang	TWENTY	kənəsʃᴇ	twenty	OLD	k ə n ə s ʃ ᴇ	2812	2812	k ə n ə s ʃ ᴇ	1 7 4 7 3 3 7	AXBYMBZ	KENESSE	1	1.K.C 1.E.V 1.N.C 1.E.V 1.S.c 1.S.C 1.E.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	0
+29864	Tibetan_Batang	TWENTY	ȵɪu	twenty	OLD	ȵ ɪ u	2812	2812	ȵ ɪu	4 7	AX	NI	3	3.N.C 3.I.V	2.0 1.5	0
+32457	Tibetan_Xiahe	TWENTY	ȵuə	twenty	OLD	ȵ u ə	2812	2812	ȵ uə	4 7	AX	NY	5	5.N.C 5.Y.V	2.0 1.5	0
+34106	Tibetan_Lhasa	TWENTY	ȵiɕu	twenty	OLD	ȵ i ɕ u	2812	2812	ȵ i ɕ u	4 7 3 7	AXBZ	NISY	4	4.N.C 4.I.V 4.S.C 4.Y.V	2.0 1.5 1.75 0.8	0
+34623	Tibetan_Alike	TWENTY	ȵuxə	twenty	OLD	ȵ u x ə	2812	2812	ȵ u x ə	4 7 3 7	AXBZ	NYGE	2	2.N.C 2.Y.V 2.G.C 2.E.V	2.0 1.5 1.75 0.8	0
+#
+26778	Tibetan_Xiahe	TWO	hȵi	two	OLD	h ȵ i	102	102	h ȵ i	3 4 7	ACX	HNI	5	5.H.C 5.N.C 5.I.V	2.0 1.5 1.5	0
+27913	rGyalrong_Maerkang	TWO	kənᴇs	two	OLD	k ə n ᴇ s	102	102	k ə n ᴇ s	1 7 4 7 3	AXBYN	KENES	1	1.K.C 1.E.V 1.N.C 1.E.V 1.S.c	2.0 1.5 1.75 1.3 0.8	0
+28208	Tibetan_Lhasa	TWO	ȵ	two	OLD	ȵ	102	102	ȵ	4	A	N	4	4.N.C	2.0	0
+32714	Tibetan_Batang	TWO	ȵi	two	OLD	ȵ i	102	102	ȵ i	4 7	AX	NI	3	3.N.C 3.I.V	2.0 1.5	0
+34609	Tibetan_Alike	TWO	ɣȵi	two	OLD	ɣ ȵ i	102	102	ɣ ȵ i	3 4 7	ACX	GNI	2	2.G.C 2.N.C 2.I.V	2.0 1.5 1.5	0
+#
+28382	rGyalrong_Maerkang	VOMIT	kməmt	throw up / vomit	OLD	k m ə m t	736	736	k m ə m t	1 4 7 4 1	ACXLN	KMEMT	1	1.K.C 1.M.C 1.E.V 1.M.c 1.T.c	2.0 1.5 1.5 1.1 0.8	0
+28752	Tibetan_Lhasa	VOMIT	cu	throw up / vomit	OLD	c u	10483	10483	c u	1 7	AX	CY	4	4.C.C 4.Y.V	2.0 1.5	1
+30364	Tibetan_Batang	VOMIT	ɕuʔ	throw up / vomit	OLD	ɕ u ʔ	10483	10483	ɕ u ʔ	3 7 1	AXN	SYH	3	3.S.C 3.Y.V 3.H.c	2.0 1.5 0.8	0
+32836	Tibetan_Xiahe	VOMIT	həχ	throw up / vomit	OLD	h ə χ	10483	10483	h ə χ	3 7 3	AXN	HEG	5	5.H.C 5.E.V 5.G.c	2.0 1.5 0.8	1
+35014	Tibetan_Alike	VOMIT	bək	throw up / vomit	OLD	b ə k	10483	10483	b ə k	1 7 1	AXN	PEK	2	2.P.C 2.E.V 2.K.c	2.0 1.5 0.8	0
+#
+27908	Tibetan_Lhasa	WALK	o	walk	OLD	o	3003	3003	o	7	X	U	4	4.U.V	1.5	1
+28557	rGyalrong_Maerkang	WALK	kɑpᴇ	walk	OLD	k ɑ p ᴇ	3785	3785	k ɑ p ᴇ	1 7 1 7	AXBZ	KAPE	1	1.K.C 1.A.V 1.P.C 1.E.V	2.0 1.5 1.75 0.8	0
+30559	Tibetan_Batang	WALK	o	walk	OLD	o	3003	3003	o	7	X	U	3	3.U.V	1.5	1
+30602	Tibetan_Xiahe	WALK	o	walk	OLD	o	3003	3003	o	7	X	U	5	5.U.V	1.5	1
+32313	Tibetan_Lhasa	WALK	e	walk	OLD	e	2439	2439	e	7	X	E	4	4.E.V	1.5	1
+35133	Tibetan_Alike	WALK	nɟjo	walk	OLD	n ɟ j o	3003	3003	n ɟ j o	4 1 6 7	ACCZ	NCJU	2	2.N.C 2.C.C 2.J.C 2.U.V	2.0 1.5 1.5 0.8	0
+35293	Tibetan_Batang	WALK	ɛʔ	walk	OLD	ɛ ʔ	3041	3041	ɛ ʔ	7 1	XN	EH	3	3.E.V 3.H.c	1.5 0.8	1
+#
+27361	rGyalrong_Maerkang	WATER	təi	water	OLD	t ə i	3374	3374	t əi	1 7	AX	TE	1	1.T.C 1.E.V	2.0 1.5	1
+30542	Tibetan_Lhasa	WATER	u	water	OLD	u	2787	2787	u	7	X	Y	4	4.Y.V	1.5	1
+31939	Tibetan_Xiahe	WATER	ə	water	OLD	ə	2787	2787	ə	7	X	E	5	5.E.V	1.5	1
+32177	Tibetan_Batang	WATER	u	water	OLD	u	2787	2787	u	7	X	Y	3	3.Y.V	1.5	1
+34072	Tibetan_Alike	WATER	ə	water	OLD	ə	2787	2787	ə	7	X	E	2	2.E.V	1.5	1
+#
+27973	rGyalrong_Maerkang	WE (INCLUSIVE)	ŋəȵᴇ	we	OLD	ŋ ə ȵ ᴇ	4027	4027	ŋ ə ȵ ᴇ	4 7 4 7	AXBZ	NENE	1	1.N.C 1.E.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	0
+32526	Tibetan_Xiahe	WE (INCLUSIVE)	ʔoo	we	OLD	ʔ o o	5946	5946	ʔ oo	1 7	AX	HU	5	5.H.C 5.U.V	2.0 1.5	1
+34589	Tibetan_Lhasa	WE (INCLUSIVE)	ŋão	we	OLD	ŋ ã o	5947	5947	ŋ ão	4 7	AX	NA	4	4.N.C 4.A.V	2.0 1.5	0
+34695	Tibetan_Alike	WE (INCLUSIVE)	ŋəo	we	OLD	ŋ ə o	5947	5947	ŋ əo	4 7	AX	NE	2	2.N.C 2.E.V	2.0 1.5	0
+35131	Tibetan_Batang	WE (INCLUSIVE)	ŋy	we	OLD	ŋ y	5948	5948	ŋ y	4 7	AX	NY	3	3.N.C 3.Y.V	2.0 1.5	0
+#
+26374	Tibetan_Batang	WET	lẽmba	wet	OLD	l ẽ m b a	2479	2479	l ẽ m b a	5 7 4 1 7	AXMBZ	LEMPA	3	3.L.C 3.E.V 3.M.c 3.P.C 3.A.V	2.0 1.5 1.1 1.75 0.8	0
+28386	Tibetan_Lhasa	WET	lpo	wet	OLD	l p o	2479	2479	l p o	5 1 7	ACZ	LPU	4	4.L.C 4.P.C 4.U.V	2.0 1.5 0.8	0
+32593	Tibetan_Xiahe	WET	hlomba	wet	OLD	h l o m b a	2479	2479	h l o m b a	3 5 7 4 1 7	ACXMBZ	HLUMPA	5	5.H.C 5.L.C 5.U.V 5.M.c 5.P.C 5.A.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+32925	rGyalrong_Maerkang	WET	kəʃit	wet	OLD	k ə ʃ i t	2547	2547	k ə ʃ i t	1 7 3 7 1	AXBYN	KESIT	1	1.K.C 1.E.V 1.S.C 1.I.V 1.T.c	2.0 1.5 1.75 1.3 0.8	0
+34766	Tibetan_Alike	WET	ɣlonbæ	wet	OLD	ɣ l o n b æ	2479	2479	ɣ l o n b æ	3 5 7 4 1 7	ACXMBZ	GLUNPE	2	2.G.C 2.L.C 2.U.V 2.N.c 2.P.C 2.E.V	2.0 1.5 1.5 1.1 1.75 0.8	0
+#
+27991	rGyalrong_Maerkang	WHAT	ə	what	OLD	ə	5949	5949	ə	7	X	E	1	1.E.V	1.5	0
+28325	Tibetan_Lhasa	WHAT	are	what	OLD	a r e	5950	5950	a r e	7 5 7	XBZ	ARE	4	4.A.V 4.R.C 4.E.V	1.5 1.75 0.8	0
+29941	Tibetan_Batang	WHAT	ɪ	what	OLD	ɪ	5949	5949	ɪ	7	X	I	3	3.I.V	1.5	1
+32543	Tibetan_Xiahe	WHAT	əzəχ	what	OLD	ə z ə χ	5949	5949	ə z ə χ	7 3 7 3	XBYN	ESEG	5	5.E.V 5.S.C 5.E.V 5.G.c	1.5 1.75 1.3 0.8	0
+34711	Tibetan_Alike	WHAT	əzuk	what	OLD	ə z u k	5949	5949	ə z u k	7 3 7 1	XBYN	ESYK	2	2.E.V 2.S.C 2.Y.V 2.K.c	1.5 1.75 1.3 0.8	0
+#
+27469	Tibetan_Alike	WHEAT	o	wheat	OLD	o	3237	3237	o	7	X	U	2	2.U.V	1.5	1
+27935	Tibetan_Lhasa	WHEAT	o	wheat	OLD	o	3237	3237	o	7	X	U	4	4.U.V	1.5	1
+29568	Tibetan_Batang	WHEAT	o	wheat	OLD	o	3237	3237	o	7	X	U	3	3.U.V	1.5	0
+31239	rGyalrong_Maerkang	WHEAT	ti	wheat	OLD	t i	4036	4036	t i	1 7	AX	TI	1	1.T.C 1.I.V	2.0 1.5	0
+32184	Tibetan_Xiahe	WHEAT	o	wheat	OLD	o	3237	3237	o	7	X	U	5	5.U.V	1.5	1
+#
+27992	rGyalrong_Maerkang	WHERE	kətəi	where	OLD	k ə t ə i	4028	4028	k ə t əi	1 7 1 7	AXBZ	KETE	1	1.K.C 1.E.V 1.T.C 1.E.V	2.0 1.5 1.75 0.8	0
+29942	Tibetan_Batang	WHERE	kɑ	where	OLD	k ɑ	5951	5951	k ɑ	1 7	AX	KA	3	3.K.C 3.A.V	2.0 1.5	0
+32544	Tibetan_Xiahe	WHERE	kaŋna	where	OLD	k a ŋ n a	5951	5951	k a ŋ n a	1 7 4 4 7	AXMBZ	KANNA	5	5.K.C 5.A.V 5.N.c 5.N.C 5.A.V	2.0 1.5 1.1 1.75 0.8	0
+34702	Tibetan_Lhasa	WHERE	ap	where	OLD	a p	5951	5951	a p	7 1	XN	AP	4	4.A.V 4.P.c	1.5 0.8	0
+34712	Tibetan_Alike	WHERE	kaŋnæ	where	OLD	k a ŋ n æ	5951	5951	k a ŋ n æ	1 7 4 4 7	AXMBZ	KANNE	2	2.K.C 2.A.V 2.N.c 2.N.C 2.E.V	2.0 1.5 1.1 1.75 0.8	0
+#
+28364	Tibetan_Lhasa	WHITE	kpo	white	OLD	k p o	2478	2478	k p o	1 1 7	ACZ	KPU	4	4.K.C 4.P.C 4.U.V	2.0 1.5 0.8	0
+30271	Tibetan_Batang	WHITE	kɑka	white	OLD	k ɑ k a	2478	2478	k ɑ k a	1 7 1 7	AXBZ	KAKA	3	3.K.C 3.A.V 3.K.C 3.A.V	2.0 1.5 1.75 0.8	0
+32460	rGyalrong_Maerkang	WHITE	kəprɑm	white	OLD	k ə p r ɑ m	10173	10173	k ə p r ɑ m	1 7 1 5 7 4	AXBCYN	KEPRAM	1	1.K.C 1.E.V 1.P.C 1.R.C 1.A.V 1.M.c	2.0 1.5 1.75 1.5 1.3 0.8	0
+32579	Tibetan_Xiahe	WHITE	karo	white	OLD	k a r o	2478	2478	k a r o	1 7 5 7	AXBZ	KARU	5	5.K.C 5.A.V 5.R.C 5.U.V	2.0 1.5 1.75 0.8	0
+34750	Tibetan_Alike	WHITE	karo	white	OLD	k a r o	2478	2478	k a r o	1 7 5 7	AXBZ	KARU	2	2.K.C 2.A.V 2.R.C 2.U.V	2.0 1.5 1.75 0.8	0
+#
+27990	rGyalrong_Maerkang	WHO	sə	who	OLD	s ə	2253	2253	s ə	3 7	AX	SE	1	1.S.C 1.E.V	2.0 1.5	0
+32542	Tibetan_Xiahe	WHO	ə	who	OLD	ə	2253	2253	ə	7	X	E	5	5.E.V	1.5	1
+34190	Tibetan_Lhasa	WHO	su	who	OLD	s u	2253	2253	s u	3 7	AX	SY	4	4.S.C 4.Y.V	2.0 1.5	1
+34710	Tibetan_Alike	WHO	sə	who	OLD	s ə	2253	2253	s ə	3 7	AX	SE	2	2.S.C 2.E.V	2.0 1.5	0
+35619	Tibetan_Batang	WHO	su	who	OLD	s u	2253	2253	s u	3 7	AX	SY	3	3.S.C 3.Y.V	2.0 1.5	1
+#
+27502	rGyalrong_Maerkang	WIFE	tɑrɟjɑp	wife	OLD	t ɑ r ɟ j ɑ p	2935	2935	t ɑ r ɟ j ɑ p	1 7 5 1 6 7 1	AXMBCYN	TARCJAP	1	1.T.C 1.A.V 1.R.c 1.C.C 1.J.C 1.A.V 1.P.c	2.0 1.5 1.1 1.75 1.5 1.3 0.8	0
+27814	Tibetan_Lhasa	WIFE	ae	wife	OLD	a e	5956	5956	ae	7	X	A	4	4.A.V	1.5	0
+27815	Tibetan_Lhasa	WIFE	cem	wife	OLD	c e m	5957	5957	c e m	1 7 4	AXN	CEM	4	4.C.C 4.E.V 4.M.c	2.0 1.5 0.8	0
+31680	Tibetan_Batang	WIFE	moȵoʔ	wife	OLD	m o ȵ o ʔ	5958	5958	m o ȵ o ʔ	4 7 4 7 1	AXBYN	MUNUH	3	3.M.C 3.U.V 3.N.C 3.U.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+31696	Tibetan_Batang	WIFE	uroʔ	wife	OLD	u r o ʔ	5959	5959	u r o ʔ	7 5 7 1	XBYN	YRUH	3	3.Y.V 3.R.C 3.U.V 3.H.c	1.5 1.75 1.3 0.8	1
+34200	Tibetan_Alike	WIFE	oŋma	wife	OLD	o ŋ m a	5960	5960	o ŋ m a	7 4 4 7	XMBZ	UNMA	2	2.U.V 2.N.c 2.M.C 2.A.V	1.5 1.1 1.75 0.8	0
+35434	Tibetan_Xiahe	WIFE	naχmo	wife	OLD	n a χ m o	5955	5955	n a χ m o	4 7 3 4 7	AXBCZ	NAGMU	5	5.N.C 5.A.V 5.G.C 5.M.C 5.U.V	2.0 1.5 1.75 1.5 0.8	0
+#
+27331	rGyalrong_Maerkang	WIND	ɑli	wind	OLD	ɑ l i	994	994	ɑ l i	7 5 7	XBZ	ALI	1	1.A.V 1.L.C 1.I.V	1.5 1.75 0.8	0
+29232	Tibetan_Batang	WIND	lũ	wind	OLD	l ũ	1341	1341	l ũ	5 7	AX	LY	3	3.L.C 3.Y.V	2.0 1.5	0
+30351	Tibetan_Lhasa	WIND	ɬakpa	wind	OLD	ɬ a k p a	2938	2938	ɬ a k p a	5 7 1 1 7	AXMBZ	LAKPA	4	4.L.C 4.A.V 4.K.c 4.P.C 4.A.V	2.0 1.5 1.1 1.75 0.8	0
+31909	Tibetan_Xiahe	WIND	erə	wind	OLD	e r ə	2326	2326	e r ə	7 5 7	XBZ	ERE	5	5.E.V 5.R.C 5.E.V	1.5 1.75 0.8	0
+34046	Tibetan_Alike	WIND	wloŋ	wind	OLD	w l o ŋ	1341	1341	w l o ŋ	6 5 7 4	ACYN	WLUN	2	2.W.C 2.L.C 2.U.V 2.N.c	2.0 1.5 1.3 0.8	0
+#
+26836	Tibetan_Lhasa	WING	ɕokpa	wing	OLD	ɕ o k p a	755	755	ɕ o k p a	3 7 1 1 7	AXMBZ	SUKPA	4	4.S.C 4.U.V 4.K.c 4.P.C 4.A.V	2.0 1.5 1.1 1.75 0.8	0
+27541	rGyalrong_Maerkang	WING	tɑrɑm	wing	OLD	t ɑ r ɑ m	3327	3327	t ɑ r ɑ m	1 7 5 7 4	AXBYN	TARAM	1	1.T.C 1.A.V 1.R.C 1.A.V 1.M.c	2.0 1.5 1.75 1.3 0.8	0
+30689	Tibetan_Batang	WING	ema	wing	OLD	e m a	135	135	e m a	7 4 7	XBZ	EMA	3	3.E.V 3.M.C 3.A.V	1.5 1.75 0.8	0
+34235	Tibetan_Alike	WING	ɣɕokkwa	wing	OLD	ɣ ɕ o k k w a	755	755	ɣ ɕ o kk w a	3 3 7 1 6 7	ACYBCZ	GSUKWA	2	2.G.C 2.S.C 2.U.V 2.K.C 2.W.C 2.A.V	2.0 1.5 1.3 1.75 1.5 0.8	0
+35649	Tibetan_Xiahe	WING	ɕoχkwa	wing	OLD	ɕ o χ k w a	755	755	ɕ o χ k w a	3 7 3 1 6 7	AXMBCZ	SUGKWA	5	5.S.C 5.U.V 5.G.c 5.K.C 5.W.C 5.A.V	2.0 1.5 1.1 1.75 1.5 0.8	0
+#
+25088	Tibetan_Lhasa	WIPE	i	wipe (the table)	OLD	i	2495	2495	i	7	X	I	4	4.I.V	1.5	1
+28115	rGyalrong_Maerkang	WIPE	kɑis	wipe (the table)	OLD	k ɑ i s	2495	2495	k ɑi s	1 7 3	AXN	KAS	1	1.K.C 1.A.V 1.S.c	2.0 1.5 0.8	0
+30096	Tibetan_Batang	WIPE	ɪ	wipe (the table)	OLD	ɪ	2495	2495	ɪ	7	X	I	3	3.I.V	1.5	1
+32666	Tibetan_Xiahe	WIPE	ɕə	wipe (the table)	OLD	ɕ ə	2495	2495	ɕ ə	3 7	AX	SE	5	5.S.C 5.E.V	2.0 1.5	0
+34845	Tibetan_Alike	WIPE	wɕi	wipe (the table)	OLD	w ɕ i	2495	2495	w ɕ i	6 3 7	ACZ	WSI	2	2.W.C 2.S.C 2.I.V	2.0 1.5 0.8	0
+#
+26129	rGyalrong_Maerkang	WOLF	spjɑŋkə	wolf	OLD	s p j ɑ ŋ k ə	741	741	s p j ɑ ŋ k ə	3 1 6 7 4 1 7	ACCYMBZ	SPJANKE	1	1.S.C 1.P.C 1.J.C 1.A.V 1.N.c 1.K.C 1.E.V	2.0 1.5 1.5 1.3 1.1 1.75 0.8	0
+27113	Tibetan_Alike	WOLF	waŋə	wolf	OLD	w a ŋ ə	741	741	w a ŋ ə	6 7 4 7	AXBZ	WANE	2	2.W.C 2.A.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	0
+31840	Tibetan_Lhasa	WOLF	əŋku	wolf	OLD	ə ŋ k u	741	741	ə ŋ k u	7 4 1 7	XMBZ	ENKY	4	4.E.V 4.N.c 4.K.C 4.Y.V	1.5 1.1 1.75 0.8	1
+32119	Tibetan_Xiahe	WOLF	haŋkə	wolf	OLD	h a ŋ k ə	741	741	h a ŋ k ə	3 7 4 1 7	AXMBZ	HANKE	5	5.H.C 5.A.V 5.N.c 5.K.C 5.E.V	2.0 1.5 1.1 1.75 0.8	0
+34973	Tibetan_Batang	WOLF	ɕõu	wolf	OLD	ɕ õ u	741	741	ɕ õu	3 7	AX	SU	3	3.S.C 3.U.V	2.0 1.5	0
+#
+27759	Tibetan_Lhasa	WOMAN	yme	woman	OLD	y m e	2913	2913	y m e	7 4 7	XBZ	YME	4	4.Y.V 4.M.C 4.E.V	1.5 1.75 0.8	0
+29373	Tibetan_Batang	WOMAN	muȵoʔ	woman	OLD	m u ȵ o ʔ	2927	2927	m u ȵ o ʔ	4 7 4 7 1	AXBYN	MYNUH	3	3.M.C 3.Y.V 3.N.C 3.U.V 3.H.c	2.0 1.5 1.75 1.3 0.8	0
+32263	rGyalrong_Maerkang	WOMAN	təmi	woman	OLD	t ə m i	29768	29768	t ə m i	1 7 4 7	AXBZ	TEMI	1	1.T.C 1.E.V 1.M.C 1.I.V	2.0 1.5 1.75 0.8	1
+34156	Tibetan_Alike	WOMAN	wəmȵət	woman	OLD	w ə m ȵ ə t	2816	2816	w ə m ȵ ə t	6 7 4 4 7 1	AXMBYN	WEMNET	2	2.W.C 2.E.V 2.M.c 2.N.C 2.E.V 2.T.c	2.0 1.5 1.1 1.75 1.3 0.8	0
+35127	Tibetan_Xiahe	WOMAN	ʔajio	woman	OLD	ʔ a j i o	3772	3772	ʔ a j io	1 7 6 7	AXBZ	HAJI	5	5.H.C 5.A.V 5.J.C 5.I.V	2.0 1.5 1.75 0.8	0
+#
+25443	Tibetan_Xiahe	WOOD	doŋwo	wood / log	OLD	d o ŋ w o	5966	5966	d o ŋ w o	1 7 4 6 7	AXBCZ	TUNWU	5	5.T.C 5.U.V 5.N.C 5.W.C 5.U.V	2.0 1.5 1.75 1.5 0.8	1
+27922	Tibetan_Alike	WOOD	aŋ	wood / log	OLD	a ŋ	2974	2974	a ŋ	7 4	XN	AN	2	2.A.V 2.N.c	1.5 0.8	0
+27987	Tibetan_Lhasa	WOOD	ɕiŋ	wood / log	OLD	ɕ i ŋ	2974	2974	ɕ i ŋ	3 7 4	AXN	SIN	4	4.S.C 4.I.V 4.N.c	2.0 1.5 0.8	0
+31560	Tibetan_Batang	WOOD	ĩ	wood / log	OLD	ĩ	2974	2974	ĩ	7	X	I	3	3.I.V	1.5	1
+34176	rGyalrong_Maerkang	WOOD	ʃᴇ	wood / log	OLD	ʃ ᴇ	2974	2974	ʃ ᴇ	3 7	AX	SE	1	1.S.C 1.E.V	2.0 1.5	1
+#
+25436	Tibetan_Alike	YEAR	lo	year	OLD	l o	1204	1204	l o	5 7	AX	LU	2	2.L.C 2.U.V	2.0 1.5	0
+28674	Tibetan_Lhasa	YEAR	lo	year	OLD	l o	1204	1204	l o	5 7	AX	LU	4	4.L.C 4.U.V	2.0 1.5	0
+29839	Tibetan_Batang	YEAR	lu	year	OLD	l u	1204	1204	l u	5 7	AX	LY	3	3.L.C 3.Y.V	2.0 1.5	0
+34174	rGyalrong_Maerkang	YEAR	pɑ	year	OLD	p ɑ	4196	4196	p ɑ	1 7	AX	PA	1	1.P.C 1.A.V	2.0 1.5	0
+35396	Tibetan_Xiahe	YEAR	lo	year	OLD	l o	1204	1204	l o	5 7	AX	LU	5	5.L.C 5.U.V	2.0 1.5	0
+#
+28024	rGyalrong_Maerkang	YELLOW	sərpo	yellow	OLD	s ə r p o	563	563	s ə r p o	3 7 5 1 7	AXMBZ	SERPU	1	1.S.C 1.E.V 1.R.c 1.P.C 1.U.V	2.0 1.5 1.1 1.75 0.8	0
+32581	Tibetan_Xiahe	YELLOW	ero	yellow	OLD	e r o	563	563	e r o	7 5 7	XBZ	ERU	5	5.E.V 5.R.C 5.U.V	1.5 1.75 0.8	0
+33558	Tibetan_Batang	YELLOW	ee	yellow	OLD	e e	563	563	ee	7	X	E	3	3.E.V	1.5	0
+34752	Tibetan_Alike	YELLOW	serro	yellow	OLD	s e r r o	563	563	s e rr o	3 7 5 7	AXBZ	SERU	2	2.S.C 2.E.V 2.R.C 2.U.V	2.0 1.5 1.75 0.8	0
+34942	Tibetan_Lhasa	YELLOW	spo	yellow	OLD	s p o	563	563	s p o	3 1 7	ACZ	SPU	4	4.S.C 4.P.C 4.U.V	2.0 1.5 0.8	0
+#
+27868	rGyalrong_Maerkang	YESTERDAY	məʃᴇrsni	yesterday	OLD	m ə ʃ ᴇ r s n i	3040	3040	m ə ʃ ᴇ r s n i	4 7 3 7 5 3 4 7	AXBYMBCZ	MESERSNI	1	1.M.C 1.E.V 1.S.C 1.E.V 1.R.c 1.S.C 1.N.C 1.I.V	2.0 1.5 1.75 1.3 1.1 1.75 1.5 0.8	0
+32407	Tibetan_Xiahe	YESTERDAY	ahaŋ	yesterday	OLD	a h a ŋ	2455	2455	a h a ŋ	7 3 7 4	XBYN	AHAN	5	5.A.V 5.H.C 5.A.V 5.N.c	1.5 1.75 1.3 0.8	0
+32498	Tibetan_Batang	YESTERDAY	aõ	yesterday	OLD	a õ	2455	2455	aõ	7	X	A	3	3.A.V	1.5	0
+33767	Tibetan_Lhasa	YESTERDAY	sə	yesterday	OLD	s ə	2455	2455	s ə	3 7	AX	SE	4	4.S.C 4.E.V	2.0 1.5	0
+35529	Tibetan_Alike	YESTERDAY	araŋ	yesterday	OLD	a r a ŋ	2455	2455	a r a ŋ	7 5 7 4	XBYN	ARAN	2	2.A.V 2.R.C 2.A.V 2.N.c	1.5 1.75 1.3 0.8	0
+#
+35769	rGyalrong_Maerkang	YOU	ȵo		OLD	ȵ o	3007	3007	ȵ o	4 7	AX	NU	1	1.N.C 1.U.V	2.0 1.5	0
+35770	Tibetan_Alike	YOU	cəo		OLD	c ə o	5968	5968	c əo	1 7	AX	CE	2	2.C.C 2.E.V	2.0 1.5	0
+35771	Tibetan_Batang	YOU	hy		OLD	h y	5968	5968	h y	3 7	AX	HY	3	3.H.C 3.Y.V	2.0 1.5	0
+35772	Tibetan_Lhasa	YOU	eraŋo		OLD	e r a ŋ o	5968	5968	e r a ŋ o	7 5 7 4 7	XBYBZ	ERANU	4	4.E.V 4.R.C 4.A.V 4.N.C 4.U.V	1.5 1.75 1.3 1.75 0.8	0
+35774	Tibetan_Xiahe	YOU	əo		OLD	ə o	5968	5968	əo	7	X	E	5	5.E.V	1.5	0
+#
+28055	rGyalrong_Maerkang	YOUNG	tɑblikəi	young	OLD	t ɑ b l i k ə i	3476	3476	t ɑ b l i k əi	1 7 1 5 7 1 7	AXBCYBZ	TAPLIKE	1	1.T.C 1.A.V 1.P.C 1.L.C 1.I.V 1.K.C 1.E.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	0
+30031	Tibetan_Batang	YOUNG	luũ	young	OLD	l u ũ	2304	2304	l uũ	5 7	AX	LY	3	3.L.C 3.Y.V	2.0 1.5	0
+32610	Tibetan_Xiahe	YOUNG	sarə	young	OLD	s a r ə	2483	2483	s a r ə	3 7 5 7	AXBZ	SARE	5	5.S.C 5.A.V 5.R.C 5.E.V	2.0 1.5 1.75 0.8	0
+34785	Tibetan_Alike	YOUNG	særi	young	OLD	s æ r i	2483	2483	s æ r i	3 7 5 7	AXBZ	SERI	2	2.S.C 2.E.V 2.R.C 2.I.V	2.0 1.5 1.75 0.8	0
+35194	Tibetan_Lhasa	YOUNG	ɕpa	young	OLD	ɕ p a	3012	3012	ɕ p a	3 1 7	ACZ	SPA	4	4.S.C 4.P.C 4.A.V	2.0 1.5 0.8	0
+# Created using the LexStat class of LingPy-2.6.6
+# Parameters: 2:1_1.00_10_0.70_global-2-0.50:local-1-0.50_0.30__T_shuffle_False:upgma:-2_0.7_0.00_-5.00

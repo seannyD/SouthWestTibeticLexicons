@@ -1,0 +1,326 @@
+TODO:
+	Check if there are any concepts that don't appear in Sagart
+		No point in having no variation.
+#   Make an aligned version of the whole Sagart data.
+#    We'll need this for the comparison to other cogsets
+#    NOTE: there are already alignments here: http://dighl.github.io/sinotibetan/
+#    	This has the old Concepts
+#       It also has some extra concepts - check for missing concepts.
+# 			Use concepticon to match meanings
+#    	Hopefully we can just match on ID, then copy over just the alignments?
+#       So: Start with complete corrected, add in data from the cleaned sino tibetan file, then add alignments from server file
+#       THEN: Filter for concepts that don't appear in our data
+#         We'll still need to edit out characters that we don't want (tone, ◦, +, _)
+#   Check this file for borrowing?
+#      (though they are weird)
+#  Then use filterCorrectedData.R to combine this with our data
+#    It'll leave langs that I've already aligned alone.
+#    Maybe we should only use cognates common to both datasets?
+#    Many of the cognates not in Sagart might have no information anyway?
+#   DONE
+#  Clean this big file using the information below.
+#  		DONE
+#  Make some comparison examples to show how we've changed the Sagart data.
+#		DONE
+#  Visualise the distances between our langs using neighbourNet
+#  Create file with just the data we want to put into the phylo tree (prob just Tibetic)
+#  Get assumed and calculated dates from the Sagart paper.
+#       Old Tibetan, 1,200 yBP;
+		From BEAST file:
+			BurmishOldBurmese=0.8,
+			Tangut=0.9,
+			TibetanOldTibetan=1.2,
+			SiniticOldChinese=2.55  
+#		Can use Split between Jirel and other tibetan from Zhang et al. 
+#      See Beast XML: https://github.com/lingpy/sino-tibetan-paper/blob/master/BeastFiles/sinotibetan-beast-covarion-relaxed-fbd.xml
+#         Open this in BEAST, check out priors?
+#  The mean root age estimated with the relaxed-clock model is at 7184 B.P., with 95% highest posterior density interval (HPD) [5093–9568] B.P.
+#
+#  Remove compound senses? e.g. NOON (see Sagart et al. supporting materials page 15)	
+#  Check that cog ids are unique to concepts.		
+# IN PROGRESS:
+
+# CHECK WHEAT, BARLEY etc.
+https://www.nature.com/articles/s41467-018-07920-5#ref-CR21
+Barley connected to langs in Yunan?
+https://www.pnas.org/content/112/18/5625
+#Wheat: Kagate, Tsum and Yolomo have variety connected to elsewhere?
+
+BARLEY alignment with 'n' and 'dz': Clearly not correct.
+		
+Need to cross-reference with STEDT: https://stedt.berkeley.edu/dissemination/STEDT.pdf
+(see supporting materials of Zhang et al.)
+e.g. BLACK Jirel does link to STEDT 2483, black, PTB, *s-nak
+e.g. BLOOD Jirel links to STEDT 231, blood, PTB, 	*krak
+e.g. FLY: 100430 is part of 2189, fly, PTB, *byar ⪤ *p(i/u)r; 16 is part of 5021, fly, PNC, *leeŋ-I, leen-II
+
+
+TODO: Acertainment bias:
+setting ascertained="true" and excludeto="1".
+
+
+----
+TODO: birthrate and clock rate parameters:
+put some priors on these (at the very least replace the upper bound of “Infinity” with 1 or 100). 
+
+> Origin:
+> <parameter id="originFBD.t:tree" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="100.0">90.0</parameter>
+>  <prior id="originPriorFBD.t:tree" name="distribution" x="@originFBD.t:tree">
+>     <Uniform id="Uniform.6" name="distr" upper="Infinity"/>
+>   </prior>
+>
+> (I think I set this like you had it?)
+
+Follow Konstantin's set up instructions here :https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftaming-the-beast.org%2Ftutorials%2FLanguagePhylogenies%2F&amp;data=02%7C01%7CRobertsS55%40cardiff.ac.uk%7C5df39897a3694fa0917708d83a1492ba%7Cbdb74b3095684856bdbf06759778fcbc%7C1%7C0%7C637323207321364289&amp;sdata=VcYcwRddDpZnxORRGBcOYusoLEPAcSNiF4u867ycj4A%3D&amp;reserved=0 esp the section on birth and death rate. 
+
+BTW: setting an origin of 90 is very high here — it’s saying that this family has been around for 90kya…. which is probably not right. Yes, the analysis should rein that in, but that depends on data and priors (blah blah), so I’d do something like:
+
+> <parameter id="originFBD.t:tree" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper=“10">9.0</parameter>    <!— or even 5 for your dataset -->
+>  <prior id="originPriorFBD.t:tree" name="distribution" x="@originFBD.t:tree">
+>     <Uniform id="Uniform.6" name="distr" upper=“10"/>
+>   </prior>
+
+-----
+
+TODO:
+> Q: For the FBD, how you’ve set it up, you need to put a prior on the sampled diversity, which you haven’t.
+> Er, is this the "diversificationRatePriorFBD.t:tree"? That is, just putting the prior on the diversification rate? Not sure what you mean otherwise.
+
+This is *rho* aka “samplingProportionFBD.t:tree” in your analysis. It’s essentially a measure of how much of the total diversity you have sampled, e.g. if there are 10 languages in the clade and you’ve got samples from 5. Yes, it’s a bit of a fluffy measure, and thankfully usually doesn’t matter to much but it can help get better estimates of diversification rate (i.e. rate at which lineages split). The tutorial linked to above  talks about how we do this. Currently you’re estimating that you’ve sampled 12% of Tibetan, which feels like an under estimate to me.
+
+Done: Glottolog lists Central Tibetan
+
+----
+
+# Questions:
+I've removed 'empty' columns with all zeros or missing. But some columns have all '1's (because I'm using a small range of languges). Should I also remove these columns?
+
+Can I add a height for the common ancestor of tibetan and old chinese, based on your full tree? This would be the root node, so I could add a prior on a monophyletic clade including all languages. I'm going off the reports of the root date in the paper, using a normal distribution (mean=7.184, sigma = 1.4, 95% = [4.88, 9.49]).
+
+I'd like to specify a prior for the Tibetan languages to be monophyletic (i.e. mark old chinese as an out-group). I don't have a particular range of dates for this prior. I can add a prior that has all the tibetan languages in it, tick 'monophyletic', but then what model do I choose? Will it pay attention if it's "none", or should I choose a Uniform prior in the range [0,infinity], or the range [old Tibetan, root]?
+
+In your xml file, the Data Type of the main partition is "two state covarion", but the my data is "binary". Does this matter? I suppose I'll have a different site model to you? I'm not sure how to specify the data type in the xml file I feed to Beauti. I'm currently using the BinaryCTMC template, should I switch to BinaryCovarion?
+
+In your Beast file, you have a prior SiniticOldChineseLeaf, which sets the prior on the range for the Old Chinese tip date. However, there's no similar prior for Old Tibetan. Is that just because Old tibetan has no prior range, just a date? I see the tip date is set for Old Tibetan in the "Tip Dates" tab.
+
+
+
+
+ABOVE
+Our data bridges 198, 1035
+Maybe Kagate, Lowa, Yolmo are 100049
+	DID NOT CHANGE
+	
+BAD
+Our data lnks to 103704?
+
+BARLEY
+Need to add S_Tib_Batang, S_Lhasa and align
+S_Rangoon is a borrowing?
+
+BIG
+Our data bridges 417 and some [t] cogs
+	DID NOT CHANGE
+
+BREAST
+Sagart: 10186 and 862 should be merged?
+	CHANGED
+
+CHILD (YOUNG HUMAN)
+Should be just "CHILD"
+
+COLD
+957 should be part of 933?
+	DID NOT CHANGE
+
+BELOW OR UNDER
+Change to DOWN OR BELOW
+	TODO
+
+FAECES (EXCREMENT)
+Links to some cognates for our data "DUNG (ANIMAL FAECES)"
+	TODO
+
+EAR
+Tibetan_Lhasa "amo" probably aligns with cog set 32?
+
+
+EAT
+3420 is probably just part of 3419?
+	DID NOT CHANGE
+
+EGG
+Rongpo "ənɖ" (Cognate 509) maybe fits in with 850?
+
+FLY (MOVE THROUGH AIR)
+Cog 208 is linked to 430 through our data. * Need to fix (and give example alignment in SI)
+
+GOAT
+774 is linked to 241 through Nubri? (Not sure)
+	DID NOT CHANGE
+
+HAIR (HEAD)
+Links with our data HAIR cog 210
+
+HEART
+10378 links to 539?
+
+HEAVY
+Our data seems to align to words outside Sagart Tibetan languages?
+
+HORSE
+Jirel links to very different cog (with Garo and Rongpo) Historical reason?
+	TODO: The topic of horses is linked in the Sagart paper. LOOK UP
+
+HORN
+TODO: Change alignment for Tangut
+
+HUNDRED
+Not sure about Jirel's cognate? Does 185 and 2285 link up?
+
+HUSBAND
+Our data shows clear bridge between 5771 and 5770. 
+Also with 5768 and 5769?
+And why isn't 4204 grouped with 5769?
+
+KNIFE
+Our data provides bridge to several cog ids (3648, 3649, maybe 5288)
+	Maybe also 6503, 6616, 6172
+	TODO: Lots of possibility for lumping here.
+
+LEAF
+Our data provides bridge between 948 and 4076 (Tsum)
+
+ROPE
+Cog set 540 Linked to our data LEASH 270
+Cog set 10313 linked to our data LEASH 271 ????
+Need to combine concepts?
+
+LEFT HAND
+Check - should be "LEFT".
+Lowa is a bridge between 422 and 200?
+
+FOOT
+Cog set 866 Linked to our data LEG
+
+LIE DOWN
+Links to our concept LIE (REST)
+Our data links cog sets 2541, 2353, 1232, (2134?, 1232?, 1062, 1145), 
+Our data Sherpa links to Tangut 2363?
+
+HEAR
+Linked to our concept LISTEN (e.g. 1439)
+
+SEE
+Maybe related to our concept LOOK, but no obvious cogsets
+
+MANY
+Check BE MANY (our data is MANY)
+
+HEAVY
+taŋ	(cog 1647) is related to our data MEASURE (310), but prob only semantic.
+
+MORNING
+Suspect that 1142, 132, 206, 261 are all linked.
+	TODO: Fix this? 
+
+MUD
+Daofu 1177 should be 1500? (Maybe just trust coding) Maybe link to 3979 too? S_Lashi, S_Daofu
+
+MIDDAY
+Links to our concept NOON.
+Not sure about 1318 linking to our Kagate data? And why are 1681, 2267, 1684 not part of 1318? (also 3477? and 936?)
+
+OLD (AGED)
+Links to our concept OLD, though no cognate links.
+	TODO: Suspicious that our data is so different?
+
+ROAD
+Links to our concept PATH
+	TODO:??
+
+RAIN (PRECIPITATION)
+Links to our concept RAIN (RAINING).
+	TODO: Finish
+
+ROOF
+
+RIVER
+Our data links 823 to 2583
+	S_Bokar 102583 becomes  100823
+	
+SAME
+TODO: Maybe a good example for a phonological change over the tree?
+
+SHORT
+TODO: Merge 104179 and:  104170, [100972, 104173], 104174 (?), 104175, 104176, 104177, 104178, 110444, 100059?
+TODO: Why is this so fragmented?
+
+SLEEP
+Our data bridges 2540 to 1454, then maybe 1107 and 10452 (???)
+DID NOT CHANGE
+
+SMALL
+Our data bridges 742 and 542. And maybe 1700?
+Linked to FEW in our data (S_cog id 742 is our cog 170)
+DID NOT CHANGE
+
+SMOKE (EXHAUST)
+1421 is related to our data SMOKE (INHALE). But this is prob borrowed?
+TODO
+
+STICK
+3155 and 3340 belong together?
+TODO: Potentially interesting spread of Tibetan languages?
+TODO: Is there another Cognate set 103340?
+
+TEN
+TODO: Our data bridges 296 and 364. Good example?
+	  Backed up by STEDT (p. 1075) PTB *ts(y)i(y) ⪤ *tsyay TEN
+		https://stedt.berkeley.edu/dissemination/STEDT.pdf
+	TODO: Check I've done this?
+
+THAT
+TODO: Good example of bridging:
+Our data bridges 2690 and 5919.
+5920 goes with 2685, 2684, 0, 6430, 5244(?), 8042, 2687
+Needs sorting out
+pudo variant part of m-di in STEDT? p. 1111 https://stedt.berkeley.edu/dissemination/STEDT.pdf
+
+THEY
+TODO: Check our data that Sherpa tibadiba is one word or two
+
+THROW
+3336, 3263, 3213 is part of 928. 
+
+TODAY
+Pretty sure 2270,2250 should be part of 2389. Also 2275 belongs (??)
+
+TOMATO
+TODO: In our data, 517 seems borrowed.
+
+TOMORROW
+Our data linked to Sagart Cog 3459? 2456? 2822? 1263? 1139?
+
+TONGUE
+Needs changing: matched to 1850, but clearly related to 4190, 3784
+	TODO: Review. Check if I've made changes, but r/l are iconic for TONGUE
+
+We (INCLUSIVE)
+	TODO: Too hard to match to Sagart data?
+
+WHEAT
+Group 8477, 8560, 8618 under 8477
+
+WHERE
+2900, 5619 part of 5951?
+
+WOMAN
+Our data maps to 2816, 2913
+DID NOT CHANGE
+
+YELLOW
+GOLD in our data is linked to YELLOW in Sagart (cog 563)
+
+FOOT
+Our data HEEL is related to Sagart FOOT 866

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='BinaryCovarion' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.6">
+
+
+    <data
+id="Tibetan_SinglePartition"
+spec="Alignment"
+ascertained="true"
+dataType="standard"
+excludeto="1"
+name="alignment">
+                        <sequence id="seq_Gyalsumdo4" spec="Sequence" taxon="Gyalsumdo" totalcount="2" value="0000010010000000010000000000100110010010001000100101010000001100000000011001000010010011000101101010011000101001010101000100100010010000100010000000100100100101010010000010010001000001010100111001000000011000100001010000000010011000010000011100000010011000000010010100011000010101010000100000010010101000010000100001010011000101010000100100100001100000000100001000010001100010000100101000101010100101000000100010000010010011010100000000010000001010010100"/>
+                        <sequence id="seq_Jirel4" spec="Sequence" taxon="Jirel" totalcount="2" value="0000010010000000010000000000100110010100000000100101001100001100000010001001000000010011001001101010011000101001010101000101000100001010101000000000101000100101010001100000010000100001011000010101000000010101000001010000010000011000010000100100000010010100000100010010011000110101010000010000100010010100010001000001010011010001010010000100101000000000001100000001010001100010000100101000101010100011000000100010000010010011010000110000000000001010010100"/>
+                        <sequence id="seq_Kagate4" spec="Sequence" taxon="Kagate" totalcount="2" value="0010001000000000010000000000100110010100000000100101001001001100000100001001000010000011001001101010011000101001010101000101000010010000101010000000100100100101010010100000100001000001010100011001000000010100010001010000000010011000010000010100000010010100000010010001011000010101010000001100000010010100010001000001010011000101010000100100100001010000000100000010010001100010000100101000101010100100100000100010000010001011010110010000000010001010010100"/>
+                        <sequence id="seq_Lowa4" spec="Sequence" taxon="Lowa" totalcount="2" value="0010000000000000101001000000100110010100001000100101011000001100000000010101000010000011001001101010011000111001010101000100100010010000100100100000100100100101010010000010010001000001011000011001000000011000100001010000000010011000010001000000001010011001000010010100011000010101010000100000010010010100010010000001010011000101010000100100100100000001000100000010100001100010000100101000101010100100100000100010010000010011010100100000010001000010010100"/>
+                        <sequence id="seq_Nubri4" spec="Sequence" taxon="Nubri" totalcount="2" value="0000011000000000010000100000000110010000001000100101001000010010000010001001000010000011001001101010011001001001010101000100100010010000100100000000100100100101010010000010100001000001011000011001000000010010100001010000000100011001000000001000001010010001000010010100011000010101010000100000011000100100010010000001010011000101010010000100100011100000000100000010011000100100000100101000101010100101000000100000100010010011010010000000000010001010010100"/>
+                        <sequence id="seq_SOldChinese4" spec="Sequence" taxon="SOldChinese" totalcount="2" value="000100010010000000011000000100??010010000000100110101????????000101000000011111000001??010??1001101010011???01??0010101000100010001?????01000110111111001001101100110001000000101001000001001010001000000110???000001010000010000110010000010????001000001100000100010101???100010001010101111???001000001??000100010000111100110010011010110101101100????000010000010010000??0100010000101011000011010010001??0010000????01001100100100101????01100000000100100001010"/>
+                        <sequence id="seq_SOldTibetan4" spec="Sequence" taxon="SOldTibetan" totalcount="2" value="00010000010100000000100100000010101000000100011001010????????001000001000101000000100??100100110101001100???10101101010001001000001?????10000010000010010110010011001010000010001000000101100001100000100001100000010100001000001001001000100???????????10010001000010010100010100010101010000???0000100111000100100??????0101001100010101000010010010????000001000100001000??0011100001000100111000100101110100000010010000100010010011010????00010000001000001010001"/>
+                        <sequence id="seq_STibetanAlike4" spec="Sequence" taxon="STibetanAlike" totalcount="2" value="0?????000000010000001001000000??101000000001001001010????????????00010100101000000110??001??011001100110001010??1001010001000100101?????10001000000010010010010011001000010001010000000101100001100000100001???001000100001000001001100001000????000100010010001000010010???010100010101010000???000010100??00100110000100010100110????101000010010001????0000001001000001000100011000100001001????0101001100100000010001000100010010011010????00000000011000010010001"/>
+                        <sequence id="seq_STibetanBatang4" spec="Sequence" taxon="STibetanBatang" totalcount="2" value="00001000000000100000100011000001101000001000001001010????????001000011000101000000110??100??011001100110001010??1001010010001000100?????10001010000010010010010011001010000001010000011011100001100000001001???001100100100000001001100000100????000000110010001000001010???010100010101010000???010000100??000011000001000101001100100101000010010010????000000010001001000010001100010000100101100100101010100000111000100100010010011010????00000001101000010010001"/>
+                        <sequence id="seq_STibetanLhasa4" spec="Sequence" taxon="STibetanLhasa" totalcount="2" value="00001100000001010000100110000001101000000010001001010????0001001000010000101000100110??100??011001010110001010??1001010001001000110?????10101000000010010010010011001010000001010000000101100001100001100001???001000100000100001001100000100????000001010010001000010010???010100010101010000???000010110??001001000001000101001100010101000010010010????000001000100001000010011100000010100101000100101010100001010001000100001010011010????00000110000001010010001"/>
+                        <sequence id="seq_STibetanXiahe4" spec="Sequence" taxon="STibetanXiahe" totalcount="2" value="000010000000100000001001001000??101000000010001001010????????001000000100101000000100??001??011010100110001010??1001010001001000100?????10000011000010010010010011001010100001010000100001100001100000010001???001000100010000001001100010000????000010010010001000010010???010001010101010000???000010100??001001000001000101001100100101000010010001????000001000100000100010001100010000100110000101001100100000010010000100010010011010????00001000000010000110001"/>
+                        <sequence id="seq_Sherpa4" spec="Sequence" taxon="Sherpa" totalcount="2" value="0100000000000010010000000000100110010001000000100101001000001010000000011001000010000101001001101010011000101001010101000101000010010000101000000000100100100101010010000010010001000001011001000100100000010100100001010000001000011000000010001100000010010010000010010100011000010101010000010000010010100100010001000001010011000101010010000100100001001000000100100000010001100010000100101000101010100100100000100010010000010011010001010000000001000010010100"/>
+                        <sequence id="seq_Tsum4" spec="Sequence" taxon="Tsum" totalcount="2" value="0000011000000000010000000000010110010001000000100101010010100100010000001001000001010011000101101010011001001001010101000100100010010001100010000000100100100101010010000011100001000001011000011001000000011000100001010000000100011000001001000100000010011000001000010001011000010101010000100000010010100100010001000001100011010001010000100100100001100000000100000010010001101010000100101000101010100100100000100000100010001011010010000000000010001010010100"/>
+                        <sequence id="seq_Yolmo4" spec="Sequence" taxon="Yolmo" totalcount="2" value="0010000010000000010000000000100110010100000000100101011001001100000010001001000000010011001001101010011000101001010101010001000010000100100010000000100100100101010010100000010001000001010100011001000000010100100001010000000010011000001000011010000010011000010000010001011000010101010000001000010010??0100010001000001010011000101010000100100101000000100000100000010010001100010000100101000101010100110100000100010000010001011010010010000000000001010010100"/>
+                        <userDataType id="StandardData.0" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="2"/>
+                    </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="330000000">
+    <state id="state" spec="State" storeEvery="5000">
+        <tree id="Tree.t:tree" spec="beast.evolution.tree.Tree" name="stateNode">
+            <trait id="dateTrait.t:tree" spec="beast.evolution.tree.TraitSet" traitname="date-backward">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                Gyalsumdo=0,
+Jirel=0,
+Kagate=0,
+Lowa=0,
+Nubri=0,
+SOldChinese=2.55,
+SOldTibetan=1.2,
+STibetanAlike=0,
+STibetanBatang=0,
+STibetanLhasa=0,
+STibetanXiahe=0,
+Sherpa=0,
+Tsum=0,
+Yolmo=0                
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            <taxa id="TaxonSet.Tibetan_SinglePartition" spec="TaxonSet">
+                    <alignment idref="Tibetan_SinglePartition"/>
+                </taxa>
+            </trait>
+            <taxonset idref="TaxonSet.Tibetan_SinglePartition"/>
+        </tree>
+        <parameter id="mutationRate.s:Tibetan_SinglePartition" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="bcov_alpha.s:Tibetan_SinglePartition" spec="parameter.RealParameter" lower="1.0E-4" name="stateNode" upper="1.0">0.5</parameter>
+        <parameter id="bcov_s.s:Tibetan_SinglePartition" spec="parameter.RealParameter" lower="1.0E-4" name="stateNode" upper="Infinity">0.5</parameter>
+        <parameter id="frequencies.s:Tibetan_SinglePartition" spec="parameter.RealParameter" dimension="2" lower="0.0" name="stateNode" upper="1.0">0.5 0.5</parameter>
+        <parameter id="ucldMean.c:clock" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="ucldStdev.c:clock" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="1.0">0.1</parameter>
+        <stateNode id="rateCategories.c:clock" spec="parameter.IntegerParameter" dimension="26">1</stateNode>
+        <parameter id="diversificationRateFBD.t:tree" spec="parameter.RealParameter" lower="0.0" name="stateNode">1.0</parameter>
+        <parameter id="turnoverFBD.t:tree" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="1.0">0.5</parameter>
+        <parameter id="samplingProportionFBD.t:tree" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="1.0">0.5</parameter>
+        <parameter id="originFBD.t:tree" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="100.0">50.0</parameter>
+    </state>
+
+    <init id="RandomTree.t:tree" spec="beast.evolution.tree.SimpleRandomTree" estimate="false" initial="@Tree.t:tree" taxa="@Tibetan_SinglePartition"/>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="FBD.t:tree" spec="beast.evolution.speciation.SABirthDeathModel" conditionOnRhoSampling="true" diversificationRate="@diversificationRateFBD.t:tree" origin="@originFBD.t:tree" samplingProportion="@samplingProportionFBD.t:tree" tree="@Tree.t:tree" turnover="@turnoverFBD.t:tree">
+                <parameter id="rFBD.t:tree" spec="parameter.RealParameter" lower="0.0" name="removalProbability" upper="1.0">0.0</parameter>
+                <parameter id="rhoFBD.t:tree" spec="parameter.RealParameter" estimate="false" lower="0.0" name="rho" upper="1.0">1.0</parameter>
+            </distribution>
+            <prior id="bcov_alpha_prior.s:Tibetan_SinglePartition" name="distribution" x="@bcov_alpha.s:Tibetan_SinglePartition">
+                <Uniform id="Uniform.1" name="distr" upper="100.0"/>
+            </prior>
+            <prior id="bcov_s_prior.s:Tibetan_SinglePartition" name="distribution" x="@bcov_s.s:Tibetan_SinglePartition">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter id="RealParameter.0" spec="parameter.RealParameter" lower="0.0" name="alpha" upper="0.0">0.05</parameter>
+                    <parameter id="RealParameter.1" spec="parameter.RealParameter" lower="0.0" name="beta" upper="0.0">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="diversificationRatePriorFBD.t:tree" name="distribution" x="@diversificationRateFBD.t:tree">
+                <Uniform id="Uniform.7" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="originPriorFBD.t:tree" name="distribution" x="@originFBD.t:tree">
+                <Uniform id="Uniform.6" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="samplingProportionPriorFBD.t:tree" name="distribution" x="@samplingProportionFBD.t:tree">
+                <Beta id="Beta.3" name="distr">
+                    <parameter id="RealParameter.35" spec="parameter.RealParameter" estimate="false" name="alpha">12.0</parameter>
+                    <parameter id="RealParameter.36" spec="parameter.RealParameter" estimate="false" name="beta">13.0</parameter>
+                </Beta>
+            </prior>
+            <prior id="turnoverPriorFBD.t:tree" name="distribution" x="@turnoverFBD.t:tree">
+                <Uniform id="Uniform.8" name="distr"/>
+            </prior>
+            <prior id="MeanRatePrior.c:clock" name="distribution" x="@ucldMean.c:clock">
+                <Uniform id="Uniform.4" name="distr" upper="100.0"/>
+            </prior>
+            <prior id="ucldStdevPrior.c:clock" name="distribution" x="@ucldStdev.c:clock">
+                <Gamma id="Gamma.1" name="distr">
+                    <parameter id="RealParameter.4" spec="parameter.RealParameter" estimate="false" name="alpha">0.5396</parameter>
+                    <parameter id="RealParameter.5" spec="parameter.RealParameter" estimate="false" name="beta">0.3819</parameter>
+                </Gamma>
+            </prior>
+            <distribution id="Root.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:tree">
+                <taxonset id="Root" spec="TaxonSet">
+                    <taxon id="Gyalsumdo" spec="Taxon"/>
+                    <taxon id="Jirel" spec="Taxon"/>
+                    <taxon id="Kagate" spec="Taxon"/>
+                    <taxon id="Lowa" spec="Taxon"/>
+                    <taxon id="Nubri" spec="Taxon"/>
+                    <taxon id="SOldChinese" spec="Taxon"/>
+                    <taxon id="SOldTibetan" spec="Taxon"/>
+                    <taxon id="STibetanAlike" spec="Taxon"/>
+                    <taxon id="STibetanBatang" spec="Taxon"/>
+                    <taxon id="STibetanLhasa" spec="Taxon"/>
+                    <taxon id="STibetanXiahe" spec="Taxon"/>
+                    <taxon id="Sherpa" spec="Taxon"/>
+                    <taxon id="Tsum" spec="Taxon"/>
+                    <taxon id="Yolmo" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.0" name="distr">
+                    <parameter id="RealParameter.6" spec="parameter.RealParameter" estimate="false" name="mean">7.184</parameter>
+                    <parameter id="RealParameter.7" spec="parameter.RealParameter" estimate="false" name="sigma">0.5</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="SiniticOldChinese.leaf.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:tree">
+                <taxonset id="SiniticOldChinese.leaf" spec="TaxonSet">
+                    <taxon idref="SOldChinese"/>
+                </taxonset>
+                <Uniform id="Uniform.5" lower="2.3" name="distr" upper="2.8"/>
+            </distribution>
+            <distribution id="Tibetan.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:tree">
+                <taxonset id="Tibetan" spec="TaxonSet">
+                    <taxon idref="Gyalsumdo"/>
+                    <taxon idref="Jirel"/>
+                    <taxon idref="Kagate"/>
+                    <taxon idref="Lowa"/>
+                    <taxon idref="Nubri"/>
+                    <taxon idref="SOldTibetan"/>
+                    <taxon idref="STibetanAlike"/>
+                    <taxon idref="STibetanBatang"/>
+                    <taxon idref="STibetanLhasa"/>
+                    <taxon idref="STibetanXiahe"/>
+                    <taxon idref="Sherpa"/>
+                    <taxon idref="Tsum"/>
+                    <taxon idref="Yolmo"/>
+                </taxonset>
+                <Uniform id="Uniform.12" name="distr" upper="6.0"/>
+            </distribution>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="treeLikelihood.Tibetan_SinglePartition" spec="TreeLikelihood" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.Tibetan_SinglePartition"
+spec="FilteredAlignment"
+ascertained="true"
+data="@Tibetan_SinglePartition"
+excludeto="1"
+filter="-">
+                    <userDataType id="TwoStateCovarion.0" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:Tibetan_SinglePartition" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:Tibetan_SinglePartition">
+                    <parameter id="gammaShape.s:Tibetan_SinglePartition" spec="parameter.RealParameter" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:Tibetan_SinglePartition" spec="parameter.RealParameter" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="covarion" spec="BinaryCovarion" alpha="@bcov_alpha.s:Tibetan_SinglePartition" switchRate="@bcov_s.s:Tibetan_SinglePartition" vfrequencies="@frequencies.s:Tibetan_SinglePartition">
+                        <parameter id="hiddenfrequencies.s:Tibetan_SinglePartition" spec="parameter.RealParameter" dimension="2" estimate="false" lower="0.0" name="hfrequencies" upper="1.0">0.5 0.5</parameter>
+                        <frequencies id="dummyfrequencies.s:Tibetan_SinglePartition" spec="Frequencies" data="@Tibetan_SinglePartition" estimate="false"/>
+                    </substModel>
+                </siteModel>
+                <branchRateModel id="RelaxedClock.c:clock" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:clock" rateCategories="@rateCategories.c:clock" tree="@Tree.t:tree">
+                    <LogNormal id="LogNormalDistributionModel.c:clock" S="@ucldStdev.c:clock" meanInRealSpace="true" name="distr">
+                        <parameter id="RealParameter.3" spec="parameter.RealParameter" estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                    </LogNormal>
+                </branchRateModel>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="bcovAlphaScaler.s:Tibetan_SinglePartition" spec="ScaleOperator" parameter="@bcov_alpha.s:Tibetan_SinglePartition" weight="0.1"/>
+
+    <operator id="bcovSwitchParamScaler.s:Tibetan_SinglePartition" spec="ScaleOperator" parameter="@bcov_s.s:Tibetan_SinglePartition" weight="0.1"/>
+
+    <operator id="frequenciesDelta.s:Tibetan_SinglePartition" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
+        <parameter idref="frequencies.s:Tibetan_SinglePartition"/>
+    </operator>
+
+    <operator id="FixMeanMutationRatesOperator" spec="DeltaExchangeOperator" delta="0.75" weight="2.0">
+        <parameter idref="mutationRate.s:Tibetan_SinglePartition"/>
+        <weightvector id="weightparameter" spec="parameter.IntegerParameter" estimate="false" lower="0" upper="0">453</weightvector>
+    </operator>
+
+    <operator id="ucldMeanScaler.c:clock" spec="ScaleOperator" parameter="@ucldMean.c:clock" scaleFactor="0.5" weight="1.0"/>
+
+    <operator id="ucldStdevScaler.c:clock" spec="ScaleOperator" parameter="@ucldStdev.c:clock" scaleFactor="0.5" weight="3.0"/>
+
+    <operator id="CategoriesRandomWalk.c:clock" spec="IntRandomWalkOperator" parameter="@rateCategories.c:clock" weight="10.0" windowSize="1"/>
+
+    <operator id="CategoriesSwapOperator.c:clock" spec="SwapOperator" intparameter="@rateCategories.c:clock" weight="10.0"/>
+
+    <operator id="CategoriesUniform.c:clock" spec="UniformOperator" parameter="@rateCategories.c:clock" weight="10.0"/>
+
+    <operator id="relaxedUpDownOperator.c:clock" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="ucldMean.c:clock"/>
+        <down idref="Tree.t:tree"/>
+    </operator>
+
+    <operator id="tipDatesSampler.SiniticOldChinese.leaf" spec="TipDatesRandomWalker" taxonset="@SiniticOldChinese.leaf" tree="@Tree.t:tree" weight="1.0" windowSize="1.0"/>
+
+    <operator id="divRateScalerFBD.t:tree" spec="ScaleOperator" parameter="@diversificationRateFBD.t:tree" weight="10.0"/>
+
+    <operator id="turnoverScalerFBD.t:tree" spec="ScaleOperator" parameter="@turnoverFBD.t:tree" weight="10.0"/>
+
+    <operator id="samplingPScalerFBD.t:tree" spec="ScaleOperator" parameter="@samplingProportionFBD.t:tree" weight="10.0"/>
+
+    <operator id="LeafToSAFBD.t:tree" spec="LeafToSampledAncestorJump" tree="@Tree.t:tree" weight="10.0"/>
+
+    <operator id="SAWilsonBaldingFBD.t:tree" spec="SAWilsonBalding" tree="@Tree.t:tree" weight="10.0"/>
+
+    <operator id="SAWideFBD.t:tree" spec="SAExchange" isNarrow="false" tree="@Tree.t:tree" weight="10.0"/>
+
+    <operator id="SANarrowFBD.t:tree" spec="SAExchange" tree="@Tree.t:tree" weight="10.0"/>
+
+    <operator id="SAUniformOperatorFBD.t:tree" spec="SAUniform" tree="@Tree.t:tree" weight="20.0"/>
+
+    <operator id="SATreeRootScalerFBD.t:tree" spec="SAScaleOperator" rootOnly="true" scaleFactor="0.95" tree="@Tree.t:tree" weight="1.0"/>
+
+    <operator id="SATreeScalerFBD.t:tree" spec="SAScaleOperator" scaleFactor="0.95" tree="@Tree.t:tree" weight="3.0"/>
+
+    <operator id="originScalerFBD.t:tree" spec="ScaleOperator" parameter="@originFBD.t:tree" weight="3.0"/>
+
+    <logger id="tracelog" spec="Logger" fileName="Tibetan_SinglePartition_Covarion_StrongRootlog" logEvery="10000" model="@posterior" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.Tibetan_SinglePartition"/>
+        <log id="TreeHeight.t:tree" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:tree"/>
+        <log idref="mutationRate.s:Tibetan_SinglePartition"/>
+        <log idref="bcov_alpha.s:Tibetan_SinglePartition"/>
+        <log idref="bcov_s.s:Tibetan_SinglePartition"/>
+        <log idref="frequencies.s:Tibetan_SinglePartition"/>
+        <log idref="ucldMean.c:clock"/>
+        <log idref="ucldStdev.c:clock"/>
+        <log id="rate.c:clock" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@RelaxedClock.c:clock" tree="@Tree.t:tree"/>
+        <log idref="Tibetan.prior"/>
+        <log idref="SiniticOldChinese.leaf.prior"/>
+        <log idref="Root.prior"/>
+        <log idref="FBD.t:tree"/>
+        <log idref="diversificationRateFBD.t:tree"/>
+        <log idref="turnoverFBD.t:tree"/>
+        <log idref="samplingProportionFBD.t:tree"/>
+        <log id="SACountFBD.t:tree" spec="beast.evolution.tree.SampledAncestorLogger" tree="@Tree.t:tree"/>
+        <log idref="originFBD.t:tree"/>
+    </logger>
+
+    <logger id="screenlog" spec="Logger" logEvery="1000">
+        <log idref="posterior"/>
+        <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:tree" spec="Logger" fileName="Tibetan_SinglePartition_Covarion_StrongRoot.trees" logEvery="10000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:tree" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:clock" tree="@Tree.t:tree"/>
+    </logger>
+
+</run>
+
+</beast>

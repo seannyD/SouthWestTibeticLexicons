@@ -1,0 +1,87 @@
+ID	X	ID.1	DOCULECT	CONCEPT	IPA	COUNTERPART	COGID	SEGMENTS	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	DUPLICATES	SOURCE	TOKENS	OLDCOG	ALIGNMENT
+3715	NA	35795	S_Japhug	KNIFE	mbrɯtɕɯ	NA	100000	m b r ɯ tɕ ɯ				0			NA	OLD	m b r ɯ tɕ ɯ	100000	
+3716	NA	33398	S_Lisu	KNIFE	ɑ⁵⁵thɑ³¹	NA	100000	ɑ th ɑ				0			NA	OLD	ɑ th ɑ	100000	
+3717	NA	48515	S_Mikir	KNIFE	nok	NA	100000	n o k				0			NA	OLD	n o k	100000	
+3718	NA	48184	S_Tangut	KNIFE	bjɨr	NA	100000	b jɨ r				0			NA	OLD	b jɨ r	100000	
+3719	NA	27738	S_Daofu	KNIFE	pə rzi	NA	103645	p ə r z i				0			NA	OLD	p ə r z i	103645	p - ə r - z i
+3720	NA	40747	S_Japhug	KNIFE	mbrɯtɕɯ	NA	103645	mb r ɯ tɕ ɯ				0			NA	OLD	mb r ɯ tɕ ɯ	103645	mb r ɯ tɕ ɯ - -
+3721	NA	27750	S_rGyalrong_Maerkang	KNIFE	mbə rtsɑ	NA	103645	m b ə r ts ɑ				0			NA	OLD	m b ə r ts ɑ	103645	m b ə r - ts ɑ
+3722	NA	41657	S_Wobzi_Khroskyabs	KNIFE	bərzé	NA	103645	b ə rz é				0			NA	OLD	b ə rz é	103645	b - ə rz é - -
+3723	NA	34617	S_Bokar	KNIFE	o jok	NA	103647	o j o k				0			NA	OLD	o j o k	103647	
+3724	NA	31587	S_Darang_Taraon	KNIFE	tɑ³¹ɹɑ⁵⁵	NA	103648	t ɑ ɹ ɑ				0			NA	OLD	t ɑ ɹ ɑ	103648	t ɑ ɹ ɑ -
+3725	NA	28360	S_Yidu	KNIFE	e⁵⁵ ɹɑ⁵⁵	NA	103648	e ɹ ɑ				0			NA	OLD	e ɹ ɑ	103648	- e ɹ ɑ -
+3726	NA	30266	S_Dulong	KNIFE	ɕɑm⁵³	NA	103649	ɕ ɑ m				0			NA	OLD	ɕ ɑ m	103649	
+3727	888	302	Jirel	KNIFE	tɕʰuɹa	Knife:	103655	t ɕʰ u ɹ a	1 3 7 5 7	ACXBZ	TSYRA	2	2.T.C 2.S.C 2.Y.V 2.R.C 2.A.V	2.0 1.5 1.5 1.75 0.8	0			NA	- - t ɕʰ u - - ɹ a
+3728	889	303	Jirel	KNIFE	tsəku	Knife:	103655	t s ə k u	1 3 7 1 7	ACXBZ	TSEKY	2	2.T.C 2.S.C 2.E.V 2.K.C 2.Y.V	2.0 1.5 1.5 1.75 0.8	0			NA	- - t s ə k u - -
+3729	891	817	Lowa	KNIFE	tʰi	Knife:(Mid-)Rise	103655	tʰ i	1 7	AX	TI	4	4.T.C 4.I.V	2.0 1.5	0			NA	- - tʰ - i - - - -
+3730	892	1074	Nubri	KNIFE	tuku	Knife:(Low-)Rise	103655	t u k u	1 7 1 7	AXBZ	TYKY	5	5.T.C 5.Y.V 5.K.C 5.Y.V	2.0 1.5 1.75 0.8	0			NA	- - t - u k u - -
+3731	893	1326	Sherpa	KNIFE	tʰitɕjuŋ	Knife:(…)Rise	103655	tʰ i t ɕ j u ŋ	1 7 1 3 6 7 4	AXBCCYN	TITSJYN	6	6.T.C 6.I.V 6.T.C 6.S.C 6.J.C 6.Y.V 6.N.c	2.0 1.5 1.75 1.5 1.5 1.3 0.8	0			NA	tʰ i t ɕ - j u ŋ -
+3732	894	1571	Tsum	KNIFE	tʰɹiu	Knife:Low-Rise	103655	tʰ ɹ iu	1 5 7	ACX	TRI	7	7.T.C 7.R.C 7.I.V	2.0 1.5 1.5	0			NA	- - tʰ - - - - ɹ iu
+3733	NA	42174	S_Garo	KNIFE	chu-ri	NA	103655	ch u r i				0			NA	OLD	ch u r i	103655	- - ch - u - - r i
+3734	NA	42375	S_Old_Tibetan	KNIFE	gri	NA	103655	g r i				0			NA	OLD	g r i	103655	- - - - - g - r i
+3735	NA	25725	S_Tibetan_Alike	KNIFE	cçə	NA	103655	cç ə				0			NA	OLD	cç ə	103655	- - - - - cç ə - -
+3736	NA	34426	S_Tibetan_Alike	KNIFE	tɕə	NA	103655	tɕ ə				0			NA	OLD	tɕ ə	103655	- - tɕ - ə - - - -
+3737	NA	31670	S_Tibetan_Batang	KNIFE	tʂɪ²³¹	NA	103655	tʂ ɪ				0			NA	OLD	tʂ ɪ	103655	- - tʂ - ɪ - - - -
+3738	NA	28015	S_Tibetan_Lhasa	KNIFE	tʂhi¹³	NA	103655	tʂh i				0			NA	OLD	tʂh i	103655	- - tʂh - i - - - -
+3739	NA	25778	S_Tibetan_Xiahe	KNIFE	tɕə	NA	103655	tɕ ə				0			NA	OLD	tɕ ə	103655	- - tɕ - ə - - - -
+3740	887	40	Gyalsumdo	KNIFE	kaɾt̪a	Knife:Mid-High	103657	k a ɾ t̪ a	1 7 5 1 7	AXMBZ	KARTA	1	1.K.C 1.A.V 1.R.c 1.T.C 1.A.V	2.0 1.5 1.1 1.75 0.8	0			NA	k a ɾ t̪ a
+3741	890	563	Kagate	KNIFE	kart̪a	Knife:High	103657	k a r t̪ a	1 7 5 1 7	AXMBZ	KARTA	3	3.K.C 3.A.V 3.R.c 3.T.C 3.A.V	2.0 1.5 1.1 1.75 0.8	0			NA	k a r t̪ a
+3742	895	1834	Yolmo	KNIFE	kaɹt̪a	Knife:High	103657	k a ɹ t̪ a	1 7 5 1 7	AXMBZ	KARTA	8	8.K.C 8.A.V 8.R.c 8.T.C 8.A.V	2.0 1.5 1.1 1.75 0.8	0			NA	k a ɹ t̪ a
+3743	NA	40748	S_Khaling	KNIFE	kerdo	NA	103657	k e r d o				0			NA	OLD	k e r d o	103657	
+3744	NA	40749	S_Limbu	KNIFE	cɛpsa	NA	103658	c ɛ p s a				0			NA	OLD	c ɛ p s a	103658	
+3745	NA	41274	S_Old_Burmese	KNIFE	dāḥ	NA	103873	d ā ḥ				0			NA	OLD	d ā ḥ	103873	
+3746	NA	26699	S_Jingpho	KNIFE	n³¹thu³³	NA	103978	n th u				0			NA	OLD	n th u	103978	
+3747	NA	30358	S_Motuo_Menba	KNIFE	tɕho waŋ	NA	104504	tɕh o w a ŋ				0			NA	OLD	tɕh o w a ŋ	104504	
+3748	NA	31522	S_Zhaba_Daofu_County	KNIFE	dʐʌ³³ zʌ⁵⁵	NA	104853	dʐ ʌ z ʌ				0			NA	OLD	dʐ ʌ z ʌ	104853	
+3749	NA	40891	S_Old_Chinese	KNIFE	Ctˤaw	NA	105130	C/ tˤ a w				0			NA	OLD	C/ tˤ a w	105130	
+3750	NA	42752	S_Hakha_Chin	KNIFE	namte	NA	105131	n âa m				0			NA	OLD	n âa m	105131	
+3751	NA	41921	S_Chepang	KNIFE	naʔ.suyʔ 	NA	105288	n a ʔ s u y ʔ 				0			NA	OLD	n a ʔ s u y ʔ 	105288	
+3752	NA	42423	S_Thulung	KNIFE	betho	NA	105635	b e th o				0			NA	OLD	b e th o	105635	
+3753	NA	43027	S_Bunan	KNIFE	kʰur	NA	106172	kʰ u r				0			NA	OLD	kʰ u r	106172	
+3754	NA	43117	S_Bunan	KNIFE	tɕaku	NA	106503	tɕ a k u				0			NA	OLD	tɕ a k u	106503	
+3755	NA	43429	S_Rongpo	KNIFE	cəku	NA	106503	tʃ ə k u				0			NA	OLD	tʃ ə k u	106503	
+3756	NA	43957	S_Bantawa	KNIFE	curi	NA	106616	ts u r i				0			NA	OLD	ts u r i	106616	
+3757	NA	43958	S_Bantawa	KNIFE	dabi	NA	106617	d a b i				0			NA	OLD	d a b i	106617	
+993715	NA	99935795	S_Japhug	KNIFEALT	mbrɯtɕɯ	NA	9100000	m b r ɯ tɕ ɯ				0			NA	OLD	m b r ɯ tɕ ɯ	100000	
+993716	NA	99933398	S_Lisu	KNIFEALT	ɑ⁵⁵thɑ³¹	NA	9100000	ɑ th ɑ				0			NA	OLD	ɑ th ɑ	100000	
+993717	NA	99948515	S_Mikir	KNIFEALT	nok	NA	9100000	n o k				0			NA	OLD	n o k	100000	
+993718	NA	99948184	S_Tangut	KNIFEALT	bjɨr	NA	9100000	b jɨ r				0			NA	OLD	b jɨ r	100000	
+993719	NA	99927738	S_Daofu	KNIFEALT	pə rzi	NA	9103645	p ə r z i				0			NA	OLD	p ə r z i	103645	p - ə r - z i
+993720	NA	99940747	S_Japhug	KNIFEALT	mbrɯtɕɯ	NA	9103645	mb r ɯ tɕ ɯ				0			NA	OLD	mb r ɯ tɕ ɯ	103645	mb r ɯ tɕ ɯ - -
+993721	NA	99927750	S_rGyalrong_Maerkang	KNIFEALT	mbə rtsɑ	NA	9103645	m b ə r ts ɑ				0			NA	OLD	m b ə r ts ɑ	103645	m b ə r - ts ɑ
+993722	NA	99941657	S_Wobzi_Khroskyabs	KNIFEALT	bərzé	NA	9103645	b ə rz é				0			NA	OLD	b ə rz é	103645	b - ə rz é - -
+993723	NA	99934617	S_Bokar	KNIFEALT	o jok	NA	9103647	o j o k				0			NA	OLD	o j o k	103647	
+993724	NA	99931587	S_Darang_Taraon	KNIFEALT	tɑ³¹ɹɑ⁵⁵	NA	9103648	t ɑ ɹ ɑ				0			NA	OLD	t ɑ ɹ ɑ	103648	t ɑ ɹ ɑ -
+993725	NA	99928360	S_Yidu	KNIFEALT	e⁵⁵ ɹɑ⁵⁵	NA	9103648	e ɹ ɑ				0			NA	OLD	e ɹ ɑ	103648	- e ɹ ɑ -
+993726	NA	99930266	S_Dulong	KNIFEALT	ɕɑm⁵³	NA	9103649	ɕ ɑ m				0			NA	OLD	ɕ ɑ m	103649	
+993727	888	999302	Jirel	KNIFEALT	tɕʰuɹa	KNIFEALT:	9103655	t ɕʰ u ɹ a	1 3 7 5 7	ACXBZ	TSYRA	2	2.T.C 2.S.C 2.Y.V 2.R.C 2.A.V	2.0 1.5 1.5 1.75 0.8	0			NA	- - t ɕʰ u - - ɹ a
+993728	889	999303	Jirel	KNIFEALT	tsəku	KNIFEALT:	9103655	t s ə k u	1 3 7 1 7	ACXBZ	TSEKY	2	2.T.C 2.S.C 2.E.V 2.K.C 2.Y.V	2.0 1.5 1.5 1.75 0.8	0			NA	- - t s ə k u - -
+993729	891	999817	Lowa	KNIFEALT	tʰi	KNIFEALT:(Mid-)Rise	9103655	tʰ i	1 7	AX	TI	4	4.T.C 4.I.V	2.0 1.5	0			NA	- - tʰ - i - - - -
+993730	892	9991074	Nubri	KNIFEALT	tuku	KNIFEALT:(Low-)Rise	9103655	t u k u	1 7 1 7	AXBZ	TYKY	5	5.T.C 5.Y.V 5.K.C 5.Y.V	2.0 1.5 1.75 0.8	0			NA	- - t - u k u - -
+993731	893	9991326	Sherpa	KNIFEALT	tʰitɕjuŋ	KNIFEALT:(…)Rise	9103655	tʰ i t ɕ j u ŋ	1 7 1 3 6 7 4	AXBCCYN	TITSJYN	6	6.T.C 6.I.V 6.T.C 6.S.C 6.J.C 6.Y.V 6.N.c	2.0 1.5 1.75 1.5 1.5 1.3 0.8	0			NA	tʰ i t ɕ - j u ŋ -
+993732	894	9991571	Tsum	KNIFEALT	tʰɹiu	KNIFEALT:Low-Rise	9103655	tʰ ɹ iu	1 5 7	ACX	TRI	7	7.T.C 7.R.C 7.I.V	2.0 1.5 1.5	0			NA	- - tʰ - - - - ɹ iu
+993733	NA	99942174	S_Garo	KNIFEALT	chu-ri	NA	9103655	ch u r i				0			NA	OLD	ch u r i	103655	- - ch - u - - r i
+993734	NA	99942375	S_Old_Tibetan	KNIFEALT	gri	NA	9103655	g r i				0			NA	OLD	g r i	103655	- - - - - g - r i
+993735	NA	99925725	S_Tibetan_Alike	KNIFEALT	cçə	NA	9103655	cç ə				0			NA	OLD	cç ə	103655	- - - - - cç ə - -
+993736	NA	99934426	S_Tibetan_Alike	KNIFEALT	tɕə	NA	9103655	tɕ ə				0			NA	OLD	tɕ ə	103655	- - tɕ - ə - - - -
+993737	NA	99931670	S_Tibetan_Batang	KNIFEALT	tʂɪ²³¹	NA	9103655	tʂ ɪ				0			NA	OLD	tʂ ɪ	103655	- - tʂ - ɪ - - - -
+993738	NA	99928015	S_Tibetan_Lhasa	KNIFEALT	tʂhi¹³	NA	9103655	tʂh i				0			NA	OLD	tʂh i	103655	- - tʂh - i - - - -
+993739	NA	99925778	S_Tibetan_Xiahe	KNIFEALT	tɕə	NA	9103655	tɕ ə				0			NA	OLD	tɕ ə	103655	- - tɕ - ə - - - -
+993740	887	99940	Gyalsumdo	KNIFEALT	kaɾt̪a	KNIFEALT:Mid-High	9103657	k a ɾ t̪ a	1 7 5 1 7	AXMBZ	KARTA	1	1.K.C 1.A.V 1.R.c 1.T.C 1.A.V	2.0 1.5 1.1 1.75 0.8	0			NA	k a ɾ t̪ a
+993741	890	999563	Kagate	KNIFEALT	kart̪a	KNIFEALT:High	9103657	k a r t̪ a	1 7 5 1 7	AXMBZ	KARTA	3	3.K.C 3.A.V 3.R.c 3.T.C 3.A.V	2.0 1.5 1.1 1.75 0.8	0			NA	k a r t̪ a
+993742	895	9991834	Yolmo	KNIFEALT	kaɹt̪a	KNIFEALT:High	9103657	k a ɹ t̪ a	1 7 5 1 7	AXMBZ	KARTA	8	8.K.C 8.A.V 8.R.c 8.T.C 8.A.V	2.0 1.5 1.1 1.75 0.8	0			NA	k a ɹ t̪ a
+993743	NA	99940748	S_Khaling	KNIFEALT	kerdo	NA	9103657	k e r d o				0			NA	OLD	k e r d o	103657	
+993744	NA	99940749	S_Limbu	KNIFEALT	cɛpsa	NA	9103658	c ɛ p s a				0			NA	OLD	c ɛ p s a	103658	
+993745	NA	99941274	S_Old_Burmese	KNIFEALT	dāḥ	NA	9103873	d ā ḥ				0			NA	OLD	d ā ḥ	103873	
+993746	NA	99926699	S_Jingpho	KNIFEALT	n³¹thu³³	NA	9103978	n th u				0			NA	OLD	n th u	103978	
+993747	NA	99930358	S_Motuo_Menba	KNIFEALT	tɕho waŋ	NA	9104504	tɕh o w a ŋ				0			NA	OLD	tɕh o w a ŋ	104504	
+993748	NA	99931522	S_Zhaba_Daofu_County	KNIFEALT	dʐʌ³³ zʌ⁵⁵	NA	9104853	dʐ ʌ z ʌ				0			NA	OLD	dʐ ʌ z ʌ	104853	
+993749	NA	99940891	S_Old_Chinese	KNIFEALT	Ctˤaw	NA	9105130	C/ tˤ a w				0			NA	OLD	C/ tˤ a w	105130	
+993750	NA	99942752	S_Hakha_Chin	KNIFEALT	namte	NA	9105131	n âa m				0			NA	OLD	n âa m	105131	
+993751	NA	99941921	S_Chepang	KNIFEALT	naʔ.suyʔ 	NA	9105288	n a ʔ s u y ʔ 				0			NA	OLD	n a ʔ s u y ʔ 	105288	
+993752	NA	99942423	S_Thulung	KNIFEALT	betho	NA	9105635	b e th o				0			NA	OLD	b e th o	105635	
+993753	NA	99943027	S_Bunan	KNIFEALT	kʰur	NA	9106172	kʰ u r				0			NA	OLD	kʰ u r	106172	
+993754	NA	99943117	S_Bunan	KNIFEALT	tɕaku	NA	9106503	tɕ a k u				0			NA	OLD	tɕ a k u	106503	
+993755	NA	99943429	S_Rongpo	KNIFEALT	cəku	NA	9106503	tʃ ə k u				0			NA	OLD	tʃ ə k u	106503	
+993756	NA	99943957	S_Bantawa	KNIFEALT	curi	NA	9106616	ts u r i				0			NA	OLD	ts u r i	106616	
+993757	NA	99943958	S_Bantawa	KNIFEALT	dabi	NA	9106617	d a b i				0			NA	OLD	d a b i	106617	
