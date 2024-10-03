@@ -1,0 +1,44 @@
+#NEXUS
+
+BEGIN TAXA;
+TITLE Taxa;
+DIMENSIONS NTAX=14;
+TAXLABELS
+Alike
+Batang
+Gyalsumdo
+Jirel
+Kagate
+Lhasa
+Lowa
+Nubri
+OldChinese
+OldTibetan
+Sherpa
+Tsum
+Xiahe
+Yolmo
+;
+END;
+
+BEGIN CHARACTERS;
+TITLE  Character_Matrix;
+LINK TAXA = Taxa;
+DIMENSIONS  NCHAR=8;
+FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="01";
+MATRIX
+Alike 0 0 0 0 0 1 0 0
+Batang 0 0 0 0 1 0 0 0
+Gyalsumdo 0 0 0 1 0 0 0 0
+Jirel 0 0 0 1 0 0 0 0
+Kagate 0 0 1 0 0 0 0 0
+Lhasa 0 0 0 1 0 0 0 0
+Lowa 0 1 0 0 0 0 0 0
+Nubri 0 0 1 0 0 0 0 0
+OldChinese 0 0 0 0 0 0 0 1
+OldTibetan 0 0 0 1 0 0 0 0
+Sherpa 0 0 1 0 0 0 0 0
+Tsum 0 0 1 0 0 0 0 0
+Xiahe 0 0 0 0 0 0 1 0
+Yolmo 0 0 0 1 0 0 0 0
+;

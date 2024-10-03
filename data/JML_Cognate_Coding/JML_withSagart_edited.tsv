@@ -1,0 +1,1421 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGIDS	COGID	ALIGNMENT	NOTE
+1	Gyalsumdo	Body	suɡu	suɡu	s u + g u	body _body	257 256	84	s u - + g u	
+269	Jirel	Body	dziu	dziu	dz iu	body	257	85	dz iu	
+529	Kagate	Body	dzubu	dzubu	dz u + b u	body _:bu-suffix/bu	257 258	85	dz u + b u	
+781	Lowa	Body	suʔ	suʔ	s u.ʔ	body	257	84	s u.ʔ	
+1041	Nubri	Body	su	su	s u	body	257	84	s u -	
+1292	Sherpa	Body	dzubu	dzubu	dz u + b u	body _:bu-suffix/bu	257 258	85	dz u + b u	
+1537	Tsum	Body	zu	zu	z u	body	257	84	z u -	
+1800	Yolmo	Body	ndzuɡu	ndzuɡu	ⁿdz u + g u	body _body	257 256	85	ⁿdz u + g u	
+4	Gyalsumdo	Face	ŋot̪oŋ	ŋot̪oŋ	ŋ o + t̪ o.ŋ	_face/ŋo face/toŋ	837 838	256	ŋ o + t̪ o.ŋ	[x]
+272	Jirel	Face	tɕʰet̪	tɕʰet̪	tɕʰ e.t̪	face/tshet	839	258	tɕʰ e.t̪	
+532	Kagate	Face	t̪oŋba	t̪oŋba	t̪ o.ŋ + b a	face/toŋ _:ba-suffix/ba	838 840	256	t̪ o.ŋ + b a	[x]
+785	Lowa	Face	ŋot̪oŋ	ŋot̪oŋ	ŋ o + t̪ o.ŋ	_face/ŋo face/toŋ	837 838	256	ŋ o + t̪ o.ŋ	[x]
+1044	Nubri	Face	tɕuŋu	tɕuŋu	tɕ u + ŋ u	face _face/ŋo	841 837	257	tɕ u + ŋ u	[ ] check cognacy
+1295	Sherpa	Face	ŋot̪oŋ	ŋot̪oŋ	ŋ o + t̪ o.ŋ	_face/ŋo face/toŋ	837 838	256	ŋ o + t̪ o.ŋ	[x]
+1540	Tsum	Face	tɕeʔ	tɕeʔ	tɕ e.ʔ	face/tshet	839	258	tɕ e.ʔ	
+1803	Yolmo	Face	t̪oŋba	t̪oŋba	t̪ o.ŋ + b a	face/toŋ _:ba-suffix/ba	838 840	256	t̪ o.ŋ + b a	[x]
+13	Gyalsumdo	Breast	ɦoma	ɦoma	ɦ o + m a	breast-1 mother	352 1807	117	ɦ o + m a	[x]
+279	Jirel	Breast	n̪uma	n̪uma	!n̪/Ø !u/o + m a	breast-1 mother	352 1807	117	!n̪/Ø !u/o + m a	[i] Exception confirmed via internal comparison.
+539	Kagate	Breast	oma	oma	o + m a	breast-1 mother	352 1807	117	- o + m a	[x]
+540	Kagate	Breast	praŋɡok	praŋɡok	p.r a.ŋ + g o.k	breast/praŋ breast-2/go	357 358	119	p.r a.ŋ + g o.k	[x]
+792	Lowa	Breast	oma	oma	o + m a	breast-1 mother	352 1807	117	- o + m a	[x]
+1051	Nubri	Breast	tɕju	tɕju	tɕ.j u	breast	355	122	tɕ.j u	[x]
+1302	Sherpa	Breast	oma	oma	o + m a	breast-1 mother	352 1807	117	- o + m a	[x]
+1547	Tsum	Breast	paʔ	paʔ	p a.ʔ	breast	356	123	p a.ʔ	[x]
+1810	Yolmo	Breast	praŋɡo	praŋɡo	p.r a.ŋ + g o	breast/praŋ breast-2/go	357 358	119	p.r a.ŋ + g o	[x]
+1811	Yolmo	Breast	woma	woma	w o + m a	breast-1 mother	352 1807	117	w o + m a	[x]
+14	Gyalsumdo	Belly	toba	toba	t o + b a	belly/to _:pa-suffix/pa	183 10	11	t o + b a	[x]
+280	Jirel	Belly	suba	suba	s u + b a	belly/su _:pa-suffix/pa	185 10	9	s u + b a	[x]
+541	Kagate	Belly	topa	topa	t o + p a	belly/to _:pa-suffix/pa	183 10	11	t o + p a	[x]
+793	Lowa	Belly	pʰowa	pʰowa	pʰ o + w a	belly/pho _:wa-suffix	184 187	63	pʰ o + w a	[x]
+1052	Nubri	Belly	topa	topa	t o + p a	belly/to _:pa-suffix/pa	183 10	11	t o + p a	[x]
+1303	Sherpa	Belly	tʰopa	tʰopa	tʰ o + p a	belly/to _:pa-suffix/pa	183 10	11	tʰ o + p a	[x]
+1548	Tsum	Belly	pʰowa	pʰowa	pʰ o + w a	belly/pho _:wa-suffix/wa	184 187	63	pʰ o + w a	[x]
+1812	Yolmo	Belly	pʰo	pʰo	pʰ o	belly/pho	184	63	pʰ o	[x]
+100362	S_Old_Tibetan	Belly	pʰo.ba	pʰo.ba	pʰ o b a			11	pʰ o b a - - -	From Sagart et al.
+100392	S_Old_Chinese	Belly	puk	puk	p u k			110241	- - - - - - - - p u k - -	From Sagart et al.
+16	Gyalsumdo	Elbow	temaɲuŋ	temaɲuŋ	t e + m a + ɲ u.ŋ	elbow/ta _:ma-suffix/ma elbow/nuŋ	774 1442 776	238	t e + m a - + ɲ u.ŋ	[?]
+282	Jirel	Elbow	kuin̪a	kuin̪a	k ui + n̪ a	elbow/kui elbow/na	777 778	243	k ui + n̪ a	[?]
+543	Kagate	Elbow	uti	uti	u + t i	/u elbow/ti	779 39	237	u + t i -	[?]
+795	Lowa	Elbow	tamo	tamo	t a + m o	elbow/ta _:mu-suffix/mo	40 775	13	t a - + m o	[?]
+1054	Nubri	Elbow	tsʰikt̪oʔ	tsʰikt̪oʔ	tsʰ i.k + t̪ o.ʔ	ELBOW _elbow	41 781	14	tsʰ i.k + t̪ o.ʔ	[?]
+1305	Sherpa	Elbow	laɡpatsʰi	laɡpatsʰi	l a.g + p a + tsʰ i	arm/hand _:pa-suffix/pa elbow/tshi	52 10 780	237	l a.g + p a + tsʰ i	[?]
+1550	Tsum	Elbow	tɹejoʔ	tɹejoʔ	t.ɹ e + j o.ʔ	ELBOW _elbow	774 784	15	t.ɹ e + j o.ʔ	[?]
+1814	Yolmo	Elbow	laɡpatsi	laɡpatsi	l a.g + p a + ts i	arm/hand _:pa-suffix/pa elbow/tshi	52 10 780	237	l a.g + p a + ts i	[?]
+17	Gyalsumdo	Palm	laɡpat̪ʰil	laɡpat̪ʰil	l a.g + p a + t̪ʰ i.l	_arm/hand _:pa-suffix/pa palm/thil	52 10 2074	607	l a.g + p a + t̪ʰ i.l	[x]
+18	Gyalsumdo	Palm	laɡt̪ʰel	laɡt̪ʰel	l a.g + t̪ʰ e.l	_arm/hand palm/thil	52 2074	607	l a.g + t̪ʰ e.l	[x]
+283	Jirel	Palm	pəɹa	pəɹa	p ə + ɹ a	palm/pa palm/ra	2073 2075	608	p ə + ɹ a	[x]
+544	Kagate	Palm	t̪ʰaldze	t̪ʰaldze	t̪ʰ a.l + dz e	palm/thal palm/dze	2074 2076	609	t̪ʰ a.l + dz e	[x]
+796	Lowa	Palm	laɡt̪ʰil	laɡt̪ʰil	l a.g + t̪ʰ i.l	_arm/hand palm/thil	52 2074	607	l a.g + t̪ʰ i.l	[x]
+797	Lowa	Palm	laɡt̪ʰi	laɡt̪ʰi	l a.g + t̪ʰ i	_arm/hand palm/thil	52 2074	607	l a.g + t̪ʰ i	[x]
+1055	Nubri	Palm	lakpa t̪ʰil	lakpa t̪ʰil	l a.k + p a + t̪ʰ i.l	_arm/hand _:pa-suffix/pa palm/thil	52 10 2074	607	l a.k + p a + t̪ʰ i.l	[x]
+1306	Sherpa	Palm	laɡpa	laɡpa	l a.g + p a	arm/hand _:pa-suffix/pa	52 10	18	l a.g + p a	[x] As a clear colexification, this word shows a unique development.
+1551	Tsum	Palm	paɾa	paɾa	p a + ɾ a	palm/pa palm/ra	2073 2075	608	p a + ɾ a	[x]
+1815	Yolmo	Palm	laɡpan̪aŋ	laɡpan̪aŋ	l a.g + p a + n̪ a.ŋ	_arm/hand _:pa-suffix/pa palm/nang	52 10 2077	19	l a.g + p a + n̪ a.ŋ	[x]
+19	Gyalsumdo	Finger	tsuɡu	tsuɡu	ts u + g u	finger/dzu _finger/gu	951 952	292	ts u + g u	[x]
+284	Jirel	Finger	ndziu	ndziu	ⁿdz iu	finger/dzu	951	292	ⁿdz iu	[x]
+545	Kagate	Finger	t̪ʰebu	t̪ʰebu	t̪ʰ e + b u	finger/thep _finger/bu	953 954	294	t̪ʰ e + b u	[x]
+798	Lowa	Finger	ndzu	ndzu	ⁿdz u	finger/dzu	951	292	ⁿdz u	[x]
+1056	Nubri	Finger	tsuku	tsuku	ts u + k u	finger/dzu _finger/gu	951 952	292	ts u + k u	[x]
+1307	Sherpa	Finger	t̪ʰept̪ok	t̪ʰept̪ok	t̪ʰ e.p + t̪ o.k	finger/thep _finger/tok	953 955	294	t̪ʰ e.p + t̪ o.k	[x]
+1552	Tsum	Finger	ziu	ziu	z iu	finger/dzu	951	292	z iu	[x]
+1816	Yolmo	Finger	ndzuɡu	ndzuɡu	ⁿdz u + g u	finger/dzu _finger/gu	951 952	292	ⁿdz u + g u	[x]
+21	Gyalsumdo	Leg	kaŋpa	kaŋpa	k a.ŋ + p a	leg/kaŋ _:pa-suffix/pa	1512 10	442	k a.ŋ + p a	[x]
+286	Jirel	Leg	tʰekpa	tʰekpa	tʰ e.k + p a	leg/thek _:pa-suffix/pa	1514 10	20	tʰ e.k + p a	[x]
+547	Kagate	Leg	kaŋba	kaŋba	k a.ŋ + b a	leg/kaŋ _:pa-suffix/pa	1512 10	442	k a.ŋ + b a	[x]
+800	Lowa	Leg	kaŋpa	kaŋpa	k a.ŋ + p a	leg/kaŋ _:pa-suffix/pa	1512 10	442	k a.ŋ + p a	[x]
+1058	Nubri	Leg	kaŋpa	kaŋpa	k a.ŋ + p a	leg/kaŋ _:pa-suffix/pa	1512 10	442	k a.ŋ + p a	[x]
+1309	Sherpa	Leg	kaŋba	kaŋba	k a.ŋ + b a	leg/kaŋ _:pa-suffix/pa	1512 10	442	k a.ŋ + b a	[x]
+1554	Tsum	Leg	kaŋba	kaŋba	k a.ŋ + b a	leg/kaŋ _:pa-suffix/pa	1512 10	442	k a.ŋ + b a	[x]
+1818	Yolmo	Leg	kaŋba	kaŋba	k a.ŋ + b a	leg/kaŋ _:pa-suffix/pa	1512 10	442	k a.ŋ + b a	[x]
+103896	S_Old_Tibetan	Leg	rkaŋ	rkaŋ				100000		From Sagart et al.
+22	Gyalsumdo	Skin	paɡpa	paɡpa	p a.g + p a	skin/pag _:pa-suffix/pa	2446 10	725	p a.g + p a	[x]
+23	Gyalsumdo	Skin	poɡo	poɡo	p o + g o	skin/pag /go	2447 42	725	p o + g o -	[x]
+287	Jirel	Skin	kokt̪en	kokt̪en	k o.k + t̪ e.n	skin/kwa _/ten	2448 2449	726	k o.k + t̪ e.n	[x]
+548	Kagate	Skin	koba	koba	k o + b a	skin/kwa _:pa-suffix/ba	2448 10	726	k o - + b a	[x]
+801	Lowa	Skin	pawo	pawo	p a + w o	skin/pag _skin	14 2450	725	p a + w o	[x]
+1059	Nubri	Skin	pau	pau	p au	skin/pag	2447	725	p au	[x]
+1310	Sherpa	Skin	kwa	kwa	kʷ a	skin/kwa	2448	726	kʷ a -	[x]
+1555	Tsum	Skin	koa	koa	k oa	skin/kwa	2448	726	k oa -	[x]
+1819	Yolmo	Skin	pawa	pawa	p a + w a	skin/pag _skin	2447 2450	725	p a + w a	[x]
+106174	S_Old_Chinese	Skin	pra	pra	p r a			725	p r a - - - - -	From Sagart et al.
+106175	S_Old_Tibetan	Skin	lpags	lpags	l p a g s			102885	l p a g s - - -	From Sagart et al.
+106185	S_Old_Chinese	Skin	m→paj	m→paj	m p a j			103147	) m - p a j	From Sagart et al.
+28	Gyalsumdo	Faeces	kjaɡpa	kjaɡpa	k.j a.g + p a	shit _:pa-suffix/pa	852 10	261	k.j a.g + p a	[x]
+292	Jirel	Faeces	kjakpa	kjakpa	k.j a.k + p a	shit _:pa-suffix/pa	852 10	261	k.j a.k + p a	[x]
+553	Kagate	Faeces	kjakpa	kjakpa	k.j a.k + p a	shit _:pa-suffix/pa	852 10	261	k.j a.k + p a	[x]
+806	Lowa	Faeces	kjakpa	kjakpa	k.j a.k + p a	shit _:pa-suffix/pa	852 10	261	k.j a.k + p a	[x]
+807	Lowa	Faeces	tsa	tsa	ts a	shit/tsa	855	264	ts a	[x]
+1064	Nubri	Faeces	aʔ	aʔ	a.ʔ	shit/a	854	263	a.ʔ	[x]
+1315	Sherpa	Faeces	kjakpa	kjakpa	k.j a.k + p a	shit _:pa-suffix/pa	852 10	261	k.j a.k + p a	[x]
+1560	Tsum	Faeces	aʔ	aʔ	a.ʔ	shit/a	854	263	a.ʔ	[x]
+1824	Yolmo	Faeces	kjakpa	kjakpa	k.j a.k + p a	shit _:pa-suffix/pa	852 10	261	k.j a.k + p a	[x]
+29	Gyalsumdo	Village	jul	jul	j u.l	village	3466	1055	j u.l	[x]
+293	Jirel	Village	jul	jul	j u.l	village	3466	1055	j u.l	[x]
+554	Kagate	Village	jul	jul	j u.l	village	3466	1055	j u.l	[x]
+808	Lowa	Village	toŋsep	toŋsep	t o.ŋ + s e.p	*village/toŋ *village/sep	3467 3468	1056	t o.ŋ + s e.p	[?] ← Chinese (?)
+1065	Nubri	Village	jul	jul	j u.l	village	3466	1055	j u.l	[x]
+1316	Sherpa	Village	iul	iul	i/j u.l	village	3466	1055	i/j u.l	[x]
+1317	Sherpa	Village	jul	jul	j u.l	village	3466	1055	j u.l	[x]
+1561	Tsum	Village	jul	jul	j u.l	village	3466	1055	j u.l	[x]
+1825	Yolmo	Village	jul	jul	j u.l	village	3466	1055	j u.l	[x]
+30	Gyalsumdo	House	kʰaŋpa	kʰaŋpa	kʰ a.ŋ + p a	house _:pa-suffix/pa	1383 10	402	kʰ a.ŋ + p a	[ ] check ba status
+294	Jirel	House	kʰamba	kʰamba	kʰ a.!m/ŋ + b a	house _:pa-suffix/pa	1383 10	402	kʰ a.!m/ŋ + b a	[ ] check ba status
+555	Kagate	House	kʰim	kʰim	kʰ i.m	house/khim	31	404	kʰ i.m	[x]
+809	Lowa	House	kʰaŋpa	kʰaŋpa	kʰ a.ŋ + p a	house _:pa-suffix/pa	1383 10	402	kʰ a.ŋ + p a	[ ] check ba status
+1066	Nubri	House	kʰim	kʰim	kʰ i.m	house/khim	31	404	kʰ i.m	[x]
+1318	Sherpa	House	kʰaŋba	kʰaŋba	kʰ a.ŋ + b a	house _:pa-suffix/pa	1383 10	402	kʰ a.ŋ + b a	[ ] check ba status
+1562	Tsum	House	koɹtsa	koɹtsa	k o.ɹ + ts a	house/kor house/tsa	1384 1385	405	k o.ɹ + ts a	[x]
+1563	Tsum	House	kʰim	kʰim	kʰ i.m	house/khim	31	404	kʰ i.m	[x]
+1826	Yolmo	House	kʰaŋba	kʰaŋba	kʰ a.ŋ + b a	house _:pa-suffix/pa	1383 10	402	kʰ a.ŋ + b a	[ ] check ba status
+103415	S_Old_Tibetan	House	kʰʲim	kʰʲim	kʰ j i m			404	kʰ j i m - - -	From Sagart et al.
+103442	S_Old_Chinese	House	qˤok	qˤok	qˤ o k			405	qˤ o k - ( - - - )	From Sagart et al.
+35	Gyalsumdo	Broom	tɕʰama	tɕʰama	tɕʰ a + m a	broom/tshag _:ma-suffix/ma	391 1442	21	tɕʰ - a + m a -	[x]
+298	Jirel	Broom	komuk	komuk	k o + m u.k	broom/koŋ _/muk	393 394	132	k o + m u.k	[x]
+559	Kagate	Broom	pʰema	pʰema	pʰ e + m a	broom/phe _/ma	395 392	133	pʰ e + - m a	[x]
+813	Lowa	Broom	tɕʰjaɡma	tɕʰjaɡma	tɕʰ.j a.g + m a	broom/tshag _:ma-suffix/ma	391 1442	21	tɕʰ.j a.g + m a -	[x]
+1070	Nubri	Broom	koŋmo	koŋmo	k o.ŋ + m o	broom _/mo	393 43	132	k o.ŋ + m o	[x]
+1322	Sherpa	Broom	komi	komi	k o + m i	broom/koŋ _/mi	393 392	132	k o - + - m i	[x]
+1567	Tsum	Broom	koŋmo	koŋmo	k o.ŋ + m o	broom/koŋ _/mo	393 43	132	k o.ŋ + m o	[x]
+1829	Yolmo	Broom	pʰjama	pʰjama	pʰ.j a + m a	broom/phe _/ma	396 392	133	pʰ.j a + m a	[x]
+36	Gyalsumdo	Mortar	t̪ʰasa	t̪ʰasa	t̪ʰ a + s a	MORTAR _mortar	1763 1764	514	t̪ʰ a + s a	[ ]
+37	Gyalsumdo	Mortar	 koɡtsʰum	koɡtsʰum	k o.g + tsʰ u.m	MORTAR _mortar	1768 1766	513	k o.g + tsʰ u.m	[ ]
+299	Jirel	Mortar	siləuta	siləuta	s i + l əu + t a	_mortar _mortar head	1764 1765 1217	514	s i + l əu - + t a	[ ]
+560	Kagate	Mortar	t̪olep	t̪olep	t̪ o + l e.p	MORTAR _mortar	1763 1765	514	t̪ o + l e.p	[ ]
+814	Lowa	Mortar	t̪ympo	t̪ympo	t̪ y.m + p o	MORTAR _mortar	1766 1767	515	t̪ y.m + p o	[ ]
+1071	Nubri	Mortar	koɡtsʰum	koɡtsʰum	k o.g + tsʰ u.m	MORTAR _mortar	1768 1766	513	k o.g + tsʰ u.m	[ ]
+1323	Sherpa	Mortar	ɡokjo	ɡokjo	g o + k.j o	MORTAR _mortar	1768 1769	513	g o + k.j o	[ ]
+1568	Tsum	Mortar	kombot	kombot	k o.m + b o.t	MORTAR _mortar	1768 1770	513	k o.m + b o.t	[ ]
+1830	Yolmo	Mortar	tsʰib	tsʰib	tsʰ i.b	MORTAR	1771	521	tsʰ i.b	[ ]
+1831	Yolmo	Mortar	 kuɡuɹ	kuɡuɹ	k u + g u.ɹ	MORTAR _mortar	1768 1772	513	k u + g u.ɹ	[ ]
+38	Gyalsumdo	Pestle	koɡt̪o	koɡt̪o	k o.g + t̪ o	pestle/kog pestle/to	2106 46	23	k o.g + t̪ o	[?]
+300	Jirel	Pestle	nd̪aɹd̪ok	nd̪aɹd̪ok	ⁿd a.ɹ + d̪ o.k	pestle/ndar pestle/dok	2108 45	25	ⁿd a.ɹ + d̪ o.k	[?]
+561	Kagate	Pestle	t̪imbu	t̪imbu	t̪ i.m + b u	pestle/tim _:suffix/bu	2109 2110	617	t̪ i.m + b u	[?]
+815	Lowa	Pestle	jyt̪yn	jyt̪yn	j y + t̪ y.n	pestle/ju pestle/tyn	2111 2112	620	j y + t̪ y.n	[?]
+1072	Nubri	Pestle	t̪iktsa	t̪iktsa	t̪ i.k + ts a	pestle/tik _:suffix/tsa	2107 44	27	t̪ i.k + ts a	[?]
+1324	Sherpa	Pestle	tsʰart̪um	tsʰart̪um	tsʰ a.r + t̪ u.m	pestle/tshar pestle/tum	2108 2109	616	tsʰ a.r + t̪ u.m	[?]
+1569	Tsum	Pestle	tɕʰiu	tɕʰiu	tɕʰ iu	pestle	2113	622	tɕʰ iu	[?]
+1832	Yolmo	Pestle	t̪imbu	t̪imbu	t̪ i.m + b u	pestle/tim _:suffix/bu	2109 2110	617	t̪ i.m + b u	[?]
+39	Gyalsumdo	Hammer	t̪ʰowa	t̪ʰowa	t̪ʰ o + w a	hammer _:wa-suffix	1228 1229	357	t̪ʰ o + - w a	[x]
+301	Jirel	Hammer	toktoke	toktoke	t o.k + t o + k e	hammer/tok /to /ke	48 1228 1231	22	t o.k + t o + k e	[x]
+562	Kagate	Hammer	t̪ʰwa	t̪ʰwa	t̪ʰ !Ø/o + w a	hammer _:wa-suffix	1228 1229	357	t̪ʰ !Ø/o + w a	[x]
+816	Lowa	Hammer	t̪ʰowa	t̪ʰowa	t̪ʰ o + w a	hammer _:wa-suffix	1228 1229	357	t̪ʰ o + - w a	[x]
+1073	Nubri	Hammer	t̪ʰɔ	t̪ʰɔ	t̪ʰ ɔ	hammer	1228	357	t̪ʰ ɔ	[x]
+1325	Sherpa	Hammer	t̪ʰoa	t̪ʰoa	t̪ʰ o + !Ø/w a	hammer _:wa-suffix	1228 1229	357	t̪ʰ o + !Ø/w a	[x]
+1570	Tsum	Hammer	t̪ʰoa	t̪ʰoa	t̪ʰ o + !Ø/w a	hammer _:wa-suffix	1228 1229	357	t̪ʰ o + !Ø/w a	[x]
+1833	Yolmo	Hammer	t̪ʰoa	t̪ʰoa	t̪ʰ o + !Ø/w a	hammer _:wa-suffix	1228 1229	357	t̪ʰ o + !Ø/w a	[x]
+40	Gyalsumdo	Knife	kaɾt̪a	kaɾt̪a	k a.ɾ + t̪ a	knife/kar _:suffix/ta	1458 49	422	k a.ɾ + t̪ a	[x]
+302	Jirel	Knife	tɕʰuɹa	tɕʰuɹa	tɕʰ u + ɹ a	knife/thriu _/ra	51 1461	31	tɕʰ u + ɹ a	[x]
+303	Jirel	Knife	tsəku	tsəku	ts ə + k u	knife/tse _/ku	1463 1460	424	ts ə + k u	[x]
+563	Kagate	Knife	kart̪a	kart̪a	k a.r + t̪ a	knife/kar _:suffix/ta	1458 49	422	k a.r + t̪ a	[x]
+817	Lowa	Knife	tʰi	tʰi	tʰ i	knife/thi	1459	28	tʰ - i	[x]
+1074	Nubri	Knife	tuku	tuku	t u + k u	knife/tu _/ku	50 1460	29	t - u + k u	[x]
+1326	Sherpa	Knife	tʰitɕjuŋ	tʰitɕjuŋ	tʰ i + tɕ.j u.ŋ	knife/thi /tsjung	1459 1462	28	tʰ i + tɕ.j u.ŋ	[x]
+1571	Tsum	Knife	tʰɹiu	tʰɹiu	tʰ.ɹ iu	knife/thriu	51	31	tʰ.ɹ iu	[x]
+1834	Yolmo	Knife	kaɹt̪a	kaɹt̪a	k a.ɹ + t̪ a	knife/kar _:suffix/ta	1458 49	422	k a.ɹ + t̪ a	[x]
+103734	S_Old_Tibetan	Knife	gri	gri	g r i			422	- - - - - g - r i	From Sagart et al.
+103749	S_Old_Chinese	Knife	Ctˤaw	Ctˤaw	C/ tˤ a w			105130		From Sagart et al.
+43	Gyalsumdo	Thread	kupa	kupa	k u + p a	thread _:ba-suffix/pa	2783 10	823	k u - + p a	[x]
+306	Jirel	Thread	ɕut̪ak	ɕut̪ak	ɕ u + t̪ a.k	thread /tak	2787 2786	825	ɕ u + t̪ a.k	[x]
+566	Kagate	Thread	kupa	kupa	k u + p a	thread _:ba-suffix/pa	2783 10	823	k u - + p a	[x]
+820	Lowa	Thread	kupa	kupa	k u + p a	thread _:ba-suffix/pa	2783 10	823	k u - + p a	[x]
+1077	Nubri	Thread	kupa	kupa	k u + p a	thread _:ba-suffix/pa	2783 10	823	k u - + p a	[x]
+1329	Sherpa	Thread	rut̪ak	rut̪ak	r u + t̪ a.k	thread/ru /tak	2787 2786	825	r u + t̪ a.k	[x]
+1574	Tsum	Thread	kuɾt̪oʔ	kuɾt̪oʔ	k u.ɾ + t̪ o.ʔ	thread _/to?	2783 54	823	k u.ɾ + t̪ o.ʔ	[x]
+1837	Yolmo	Thread	kupa	kupa	k u + p a	thread _:ba-suffix/pa	2783 10	823	k u - + p a	[x]
+45	Gyalsumdo	Cloth	køla	køla	k ø + l a	cloth _:suffix/lak	519 520	172	k ø - + l a -	[x]
+308	Jirel	Cloth	kʰolak	kʰolak	kʰ o + l a.k	cloth _:suffix/lak	519 520	172	kʰ o + l a.k	[x]
+568	Kagate	Cloth	kela	kela	k e + l a	cloth _:suffix/lak	519 520	172	k e - + l a -	[x]
+822	Lowa	Cloth	kolaʔ	kolaʔ	k o + l a.ʔ	cloth _:suffix/lak	519 520	172	k o + l a.ʔ	[x]
+1079	Nubri	Cloth	kalaʔ	kalaʔ	k a + l a.ʔ	cloth _:suffix/lak	519 520	172	k a + l a.ʔ	[x]
+1331	Sherpa	Cloth	madzja	madzja	m a + dz.j a	*ma *dza	521 522	174	m a + dz.j a	[?] borroring from Chinese?
+1576	Tsum	Cloth	kølaʔ	kølaʔ	k ø + l a.ʔ	cloth _:suffix/lak	519 520	172	k ø + l a.ʔ	[x]
+1839	Yolmo	Cloth	kəptɕja	kəptɕja	k ə.p + tɕ.j a	cloth _/tcja	519 522	172	k ə.p + tɕ.j a	[x]
+46	Gyalsumdo	Ring	soɹt̪ob	soɹt̪ob	s o.ɹ + t̪ o.b	ring/se ring/top	2253 2254	670	s o.ɹ + t̪ o.b	[x]
+309	Jirel	Ring	əũtʰi	əũtʰi	ə.ũ + tʰ i	ring/@u ring/thi	2255 2256	672	ə.ũ + tʰ i	[x]
+569	Kagate	Ring	sipt̪ur	sipt̪ur	s i.p + t̪ u.r	ring/se ring/top	2253 2254	670	s i.p + t̪ u.r	[x]
+823	Lowa	Ring	set̪op	set̪op	s e + t̪ o.p	ring/se ring/top	2253 2254	670	s e + t̪ o.p	[x]
+1080	Nubri	Ring	soɹt̪ob	soɹt̪ob	s o.ɹ + t̪ o.b	ring/se ring/top	2253 2254	670	s o.ɹ + t̪ o.b	[x]
+1332	Sherpa	Ring	sert̪ub	sert̪ub	s e.r + t̪ u.b	ring/se ring/top	2253 2254	670	s e.r + t̪ u.b	[x]
+1577	Tsum	Ring	sot̪ob	sot̪ob	s o + t̪ o.b	ring/se ring/top	2253 2254	670	s o + t̪ o.b	[x]
+1840	Yolmo	Ring	sit̪ub	sit̪ub	s i + t̪ u.b	ring/se ring/top	2253 2254	670	s i + t̪ u.b	[x]
+47	Gyalsumdo	Sun	ɲima	ɲima	ɲ i + m a	sun _:ma-suffix/ma	2613 11	773	ɲ i - + m a	[x]
+310	Jirel	Sun	ɲima	ɲima	ɲ i + m a	sun _ma-suffix/ma	2613 11	773	ɲ i - + m a	[x]
+570	Kagate	Sun	ŋima	ŋima	ŋ i + m a	sun _:ma-suffix/ma	2613 11	773	ŋ i - + m a	[x]
+824	Lowa	Sun	ɲima	ɲima	ɲ i + m a	sun _:ma-suffix/ma	2613 11	773	ɲ i - + m a	[x]
+1081	Nubri	Sun	ɲo	ɲo	ɲ o	sun	76	82	ɲ o -	[x]
+1333	Sherpa	Sun	ɲima	ɲima	ɲ i + m a	sun _ma-suffix/ma	2613 11	773	ɲ i - + m a	[x]
+1578	Tsum	Sun	ɲiã	ɲiã	ɲ i + !Ø/m ã/a	sun _:ma-suffix/ma	2613 11	773	ɲ i + !Ø/m ã/a	[x]
+1841	Yolmo	Sun	ɲima	ɲima	ɲ i + m a	sun _ma-suffix/ma	2613 11	773	ɲ i - + m a	[x]
+106735	S_Old_Chinese	Sun	Cnik	Cnik	C/ n i k			100083	- - - C/ - n i - - - - k - - -	From Sagart et al.
+106736	S_Old_Tibetan	Sun	ɲi.ma	ɲi.ma	ɲ i m a			773	- - - - - ɲ i - m a - - - - -	From Sagart et al.
+48	Gyalsumdo	Moon	t̪akaɹ	t̪akaɹ	t̪ a + k a.ɹ	moon/da moon/kar	15 1730	501	t̪ a + k a.ɹ	[x]
+49	Gyalsumdo	Moon	t̪awa	t̪awa	t̪ a + w a	moon/da _:wa-suffix/wa	15 1716	35	t̪ a + w a	[x]
+311	Jirel	Moon	nd̪aɡaɹ	nd̪aɡaɹ	ⁿd a + g a.ɹ	moon/da moon/kar	15 1730	501	ⁿd a + g a.ɹ	[x]
+571	Kagate	Moon	d̪aɡarmu	d̪aɡarmu	d̪ a + g a.r + m u	moon/da moon/kar _:suffix/mu	15 1730 1581	501	d̪ a + g a.r + m u	[x]
+825	Lowa	Moon	nd̪a	nd̪a	ⁿd a	moon/da	15	34	ⁿd a	[x]
+1082	Nubri	Moon	t̪a	t̪a	t̪ a	moon/da	15	34	t̪ a	[x]
+1334	Sherpa	Moon	əud̪əkar	əud̪əkar	əu + d̪ ə + k a.r	_/əu moon/da moon/kar	1732 15 1730	501	əu + d̪ ə + k a.r	[x]
+1579	Tsum	Moon	nd̪akar	nd̪akar	ⁿd a + k a.r	moon/da moon/kar	15 1730	501	ⁿd a + k a.r	[x]
+1842	Yolmo	Moon	nd̪awa	nd̪awa	ⁿd a + w a	moon/da _:wa-suffix/wa	15 1716	35	ⁿd a + w a	[x]
+104320	S_Old_Chinese	Moon	ŋʷat	ŋʷat	ŋʷ a t			101790	ŋʷ a t - - - - -	From Sagart et al.
+104356	S_Old_Tibetan	Moon	sla	sla	s l a			102081	- - - s - l a - - - -	From Sagart et al.
+51	Gyalsumdo	Star	kaɹma	kaɹma	k a.ɹ + m a	star/white _:ma-suffix/ma	2565 11	759	k a.ɹ + m a	[x]
+313	Jirel	Star	kaɹma	kaɹma	k a.ɹ + m a	star/white _ma-suffix/ma	2565 11	759	k a.ɹ + m a	[x]
+573	Kagate	Star	karma	karma	k a.r + m a	star/white _:ma-suffix/ma	2565 11	759	k a.r + m a	[x]
+827	Lowa	Star	kaɹma	kaɹma	k a.ɹ + m a	star/white _:ma-suffix/ma	2565 11	759	k a.ɹ + m a	[x]
+1084	Nubri	Star	kaɹma	kaɹma	k a.ɹ + m a	star/white _:ma-suffix/ma	2565 11	759	k a.ɹ + m a	[x]
+1336	Sherpa	Star	kərma	kərma	k ə/a.r + m a	star/white _:ma-suffix/ma	2565 11	759	k ə/a.r + m a	[x]
+1337	Sherpa	Star	kərdzjaŋ	kərdzjaŋ	k ə/a.r + dz.j a.ŋ	star/white star/dzjaŋ	2565 2567	86	k ə/a.r + dz.j a.ŋ	[x]
+1581	Tsum	Star	kaɹma	kaɹma	k a.ɹ + m a	star/white _:ma-suffix/ma	2565 11	759	k a.ɹ + m a	[x]
+1844	Yolmo	Star	kəɾma	kəɾma	k ə/a.ɾ + m a	star/white _:ma-suffix/ma	2565 11	759	k ə/a.ɾ + m a	[x]
+106601	S_Old_Tibetan	Star	skar.ma	skar.ma	s k a r m a			759	s - - k a r m a - - - - -	From Sagart et al.
+106628	S_Old_Chinese	Star	s→tsʰˤeŋ	s→tsʰˤeŋ	s tsʰˤ e ŋ			86	) s - tsʰˤ e ŋ	From Sagart et al.
+52	Gyalsumdo	Rain	nam	nam	n a.m	sky-rain	2462	642	n a.m	[x]
+314	Jirel	Rain	tɕʰjaɹba	tɕʰjaɹba	tɕʰ.j a.ɹ + b a	rain/tcjar _:pa-suffix/ba	2178 8	643	tɕʰ.j a.ɹ + b a	[x]
+574	Kagate	Rain	nam	nam	n a.m	sky-rain	2462	642	n a.m	[x]
+828	Lowa	Rain	tɕʰjawa	tɕʰjawa	tɕʰ.j a + w a	rain/tcjar _:wa-suffix	2178 2180	643	tɕʰ.j a + w a	[x]
+1085	Nubri	Rain	nam	nam	n a.m	sky-rain	2462	642	n a.m	[x]
+1338	Sherpa	Rain	tɕjarpa	tɕjarpa	tɕ.j a.r + p a	rain/tcjar _:pa-suffix/ba	2178 2179	643	tɕ.j a.r + p a	[x]
+1582	Tsum	Rain	n̪amkjaus̩	n̪amkjaus̩	n̪ a.m + k.j aus̩/au	sky-rain _kjau	2462 2178	642	n̪ a.m + k.j aus̩/au	[x]
+1845	Yolmo	Rain	n̪əm	n̪əm	n̪ ə.m	sky-rain	2462	642	n̪ ə.m	[x]
+1846	Yolmo	Rain	n̪əmɡjabzin̪	n̪əmɡjabzin̪	n̪ ə.m + g.j a b + z i n̪	sky-rain _rain _rain	2462 55 2181	642	n̪ ə.m + g.j a b + z i n̪	[x]
+54	Gyalsumdo	River	tsaŋpu	tsaŋpu	ts a.ŋ + p u	river/tsaŋ _:bu-suffix/pu	2270 1581	674	ts a.ŋ + p u	[x]
+316	Jirel	River	tʰaŋka	tʰaŋka	tʰ a.ŋ + k a	river/tsaŋ _:suffix/ka	2270 2272	674	tʰ a.ŋ + k a	[x]
+576	Kagate	River	tsaŋbu	tsaŋbu	ts a.ŋ + b u	river/tsaŋ _:bu-suffix/pu	2270 1581	674	ts a.ŋ + b u	[x]
+830	Lowa	River	tsaŋpo	tsaŋpo	ts a.ŋ + p o	river/tsaŋ _:bu-suffix/pu	2270 1581	674	ts a.ŋ + p o	[x]
+1087	Nubri	River	kjuɡtɕʰju	kjuɡtɕʰju	k.j u.g . tɕʰ.j u	river/kjug _river/tshju	2273 2274	677	k.j u.g . tɕʰ.j u	[x]
+1340	Sherpa	River	tsəŋbu	tsəŋbu	ts ə.ŋ + b u	river/tsaŋ _:bu-suffix/pu	2270 1581	674	ts ə.ŋ + b u	[x]
+1584	Tsum	River	tsaŋbo	tsaŋbo	ts a.ŋ + b o	river/tsaŋ _:bu-suffix/pu	2270 1581	674	ts a.ŋ + b o	[x]
+1848	Yolmo	River	tsəŋbu	tsəŋbu	ts ə.ŋ + b u	river/tsaŋ _:bu-suffix/pu	2270 1581	674	ts ə.ŋ + b u	[x]
+105601	S_Old_Tibetan	River	gtsaŋ.po	gtsaŋ.po	g ts a ŋ p o			647	g ts a ŋ p o	From Sagart et al.
+105633	S_Old_Chinese	River	sturʔ	sturʔ	s t u r ʔ			103998	s - t u r ʔ - - - -	From Sagart et al.
+105634	S_Old_Tibetan	River	tɕʰu	tɕʰu	tɕʰ u			103998	- - tɕʰ u - - - - - -	From Sagart et al.
+55	Gyalsumdo	Cloud	muɡpa	muɡpa	m u.g + p a	cloud/muk _pa-suffix/pa	536 10	176	m u.g + p a	[x]
+317	Jirel	Cloud	mukpa	mukpa	m u.k + p a	cloud/muk _pa-suffix/pa	536 10	176	m u.k + p a	[x]
+577	Kagate	Cloud	mukpa	mukpa	m u.k + p a	cloud/muk _pa-suffix/pa	536 10	176	m u.k + p a	[x]
+831	Lowa	Cloud	ʂɹiŋpa	ʂɹiŋpa	ʂ.ɹ i.ŋ + p a	cloud/sriŋ _:pa-suffix/pa	538 10	36	ʂ.ɹ i.ŋ + p a	[x]
+1088	Nubri	Cloud	muɡpa	muɡpa	m u.g + p a	cloud/muk _pa-suffix/pa	536 10	176	m u.g + p a	[x]
+1341	Sherpa	Cloud	mukpa	mukpa	m u.k + p a	cloud/muk _pa-suffix/pa	536 10	176	m u.k + p a	[x]
+1585	Tsum	Cloud	mukpaʔ	mukpaʔ	m u.k + p a.ʔ	cloud/muk _pa-suffix/pa	536 10	176	m u.k + p a.ʔ	[x]
+1849	Yolmo	Cloud	mukpa	mukpa	m u.k + p a	cloud/muk _pa-suffix/pa	536 10	176	m u.k + p a	[x]
+101012	S_Old_Tibetan	Cloud	sprin	sprin	s p r i n			36	s p r i n - -	From Sagart et al.
+101037	S_Old_Chinese	Cloud	ɢʷən	ɢʷən	ɢʷ ə n			101721	ɢʷ - ə n -	From Sagart et al.
+56	Gyalsumdo	Lightening	loɡmaɹ	loɡmaɹ	l o.g + m a.ɹ	lightning/lok _lightning/mar	1563 1564	457	l o.g + m a.ɹ	[x]
+318	Jirel	Lightening	tsilim	tsilim	ts i + l !i/a.m	lightning/tsi lightening/lam	1565 1566	458	ts i + l !i/a.m	[x]
+319	Jirel	Lightening	tsilam	tsilam	ts i + l a.m	lightning/tsi lightening/lam	1565 1566	458	ts i + l a.m	[x]
+578	Kagate	Lightening	milik	milik	m i + l i.k	_lightning/mi lightning/lok	1567 1563	457	m i + l i.k	[x]
+832	Lowa	Lightening	lokmaɹ	lokmaɹ	l o.k + m a.ɹ	lightning/lok _lightning/mar	1563 1564	457	l o.k + m a.ɹ	[x]
+1089	Nubri	Lightening	tuk	tuk	t u.k	lightning/tuk	1568	462	t u.k	[x]
+1342	Sherpa	Lightening	tsilam	tsilam	ts i + l a.m	lightning/tsi lightening/lam	1565 1566	458	ts i + l a.m	[x]
+1586	Tsum	Lightening	loʔ	loʔ	l o.ʔ	lightning/lok	1563	457	l o.ʔ	[x]
+1850	Yolmo	Lightening	tsiləm	tsiləm	ts i + l ə.m	lightning/tsi lightening/lam	1565 1566	458	ts i + l ə.m	[x]
+103991	S_Old_Tibetan	Lightening	glog	glog	g l o g			457	g l o g - - -	From Sagart et al.
+58	Gyalsumdo	Wind	hlawa	hlawa	h.l a + w a	wind/hla _:wa-suffix/wa	3690 56	1127	h.l a + w a	[x]
+321	Jirel	Wind	hlaba	hlaba	h.l a + b a	wind/hla _:pa-suffix/pa	3690 10	1127	h.l a + b a	[x]
+580	Kagate	Wind	hlaba	hlaba	h.l a + b a	wind/hla _:pa-suffix/pa	3690 10	1127	h.l a + b a	[x]
+834	Lowa	Wind	luŋ	luŋ	l u.ŋ	wind/luŋ	3691	1129	l u.ŋ	[x]
+835	Lowa	Wind	luŋpo	luŋpo	l u.ŋ + p o	wind/luŋ _:po-suffix	3691 3689	1129	l u.ŋ + p o	[x]
+1091	Nubri	Wind	hlawa	hlawa	h.l a + w a	wind/hla _:wa-suffix/wa	3690 56	1128	h.l a + w a	[x]
+1344	Sherpa	Wind	luŋ	luŋ	l u.ŋ	wind/luŋ	3691	1129	l u.ŋ	[x]
+1588	Tsum	Wind	hlapa	hlapa	h.l a + p a	wind/hla _:pa-suffix/pa	3690 10	1127	h.l a + p a	[x]
+1852	Yolmo	Wind	hlawa	hlawa	h.l a + w a	wind/hla _:wa-suffix/wa	3690 56	1128	h.l a + w a	[x]
+108267	S_Old_Tibetan	Wind	rluŋ	rluŋ	r l u ŋ			1129	- - r l u ŋ - -	From Sagart et al.
+108275	S_Old_Chinese	Wind	prəm	prəm	p r ə m			101856	- p r ə m	From Sagart et al.
+61	Gyalsumdo	Sand	pema	pema	p e + m a	sand/phe _:ma-suffix	2384 1442	712	p e + m a -	[x]
+324	Jirel	Sand	pʰesa	pʰesa	pʰ e + s a	sand/phe _sand/sa	2384 57	712	pʰ e + s a	[x]
+583	Kagate	Sand	pema	pema	p e + m a	sand/phe _:ma-suffix	2384 1442	712	p e + m a -	[x]
+838	Lowa	Sand	pema	pema	p e + m a	sand/phe _:ma-suffix	2384 1442	712	p e + m a -	[x]
+1094	Nubri	Sand	pɛ̃:	pɛ̃:	p ɛ̃ː/ɛ + Ø/m Ø/a	sand/phe _:ma-suffix	2384 1442	712	p ɛ̃ː/ɛ + Ø/m Ø/a -	[x]
+1347	Sherpa	Sand	pʰema	pʰema	pʰ e + m a	sand/phe _:ma-suffix	2384 1442	712	pʰ e + m a -	[x]
+1591	Tsum	Sand	ijãʔ	ijãʔ	i + j ã.ʔ	sand/i sand/jã?	2387 2388	715	i + j ã.ʔ	[x]
+1855	Yolmo	Sand	pema	pema	p e + m a	sand/phe _:ma-suffix	2384 1442	712	p e + m a -	[x]
+105902	S_Old_Tibetan	Sand	bʲe.ma	bʲe.ma	bʲ e m a			712	bʲ - e - - m a	From Sagart et al.
+105923	S_Old_Chinese	Sand	sˤraj	sˤraj	sˤ r a j			100212	) sˤ r a j	From Sagart et al.
+65	Gyalsumdo	Mud	sa	sa	s a	mud/sa	1831	534	s a	[x]
+328	Jirel	Mud	səbi	səbi	s ə + b i	mud/sa _mud/bi	1831 1832	534	s ə + b i	[x]
+587	Kagate	Mud	sebi	sebi	s e + b i	mud/sa _mud/bi	1831 1832	534	s e + b i	[x]
+842	Lowa	Mud	n̪d̪ampak	n̪d̪ampak	ⁿd̪ a.m + p a.k	mud/dam _mud/pak	1833 1834	535	ⁿd̪ a.m + p a.k	[x]
+843	Lowa	Mud	sa	sa	s a	mud/sa	1831	534	s a	[x]
+1098	Nubri	Mud	t̪ampa	t̪ampa	t̪ a.m + p a	mud/dam _mud/pak	1833 1834	535	t̪ a.m + p a	[!] could be a pa-suffix
+1351	Sherpa	Mud	t̪ʰala	t̪ʰala	t̪ʰ a + l a	mud/tha _:suffix/la	1833 1835	535	t̪ʰ a - + l a	[?] loan from Chinese?
+1595	Tsum	Mud	sa	sa	s a	mud/sa	1831	534	s a	[x]
+1859	Yolmo	Mud	sasa	sasa	s a + s a	mud/sa _mud/sa-2	1831 1836	534	s a + s a	[x]
+104647	S_Old_Tibetan	Mud	ɴdam pa	ɴdam pa	ɴ d a m p a			535	ɴ d a m - p a -	From Sagart et al.
+104656	S_Old_Chinese	Mud	Cnˤəj	Cnˤəj	C/ nˤ ə j			101802	- C/ - nˤ ə j	From Sagart et al.
+69	Gyalsumdo	Leaf	lapt̪i	lapt̪i	l a.p + t̪ i	leaf/lap _:ti-suffix/ti	62 1476	430	l a.p + t̪ i	[x]
+70	Gyalsumdo	Leaf	loma	loma	l o + m a	leaf/lo _:ma-suffix/ma	1479 1442	428	l o + m a -	[x]
+332	Jirel	Leaf	ɕjomak	ɕjomak	ɕ.j o + m a.k	leaf/sjo _:ma-suffix/mak	1477 1442	428	ɕ.j o + m a.k -	[x]
+591	Kagate	Leaf	loma	loma	l o + m a	leaf/lo _:ma-suffix/ma	1479 1442	428	l o + m a -	[x]
+847	Lowa	Leaf	loma	loma	l o + m a	leaf/lo _:ma-suffix/ma	1479 1442	428	l o + m a -	[x]
+1102	Nubri	Leaf	loma	loma	l o + m a	leaf/lo _:ma-suffix/ma	1479 1442	428	l o + m a -	[x]
+1355	Sherpa	Leaf	d̪əma	d̪əma	d̪ ə + m a	leaf/de _:ma-suffix/ma	63 1442	428	d̪ ə + m a -	[x]
+1599	Tsum	Leaf	hlawa	hlawa	h.l a + w a	leaf/lo _:ma-suffix/wa	1479 1442	428	h.l a + w a -	[x]
+1863	Yolmo	Leaf	loma	loma	l o + m a	leaf/lo _:ma-suffix/ma	1479 1442	428	l o + m a -	[x]
+103767	S_Old_Chinese	Leaf	lap	lap	l a p			430	- - - l a p - -	From Sagart et al.
+103801	S_Old_Tibetan	Leaf	lo.ma	lo.ma	l o m a			428	- - l o m a -	From Sagart et al.
+71	Gyalsumdo	Root	pat̪a	pat̪a	p a + t̪ a	root/pa _root/tak	65 30	686	p a + t̪ - a -	[x]
+333	Jirel	Root	tsapɹen	tsapɹen	ts a + p.ɹ e.n	root/tsa _root/pren	2302 2303	685	ts a + p.ɹ e.n	[x]
+592	Kagate	Root	tsarŋe	tsarŋe	ts a.r + ŋ e	root/tsa _root/ŋe	2302 2304	685	ts a.r + ŋ e	[x]
+848	Lowa	Root	tsawa	tsawa	ts a + w a	root/tsa _:wa-suffix	2302 64	685	ts a - + w a	[x]
+1103	Nubri	Root	tsa	tsa	ts a	root/tsa	2302	685	ts a -	[x]
+1356	Sherpa	Root	dzət̪ak	dzət̪ak	dz ə + t̪ a.k	root/tsa _root/tak	2302 30	685	dz ə + t̪ a.k	[x]
+1600	Tsum	Root	tɹat̪oʔ	tɹat̪oʔ	t.ɹ a + t̪ o.ʔ	root/tsa _root/tak	2302 30	686	t.ɹ a + t̪ o.ʔ	[x]
+1864	Yolmo	Root	tsaɾki	tsaɾki	ts a.ɾ + k i	root/tsa _root/ki	2302 2307	685	ts a.ɾ + k i	[x]
+105668	S_Old_Tibetan	Root	rtsa.ba	rtsa.ba	r ts a b a			685	r ts a b a	From Sagart et al.
+105692	S_Old_Chinese	Root	kˤər	kˤər	kˤ ə r			101819	- kˤ ə r	From Sagart et al.
+72	Gyalsumdo	Thorn	tsʰeɾma	tsʰeɾma	tsʰ e.ɾ + m a	thorn/tsher _:ma-suffix/ma	2745 1442	808	tsʰ e.ɾ + m a	[x]
+334	Jirel	Thorn	tsaŋ	tsaŋ	ts a.ŋ	thorn/tsaŋ	66	810	ts a.ŋ	[x]
+593	Kagate	Thorn	tsʰermaŋ	tsʰermaŋ	tsʰ e.r + m a.!ŋ/Ø	thorn/tsher _:ma-suffix/ma	2745 1442	808	tsʰ e.r + m a.!ŋ/Ø	[x] judgment on maŋ shaky
+849	Lowa	Thorn	tsʰeɾma	tsʰeɾma	tsʰ e.ɾ + m a	thorn/tsher _:ma-suffix/ma	2745 1442	808	tsʰ e.ɾ + m a	[x]
+1104	Nubri	Thorn	tsʰerma	tsʰerma	tsʰ e.r + m a	thorn/tsher _:ma-suffix/ma	2745 1442	808	tsʰ e.r + m a	[x]
+1357	Sherpa	Thorn	tsʰermaŋ	tsʰermaŋ	tsʰ e.r + m a.!ŋ/Ø	thorn/tsher _:ma-suffix/ma	2745 1442	808	tsʰ e.r + m a.!ŋ/Ø	[x] judgment on maŋ shaky
+1601	Tsum	Thorn	tsʰenma	tsʰenma	tsʰ e.!n/r + m a	thorn/tsher _:ma-suffix/ma	2745 1442	808	tsʰ e.!n/r + m a	[x]
+1865	Yolmo	Thorn	tsʰeɹma	tsʰeɹma	tsʰ e.ɹ + m a	thorn/tsher _:ma-suffix/ma	2745 1442	808	tsʰ e.ɹ + m a	[x]
+74	Gyalsumdo	Fruit	ɕiŋd̪o	ɕiŋd̪o	ɕ i.ŋ + d̪ o	tree/siŋ fruit	991 1061	308	ɕ i.ŋ + d̪ o	[x]
+336	Jirel	Fruit	pʰəlpʰul	pʰəlpʰul	pʰ ə.l + pʰ u.l	*fruit-1 *fruit-2	1062 1063	310	pʰ ə.l + pʰ u.l	[!] borrowing from Nepali
+595	Kagate	Fruit	brumd̪o	brumd̪o	b.r u.m + d̪ o	? fruit	1064 1061	308	b.r u.m + d̪ o	[x]
+851	Lowa	Fruit	ɕiŋt̪oʔ	ɕiŋt̪oʔ	ɕ i.ŋ + t̪ o.ʔ	tree/siŋ fruit	991 1061	308	ɕ i.ŋ + t̪ o.ʔ	[x]
+1106	Nubri	Fruit	ɕiŋt̪oʔ	ɕiŋt̪oʔ	ɕ i.ŋ + t̪ o.ʔ	tree/siŋ fruit	991 1061	308	ɕ i.ŋ + t̪ o.ʔ	[x]
+1359	Sherpa	Fruit	pʰalpʰul	pʰalpʰul	pʰ a.l + pʰ u.l	*fruit-1 *fruit-2	1062 1063	310	pʰ a.l + pʰ u.l	[!] borrowing from Nepali
+1603	Tsum	Fruit	ɕiŋd̪oʔ	ɕiŋd̪oʔ	ɕ i.ŋ + d̪ o.ʔ	tree/siŋ fruit	991 1061	308	ɕ i.ŋ + d̪ o.ʔ	[x]
+1867	Yolmo	Fruit	pʰəlbul	pʰəlbul	pʰ ə.l + b u.l	*fruit-1 *fruit-2	1062 1063	310	pʰ ə.l + b u.l	[!] borrowing from Nepali
+102588	S_Old_Tibetan	Fruit	ɕiŋ.tog	ɕiŋ.tog	ɕ i ŋ t o g			308	ɕ i ŋ t o g	From Sagart et al.
+102630	S_Old_Chinese	Fruit	məlit	məlit	m ə l i t			103629	m ə l i t	From Sagart et al.
+76	Gyalsumdo	Banana	keɹa	keɹa	k e + ɹ a	banana/ke banana/ra	130 131	45	k e + ɹ a	[x]
+338	Jirel	Banana	ɹeŋaɕiŋ	ɹeŋaɕiŋ	ɹ e + ŋ a + ɕ i.ŋ	banana/re banana/ŋa _tree/siŋ	131 67 991	46	ɹ e + ŋ a + ɕ i.ŋ	[?]
+597	Kagate	Banana	alamu	alamu	a + l a + m u	banana/a banana/la banana/mu	134 135 136	47	a + l a + m u	[?]
+853	Lowa	Banana	keɾa	keɾa	k e + ɾ a	banana/ke banana/ra	130 131	45	k e + ɾ a	[x]
+1108	Nubri	Banana	kela	kela	k e + l a	banana/ke banana/ra	130 131	45	k e + l a	[x]
+1361	Sherpa	Banana	kera	kera	k e + r a	banana/ke banana/ra	130 131	45	k e + r a	[x]
+1605	Tsum	Banana	keɾa	keɾa	k e + ɾ a	banana/ke banana/ra	130 131	45	k e + ɾ a	[x]
+1869	Yolmo	Banana	keɾa	keɾa	k e + ɾ a	banana/ke banana/ra	130 131	45	k e + ɾ a	[x]
+77	Gyalsumdo	Wheat (husked)	to	to	t o	wheat/to	3568	1091	t o -	[x]
+339	Jirel	Wheat (husked)	tʰa	tʰa	tʰ a	wheat/to	3568	1091	tʰ a -	[x]
+598	Kagate	Wheat (husked)	nẽjã	nẽjã	n ẽ + j ã	wheat/ne _wheat/ja	3569 3570	1092	n ẽ + j ã	[x]
+854	Lowa	Wheat (husked)	to	to	t o	wheat/to	3568	1091	t o -	[x]
+1109	Nubri	Wheat (husked)	toh	toh	t o.h	wheat/to	3568	1091	t o.h	[x]
+1362	Sherpa	Wheat (husked)	tʰa	tʰa	tʰ a	wheat/to	3568	1091	tʰ a -	[x]
+1606	Tsum	Wheat (husked)	ne	ne	n e	wheat/ne	3569	1092	n e	[x]
+1870	Yolmo	Wheat (husked)	ne	ne	n e	wheat/ne	3569	1092	n e	[x]
+78	Gyalsumdo	Barley	tsəu	tsəu	ts əu	barley	149	52	ts əu	[x]
+340	Jirel	Barley	ndzəu	ndzəu	ⁿdz əu	barley	149	52	ⁿdz əu	[x]
+599	Kagate	Barley	wa	wa	w a	barley/wa	150	54	w a	[x]
+855	Lowa	Barley	ne	ne	n e	barley/ne	151	53	n e	[x]
+1110	Nubri	Barley	n̪e:	n̪e:	n̪ eː	barley/ne	151	53	n̪ eː	[x]
+1363	Sherpa	Barley	dzəu	dzəu	dz əu	barley	149	52	dz əu	[x]
+1607	Tsum	Barley	tsau	tsau	ts au	barley	149	52	ts au	[x]
+1871	Yolmo	Barley	dzəu	dzəu	dz əu	barley	149	52	dz əu	[x]
+100296	S_Old_Tibetan	Barley	nas	nas	n a s			103247		From Sagart et al.
+79	Gyalsumdo	Rice (husked)	tɛ	tɛ	t ɛ	rice	2222	655	t - ɛ	[x]
+80	Gyalsumdo	Rice (husked)	tʰɛ	tʰɛ	tʰ ɛ	rice	2222	655	tʰ - ɛ	[x]
+341	Jirel	Rice (husked)	ɕjoɹok	ɕjoɹok	ɕ.j o + ɹ o.k	rice/sjo _rice/rok	2223 2224	656	ɕ.j o + ɹ o.k	[x]
+600	Kagate	Rice (husked)	brea	brea	b.r ea	rice/bre	2225	657	b.r ea	[x]
+856	Lowa	Rice (husked)	nde	nde	ⁿd e	rice	2222	655	ⁿd - e	[x]
+1111	Nubri	Rice (husked)	te:	te:	t eː	rice	2222	655	t - eː	[x]
+1364	Sherpa	Rice (husked)	ɕjoɹ	ɕjoɹ	ɕ.j o + ɹ !Ø/o.!Ø/k	rice/sjo _rice/rok	2223 2224	656	ɕ.j o + ɹ !Ø/o.!Ø/k	[x]
+1608	Tsum	Rice (husked)	ndɹe	ndɹe	ⁿd.ɹ e	rice	2222	655	ⁿd.ɹ e	[x]
+1872	Yolmo	Rice (husked)	mbɹe	mbɹe	ⁿb.ɹ e	rice/bre	2225	657	ⁿb.ɹ e	[x]
+81	Gyalsumdo	Potato	alo	alo	a + l o	_/a lok	2163 2164	636	a + l o -	
+342	Jirel	Potato	ɹeɡe	ɹeɡe	ɹ e + g e	potato/re potato/ke	2165 2166	635	ɹ e + g e	
+601	Kagate	Potato	he	he	h e	potato/he	2167	639	h e	
+857	Lowa	Potato	alok	alok	a + l o.k	_/a lok	2163 2164	636	a + l o.k	
+1112	Nubri	Potato	t̪ɔ:	t̪ɔ:	t̪ ɔː	potato/to	2168	640	t̪ ɔː	
+1365	Sherpa	Potato	ɹiɡi	ɹiɡi	ɹ i + g i	potato/re potato/ke	2165 2166	635	ɹ i + g i	
+1609	Tsum	Potato	keza	keza	k e + z a	potato/ke _/za	2166 2169	635	k e + z a	
+1873	Yolmo	Potato	he	he	h e	potato/he	2167	639	h e	
+83	Gyalsumdo	Groundnut	pəd̪am	pəd̪am	p ə + d̪ a.m	groundnut/be groundnut/dam	1180 1181	343	p ə + d̪ a.m	[x]
+344	Jirel	Groundnut	mbəd̪am	mbəd̪am	ⁿb ə + d̪ a.m	groundnut/be groundnut/dam	1180 1181	343	ⁿb ə + d̪ a.m	[x]
+603	Kagate	Groundnut	bəd̪am	bəd̪am	b ə + d̪ a.m	groundnut/be groundnut/dam	1180 1181	343	b ə + d̪ a.m	[x]
+859	Lowa	Groundnut	sat̪aɾ	sat̪aɾ	s a + t̪ a.ɾ	groundnut/sa groundnut/tar	1182 1183	345	s a + t̪ a.ɾ	[x]
+1114	Nubri	Groundnut	pat̪am	pat̪am	p a + t̪ a.m	groundnut/be groundnut/dam	1078 1181	343	p a + t̪ a.m	[x]
+1367	Sherpa	Groundnut	bəd̪əm	bəd̪əm	b ə + d̪ ə.m	groundnut/be groundnut/dam	1180 1181	343	b ə + d̪ ə.m	[x]
+1611	Tsum	Groundnut	bəd̪am	bəd̪am	b ə + d̪ a.m	groundnut/be groundnut/dam	1180 1181	343	b ə + d̪ a.m	[x]
+1875	Yolmo	Groundnut	bəd̪əm	bəd̪əm	b ə + d̪ ə.m	groundnut/be groundnut/dam	1180 1181	343	b ə + d̪ ə.m	[x]
+84	Gyalsumdo	Chilli	maɾtsʰa	maɾtsʰa	m a.ɾ + tsʰ a	*chilli/mir *chilli/ch	501 502	165	m a.ɾ + tsʰ a	← Hindi «mirch»
+345	Jirel	Chilli	kʰuɹɕani	kʰuɹɕani	kʰ u.ɹ + ɕ a.!ni/n	chilli/kor chilli/tsen	503 506	167	kʰ u.ɹ + ɕ a.!ni/n	← Nepali «khursānī»
+604	Kagate	Chilli	martsi	martsi	m a.r + ts i	*chilli/mir *chilli/ch	501 502	165	m a.r + ts i	← Hindi «mirch»
+860	Lowa	Chilli	maɾtsa	maɾtsa	m a.ɾ + ts a	*chilli/mir *chilli/ch	501 502	165	m a.ɾ + ts a	← Hindi «mirch»
+1115	Nubri	Chilli	kʰoɹtsʰen	kʰoɹtsʰen	kʰ o.ɹ + tsʰ e.n	chilli/kor chilli/tsen	503 506	167	kʰ o.ɹ + tsʰ e.n	← Nepali «khursānī»
+1368	Sherpa	Chilli	mərtsi	mərtsi	m ə.r + ts i	*chilli/mir *chilli/ch	501 502	165	m ə.r + ts i	← Hindi «mirch»
+1612	Tsum	Chilli	kʰulzan	kʰulzan	kʰ u.l + z a.n	chilli/kor chilli/tsen	503 506	168	kʰ u.l + z a.n	← Nepali «khursānī»
+1876	Yolmo	Chilli	mətsa	mətsa	m ə + ts a	*chilli/mir *chilli/ch	501 502	165	m ə - + ts a	← Hindi «mirch»
+85	Gyalsumdo	Turmeric	peɕaɹ	peɕaɹ	p e + ɕ a.ɹ	turmeric/pe turmeric/ser	3395 3396	1041	p e + ɕ a.ɹ	[x]
+346	Jirel	Turmeric	mbesaɹ	mbesaɹ	ⁿb e + s a.ɹ	turmeric/pe turmeric/ser	3395 3396	1041	ⁿb e + s a.ɹ	[x]
+605	Kagate	Turmeric	juŋa	juŋa	j u + ŋ a	turmeric/nju turmeric/ŋa	3397 3398	1043	j u + ŋ a	[x]
+861	Lowa	Turmeric	besaɾ	besaɾ	b e + s a.ɾ	turmeric/pe turmeric/ser	3395 3396	1041	b e + s a.ɾ	[x]
+1116	Nubri	Turmeric	peseɹ	peseɹ	p e + s e.ɹ	turmeric/pe turmeric/ser	3395 3396	1041	p e + s e.ɹ	[x]
+1369	Sherpa	Turmeric	ɲuŋa	ɲuŋa	ɲ u + ŋ a	turmeric/nju turmeric/ŋa	3397 3398	1043	ɲ u + ŋ a	[x]
+1613	Tsum	Turmeric	beset	beset	b e + s e.t	turmeric/pe turmeric/ser	3395 3396	1041	b e + s e.t	[x]
+1877	Yolmo	Turmeric	juŋa	juŋa	j u + ŋ a	turmeric/nju turmeric/ŋa	3397 3398	1043	j u + ŋ a	[x]
+87	Gyalsumdo	Onion	pjaz	pjaz	p.j a.z	onion/pjats	2054	597	p.j a.z	[x]
+348	Jirel	Onion	pjats	pjats	p.j a.ts	onion/pjats	2054	598	p.j a.ts	[x]
+607	Kagate	Onion	pjadz	pjadz	p.j a.dz	onion/pjats	2054	599	p.j a.dz	[x]
+863	Lowa	Onion	tsoŋ	tsoŋ	ts o.ŋ	*onion/cong	2055	596	ts o.ŋ	[← Chinese cong]
+1118	Nubri	Onion	tsoŋ	tsoŋ	ts o.ŋ	*onion/cong	2055	596	ts o.ŋ	[← Chinese cong]
+1371	Sherpa	Onion	pjadz	pjadz	p.j a.dz	onion/pjats	2054	600	p.j a.dz	[x]
+1615	Tsum	Onion	tsoŋɡoʔ	tsoŋɡoʔ	ts o.ŋ + g o.ʔ	*onion/cong /go	2055 2057	596	ts o.ŋ + g o.ʔ	[← Chinese cong]
+1879	Yolmo	Onion	pjats	pjats	p.j a.ts	onion/pjats	2054	602	p.j a.ts	[x]
+89	Gyalsumdo	Tomato	kolbenda	kolbenda	k o.l + b e.n + d a	*tomato/gol *tomato/be *tomato/da	3322 3323 3324	1021	k o.l + b e.n + d a	[← ?]
+350	Jirel	Tomato	ŋɡolbeda	ŋɡolbeda	ⁿg o.l + b e + d a	*tomato/gol *tomato/be *tomato/da	3322 3323 3324	1021	ⁿg o.l + b e + d a	[← ?]
+609	Kagate	Tomato	ɡolbeda	ɡolbeda	g o.l + b e + d a	*tomato/gol *tomato/be *tomato/da	3322 3323 3324	1021	g o.l + b e + d a	[← ?]
+865	Lowa	Tomato	tomato	tomato	t o + m a + t o	*tomato-1 *tomato-2 *tomato-3	3324 3325 3326	1022	t o + m a + t o	[← English tomato]
+1120	Nubri	Tomato	tumaʈa	tumaʈa	t u + m a + ʈ a	*tomato-1 *tomato-2 *tomato-3	3324 3325 3326	1022	t u + m a + ʈ a	[← English tomato]
+1373	Sherpa	Tomato	ɡolbeda	ɡolbeda	g o.l + b e + d a	*tomato/gol *tomato/be *tomato/da	3322 3323 3324	1021	g o.l + b e + d a	[← ?]
+1617	Tsum	Tomato	ɡolbeɾa	ɡolbeɾa	g o.l + b e + ɾ a	*tomato/gol *tomato/be *tomato/da	3322 3323 3328	1021	g o.l + b e + ɾ a	[← ?]
+1881	Yolmo	Tomato	ɡolbenda	ɡolbenda	g o.l + b e.n + d a	*tomato/gol *tomato/be *tomato/da	3322 3323 3324	1021	g o.l + b e.n + d a	[← ?]
+90	Gyalsumdo	Cabbage	pənd̪a	pənd̪a	p ə + ⁿd a	cabbage/be cabbage/nda	425 426	142	p ə + ⁿd a	[x]
+351	Jirel	Cabbage	bənd̪a	bənd̪a	b ə + ⁿd a	cabbage/be cabbage/nda	425 426	142	b ə + ⁿd a	[x]
+610	Kagate	Cabbage	bənd̪aɡobi	bənd̪aɡobi	b ə + ⁿd a + g o + b i	cabbage/be cabbage/nda cabbage/ngo cabbage/pi	425 426 427 428	142	b ə + ⁿd a + g o + b i	[x]
+866	Lowa	Cabbage	ŋɡopi	ŋɡopi	ⁿg o + p i	cabbage/ngo cabbage/pi	427 428	144	ⁿg o + p i	[x]
+1121	Nubri	Cabbage	pənd̪a	pənd̪a	p ə + ⁿd a	cabbage/be cabbage/nda	425 426	142	p ə + ⁿd a	[x]
+1374	Sherpa	Cabbage	bənd̪a	bənd̪a	b ə + ⁿd a	cabbage/be cabbage/nda	425 426	142	b ə + ⁿd a	[x]
+1618	Tsum	Cabbage	bənd̪a	bənd̪a	b ə + ⁿd a	cabbage/be cabbage/nda	425 426	142	b ə + ⁿd a	[x]
+1882	Yolmo	Cabbage	bənd̪aɡobi	bənd̪aɡobi	b ə + ⁿd a + g o + b i	cabbage/be cabbage/nda cabbage/ngo cabbage/pi	425 426 427 428	142	b ə + ⁿd a + g o + b i	[x]
+91	Gyalsumdo	Oil	maɹku	maɹku	m a.ɹ + k u	oil/mar _ku	1961 1962	573	m a.ɹ + k u	[x]
+352	Jirel	Oil	məɹɡu	məɹɡu	m ə.ɹ + g u	oil/mar _ku	1961 1962	573	m ə.ɹ + g u	[x]
+611	Kagate	Oil	marku	marku	m a.r + k u	oil/mar _ku	1961 1962	573	m a.r + k u	[x]
+867	Lowa	Oil	muku	muku	m u + k u	oil/mar _ku	1961 1962	573	m u + k u	[x]
+868	Lowa	Oil	num	num	n u.m	oil/num	1964	572	n u.m	[x]
+1122	Nubri	Oil	n̪um	n̪um	n̪ u.m	oil/num	1964	572	n̪ u.m	[x]
+1375	Sherpa	Oil	n̪um	n̪um	n̪ u.m	oil/num	1964	572	n̪ u.m	[x]
+1619	Tsum	Oil	n̪um	n̪um	n̪ u.m	oil/num	1964	572	n̪ u.m	[x]
+1883	Yolmo	Oil	n̪um	n̪um	n̪ u.m	oil/num	1964	572	n̪ u.m	[x]
+96	Gyalsumdo	Chicken	tɕʰiptʰuk	tɕʰiptʰuk	tɕʰ i.p + tʰ u.k	chicken chicken-4	465 466	37	tɕʰ i.p + tʰ u.k	[x]
+357	Jirel	Chicken	tsʰiɹbuk	tsʰiɹbuk	tsʰ i.!ɹ/b + !b/ɹ u.k	chicken chicken-2	467 468	151	tsʰ i.!ɹ/b + !b/ɹ u.k	[x]
+616	Kagate	Chicken	tsipru	tsipru	ts i.p + r u	chicken chicken-2	465 469	151	ts i.p + r u	[x]
+873	Lowa	Chicken	tɕjamodʑiptʰuk	tɕjamodʑiptʰuk	tɕ.j a + m o + dʑ i.p + tʰ u.k	_chicken-5 _female chicken chicken-4	470 601 465 466	37	tɕ.j a + m o + dʑ i.p + tʰ u.k	[x]
+1127	Nubri	Chicken	tɕjoũ	tɕjoũ	tɕ.j oũ	chicken-3	470	153	tɕ.j oũ	[x]
+1380	Sherpa	Chicken	tsʰebruk	tsʰebruk	tsʰ e.b + r u.k	chicken chicken-2	465 469	151	tsʰ e.b + r u.k	[x]
+1624	Tsum	Chicken	tɕjauɾu	tɕjauɾu	tɕ.j au + ɾ u	chicken-5 chicken-2	470 469	152	tɕ.j au + ɾ u	[x]
+1888	Yolmo	Chicken	tɕjamubiɹu	tɕjamubiɹu	tɕ.j a + m u + b i + ɹ u	chicken-5 _female _chicken-bi chicken-2	470 471 472 469	152	tɕ.j a + m u + b i + ɹ u	[x]
+97	Gyalsumdo	Egg	koŋa	koŋa	k o + ŋ a	egg-1 egg-2	724 725	222	k o + ŋ a	[x]
+358	Jirel	Egg	tsʰemend̪ok	tsʰemend̪ok	tsʰ e + m e.n + d o.k	*chicken-1 egg-3 egg-4	726 727 728	224	tsʰ e + m e.n + d o.k	[x]
+359	Jirel	Egg	tsʰeɡoŋa	tsʰeɡoŋa	tsʰ e + g o + ŋ a	*chicken-1 egg-1 egg-2	726 724 725	222	tsʰ e + g o + ŋ a	[x]
+617	Kagate	Egg	tɕjamuɡoŋa	tɕjamuɡoŋa	tɕ.j a + m u + g o + ŋ a	*chicken-1 *female egg-1 egg-2	726 730 724 725	222	tɕ.j a + m u + g o + ŋ a	[x]
+874	Lowa	Egg	koŋa	koŋa	k o + ŋ a	egg-1 egg-2	724 725	222	k o + ŋ a	[x]
+1128	Nubri	Egg	koõ	koõ	k o + !Ø/ŋ õ/o	egg-1 egg-2	724 725	222	k o + !Ø/ŋ õ/o	[x]
+1381	Sherpa	Egg	tɕʰeɡoŋa	tɕʰeɡoŋa	tɕʰ e + g o + ŋ a	*chicken-1 egg-1 egg-2	726 724 725	222	tɕʰ e + g o + ŋ a	[x]
+1625	Tsum	Egg	koã	koã	k o + !Ø/ŋ !ã/a	egg-1 egg-2	724 725	222	k o + !Ø/ŋ !ã/a	[x]
+1889	Yolmo	Egg	koŋa	koŋa	k o + ŋ a	egg-1 egg-2	724 725	222	k o + ŋ a	[x]
+101755	S_Old_Tibetan	Egg	sgo.ŋa	sgo.ŋa	s g o ŋ a			100850	- s - - - - g o ŋ - a -	From Sagart et al.
+101774	S_Old_Chinese	Egg	krˤorʔ	krˤorʔ	k rˤ o r ʔ			222	k rˤ o r ʔ	From Sagart et al.
+101792	S_Old_Chinese	Egg	tʰur	tʰur	tʰ u r			103399	( - - - - - - - - - - - - - - - - - - - - - - - ) tʰ u r - - ( - )	From Sagart et al.
+98	Gyalsumdo	Cow	poɡo	poɡo	p o + g o	cow cow-3-/go	583 584	41	p o + g o	[x]
+360	Jirel	Cow	pʰalaŋ	pʰalaŋ	pʰ a + l a.ŋ	cow cow-2/lang	583 585	188	pʰ a + l a.ŋ	[x]
+618	Kagate	Cow	palaŋ	palaŋ	p a + l a.ŋ	cow cow-2/lang	583 585	188	p a + l a.ŋ	[x]
+875	Lowa	Cow	palaŋ	palaŋ	p a + l a.ŋ	cow cow-2/lang	583 585	188	p a + l a.ŋ	[x]
+1129	Nubri	Cow	palaŋ	palaŋ	p a + l a.ŋ	cow cow-2/lang	583 585	188	p a + l a.ŋ	[x]
+1382	Sherpa	Cow	tɕʰuŋma	tɕʰuŋma	tɕʰ u.ŋ + m a	cow cow-4/ma	586 587	191	tɕʰ u.ŋ + m a	[x]
+1626	Tsum	Cow	pawo	pawo	p a + w o	cow cow-5/wo	583 588	38	p a + w o	[x]
+1890	Yolmo	Cow	palaŋ	palaŋ	p a + l a.ŋ	cow cow-2/lang	583 585	188	p a + l a.ŋ	[x]
+100	Gyalsumdo	Milk	oma	oma	o + m a	breast-1 mother	352 1807	485	- o + m a	
+362	Jirel	Milk	olen	olen	o + l e.n	breast breast-2/len	352 29	42	- o + l e.n	
+363	Jirel	Milk	oma	oma	o + m a	breast-1 mother	352 1807	485	- o + m a	
+620	Kagate	Milk	oma	oma	o + m a	breast-1 mother	352 1807	485	- o + m a	
+877	Lowa	Milk	oma	oma	o + m a	breast-1 mother	352 1807	485	- o + m a	
+1131	Nubri	Milk	ɦoõ	ɦoõ	ɦ o + !Ø/m õ/a	breast-1 mother	352 1807	485	ɦ o + !Ø/m õ/a	
+1384	Sherpa	Milk	oma	oma	o + m a	breast-1 mother	352 1807	485	- o + m a	
+1628	Tsum	Milk	oã	oã	o + !Ø/m !ã/a	breast-1 mother	352 1807	485	- o + !Ø/m !ã/a	
+1892	Yolmo	Milk	woma	woma	w o + m a	breast-1 mother	352 1807	485	w o + m a	
+101	Gyalsumdo	Horns	ɹakjo	ɹakjo	ɹ a + k.j o	horn-ra horn-kjo	1335 1336	386	ɹ a + k.j o	[x]
+364	Jirel	Horns	ɹodʑjo	ɹodʑjo	ɹ o + dʑ.j o	horn-ra horn-kjo	1335 1336	386	ɹ o + dʑ.j o	[x]
+621	Kagate	Horns	rwaɡa	rwaɡa	r.w a + g a	horn-ra horn-ga	1335 1337	387	r.w a + g a	[x]
+878	Lowa	Horns	ɹakjoʔ	ɹakjoʔ	ɹ a + k.j o.ʔ	horn-ra horn-kjo	1335 1336	386	ɹ a + k.j o.ʔ	[x]
+1132	Nubri	Horns	adkjo	adkjo	!a/r.!d/a + k.j o	horn-ra horn-kjo	1335 1336	386	!a/r.!d/a + k.j o	[x]
+1385	Sherpa	Horns	arkjok	arkjok	!a/r.!r/a + k.j o.k	horn-ra horn-kjo	1335 1336	386	!a/r.!r/a + k.j o.k	[x]
+1629	Tsum	Horns	padʑjo	padʑjo	p a + dʑ.j o	horn-pa horn-kjo	1340 1336	43	p a + dʑ.j o	[x]
+1893	Yolmo	Horns	ɹowa	ɹowa	ɹ o + w a	horn-ra horn-wa	1335 1341	44	ɹ - o + w a	[x]
+103246	S_Old_Tibetan	Horns	gru	gru	g r u			100312	- - - g r u - - - - - - - - - -	From Sagart et al.
+103264	S_Old_Chinese	Horns	Ckˤrok	Ckˤrok	C/ kˤ r o k			100365	( - - - - - - - - - ) C/ - kˤ r - o - k - ( - - - - - - - - - - - - )	From Sagart et al.
+107	Gyalsumdo	Monkey	tɛmaɹ	tɛmaɹ	t ɛ + m a.ɹ	monkey/te _monkey/mar	1694 1695	491	t ɛ + m a.ɹ	[x]
+108	Gyalsumdo	Monkey	te	te	t e	monkey/te	1694	491	t e	[x]
+369	Jirel	Monkey	moɹo	moɹo	m o + ɹ o	monkey/mo monkey/ro	1696 1697	493	m o + ɹ o	[x]
+370	Jirel	Monkey	tʰaklapʰikant̪e	tʰaklapʰikant̪e	tʰ a + k l a + pʰ i + k a n + t̪ e	monkey/tha monkey/kla monkey/phi monkey/kan _:te-suffix/te	1700 1701 1698 1699 9	48	tʰ a + k l a + pʰ - i + k a n + t̪ e	[x]
+626	Kagate	Monkey	preken	preken	p.r e + k e.n	monkey/priu _monkey/ken	1698 1699	490	p.r e + k e.n	[x]
+627	Kagate	Monkey	priu	priu	p.r iu	monkey/priu	1698	490	p.r iu	[x]
+884	Lowa	Monkey	piu	piu	p iu	monkey/priu	1698	490	p - iu	[x]
+1137	Nubri	Monkey	piu	piu	p iu	monkey/priu	1698	490	p - iu	[x]
+1390	Sherpa	Monkey	te	te	t e	monkey/te	1694	491	t e	[x]
+1391	Sherpa	Monkey	riu	riu	r iu	monkey/priu	1698	490	r iu	[x]
+1634	Tsum	Monkey	tiu	tiu	t iu	monkey/priu	1698	490	t iu	[x]
+1898	Yolmo	Monkey	pɹeken	pɹeken	p.ɹ e + k e.n	monkey/priu _monkey/ken	1698 1699	490	p.ɹ e + k e.n	[x]
+109	Gyalsumdo	Mosquito	lamkute	lamkute	l a.m + k u + t e	mosquito/lam _/ku _/te	1784 1785 1786	523	l a.m + k u + t e	[x]
+371	Jirel	Mosquito	lamkute	lamkute	l a.m + k u + t e	mosquito/lam _/ku _/te	1784 1785 1786	523	l a.m + k u + t e	[x]
+628	Kagate	Mosquito	lamkʰute	lamkʰute	l a.m + kʰ u + t e	mosquito/lam _/ku _/te	1784 1785 1786	523	l a.m + kʰ u + t e	[x]
+885	Lowa	Mosquito	t̪uŋdaŋ	t̪uŋdaŋ	t̪ u.ŋ + d a.ŋ	mosquito/tuk _/dang	1787 1788	526	t̪ u.ŋ + d a.ŋ	[x]
+1138	Nubri	Mosquito	t̪ukɖaŋ	t̪ukɖaŋ	t̪ u.k + ɖ a.ŋ	mosquito/tuk _/dang	1787 1788	526	t̪ u.k + ɖ a.ŋ	[x]
+1392	Sherpa	Mosquito	lamkʰute	lamkʰute	l a.m + kʰ u + t e	mosquito/lam _/ku _/te	1784 1785 1786	523	l a.m + kʰ u + t e	[x]
+1635	Tsum	Mosquito	lamkute	lamkute	l a.m + k u + t e	mosquito/lam _/ku _/te	1784 1785 1786	523	l a.m + k u + t e	[x]
+1899	Yolmo	Mosquito	mətɕʰəɹ	mətɕʰəɹ	m ə + tɕʰ ə.ɹ	*mosquito/ma *mosquito/chhar	1789 1790	528	m ə + tɕʰ ə.ɹ	← Hindi «machchhar»
+104469	S_Old_Chinese	Mosquito	Cmər	Cmər	C/ m ə r			528	- C/ - m ə r	From Sagart et al.
+110	Gyalsumdo	Ant	tomaɹ	tomaɹ	t o + m a.ɹ	ant _ant/mar	32 33	16	t o + m a.ɹ	[x]
+372	Jirel	Ant	tʰoŋmatsi	tʰoŋmatsi	tʰ o.ŋ + m a + ts i	ANT _ma-suffix/ma _/tsi	72 11 34	50	tʰ o.ŋ + m a + ts i	[x]
+629	Kagate	Ant	tomak	tomak	t o + m a.k	ant _ant/mak	32 33	16	t o + m a.k	[x]
+886	Lowa	Ant	mbudaɲa	mbudaɲa	ⁿb u + d a + ɲ a	ant-4 ant-5 ant-6	35 32 36	49	ⁿb u + d - a - + ɲ a	[x]
+1139	Nubri	Ant	hɹomo	hɹomo	h.ɹ o + m o	ant _:mu-suffix/mu	32 3365	16	h.ɹ o + m o	[x]
+1393	Sherpa	Ant	tʰəksəŋma	tʰəksəŋma	tʰ ə.k + s ə.ŋ + m a	ant-2 ant-3 _:ma-suffix/ma	37 38 33	17	tʰ ə.k + s ə.ŋ + m a	[x]
+1636	Tsum	Ant	tɹomu	tɹomu	t.ɹ o + m u	ant _:mo-suffix/mu	32 132	16	t.ɹ o + m u	[x]
+1900	Yolmo	Ant	tomaŋ	tomaŋ	t o + m a.ŋ	ant _ant/maŋ	32 33	16	t o + m a.ŋ	[x]
+100134	S_Old_Chinese	Ant	m→qʰajʔ	m→qʰajʔ	m qʰ a j ʔ			101705	m - - - - qʰ a j ʔ ( - - - - )	From Sagart et al.
+100149	S_Old_Chinese	Ant	qʰˤoʔ	qʰˤoʔ	qʰˤ o ʔ			102954	- - - - - - - - - - - - qʰˤ - o ʔ - - - - -	From Sagart et al.
+100150	S_Old_Tibetan	Ant	grog ma	grog ma	g r o g m a			102954	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - g - - r o g - ( - - - - - - m a - - - - - )	From Sagart et al.
+111	Gyalsumdo	Spider	palba	palba	p a.l + b a	spider/bel _/ba	2548 2554	748	p a.l + b a	[x]
+373	Jirel	Spider	ŋɡwãpali	ŋɡwãpali	ⁿg.w ã + p a + l i	splider/gwa _:ba-suffix/pa _/li	2549 10 2550	61	ⁿg.w ã + p a + l i	[x]
+630	Kagate	Spider	kiɡor	kiɡor	k i + g o.r	spider/ki _/gor	2551 2552	56	k i + g o.r	[x]
+887	Lowa	Spider	mbut̪om	mbut̪om	ⁿb u + t̪ o.m	spider/bu _/tom	73 2553	51	ⁿb u + t̪ o.m	[x]
+1140	Nubri	Spider	pabla	pabla	p a.bl/l + !Ø/b a	spider/bel _/ba	2548 2554	748	p a.bl/l + !Ø/b a	[x]
+1394	Sherpa	Spider	bəldzjaŋ	bəldzjaŋ	b ə.l + dz.j a.ŋ	spider/bel _/dziang	2548 2555	748	b ə.l + dz.j a.ŋ	[x]
+1637	Tsum	Spider	tɹaula	tɹaula	t.ɹ au + l a	spierd/trau _/la	2556 2554	60	t.ɹ au + l a	[x]
+1901	Yolmo	Spider	ɕwabu	ɕwabu	ɕ.w a + b u	spider/swa _/bu	2557 2548	58	ɕ.w a + b u	[x]
+106546	S_Old_Chinese	Spider	tre+tro	tre+tro	t r e t r o			101834	t r e - t r o	From Sagart et al.
+106557	S_Old_Tibetan	Spider	sdom	sdom	s d o m			51	- s - d o m	From Sagart et al.
+114	Gyalsumdo	Woman	pomo	pomo	p o/u + m o	child-son female	2515 601	1135	p o/u - + m o	[?]
+376	Jirel	Woman	pʰemmemi	pʰemmemi	pʰ e.m + m e + m i	woman/phem woman/me woman/mi	3707 75 1624	67	pʰ e.m + m e + m i	[?]
+633	Kagate	Woman	penpidza	penpidza	p e.n + p i + dz a	woman/phem _child-1 child-2	3707 487 488	1134	p e.n + p i + dz a	[?]
+890	Lowa	Woman	keme	keme	k e + m e	? woman/me	915 75	70	k e + m e	[?]
+1143	Nubri	Woman	põbetsa	põbetsa	p õ + b/p e + ts a	woman/phem _child-1 _child-2	3707 487 488	1134	p õ - + b/p e + ts a	[?]
+1397	Sherpa	Woman	pʰumpʰedza	pʰumpʰedza	pʰ u.m + pʰ e + dz a	woman/phem _child-1 child-2	3707 487 488	1134	pʰ u.m + pʰ e + dz a	[?]
+1640	Tsum	Woman	poĩpiza	poĩpiza	p oĩ + p i + z a	woman/phem _child-1 _child-2	3707 487 488	1134	p oĩ + p i + z a	[?]
+1904	Yolmo	Woman	pimi	pimi	p i + m i	child-1 woman	487 3704	66	p i + m i	[?]
+108317	S_Old_Chinese	Woman	nraʔ	nraʔ	n r a ʔ			101862	- n r a ʔ	From Sagart et al.
+108336	S_Old_Tibetan	Woman	bud.med	bud.med	b u d m e d			102913	- b u d - m e d	From Sagart et al.
+115	Gyalsumdo	Child	tuɡu	tuɡu	t u + g u	child-4 _/gu	485 486	161	t u + g u	[x]
+377	Jirel	Child	pʰidza	pʰidza	pʰ i + dz a	child-1 child-2	487 488	159	pʰ i + dz a	[x]
+634	Kagate	Child	pidza	pidza	p i + dz a	child-1 child-2	487 488	159	p i + dz a	[x]
+891	Lowa	Child	tu	tu	t u	child-4	485	161	t u	[x]
+1144	Nubri	Child	petsa	petsa	p e + ts a	child-1 child-2	487 488	159	p e + ts a	[x]
+1398	Sherpa	Child	aŋa	aŋa	a + ŋ a	:a-prefix child-3	489 490	163	a + ŋ a	[x]
+1641	Tsum	Child	piza	piza	p i + z a	child-1 child-2	487 488	159	p i + z a	[x]
+1905	Yolmo	Child	pedza	pedza	p e + dz a	child-1 child-2	487 488	159	p e + dz a	[x]
+116	Gyalsumdo	Father	apa	apa	a + p a	:a-prefix father	489 914	274	a + p a	[x]
+378	Jirel	Father	aba	aba	a + b a	:a-prefix father	489 914	274	a + b a	[x]
+635	Kagate	Father	aba	aba	a + b a	:a-prefix father	489 914	274	a + b a	[x]
+892	Lowa	Father	ake	ake	a + k e	:a-prefix big-brother/ge	489 915	64	a + k e	[x]
+1145	Nubri	Father	jɛ	jɛ	j ɛ	*father	916	277	j ɛ	[borrowed from Chinese]
+1399	Sherpa	Father	apa	apa	a + p a	:a-prefix father	489 914	274	a + p a	[x]
+1642	Tsum	Father	awa	awa	a + w a	:a-prefix father	489 914	274	a + w a	[x]
+1906	Yolmo	Father	aba	aba	a + b a	:a-prefix father	489 914	274	a + b a	[x]
+102070	S_Old_Chinese	Father	ɴ→paʔ	ɴ→paʔ	ɴ p a ʔ			100107	ɴ - - p a - ʔ - -	From Sagart et al.
+102071	S_Old_Tibetan	Father	a.pʰa	a.pʰa	a pʰ a			274	- a - pʰ a - - - -	From Sagart et al.
+118	Gyalsumdo	Older brother	atɕjo	atɕjo	a + tɕ.j o	:a-prefix older-brother	489 1993	578	a + tɕ.j o	[x]
+380	Jirel	Older brother	adʑjo	adʑjo	a + dʑ.j o	:a-prefix older-brother	489 1993	578	a + dʑ.j o	[x]
+637	Kagate	Older brother	 at̪a	at̪a	a + t̪ a	:a-prefix older-brother	489 1994	65	a + t̪ a	[x]
+894	Lowa	Older brother	adʑo	adʑo	a + dʑ o	:a-prefix older-brother	489 1993	578	a + dʑ - o	[x]
+1147	Nubri	Older brother	tɕi	tɕi	tɕ i	older-brother	1993	578	tɕ i	[x]
+1401	Sherpa	Older brother	atɕjo	atɕjo	a + tɕ.j o	:a-prefix older-brother	489 1993	578	a + tɕ.j o	[x]
+1644	Tsum	Older brother	tɕjoʑjo	tɕjoʑjo	tɕ.j o + ʑ/tɕ.j o	older-brother _:RED:older-brother	1993 1996	578	tɕ.j o + ʑ/tɕ.j o	[x]
+1908	Yolmo	Older brother	ad̪a	ad̪a	a + d̪ a	:a-prefix older-brother	489 1994	65	a + d̪ a	[x]
+120	Gyalsumdo	Older sister	atɕi	atɕi	a + tɕ i	:a-prefix older-sister	489 2009	583	a + tɕ i	[x]
+382	Jirel	Older sister	adzi	adzi	a + dz i	:a-prefix older-sister	489 2009	583	a + dz i	[x]
+639	Kagate	Older sister	adzi	adzi	a + dz i	:a-prefix older-sister	489 2009	583	a + dz i	[x]
+896	Lowa	Older sister	idʑi	idʑi	i/a + dʑ i	:a-prefix older-sister	489 2009	583	i/a + dʑ i	[x]
+1149	Nubri	Older sister	jei	jei	j e.i	older-sister	2011	586	j e.i	[x]
+1403	Sherpa	Older sister	adzi	adzi	a + dz i	:a-prefix older-sister	489 2009	583	a + dz i	[x]
+1646	Tsum	Older sister	aʑe	aʑe	a + ʑ e	:a-prefix older-sister	489 2009	583	a + ʑ e	[x]
+1910	Yolmo	Older sister	adʑi	adʑi	a + dʑ i	:a-prefix older-sister	489 2009	583	a + dʑ i	[x]
+121	Gyalsumdo	Younger sister	numu	numu	n u + m u	younger-sibling female/mu	3811 3822	1169	n u - + m u	[x]
+383	Jirel	Younger sister	n̪umu	n̪umu	n̪ u + m u	younger-sibling female/mu	3811 3822	1169	n̪ u - + m u	[x]
+640	Kagate	Younger sister	numu	numu	n u + m u	younger-sibling female/mu	3811 3822	1169	n u - + m u	[x]
+897	Lowa	Younger sister	numu	numu	n u + m u	younger-sibling female/mu	3811 3822	1169	n u - + m u	[x]
+1150	Nubri	Younger sister	n̪u	n̪u	n̪ u	younger-sibling	3811	1169	n̪ u -	[x]
+1404	Sherpa	Younger sister	n̪um	n̪um	n̪ u.m/k	younger-sibling	3811	1169	n̪ u.m/k	[x]
+1647	Tsum	Younger sister	poõ	poõ	p o/u + Ø/m õ/o	child-son female	2515 601	1171	p o/u + Ø/m õ/o	[x]
+1911	Yolmo	Younger sister	n̪omo	n̪omo	n̪ o + m o	younger-sibling _female	3811 601	1169	n̪ o - + m o	[x]
+126	Gyalsumdo	Wife	keɹme	keɹme	k e.ɹ + m e	wife/ke woman/me	3667 75	71	k e.ɹ + m e	[x]
+387	Jirel	Wife	pʰemme	pʰemme	pʰ e.m + m e	woman/phem woman/me	3707 75	1121	pʰ e.m + m e	[x]
+644	Kagate	Wife	tɕʰjuŋma	tɕʰjuŋma	tɕʰ.j u.ŋ + m a	wife _:ma-suffix/ma	3670 11	74	tɕʰ.j u.ŋ + m a	[x]
+645	Kagate	Wife	peme	peme	p e.!Ø/n + m e	woman/phem woman/me	3707 75	1121	p e.!Ø/n + m e	[x]
+901	Lowa	Wife	keme	keme	k e + m e	wife/ke woman/me	3667 75	71	k e - + m e	[x]
+1154	Nubri	Wife	ɕɛt̪aŋ	ɕɛt̪aŋ	ɕ ɛ + t̪ a.ŋ	wife/ce wife/taŋ	3671 3672	1125	ɕ ɛ + t̪ a.ŋ	[x]
+1408	Sherpa	Wife	pʰermi	pʰermi	pʰ e.r + m i	woman/phem _/me	3707 3668	1121	pʰ e.r + m i	[x]
+1651	Tsum	Wife	tɕʰjumma	tɕʰjumma	tɕʰ.j u.m + m a	wife _:ma-suffix/ma	3670 11	74	tɕʰ.j u.m + m a	[x]
+1915	Yolmo	Wife	pimi	pimi	p i + m i	wife/pe _/me	3669 3668	1121	p i - + m i	[x]
+108207	S_Old_Chinese	Wife	tsʰˤəj	tsʰˤəj	tsʰˤ ə j			102936		From Sagart et al.
+108211	S_Old_Chinese	Wife	məbəʔ	məbəʔ	m ə b ə ʔ			103705		From Sagart et al.
+108217	S_Old_Tibetan	Wife	kʰʲo.mo	kʰʲo.mo	kʰ j o m o			105467		From Sagart et al.
+127	Gyalsumdo	Boy	pitsa	pitsa	p i + ts a	child-1 child-2	487 488	98	p i - + ts a	[x]
+128	Gyalsumdo	Boy	pu	pu	p u	child-son	2515	78	p u -	[x]
+388	Jirel	Boy	kʰojobopidza	kʰojobopidza	kʰ o + j o + b o + p i + dz a	? ? ? child-1 child-2	306 307 308 487 488	98	kʰ o + j o + b o + p i - + dz a	[x]
+646	Kagate	Boy	pituk	pituk	p i + t u.k	child-1 child-3	487 26	76	p i + t u.k	[x]
+902	Lowa	Boy	pidza	pidza	p i + dz a	child-1 child-2	487 488	98	p i - + dz a	[x]
+1155	Nubri	Boy	puh	puh	p u.h	child-son	2515	78	p u.h	[x]
+1409	Sherpa	Boy	kʰjokpʰedza	kʰjokpʰedza	kʰ.j o.k + pʰ e + dz a	? child-1 child-2	310 487 488	98	kʰ.j o.k + pʰ e + dz a	[x]
+1652	Tsum	Boy	ɕjaɾa	ɕjaɾa	ɕ.j a.ɹa/ɹ	child-offspring	311	100	ɕ.j a.ɹa/ɹ	[x]
+1916	Yolmo	Boy	ɕjaɹa	ɕjaɹa	ɕ.j a.ɹa/ɹ	child-offspring	311	100	ɕ.j a.ɹa/ɹ	[x]
+129	Gyalsumdo	Girl	pomo	pomo	p o/u + m o	child-son female	2515 601	319	p o/u + m o	[x]
+389	Jirel	Girl	pʰemmepidza	pʰemmepidza	pʰ e.m + m e + p i + dz a	woman/phem woman/me child-1 child-2	3707 75 487 488	79	pʰ e.m + m e + p i + dz a	[x]
+647	Kagate	Girl	pitukmu	pitukmu	p i + t u.k + m u	child-1 child-3 female/mu	487 26 3822	80	p i + t u.k + m u	[x]
+903	Lowa	Girl	pomo	pomo	p o + m o	child-son female	2515 601	319	p o + m o	[x]
+1156	Nubri	Girl	poõ	poõ	p o/u.Ø/h + Ø/m õ/o	child-son female	2515 601	319	p o/u.Ø/h + Ø/m õ/o	[x]
+1410	Sherpa	Girl	pʰumpʰedza	pʰumpʰedza	pʰ u.m + pʰ e + dz a	woman/phem child-1 child-2	3707 487 488	79	pʰ u.m + pʰ e + dz a	[x]
+1653	Tsum	Girl	naʑjuŋ	naʑjuŋ	n a + ʑ.j u.ŋ	girl son-2	1115 2517	324	n a + ʑ.j u.ŋ	[x]
+1917	Yolmo	Girl	ɕjaɹma	ɕjaɹma	ɕ.j a.ɹ + m a	child-offspring _:ma-suffix/ma	311 11	320	ɕ.j a.ɹ + m a	[x]
+130	Gyalsumdo	Day	ɕjaŋma	ɕjaŋma	ɕ.j a.ŋ + m a	day _:ma-suffix/ma	615 11	89	ɕ.j a.ŋ + m a	
+390	Jirel	Day	ɲima	ɲima	ɲ i + m a	sun _ma-suffix/ma	2613 11	196	ɲ i - + m a	
+648	Kagate	Day	ɲima	ɲima	ɲ i + m a	sun _:ma-suffix/ma	2613 11	196	ɲ i - + m a	
+904	Lowa	Day	ɲima	ɲima	ɲ i + m a	sun _:ma-suffix/ma	2613 11	196	ɲ i - + m a -	
+1157	Nubri	Day	ɲin̪	ɲin̪	ɲ i + n̪ !Ø/ə	sun _:n-suffix	2613 76	196	ɲ i + n̪ !Ø/ə	
+1411	Sherpa	Day	ɲima	ɲima	ɲ i + m a	sun _ma-suffix/ma	2613 11	196	ɲ i - + m a	
+1654	Tsum	Day	ɕjakpa	ɕjakpa	ɕ.j a.k + p a	day _:pa-suffix/pa	618 53	199	ɕ.j a.k + p a	
+1918	Yolmo	Day	ɲima	ɲima	ɲ i + m a	_day DAY	617 616	196	ɲ i - + m a	
+101277	S_Old_Tibetan	Day	ɲin	ɲin	ɲ i n			196	ɲ i n -	From Sagart et al.
+131	Gyalsumdo	Night	tsʰemu	tsʰemu	tsʰ e + m u	night _:mu-suffix/mu	1900 3365	552	tsʰ e - + m u	
+391	Jirel	Night	ŋɡwase	ŋɡwase	ⁿg.w a + s e	evening/gwa night/se	813 814	554	ⁿg.w a + s e	
+649	Kagate	Night	komu	komu	k !o/u.!Ø/ŋ + m u	evening _:mu-suffix/mu	811 3365	87	k !o/u.!Ø/ŋ + m u	
+905	Lowa	Night	tsʰemo	tsʰemo	tsʰ e + m o	night _:mu-suffix/mu	1900 3365	552	tsʰ e - + m o	
+1158	Nubri	Night	tsʰen̪	tsʰen̪	tsʰ e + n̪ !Ø/ə	night _-:n-suffix	1900 76	552	tsʰ e + n̪ !Ø/ə	
+1412	Sherpa	Night	tsʰemu	tsʰemu	tsʰ e + m u	night _:mu-suffix/mu	1900 3365	552	tsʰ e - + m u	
+1655	Tsum	Night	n̪umu	n̪umu	n̪ u + m u	night _:mo-suffix/mu	1905 3365	82	n̪ u + m u	
+1919	Yolmo	Night	kuŋmu	kuŋmu	k u.ŋ + m u	evening _:mu-suffix/mu	811 3365	86	k u.ŋ + m u	
+104921	S_Old_Tibetan	Night	mtsʰan.mo	mtsʰan.mo	m tsʰ a n m o			102	m - tsʰ a n m o	From Sagart et al.
+132	Gyalsumdo	Morning	namʑen	namʑen	n a.m + ʑ e.n	morning/nam *morning	78 1749	92	n a.m + ʑ e.n	[x]
+392	Jirel	Morning	ŋomu	ŋomu	ŋ o + m u	morning _:mu-suffix/mu	1748 3365	506	ŋ o - + m u	[x]
+650	Kagate	Morning	ŋamu	ŋamu	ŋ a + m u	morning _:mu-suffix/mu	1748 3365	506	ŋ a - + m u	[x]
+906	Lowa	Morning	ŋat̪o	ŋat̪o	ŋ a + t̪ o	morning ?	1748 1751	506	ŋ a - + t̪ o -	[x]
+1159	Nubri	Morning	tõŋkõ	tõŋkõ	t õ.ŋ + k õ	morning/tong ?	1751 1752	507	t õ.ŋ + k õ	[x]
+1413	Sherpa	Morning	tʰop	tʰop	tʰ o.p	morning/top	77	91	tʰ o.p	[x]
+1656	Tsum	Morning	ɕjuo	ɕjuo	ɕ.j uo	morning/sjo	1753	509	ɕ.j uo	[x]
+1920	Yolmo	Morning	ɕjole	ɕjole	ɕ.j o + l e	morning/sjo ?	1753 1754	509	ɕ.j o + l e	[x]
+104396	S_Old_Tibetan	Morning	ʑogs pa	ʑogs pa	ʑ o g s p a			101040	ʑ o g s ( - p a - )	From Sagart et al.
+104427	S_Old_Chinese	Morning	dər	dər	d ə r			110295	( - - - - ) - - - - - - - - d ə r - ( - - - - ) - - -	From Sagart et al.
+133	Gyalsumdo	Noon	ɲimaɡuŋ	ɲimaɡuŋ	ɲ i + m a + g u.ŋ	sun _ma-suffix/ma noon	2613 11 1927	560	ɲ i + m a + g u.ŋ	[x]
+393	Jirel	Noon	ɲimmu	ɲimmu	ɲ i + m !Ø/a + m u	sun _ma-suffix/ma :mu-suffix/mu	2613 11 3365	94	ɲ i + m !Ø/a + m u	[x]
+651	Kagate	Noon	tsʰəkəl	tsʰəkəl	tsʰ ə + k ə.l	noon/tshe noon/kel	1928 1929	564	tsʰ ə + k ə.l	[x]
+652	Kagate	Noon	ɲimakarpo	ɲimakarpo	ɲ i + m a + k a.r + p o	sun _ma-suffix/ma noon/kar _/po	1925 1926 1931 1930	97	ɲ i + m a + k a.r + p o	[x]
+907	Lowa	Noon	ɲiŋɡuŋ	ɲiŋɡuŋ	ɲ i + !ŋ/m !Ø/a + g u.ŋ	sun _ma-suffix/ma noon	2613 11 1927	560	ɲ i + !ŋ/m !Ø/a + g u.ŋ	[x]
+1160	Nubri	Noon	n̪iŋkũ	n̪iŋkũ	!n̪/ɲ i + !ŋ/m !Ø/a + k ũ	sun _:ma-suffix/ma noon	2613 11 1927	560	!n̪/ɲ i + !ŋ/m !Ø/a + k ũ	[x]
+1414	Sherpa	Noon	ɲimkʰuŋ	ɲimkʰuŋ	ɲ i + m !Ø/a + kʰ u.ŋ	sun _ma-suffix/ma noon	2613 11 1927	560	ɲ i + m !Ø/a + kʰ u.ŋ	[x]
+1657	Tsum	Noon	ɲiŋɡuŋ	ɲiŋɡuŋ	ɲ i + !ŋ/m !Ø/a + g u.ŋ	sun _ma-suffix/ma noon	2613 11 1927	560	ɲ i + !ŋ/m !Ø/a + g u.ŋ	[x]
+1921	Yolmo	Noon	ɲimapʰe	ɲimapʰe	ɲ i + m a + pʰ e	sun _ma-suffix/ma noon/phe	1925 1926 1930	96	ɲ i - + m a + pʰ e	[x]
+105012	S_Old_Chinese	Noon	mqʰˤaʔ	mqʰˤaʔ	m qʰˤ a ʔ			101683	- - - - m - qʰˤ a - ʔ	From Sagart et al.
+134	Gyalsumdo	Evening	kɔŋmo	kɔŋmo	k ɔ.ŋ + m o	evening :mu-suffix/mu	811 3365	250	k ɔ.ŋ + m o	[x]
+394	Jirel	Evening	ŋɡwase	ŋɡwase	ⁿg.w a + s e	evening/gwa night/se	813 814	251	ⁿg.w a + s e	[x]
+653	Kagate	Evening	kuŋɕe	kuŋɕe	k u.ŋ + ɕ e	evening night/se	811 814	99	k u.ŋ + ɕ e	[x]
+908	Lowa	Evening	komo	komo	k o + m o	evening :mu-suffix/mu	811 3365	250	k o - + m o	[x]
+1161	Nubri	Evening	koŋmo	koŋmo	k o.ŋ + m o	evening :mu-suffix/mu	811 3365	250	k o.ŋ + m o	[x]
+1415	Sherpa	Evening	ɡuŋse	ɡuŋse	g u.ŋ + s e	evening night/se	811 814	99	g u.ŋ + s e	[x]
+1658	Tsum	Evening	kuŋmu	kuŋmu	k u.ŋ + m u	evening :mu-suffix/mu	811 3365	250	k u.ŋ + m u	[x]
+1922	Yolmo	Evening	kuŋse	kuŋse	k u.ŋ + s e	evening night/se	811 814	99	k u.ŋ + s e	[x]
+136	Gyalsumdo	Today	t̪iɹiŋ	t̪iɹiŋ	t̪ i + ɹ i.ŋ	today long	79 1607	1018	t̪ i + ɹ i.ŋ -	[x]
+396	Jirel	Today	tʰəɹiŋ	tʰəɹiŋ	tʰ ə + ɹ i.ŋ	today long	79 1607	1018	tʰ ə + ɹ i.ŋ -	[x]
+655	Kagate	Today	t̪iriŋ	t̪iriŋ	t̪ i + r i.ŋ	today long	79 1607	1018	t̪ i + r i.ŋ -	[x]
+910	Lowa	Today	t̪iɾiŋ	t̪iɾiŋ	t̪ i + ɾ i.ŋ	today long	79 1607	1018	t̪ i + ɾ i.ŋ -	[x]
+1163	Nubri	Today	t̪iɹiŋ	t̪iɹiŋ	t̪ i + ɹ i.ŋ	today long	79 1607	1018	t̪ i + ɹ i.ŋ -	[x]
+1417	Sherpa	Today	ariŋ	ariŋ	a + r i.ŋ	:a-prefix long	489 1607	103	a + r i.ŋ -	[x]
+1660	Tsum	Today	t̪iɾiŋ	t̪iɾiŋ	t̪ i + ɾ i.ŋ	today long	79 1607	1018	t̪ i + ɾ i.ŋ -	[x]
+1924	Yolmo	Today	t̪iɹiŋ	t̪iɹiŋ	t̪ i + ɹ i.ŋ	today long	79 1607	1018	t̪ i + ɹ i.ŋ -	[x]
+107267	S_Old_Chinese	Today	krəm	krəm	k r ə m			102005	) k r ə m	From Sagart et al.
+107281	S_Old_Tibetan	Today	de riŋ	de riŋ	d e r i ŋ			1018	d e r i ŋ	From Sagart et al.
+137	Gyalsumdo	Tomorrow	ŋato	ŋato	ŋ a + t o	tomorrow/ŋar tomorrow/to	3347 3348	1028	ŋ a - + t o	[x]
+397	Jirel	Tomorrow	ŋaɹo	ŋaɹo	ŋ a + ɹ o	tomorrow/ŋar tomorrow/to	3347 3349	1028	ŋ a - + ɹ o	[x]
+656	Kagate	Tomorrow	ŋart̪o	ŋart̪o	ŋ a.r + t̪ o	tomorrow/ŋar tomorrow/to	3347 3348	1028	ŋ a.r + t̪ o	[x]
+911	Lowa	Tomorrow	ŋeto	ŋeto	ŋ e + t o	tomorrow/ŋar tomorrow/to	3347 3348	1028	ŋ e - + t o	[x]
+1164	Nubri	Tomorrow	ŋaɹo	ŋaɹo	ŋ a + ɹ o	tomorrow/ŋar tomorrow/to	3347 3349	1028	ŋ a - + ɹ o	[x]
+1418	Sherpa	Tomorrow	sala	sala	s a + l a	TOMORROW _tomorrow	3350 3351	1031	s a + l a	[x]
+1661	Tsum	Tomorrow	ŋaɾt̪o	ŋaɾt̪o	ŋ a.ɾ + t̪ o	tomorrow/ŋar tomorrow/to	3347 3348	1028	ŋ a.ɾ + t̪ o	[x]
+1925	Yolmo	Tomorrow	n̪aŋbaɹ	n̪aŋbaɹ	n̪ a.ŋ + b a.ɹ	tomorrow/naŋ tomorrow/bar	3347 3352	104	n̪ a.ŋ + b a.ɹ	[x]
+107332	S_Old_Chinese	Tomorrow	mraŋ	mraŋ	m r a ŋ			102008	) m r a ŋ	From Sagart et al.
+107352	S_Old_Tibetan	Tomorrow	saŋ ɲin	saŋ ɲin	s a ŋ ɲ i n			102832	) s a ŋ - ɲ i n	From Sagart et al.
+140	Gyalsumdo	Month	t̪awa	t̪awa	t̪ a + w a	moon/da _:wa-suffix/wa	15 1716	498	t̪ a - + w a	[x]
+399	Jirel	Month	nd̪awa	nd̪awa	ⁿd a + w a	moon/da _:wa-suffix/wa	15 1716	498	ⁿd a - + w a	[x]
+657	Kagate	Month	d̪awa	d̪awa	d̪ a + w a	moon/da _:wa-suffix/wa	15 1716	498	d̪ a - + w a	[x]
+913	Lowa	Month	nd̪awa	nd̪awa	ⁿd a + w a	moon/da _:wa-suffix/wa	15 1716	498	ⁿd a - + w a	[x]
+1166	Nubri	Month	t̪ah	t̪ah	t̪ !ah/a	moon/da	15	498	t̪ !ah/a	[x]
+1420	Sherpa	Month	la	la	l a	month/la	1717	500	l a	[x]
+1663	Tsum	Month	nd̪a	nd̪a	ⁿd a	moon/da	15	498	ⁿd a -	[x]
+1927	Yolmo	Month	nd̪owa	nd̪owa	ⁿd !o/a + w a	moon/da _:wa-suffix/wa	15 1716	498	ⁿd !o/a - + w a	[x]
+144	Gyalsumdo	Good	jabu	jabu	j a + b u	good _:bu-suffix/bu	1149 107	330	j a + b u	[x]
+403	Jirel	Good	lemu	lemu	l e + m u	good/le _:mu-suffix/mu	1151 3365	332	l e + m u	[x]
+661	Kagate	Good	jabu	jabu	j a + b u	good _:bu-suffix/bu	1149 107	330	j a + b u	[x]
+662	Kagate	Good	dzebu	dzebu	dz e + b u	bad/dze _:bu-suffix	1155 107	331	dz e + b u	[x]
+917	Lowa	Good	ka	ka	k a	good	1153	334	k a	[x]
+918	Lowa	Good	saŋa	saŋa	s a.ŋ + !Ø/ŋ a	good/sa _:a-suffix	1156 872	337	s a.ŋ + !Ø/ŋ a	[x]
+1170	Nubri	Good	koŋ	koŋ	k o.ŋ	good	1154	335	k o.ŋ	[x]
+1424	Sherpa	Good	lemu	lemu	l e + m u	good/le _:mu-suffix/mu	1151 3365	332	l e + m u	[x]
+1667	Tsum	Good	jamu	jamu	j a + m u	good _:mo-suffix/mu	1149 3365	330	j a + m u	[x]
+1931	Yolmo	Good	jabu	jabu	j a + b u	good _:bu-suffix/bu	1149 107	330	j a + b u	[x]
+102844	S_Old_Chinese	Good	qʰˤuʔ	qʰˤuʔ	qʰˤ u ʔ			101642	qʰˤ u - ʔ	From Sagart et al.
+102847	S_Old_Chinese	Good	tsˤaŋ	tsˤaŋ	tsˤ a ŋ			101680	- tsˤ a ŋ - -	From Sagart et al.
+102848	S_Old_Tibetan	Good	bzaŋ	bzaŋ	b z a ŋ			101680	b z a ŋ - -	From Sagart et al.
+102861	S_Old_Chinese	Good	genʔ	genʔ	g e n ʔ			103631	g e n ʔ	From Sagart et al.
+102862	S_Old_Chinese	Good	kˤre	kˤre	kˤ r e			103632	kˤ r e	From Sagart et al.
+102863	S_Old_Chinese	Good	raŋ	raŋ	r a ŋ			103633	r a ŋ	From Sagart et al.
+102864	S_Old_Chinese	Good	kˤraj	kˤraj	kˤ r a j			103634	kˤ r a j	From Sagart et al.
+145	Gyalsumdo	Bad	majabu	majabu	m a + j a + b u	not good _:bu-suffix/bu	105 1149 107	33	m a + j a + b u	[x]
+404	Jirel	Bad	meleba	meleba	m e + l e + b a	_bad good/le _:pa-suffix	105 108 10	110	m e + l e + b a	[x]
+663	Kagate	Bad	majiba	majiba	m a + j i + b a	not good/ji _:ba-suffix	105 110 10	114	m a + j i + b a	[x]
+664	Kagate	Bad	marikpa	marikpa	m a + r i.k + !p/b a	not good/rik _:ba-suffix	105 117 10	111	m a + r i.k + !p/b a	[x]
+919	Lowa	Bad	a	a	a	bad	111	39	a	[x]
+920	Lowa	Bad	ŋempa	ŋempa	ŋ e.m + p a	bad/ŋem _:pa-suffix	115 10	32	ŋ e.m + p a	[x]
+1171	Nubri	Bad	ɦawɛ	ɦawɛ	ɦ a + w ɛ	bad/ha bad/we	112 113	40	ɦ a + w ɛ	[x]
+1425	Sherpa	Bad	melokpa	melokpa	m e + l o.k + p a	not good/lok _:pa-suffix	105 114 10	112	m e + l o.k + p a	[x]
+1668	Tsum	Bad	nepo	nepo	n e + p o	bad/ne _:po-suffix	115 109	32	n e - + p o	[x]
+1932	Yolmo	Bad	tsokpa	tsokpa	ts o.k + p a	bad/tsok _:pa-suffix/pa	116 10	116	ts o.k + p a	[x]
+100218	S_Old_Tibetan	Bad	ŋan-	ŋan-	ŋ a n			100245	ŋ a n - ( - - - - - - )	From Sagart et al.
+100266	S_Old_Chinese	Bad	ʔˤak	ʔˤak	ʔˤ a k			103616	ʔˤ a k	From Sagart et al.
+146	Gyalsumdo	Wet	taŋmu	taŋmu	t a.ŋ + m u	cold _:mu-suffix/mu	553 3365	1081	t a.ŋ + m u	[x]
+405	Jirel	Wet	tʰəŋɡe	tʰəŋɡe	tʰ ə.ŋ + g e	cold _/ge	553 555	1081	tʰ ə.ŋ + g e	[x]
+665	Kagate	Wet	taŋbu	taŋbu	t a.ŋ + b u	cold _:bu-suffix	553 107	1081	t a.ŋ + b u	[x]
+921	Lowa	Wet	taŋa	taŋa	t a.ŋ + a	cold	553	1081	t a.ŋ + a	[x]
+1172	Nubri	Wet	lompa	lompa	l o.m + p a	wet _:pa-suffix/pa	3547 10	1084	l o.m + p a	[x]
+1426	Sherpa	Wet	tʰeŋa	tʰeŋa	tʰ e.ŋ + !Ø/ŋ a	cold _:ŋa-suffix	553 872	1081	tʰ e.ŋ + !Ø/ŋ a	[x]
+1669	Tsum	Wet	nd̪ompa	nd̪ompa	ⁿd o.m + p a	wet _:pa-suffix/pa	3549 10	1084	ⁿd o.m + p a	[x]
+1933	Yolmo	Wet	taŋmu	taŋmu	t a.ŋ + m u	cold _:mu-suffix	553 3365	1081	t a.ŋ + m u	[x]
+107868	S_Old_Chinese	Wet	qʰip	qʰip	qʰ i p			102013	- qʰ i p	From Sagart et al.
+107879	S_Old_Tibetan	Wet	rlon	rlon	r l o n			1084	- - - - r l o n - -	From Sagart et al.
+149	Gyalsumdo	Short	t̪øma	t̪øma	t̪ ø + m a	short/thum _:ma-suffix/ma	2420 1442	720	t̪ ø + m a -	[x]
+408	Jirel	Short	t̪ʰumma	t̪ʰumma	t̪ʰ u.m + m a	short/thum _ma-suffix/ma	2420 11	720	t̪ʰ u.m + m a	[x]
+668	Kagate	Short	t̪ʰimi	t̪ʰimi	t̪ʰ i + m i	short/thum _:mi-suffix	2420 2419	720	t̪ʰ i + m i	[x]
+924	Lowa	Short	t̪uŋwa	t̪uŋwa	t̪ u.ŋ + w a	short/thum _:wa-suffix	2420 2421	720	t̪ u.ŋ + w a	[x]
+1175	Nubri	Short	t̪ɛ̃n̪d̪ɛ̃	t̪ɛ̃n̪d̪ɛ̃	t̪ ɛ̃.n̪ + d̪ ɛ̃	short/thum _:de-suffix	2420 2418	721	t̪ ɛ̃.n̪ + d̪ ɛ̃	[x]
+1429	Sherpa	Short	t̪ʰinme	t̪ʰinme	t̪ʰ i.n + m e	short/thum _:me-suffix	2420 2419	720	t̪ʰ i.n + m e	[x]
+1672	Tsum	Short	t̪ʰyma	t̪ʰyma	t̪ʰ y + m a	short/thum _:ma-suffix/ma	2420 11	720	t̪ʰ y - + m a	[x]
+1936	Yolmo	Short	t̪ʰemu	t̪ʰemu	t̪ʰ e + m u	short/thum _:mu-suffix	2420 966	720	t̪ʰ e + m u	[x]
+106023	S_Old_Tibetan	Short	tʰuŋ-	tʰuŋ-	tʰ u ŋ			720	tʰ u ŋ - - ( - - - )	From Sagart et al.
+106054	S_Old_Chinese	Short	tˤorʔ	tˤorʔ	tˤ o r ʔ			104179	tˤ o - r ʔ -	From Sagart et al.
+150	Gyalsumdo	Hot	tsʰant̪i	tsʰant̪i	tsʰ a.n + t̪ i	hot/tsha _:ti-suffix/ti	1365 1476	396	tsʰ a.n + t̪ i	[x]
+409	Jirel	Hot	tʰommu	tʰommu	tʰ o.m + m u	hot/dom _:mu-suffix	1367 12	398	tʰ o.m + m u	[x]
+669	Kagate	Hot	dombo	dombo	d o.m + b o	hot/dom _:bo-suffix	1367 1369	398	d o.m + b o	[x]
+925	Lowa	Hot	tsʰa	tsʰa	tsʰ a	hot/tsha	1365	396	tsʰ a -	[x]
+1176	Nubri	Hot	tsʰawo	tsʰawo	tsʰ a + w o	hot/tsha _:wo-suffix	1365 1370	396	tsʰ a - + w o	[x]
+1430	Sherpa	Hot	tsʰand̪i	tsʰand̪i	tsʰ a.n + d i	hot/tsha _:di-suffix	1365 1476	396	tsʰ a.n + d i	[x]
+1673	Tsum	Hot	tsʰand̪e	tsʰand̪e	tsʰ a.n + d e	hot/tsha _:de-suffix	1365 1476	396	tsʰ a.n + d e	[x]
+1937	Yolmo	Hot	tomu	tomu	t o.!Ø/m + m u	hot/dom _:mu-suffix	1367 966	398	t o.!Ø/m - + m u	[x]
+103337	S_Old_Tibetan	Hot	tsʰa	tsʰa	tsʰ a			396	( - - - - - - ) - tsʰ - a - ( - - - - - - - - - - - - - - - - - - )	From Sagart et al.
+103362	S_Old_Chinese	Hot	Cnat	Cnat	C/ n a t			101652	( C/ - ) n - a t -	From Sagart et al.
+152	Gyalsumdo	Right	jøba	jøba	j ø + b a	right/jo _:pa-suffix	2233 10	659	j ø + b a	[?]
+411	Jirel	Right	samapa	samapa	s a + m a + p a	right/sa _:ma-suffix _:ba-suffix/pa	2235 11 10	660	s a + m a + p a	[?]
+671	Kagate	Right	tɕjabutsʰole	tɕjabutsʰole	tɕ j a + b u + tsʰ o + l e	_right/tsja _:bu-suffix right/tsho right/le	2237 2238 2239 2240	663	tɕ j a + b u + tsʰ o + l e	[?]
+927	Lowa	Right	jewa	jewa	j e + w a	right/jo _:wa-suffix	2233 2241	659	j e + w a	[?]
+1178	Nubri	Right	je	je	j e	right/jo	2233	659	j e	[?]
+1432	Sherpa	Right	laɡpaɡa	laɡpaɡa	l a.g + p a + g a	_arm/hand _:pa-suffix/pa right	52 10 2243	660	l a.g + p a + g a	[?]
+1675	Tsum	Right	jepa	jepa	j e + p a	right/jo _:pa-suffix/pa	2233 10	659	j e + p a	[?]
+1939	Yolmo	Right	joba	joba	j o + b a	right/jo _:pa-suffix	2233 10	659	j o + b a	[?]
+105531	S_Old_Chinese	Right	ɢʷəʔ	ɢʷəʔ	ɢʷ ə ʔ			101692	ɢʷ ə - ʔ ( - - - - )	From Sagart et al.
+105562	S_Old_Tibetan	Right	gjas	gjas	g j a s			110429	- - - - g j a s - - -	From Sagart et al.
+153	Gyalsumdo	Left	jøma	jøma	j ø + m a	left/jo _:ma-suffix/ma	1494 11	435	j ø - + m a -	[x]
+412	Jirel	Left	d̪ebɹepa	d̪ebɹepa	d̪ e + b.ɹ e + p a	_left left _:ba-suffix/pa	1496 1497 10	437	d̪ e + b.ɹ e + p a	[x]
+672	Kagate	Left	joma	joma	j o + m a	left/jo _:ma-suffix/ma	1494 11	435	j o - + m a	[x]
+928	Lowa	Left	jømpa	jømpa	j ø.m + p a	left/jo _:pa-suffix/pa	1494 10	435	j ø.m + p a	[x]
+1179	Nubri	Left	jon̪	jon̪	j o.n̪	left/jo	1494	435	j o.n̪	[x]
+1433	Sherpa	Left	pʰiloɡpa	pʰiloɡpa	pʰ i + l !o/a.g + p a	left/phi _arm/hand _:pa-suffix/pa	1499 52 10	437	pʰ i + l !o/a.g + p a	[x]
+1676	Tsum	Left	joma	joma	j o + m a	left/jo _:ma-suffix/ma	1494 11	435	j o - + m a	[x]
+1940	Yolmo	Left	joma	joma	j o + m a	left/jo _:ma-suffix/ma	1494 11	435	j o - + m a	[x]
+103842	S_Old_Tibetan	Left	gjon	gjon	g j o n			435	g j o n - - - -	From Sagart et al.
+103883	S_Old_Chinese	Left	tsˤajʔ	tsˤajʔ	tsˤ a j ʔ			101664	tsˤ a j ʔ ( - - - - )	From Sagart et al.
+154	Gyalsumdo	Near	ɲemu	ɲemu	ɲ e + m u	near/nje _:mu-suffix/mu	1856 3365	542	- ɲ e + m u	[x]
+413	Jirel	Near	ɲibid̪u	ɲibid̪u	ɲ i + b i + d̪ u	near/nje _? _?	1856 1859 871	541	ɲ i - + b i + d̪ - u	[x]
+673	Kagate	Near	t̪ʰama	t̪ʰama	t̪ʰ a + m a	far/tha _:ma-suffix/ma	868 1857	541	t̪ʰ - a + m a	[x]
+929	Lowa	Near	ŋe	ŋe	ŋ e	near/nje	1856	542	- ŋ e	[x]
+1180	Nubri	Near	t̪ʰaɲiw	t̪ʰaɲiw	t̪ʰ a + ɲ i.w	far/tha near/nje	868 1856	541	t̪ʰ a + ɲ i.w	[x]
+1434	Sherpa	Near	t̪ʰakŋemo	t̪ʰakŋemo	t̪ʰ a.k + ŋ e + m o	far/tha near/nje _:mo-suffix/mu	1860 1856 3365	541	t̪ʰ a.k + ŋ e + m o	[x]
+1677	Tsum	Near	tɹala	tɹala	t.ɹ a + l a	near _?	1860 1861	541	t.ɹ a + l a	[x]
+1941	Yolmo	Near	poɰla	poɰla	p o.ɰ + l a	near/pow _?	1862 1861	545	p o.ɰ + l a	[x]
+104752	S_Old_Chinese	Near	nərʔ	nərʔ	n ə r ʔ			542	- - - n ə - r ʔ - - - - - - - - - -	From Sagart et al.
+104753	S_Old_Tibetan	Near	tʰag.ɲe.po	tʰag.ɲe.po	tʰ a g ɲ e p o			541	tʰ a g ɲ e - - - p o - - - - - - - -	From Sagart et al.
+104783	S_Old_Chinese	Near	ɴ→kərʔ	ɴ→kərʔ	ɴ k ə r ʔ			101678	ɴ - k - ə r ʔ	From Sagart et al.
+156	Gyalsumdo	Big	tɕʰjumbu	tɕʰjumbu	tɕʰ.j u.m + b u	big _:bu-suffix	213 1581	75	tɕʰ.j u.m + b u	[x]
+416	Jirel	Big	ndzod̪a	ndzod̪a	ⁿdz o + d̪ a	big _/da	213 216	77	ⁿdz o - + d̪ a	[?]
+675	Kagate	Big	tɕʰjombo	tɕʰjombo	tɕʰ.j o.m + b o	big _:bu-suffix	213 1581	75	tɕʰ.j o.m + b o	[x]
+931	Lowa	Big	tsʰe	tsʰe	tsʰ e	big	213	77	tsʰ e -	[?]
+1182	Nubri	Big	tɕjɔ̃mpu	tɕjɔ̃mpu	tɕ.j ɔ̃.m + p u	big _:bu-suffix	213 1581	75	tɕ.j ɔ̃.m + p u	[x]
+1436	Sherpa	Big	tɕʰend̪i	tɕʰend̪i	tɕʰ e.n + d i	big _/di	213 217	77	tɕʰ e.n + d i	[?]
+1679	Tsum	Big	tɕʰemo	tɕʰemo	tɕʰ e + m o	big _:mo-suffix	213 218	77	tɕʰ e - + m o	[?]
+1943	Yolmo	Big	tɕʰjimbu	tɕʰjimbu	tɕʰ.j i.m + b u	big _:bu-suffix	213 1581	75	tɕʰ.j i.m + b u	[x]
+100400	S_Old_Tibetan	Big	tɕʰe-	tɕʰe-	tɕʰ e			77	- - - - tɕʰ e - - ( - - - - - )	From Sagart et al.
+100437	S_Old_Chinese	Big	lˤat←s	lˤat←s	lˤ a t s			101627	lˤ a t - s ( - - - )	From Sagart et al.
+157	Gyalsumdo	Small	tɕema	tɕema	tɕ e + m a	small/? _:ma-suffix/ma	2471 1442	731	tɕ e - + m a -	[?]
+417	Jirel	Small	tikti	tikti	t i.k + t i	small _/ti	931 83	733	t i.k + t i	[?]
+676	Kagate	Small	tɕʰimi	tɕʰimi	tɕʰ i + m i	small/tsh _/mi	2471 2472	732	tɕʰ i + m i	[?]
+932	Lowa	Small	tɕuŋwa	tɕuŋwa	tɕ u.ŋ + w a	SMALL _:wa-suffix	2471 2475	731	tɕ u.ŋ + w a	[?]
+1183	Nubri	Small	tɛtɛ	tɛtɛ	t ɛ + t ɛ	small/tE _:RED/tE	2474 2476	733	t ɛ + t ɛ	[?]
+1437	Sherpa	Small	tikpe	tikpe	t i.k + p e	small _/bi	931 932	734	t i.k + p e	[?]
+1680	Tsum	Small	tɕʰyma	tɕʰyma	tɕʰ y + m a	SMALL _:ma-suffix/ma	2471 11	731	tɕʰ y - + m a	[?]
+1944	Yolmo	Small	tsemu	tsemu	ts e + m u	small _:mu-suffix	2471 966	731	ts e - + m u	[?]
+106321	S_Old_Chinese	Small	məj	məj	m ə j			100066	m ə j ( - - - - )	From Sagart et al.
+106339	S_Old_Tibetan	Small	tɕʰuŋ-	tɕʰuŋ-	tɕʰ u ŋ			731	tɕʰ - u ŋ - - - - -	From Sagart et al.
+106353	S_Old_Chinese	Small	sewʔ	sewʔ	s e w ʔ			101699	s e - w ʔ	From Sagart et al.
+106358	S_Old_Chinese	Small	sˤe←s	sˤe←s	sˤ e s			101700	sˤ e - s	From Sagart et al.
+160	Gyalsumdo	Above	ɲala	ɲala	ɲ a + l a	above/nya _there/la	1 200	1	ɲ a + l a	[x]
+420	Jirel	Above	jine	jine	j i + n e	above/ji above/ne	2 24	3	j i + n e	[x]
+679	Kagate	Above	t̪ʰola	t̪ʰola	t̪ʰ o + l a	above/tho _there/la	4 200	1	t̪ʰ o - + l a	[x]
+935	Lowa	Above	t̪ʰøʔ	t̪ʰøʔ	t̪ʰ ø.ʔ	above/tho	4	1	t̪ʰ ø.ʔ	[x]
+1186	Nubri	Above	kaŋ	kaŋ	k a.ŋ	above/kang	5	6	k a.ŋ	[x]
+1440	Sherpa	Above	jajo	jajo	j a + j o	above/ja above/jo	6 3	4	j a + j o	[x]
+1683	Tsum	Above	jau	jau	j a + !Ø/j u	above/ja above/jo	6 3	4	j a + !Ø/j u	[x]
+1947	Yolmo	Above	t̪ʰola	t̪ʰola	t̪ʰ o + l a	above/tho _there/la	4 200	1	t̪ʰ o - + l a	[x]
+100009	S_Old_Chinese	Above	daŋʔ←s	daŋʔ←s	d a ŋ ʔ s			100020	- d - a ŋ ʔ - s ( - - - - - - - - - - - - )	From Sagart et al.
+100010	S_Old_Tibetan	Above	steŋ	steŋ	s t e ŋ			100020	s t - e ŋ - - - ( - - - - - - - - - - - - )	From Sagart et al.
+161	Gyalsumdo	Below	wala	wala	w a + l a	below/wa _there/la	199 200	68	w a + l a	[x]
+421	Jirel	Below	mima	mima	m i + m a	below/mi _ma-suffix/ma	201 11	69	m i + m a	[x]
+680	Kagate	Below	wala	wala	w a + l a	below/wa _there/la	199 200	68	w a + l a	[x]
+936	Lowa	Below	meʔ	meʔ	m e.ʔ	below/me	203	72	m e.ʔ	[x]
+1187	Nubri	Below	ɦo	ɦo	ɦ o	below/ho	204	73	ɦ o	[x]
+1441	Sherpa	Below	mamo	mamo	m a + m o	below/ma below/mo	202 201	69	m a + m o	[x]
+1684	Tsum	Below	mau	mau	m a + !Ø/m u	below/ma below/mo	202 201	69	m a + !Ø/m u	[x]
+1948	Yolmo	Below	t̪iŋla	t̪iŋla	t̪ i.ŋ + l a	below/ting _there/la	205 200	2	t̪ i.ŋ + l a	[x]
+162	Gyalsumdo	White	kaɹpu	kaɹpu	k a.ɹ + p u	star/white :bu-suffix/pu	2565 1581	1106	k a.ɹ + p u	[x]
+422	Jirel	White	kaɹmu	kaɹmu	k a.ɹ + m u	star/white :mu-suffix/mu	2565 12	101	k a.ɹ + m u	[x]
+681	Kagate	White	karmu	karmu	k a.r + m u	star/white :mu-suffix/mu	2565 12	101	k a.r + m u	[x]
+937	Lowa	White	kawo	kawo	k a.!Ø/ɹ + w o	star/white /wo	2565 3624	102	k a.!Ø/ɹ - + w o	[x]
+1188	Nubri	White	kaɹpo	kaɹpo	k a.ɹ + p o	star/white :bu-suffix/pu	2565 1581	1106	k a.ɹ + p o	[x]
+1442	Sherpa	White	karbu	karbu	k a.r + b u	star/white :bu-suffix/pu	2565 1581	1106	k a.r + b u	[x]
+1685	Tsum	White	kaɹbo	kaɹbo	k a.ɹ + b o	star/white :bu-suffix/pu	2565 1581	1106	k a.ɹ + b o	[x]
+1949	Yolmo	White	kaɾpu	kaɾpu	k a.ɾ + p u	star/white :bu-suffix/pu	2565 1581	1106	k a.ɾ + p u	[x]
+108086	S_Old_Tibetan	White	dkar-	dkar-	d k a r			1106	d k a r - - ( - - )	From Sagart et al.
+108108	S_Old_Chinese	White	bˤrak	bˤrak	bˤ r a k			110162	) bˤ r a k	From Sagart et al.
+173	Gyalsumdo	Eight	ke	ke	k e	eight	764	234	k e -	[x]
+433	Jirel	Eight	ŋɡet̪	ŋɡet̪	ⁿg e.t̪	eight	764	234	ⁿg e.t̪	[x]
+691	Kagate	Eight	ke	ke	k e	eight	764	234	k e -	[x]
+948	Lowa	Eight	ke	ke	k e	eight	764	234	k e -	[x]
+1198	Nubri	Eight	ke	ke	k e	eight	764	234	k e -	[x]
+1199	Nubri	Eight	kxe	kxe	k.x/Ø e	eight	764	236	k.x/Ø e	[x]
+1452	Sherpa	Eight	ɡeʔ	ɡeʔ	g e.ʔ	eight	764	235	g e.ʔ	[x]
+1695	Tsum	Eight	keʔ	keʔ	k e.ʔ	eight	764	234	k e.ʔ	[x]
+1959	Yolmo	Eight	ke	ke	k e	eight	764	234	k e -	[x]
+101834	S_Old_Chinese	Eight	pˤret	pˤret	pˤ r e t			100183	- - - - - - - pˤ - r - - e - t -	From Sagart et al.
+101835	S_Old_Tibetan	Eight	brgʲad	brgʲad	b r gʲ a d			100183	- - - - - - - b - r gʲ - a - d -	From Sagart et al.
+178	Gyalsumdo	Twenty	ɲiɕu	ɲiɕu	ɲ i + ɕ/tɕ u.!Ø/k	two ten	3448 2672	1049	ɲ i + ɕ/tɕ u	[x]
+438	Jirel	Twenty	kʰaldʑik	kʰaldʑik	kʰ a.l + !dʑ/tɕ i.k	twenty one	3431 2024	1051	kʰ a.l + dʑ/tɕ i.k	[x]
+696	Kagate	Twenty	ŋiɕju	ŋiɕju	ŋ i + ɕ/tɕ.j u	two ten	3448 2672	1049	ŋ i + ɕ/tɕ.j u	[x]
+953	Lowa	Twenty	ɲidʑu	ɲidʑu	ɲ i + dʑ/tɕ u	two ten	3448 2672	1049	ɲ i + dʑ/tɕ u	[x]
+1204	Nubri	Twenty	ɲiɕu	ɲiɕu	ɲ i + ɕ/tɕ.Ø/j u	two ten	3448 2672	1049	ɲ i + ɕ/tɕ.Ø/j u	[x]
+1457	Sherpa	Twenty	ɲiɕju	ɲiɕju	ɲ i + ɕ/tɕ.j u	two ten	3448 2672	1049	ɲ i + ɕ/tɕ.j u	[x]
+1700	Tsum	Twenty	ɲiɕu	ɲiɕu	ɲ i + ɕ/tɕ u	two ten	3448 2672	1049	ɲ i + ɕ/tɕ u	[x]
+1964	Yolmo	Twenty	ɲiɕju	ɲiɕju	ɲ i + ɕ/tɕ.j u	two ten	3448 2672	1049	ɲ i + ɕ/tɕ.j u	[x]
+1965	Yolmo	Twenty	kʰaldʑi	kʰaldʑi	kʰ a.l + dʑ/tɕ i	twenty one	3431 2024	1051	kʰ a.l + dʑ/tɕ i	[x]
+107536	S_Old_Tibetan	Twenty	ɲi.ɕu	ɲi.ɕu	ɲ i ɕ u			1049	- - ɲ i - ɕ - u -	From Sagart et al.
+179	Gyalsumdo	One Hundred	kja	kja	k.j a	hundred	2035	590	k.j a	[x]
+439	Jirel	One Hundred	kʰalŋa	kʰalŋa	kʰ a.l + ŋ a	twenty five	3431 1009	594	kʰ a.l + ŋ a	[x]
+697	Kagate	One Hundred	kjatɕik	kjatɕik	k.j a + tɕ i.k	hundred one	2035 2024	590	k.j a + tɕ i.k	[x]
+954	Lowa	One Hundred	kjat̪ʰampa	kjat̪ʰampa	k.j a + t̪ʰ a.m + p a	hundred ? _:pa-suffix/pa	2035 2039 1019	590	k.j a + t̪ʰ a.m + p a	[x]
+1205	Nubri	One Hundred	kjat̪ʰamba	kjat̪ʰamba	k.j a + t̪ʰ a.m + b a	hundred ? _:ba-suffix/pa	2035 2039 2040	590	k.j a + t̪ʰ a.m + b a	[x]
+1458	Sherpa	One Hundred	ɡjatɕik	ɡjatɕik	g.j a + tɕ i.k	hundred one	2035 2024	590	g.j a + tɕ i.k	[x]
+1701	Tsum	One Hundred	kja	kja	k.j a	hundred	2035	590	k.j a	[x]
+1966	Yolmo	One Hundred	kjatɕi	kjatɕi	k.j a + tɕ i	hundred one	2035 2024	590	k.j a + tɕ i	[x]
+103479	S_Old_Chinese	One Hundred	pˤrak	pˤrak	pˤ r a k			100185	- - - - pˤ - - r - - a k	From Sagart et al.
+103480	S_Old_Tibetan	One Hundred	brgʲa	brgʲa	b r g ʲ a			100185	- - - - b - - r g ʲ a -	From Sagart et al.
+181	Gyalsumdo	What	tɕi	tɕi	tɕ i	what/tsi	3559	1089	tɕ i	[x]
+441	Jirel	What	tɕi	tɕi	tɕ i	what/tsi	3559	1089	tɕ i	[x]
+699	Kagate	What	tsi	tsi	ts i	what/tsi	3559	1089	ts i	[x]
+956	Lowa	What	ki	ki	k i	what/ki	84	1089	k i	[?]
+1207	Nubri	What	tɕi	tɕi	tɕ i	what/tsi	3559	1089	tɕ i	[x]
+1460	Sherpa	What	kʰaŋ	kʰaŋ	kʰ a.ŋ	what/kang	3560	1090	kʰ a.ŋ	[x]
+1703	Tsum	What	tɕi	tɕi	tɕ i	what/tsi	3559	1089	tɕ i	[x]
+1968	Yolmo	What	tɕi	tɕi	tɕ i	what/tsi	3559	1089	tɕ i	[x]
+107918	S_Old_Chinese	What	gˤa	gˤa	gˤ a			1090		From Sagart et al.
+107919	S_Old_Chinese	What	gˤaj	gˤaj	gˤ a j			1090		From Sagart et al.
+107930	S_Old_Tibetan	What	tɕʰi	tɕʰi	tɕʰ i			1089	- tɕʰ - i - - -	From Sagart et al.
+182	Gyalsumdo	Where	kəɹu	kəɹu	k ə + ɹ u	where/ka _there/ru	3587 3588	1095	k ə + ɹ u	[x]
+442	Jirel	Where	kʰapa	kʰapa	kʰ a + p a	where/kha _:pa-suffix	86 10	5	kʰ a + p a	[x]
+700	Kagate	Where	kala	kala	k a + l a	where/ka _there/la	3587 200	1095	k a + l a	[x]
+957	Lowa	Where	karu	karu	k a + r u	where/ka _there/ru	3587 3588	1095	k a + r u	[x]
+1208	Nubri	Where	kønt̪a	kønt̪a	k ø.n + t̪ a	where/køn that	3591 3647	1100	k ø.n + t̪ a	[?]
+1461	Sherpa	Where	kʰani	kʰani	kʰ a + n i	where/kha _there/ni	85 3593	5	kʰ a + n i	[x]
+1704	Tsum	Where	kana	kana	k a + n a	where/ka _there/na	3587 3593	1095	k a + n a	[x]
+1969	Yolmo	Where	ka	ka	k a	where/ka	3587	1095	k a	[x]
+108006	S_Old_Chinese	Where	ɢʷan	ɢʷan	ɢʷ a n			1100		From Sagart et al.
+108032	S_Old_Tibetan	Where	ga.na	ga.na	g a n a			1100	g a n - - a	From Sagart et al.
+184	Gyalsumdo	How many	katse	katse	k a + ts e	how/ka how/tse	1397 1398	407	k a - + ts e	[x]
+444	Jirel	How many	t̪ʰoji	t̪ʰoji	t̪ʰ o + j i	how/tho how/ji	87 1399	408	t̪ʰ o + j i	[x]
+702	Kagate	How many	kadze	kadze	k a + dz e	how/ka how/tse	1397 1398	407	k a - + dz e	[x]
+959	Lowa	How many	kantɕø	kantɕø	k a.n + tɕ ø	how/ka how/tse	1397 1398	407	k a.n + tɕ ø	[?]
+1210	Nubri	How many	maŋlo	maŋlo	m a.ŋ + l o	how/mang how/lo	1400 1401	410	m a.ŋ + l o	[x]
+1463	Sherpa	How many	kʰədzo	kʰədzo	kʰ ə + dz o	how/ka how/tse	1397 1398	407	kʰ ə - + dz o	[?]
+1706	Tsum	How many	kanʑøʔ	kanʑøʔ	k a.n + ʑ ø.ʔ	how/ka how/tse	1397 1398	407	k a.n + ʑ ø.ʔ	[?]
+1971	Yolmo	How many	kadze	kadze	k a + dz e	how/ka how/tse	1397 1398	407	k a - + dz e	[x]
+187	Gyalsumdo	That	ot̪i	ot̪i	o + t̪ i	over-there/o _this	2358 2734	786	o + t̪ i	[x]
+447	Jirel	That	t̪ʰe	t̪ʰe	t̪ʰ e	that	2684	785	t̪ʰ e	[x]
+705	Kagate	That	wokʰo	wokʰo	w o + kʰ o	over-there/o _this/kho	2358 2362	786	w o + kʰ o	[x]
+963	Lowa	That	jy	jy	j y	that/jy	2687	790	j y	[x]
+964	Lowa	That	wy	wy	!w/j y	that/jy	2687	790	!w/j y	[x]
+1214	Nubri	That	pʰu	pʰu	pʰ u	that/phu	2688	118	pʰ u	[x]
+1466	Sherpa	That	t̪ʰi	t̪ʰi	t̪ʰ i	that	2684	785	t̪ʰ i	[x]
+1709	Tsum	That	o	o	o	over-there/o	2358	786	o	[x]
+1974	Yolmo	That	pʰarŋe	pʰarŋe	pʰ a.r + ŋ e	that/phar that/ŋe	2689 2690	791	pʰ a.r + ŋ e	[x]
+106946	S_Old_Tibetan	That	de	de	d e			785		From Sagart et al.
+106947	S_Old_Chinese	That	pajʔ	pajʔ	p a j ʔ			791		From Sagart et al.
+188	Gyalsumdo	These	t̪ija	t̪ija	t̪ i + j a	_this :plural-suffix/ja	2734 2697	120	t̪ i + - j a	[x]
+448	Jirel	These	nd̪iba	nd̪iba	ⁿd i + b a	_this :ba-suffix	2734 1019	125	ⁿd i + b a	[x]
+706	Kagate	These	d̪ikʰokja	d̪ikʰokja	d̪ i + kʰ o + k.j a	_this _this/kho :plural-suffix/kja	2734 2362 2697	793	d̪ i + kʰ o + k.j a	[x]
+965	Lowa	These	nd̪ekja	nd̪ekja	ⁿd !e/i + k.j a	_this :plural-suffix/kja	2734 2697	793	ⁿd !e/i + k.j a	[x]
+1215	Nubri	These	t̪id̪o	t̪id̪o	t̪ i + d̪ o	_this :plural-suffix/do	2734 2700	121	t̪ i + d̪ o	[x]
+1467	Sherpa	These	d̪iba	d̪iba	d̪ i + b a	_this :ba-suffix	2734 1019	125	d̪ i + b a	[x]
+1710	Tsum	These	nd̪id̪em	nd̪id̪em	ⁿd i + d̪ e.m	_this :plural-suffix/dem	2734 2701	124	ⁿd i + d̪ e.m	[x]
+1975	Yolmo	These	nd̪ikja	nd̪ikja	ⁿd i + k.j a	_this :plural-suffix/kja	2734 2697	793	ⁿd i + k.j a	[x]
+189	Gyalsumdo	Those	kʰuŋja	kʰuŋja	kʰ u.ŋ + j a	those :plural-suffix/ja	2761 2697	815	kʰ u.ŋ + j a	[x]
+449	Jirel	Those	t̪ʰeba	t̪ʰeba	t̪ʰ e + b a	_that :ba-suffix	2684 1019	127	t̪ʰ e - + b a -	[x]
+707	Kagate	Those	wokʰokja	wokʰokja	w o + kʰ o + k.j a	_over-there/o _this/kho :plural-suffix/kja	2358 2362 2767	813	w o + kʰ o + k.j a	[x]
+966	Lowa	Those	jøkja	jøkja	j !ø/y + k.j a	that/jy :plural-suffix/kja	2687 2697	813	j !ø/y + k.j a	[x]
+967	Lowa	Those	wøkja	wøkja	!w/j !ø/y + k.j a	that/jy :plural-suffix/kja	2687 2697	813	!w/j !ø/y + k.j a	[x]
+1216	Nubri	Those	pʰud̪o	pʰud̪o	pʰ u + d̪ o	that/phu :plural-suffix/do	2688 2700	128	pʰ u + d̪ o -	[x]
+1468	Sherpa	Those	t̪ʰiba	t̪ʰiba	t̪ʰ i + b a	_that :ba-suffix	2684 1019	127	t̪ʰ i - + b a -	[x]
+1711	Tsum	Those	od̪em	od̪em	o + d̪ e.m	_over-there/o :plural-suffix/dem	2358 2701	811	o + d̪ e.m	[x]
+1976	Yolmo	Those	t̪apʰarŋed̪i	t̪apʰarŋed̪i	t̪ a + pʰ a.r + ŋ e + !d̪/ⁿd i	those/ta that/phar that/ŋe this	2771 2689 2690 2734	129	t̪ a + pʰ a.r + ŋ e + !d̪/ⁿd i	[x]
+190	Gyalsumdo	Same	ot̪iɹaŋ	ot̪iɹaŋ	o + t̪ i + ɹ a.ŋ	over-there/o this _same/rang	2358 2734 2360	130	o + t̪ i + ɹ a.ŋ	[x]
+191	Gyalsumdo	Same	od̪iɹaŋ	od̪iɹaŋ	o + !d̪/t̪ i + ɹ a.ŋ	over-there/o this _same/rang	2358 2734 2360	130	o + !d̪/t̪ i + ɹ a.ŋ	[x]
+192	Gyalsumdo	Same	taɡe	taɡe	t a + g e	same/ta same/ge	632 633	131	t a + g e	[x]
+450	Jirel	Same	t̪ʰokɹaŋ	t̪ʰokɹaŋ	t̪ʰ o.k + ɹ a.ŋ	same/thok same/rang	2359 2360	134	t̪ʰ o.k + ɹ a.ŋ	[x]
+708	Kagate	Same	wokʰora	wokʰora	w o + kʰ o + r a	over-there/o this/kho different	2358 2362 2360	703	w o + kʰ o + - r a -	[x]
+968	Lowa	Same	tɕikpa	tɕikpa	tɕ i.k + !p/b a	one :ba-suffix	2024 1019	706	tɕ i.k + !p/b a	[x]
+1217	Nubri	Same	tɕɔtɕo	tɕɔtɕo	tɕ ɔ + tɕ o	same/tco same:red/tco	2361 2365	705	tɕ ɔ + tɕ o	[x]
+1469	Sherpa	Same	tɕikparaŋ	tɕikparaŋ	tɕ i.k + !p/b a + r a.ŋ	one :ba-suffix _same/rang	2024 1019 2360	706	tɕ i.k + !p/b a + r a.ŋ	[x]
+1712	Tsum	Same	od̪e	od̪e	o + !d̪/ⁿd !e/i	over-there/o this	2358 2734	130	o + !d̪/ⁿd !e/i	[x]
+1977	Yolmo	Same	andaɾaŋ	andaɾaŋ	a.n + !d/t a + ɾ a.ŋ	/an same/ta different	2366 632 2360	702	a.n + !d/t a + ɾ a.ŋ	[x]
+193	Gyalsumdo	Different	mendaɡe	mendaɡe	m e.n + !d/t a + g e	not/men same/ta same/ge	631 632 633	201	m e.n + !d/t a + g e	[x]
+451	Jirel	Different	kʰud̪uk	kʰud̪uk	kʰ u + d̪ u.k	different different/tuk	633 634	202	kʰ u + d̪ u.k	[x]
+709	Kagate	Different	raŋsara	raŋsara	r a.ŋ + s a + r a	same/rang different/sa different	2360 636 2360	207	r a.ŋ + s a + r a	[x]
+969	Lowa	Different	mitɕikpa	mitɕikpa	m i + tɕ i.k + !p/b a	not/men one :ba-suffix	631 2024 1019	135	m i + tɕ i.k + !p/b a	[x]
+1218	Nubri	Different	alak	alak	a + l a.k	different/a different/lak	639 640	205	a + l a.k	[x]
+1470	Sherpa	Different	kʰut̪uk	kʰut̪uk	kʰ u + t̪ u.k	different different/tuk	633 634	202	kʰ u + t̪ u.k	[x]
+1713	Tsum	Different	minta	minta	m i.n + t a	not/men same/ta	631 632	201	m i.n + t a	[x]
+1978	Yolmo	Different	alak	alak	a + l a.k	different/a different/lak	639 640	205	a + l a.k	[x]
+194	Gyalsumdo	Whole	t̪aɡɹaŋ	t̪aɡɹaŋ	t̪ a.g + ɹ a.ŋ	all/tag all/rang	22 16	147	t̪ a.g + ɹ a.ŋ	[x]
+452	Jirel	Whole	ŋɡaŋe	ŋɡaŋe	ⁿg a + ŋ e	all/nga all/nge	17 18	145	ⁿg a + ŋ e	[x]
+710	Kagate	Whole	t̪ʰamdzer	t̪ʰamdzer	t̪ʰ a.m + dz e.r	whole/tam whole/dzer	91 19	136	t̪ʰ a.m + dz e.r	[x]
+711	Kagate	Whole	kopt̪ar	kopt̪ar	k o.p + t̪ a.r	whole/kop whole/tar	3655 92	143	k o.p + t̪ a.r	[x]
+970	Lowa	Whole	kiɾi	kiɾi	k i + ɾ i	whole/kei whole/ri	95 3651	139	k i + ɾ i	[x]
+971	Lowa	Whole	kaŋpo	kaŋpo	k a.ŋ + p o	whole/kang whole/po	3648 3656	137	k a.ŋ + p o	[x]
+1219	Nubri	Whole	tɕjapt̪a	tɕjapt̪a	tɕ.j a.p + t̪ a	all/tsjop _that	21 3647	1112	tɕ.j a.p + t̪ a	[x]
+1471	Sherpa	Whole	jukəi	jukəi	j u + k əi	whole/ju whole/kei	3653 95	140	j u + k əi	[x]
+1714	Tsum	Whole	tɕjop	tɕjop	tɕ.j o.p	all/tsjop	21	1112	tɕ.j o.p	[x]
+1979	Yolmo	Whole	t̪eptse	t̪eptse	t̪ e.p + ts e	whole/tep whole/tse	3654 3650	141	t̪ e.p + ts e	[x]
+196	Gyalsumdo	Few	ɲuŋe	ɲuŋe	ɲ u + ŋ e	few/ny _/ŋe	929 930	279	ɲ u + ŋ e	[?]
+454	Jirel	Few	tikpidʑik	tikpidʑik	t i.k + p i + dʑ i.k	small _/bi _/?	931 932 933	280	t i.k + p i + dʑ i.k	[?]
+713	Kagate	Few	t̪ibi	t̪ibi	t̪ i + b i	small _/bi	931 932	280	t̪ i - + b i	[?]
+973	Lowa	Few	ɲuŋwa	ɲuŋwa	ɲ u.ŋ + w a	few/ny _:wa-suffix	929 934	279	ɲ u.ŋ + w a	[?]
+1221	Nubri	Few	alajili	alajili	a + l a + j i + l i	_:a-suffix la ji li	935 936 937 938	285	a + l a + j i + l i	[?]
+1473	Sherpa	Few	tsedzi	tsedzi	ts e + dz i	small/tse _/dzi	939 933	280	ts e + dz i -	[?]
+1716	Tsum	Few	ɲyma	ɲyma	ɲ y + m a	few/ny _:ma-suffix/ma	929 11	279	ɲ y - + m a	[?]
+1981	Yolmo	Few	sipi	sipi	s i + p i	small/si _few	933 932	12	s i - + p i	[?]
+1982	Yolmo	Few	ɲemu	ɲemu	ɲ e + m u	few/ny _:mu-suffix	929 966	279	ɲ e - + m u	[?]
+102102	S_Old_Tibetan	Few	rkun	rkun	r k u n			100000		From Sagart et al.
+197	Gyalsumdo	Many	maŋbu	maŋbu	m a.ŋ + b u	many _:bu-suffix	1651 107	477	m a.ŋ + b u	[x]
+455	Jirel	Many	kalbe	kalbe	k a.l + b e	many/kal many/be	1653 93	478	k a l + b e	[x]
+714	Kagate	Many	maŋbu	maŋbu	m a.ŋ + b u	many _:bu-suffix	1651 107	477	m a.ŋ + b u	[x]
+974	Lowa	Many	maŋa	maŋa	m a.ŋ + !Ø/ŋ a	many _:ŋa-suffix	1651 1654	477	m a.ŋ + ↓Ø/ŋ a	[x]
+1222	Nubri	Many	aŋsaŋ	aŋsaŋ	a.ŋ + s a.ŋ	many/ang many/sang	1651 1655	477	a.ŋ + s a.ŋ	[x]
+1474	Sherpa	Many	ala	ala	a + l a	:a-prefix many	489 1657	482	a + l a	[x]
+1717	Tsum	Many	kaʑin	kaʑin	k a + ʑ i.n	many/ka many/zing	1653 1655	479	k a + ʑ i.n	[x]
+1983	Yolmo	Many	maŋbu	maŋbu	m a.ŋ + b u	many _:bu-suffix	1651 107	477	m a ŋ + b u	[x]
+104185	S_Old_Tibetan	Many	maŋ-	maŋ-	m a ŋ			477	m a ŋ - ( - - - - )	From Sagart et al.
+104193	S_Old_Chinese	Many	tlˤaj	tlˤaj	t lˤ a j			101669	t lˤ - a j -	From Sagart et al.
+198	Gyalsumdo	All	t̪aɡɹaŋ	t̪aɡɹaŋ	t̪ a.g + ɹ a.ŋ	all/tag _all/rang	22 16	154	t̪ a.g + ɹ a.ŋ	[x]
+456	Jirel	All	ŋɡaŋe	ŋɡaŋe	ⁿg a + ŋ e	all/nga _all/nge	17 18	8	ⁿg a + ŋ e	[x]
+715	Kagate	All	t̪ʰamdzer	t̪ʰamdzer	t̪ʰ a.m + dz e.r	whole/tam all/dzer	91 19	150	t̪ʰ a.m + dz e.r	[x]
+975	Lowa	All	kiɾi	kiɾi	k i + ɾ i	whole/kei whole/ri	95 3651	149	k i + ɾ i	[x]
+1223	Nubri	All	tɕjapt̪a	tɕjapt̪a	tɕ.j a.p + t̪ a	all/tsjop _that	21 3647	10	tɕ.j a.p + t̪ a	[x]
+1475	Sherpa	All	jukəj	jukəj	j u + k əi	whole/ju whole/kei	3653 95	148	j u + k əi	[x]
+1718	Tsum	All	tɕjop	tɕjop	tɕ.j o.p	all/tsjop	21	10	tɕ.j o.p	[x]
+1984	Yolmo	All	ndzamaɹaŋ	ndzamaɹaŋ	ⁿdz a + m a + ɹ a.ŋ	all/ndza _all/ma _all/rang	90 23 16	7	ⁿdz a + m a + ɹ a.ŋ	[x]
+100063	S_Old_Chinese	All	brom	brom	b r o m			101186		From Sagart et al.
+100078	S_Old_Tibetan	All	tʰams.tɕad	tʰams.tɕad	tʰ a m s tɕ a d			103682		From Sagart et al.
+100080	S_Old_Chinese	All	gˤrəm	gˤrəm	gˤ r ə m			103684		From Sagart et al.
+100082	S_Old_Tibetan	All	kun	kun	k u n			103899		From Sagart et al.
+200	Gyalsumdo	To bite	ale	ale	a + l e	_:a-suffix chew/le	2861 2905	851	a + l e	[x]
+201	Gyalsumdo	To bite	soɡjapb	soɡjapb	s o + g.j a.!pb/p	bite/so bite/gjap	2866 2864	849	s o + g.j a.!pb/p	[x]
+460	Jirel	To bite	muɹtɕja	muɹtɕja	m u.ɹ + tɕ.j a	bite/mur bite/gjap	2863 2864	848	m u.ɹ + tɕ.j a	[x]
+461	Jirel	To bite	muɹab	muɹab	m u.!Ø/ɹ + ɹ a.b	bite/mur bite/rab	2863 2872	848	m u.!Ø/ɹ + ɹ a.b	[x]
+717	Kagate	To bite	murtse	murtse	m u.r + !ts/dz e	bite/mur _:vb-suffix/dze	2863 13	848	m u.r + ts e	[x]
+977	Lowa	To bite	soɡjapje	soɡjapje	s o + g.j a.p + j e	bite/so bite/gjap _:je-suffix	2866 2864 2910	849	s o + g.j a.p + j e	[x]
+978	Lowa	To bite	mukje	mukje	m u.g + j e	bite/mur  _:je-suffix	2863 2910	848	m u.g + j e	[x]
+1225	Nubri	To bite	soɡjap	soɡjap	s o + g.j a.p	bite/so bite/gjap	2866 2864	849	s o + g.j a.p	[x]
+1477	Sherpa	To bite	sət̪əbu	sət̪əbu	s ə + t̪ ə + b u	bite/so _to _:bu-suffix	2866 2868 2869	850	s ə + t̪ ə + b u	[x]
+1721	Tsum	To bite	sat̪ob	sat̪ob	s a + t̪ o.b	eat/sa _to	94 2870	850	s a + t̪ o.b	[x]
+1986	Yolmo	To bite	muɹd̪uŋ	muɹd̪uŋ	m u.ɹ + d̪ u.ŋ	bite/mur bite/dung	2863 2871	848	m u.ɹ + d̪ u.ŋ	[x]
+100492	S_Old_Tibetan	To bite	zaˌ bzas	zaˌ bzas	b z a s			102437	- b z a s	From Sagart et al.
+100514	S_Old_Chinese	To bite	det←s	det←s	d e t s			103617	d e t - s	From Sagart et al.
+100515	S_Old_Tibetan	To bite	rmug	rmug	r m u g			104046	r m u g	From Sagart et al.
+202	Gyalsumdo	To be hungry	t̪oɡɛ	t̪oɡɛ	t̪ o + g ɛ	hungry/to _:suffix/ge	2809 2810	830	t̪ o + g ɛ	[x]
+462	Jirel	To be hungry	t̪oaba	t̪oaba	t̪ oa + b a	hungry/to _:ba-suffix	2809 8	830	t̪ oa + b a	[x]
+463	Jirel	To be hungry	t̪oabalabat̪e	t̪oabalabat̪e	t̪ oa + b a + l a + b a + t̪ e	hungry/to _:ba-suffix _hungry/la _:ba-suffix _:te-suffix/te	2809 8 2816 8 9	830	t̪ oa + b a + l a + b a + t̪ e	[x]
+718	Kagate	To be hungry	d̪opat̪odze	d̪opat̪odze	d̪ o + p a + t̪ o + dz e	hungry/to _:ba-suffix _hungry/to2 _:vb-suffix/dze	2809 8 97 13	830	d̪ o + p a + t̪ o + dz e	[x]
+979	Lowa	To be hungry	nd̪okje	nd̪okje	ⁿd o + k.j e	hungry/to _hungry/kje	2809 2810	830	ⁿd o + k.j e	[x]
+1226	Nubri	To be hungry	topat̪ɔ	topat̪ɔ	t o + p a + t̪ ɔ	hungry/to _:pa-suffix/pa _hungry/to2	2809 8 97	830	t o + p a + t̪ ɔ	[x]
+1478	Sherpa	To be hungry	hləwalaŋgu	hləwalaŋgu	h.l ə + w a + l a.ŋ + g u	hungry/to _:wa-suffix _hungry/lang _hungry/gu	2809 2815 2816 2810	833	h l ə + w a + l a ŋ + g u	[x]
+1722	Tsum	To be hungry	t̪oso	t̪oso	t̪ o + s o	hungry/to _:verbal-suffix/so	2809 2813	830	t̪ o + s o	[x]
+1987	Yolmo	To be hungry	tepat̪od̪e	tepat̪od̪e	t e + p a + t̪ o + d̪ e	hungry/to _:ba-suffix _hungry/to2 _to	2809 8 97 2812	830	t e + p a + t̪ o + d̪ e	[x]
+204	Gyalsumdo	To be thirsty	kʰakomkɛ	kʰakomkɛ	kʰ a + k o.m + k ɛ	mouth thirsty _:ke-suffix/ke	1821 2839 2840	155	kʰ a + k o m + k ɛ	[x]
+466	Jirel	To be thirsty	komba	komba	k o.m + b a	thirsty _:ba-suffix/ba	2839 8	839	k o n/m + b a	[x]
+720	Kagate	To be thirsty	kondze	kondze	k o.!n/m + dz e	thirsty _:vb-suffix/dze	2839 13	839	k o n/n + dz e	[x]
+981	Lowa	To be thirsty	komje	komje	k o.m + j e	thirsty _:vb-suffix/je	2839 2843	839	k o.m + j e	[x]
+1228	Nubri	To be thirsty	kʰakom	kʰakom	kʰ a + k o.m	mouth thirsty	1821 2839	155	kʰ a + k o.m	[x]
+1480	Sherpa	To be thirsty	kombalaŋɡu	kombalaŋɡu	k o.m + b a + l a.ŋ + g u	thirsty _:ba-suffix thirsty/lang thirsty/gu	2839 2841 2844 2840	839	k o.m + b a + l a.ŋ + g u	[x]
+1724	Tsum	To be thirsty	kʰakomso	kʰakomso	kʰ a + k o.m + s o	mouth thirsty _:verbal-suffix/so	1821 2839 2813	155	kʰ a + k o.m + s o	[x]
+1989	Yolmo	To be thirsty	komzewoŋd̪e	komzewoŋd̪e	k o.m + z e + w o.ŋ + d̪ e	thirsty _:suffix thirsty/wong thirsty/de	2839 2842 2845 2846	839	k o m + z e + w o ŋ + d̪ e	[x]
+205	Gyalsumdo	To sleep	ɲal	ɲal	ɲ a.l	sleep	3192	978	ɲ a.l	[x]
+467	Jirel	To sleep	ɲol	ɲol	ɲ !o/a.l	sleep	3192	978	ɲ o.l	[x]
+468	Jirel	To sleep	ɲalat̪e	ɲalat̪e	ɲ a.!Ø/l + l a + t̪ e	sleep _:vrb-suffix/la _:te-suffix/te	3192 9	978	ɲ a.!Ø/l + l a + t̪ e	[x]
+721	Kagate	To sleep	ɲaldze	ɲaldze	ɲ a.l + dz e	sleep _:vb-suffix/dze	3192 13	978	ɲ a.l + dz e	[x]
+982	Lowa	To sleep	ɲaje	ɲaje	ɲ a + j e	sleep _:je-suffix	3192 2910	978	ɲ a + j e	[x]
+1229	Nubri	To sleep	ɲal	ɲal	ɲ a.l	sleep	3192	978	ɲ a.l	[x]
+1481	Sherpa	To sleep	ŋiloku	ŋiloku	ŋ i + l o + k u	sleep/ŋi sleep/lo _sleep/ku	96 3195 3196	156	ŋ i + l o + k u	[x]
+1725	Tsum	To sleep	ɲol	ɲol	ɲ !o/a.l	sleep	3192	978	ɲ !o/a.l	[x]
+1726	Tsum	To sleep	ɲalso	ɲalso	ɲ a.l + s o	sleep _:verbal-suffix/so	3192 2813	978	ɲ a.l + s o	[x]
+1990	Yolmo	To sleep	ɲald̪uŋ	ɲald̪uŋ	ɲ a.l + d̪ u.ŋ	sleep sleep/dung	3192 3197	978	ɲ a.l + d̪ u.ŋ	[x]
+106293	S_Old_Tibetan	To sleep	gɲid ɲal	gɲid ɲal	g ɲ i d ɲ a l			978	g ɲ i d ɲ a l - - - - -	From Sagart et al.
+106303	S_Old_Chinese	To sleep	tsʰimʔ	tsʰimʔ	tsʰ i m ʔ			103667	tsʰ i m ʔ	From Sagart et al.
+106304	S_Old_Chinese	To sleep	mit←s	mit←s	m i t s			103668	m i t - s	From Sagart et al.
+206	Gyalsumdo	To lie	tʰelaɲal	tʰelaɲal	tʰ e + l a + ɲ a.l	lie/the lie/la sleep	3066 3067 3192	930	tʰ e + l a + ɲ a.l	[x]
+469	Jirel	To lie	ɹilat̪e	ɹilat̪e	ɹ i + l a + t̪ e	lie/ri _:vrb-suffix/la _:te-suffix/te	3069 3067 9	160	ɹ i + l a + t̪ e	[x]
+470	Jirel	To lie	pəltekʰabat̪e	pəltekʰabat̪e	p ə.l + t e + kʰ a + b a + t̪ e	lie/pel lie/te lie/kha _:ba-suffix/ba _:te-suffix/te	3077 3066 3076 8 9	158	p ə.l + t e + kʰ a + b a + t̪ e	[x]
+722	Kagate	To lie	t̪ʰaŋsodze	t̪ʰaŋsodze	t̪ʰ a.ŋ + s o + dz e	*lie/thang _:so-suffix _:vb-suffix/dze	3070 3071 13	157	t̪ʰ a.ŋ + s o + dz e	← Chinese tang
+983	Lowa	To lie	tʰelaɲaje	tʰelaɲaje	tʰ e + l a + ɲ a + j e	lie/the lie/la sleep _:je-suffix	3066 3067 3192 2910	930	tʰ e + l a + ɲ a + j e	[x]
+1230	Nubri	To lie	ɲe	ɲe	ɲ e	lie/nje	3068	932	ɲ e	[x]
+1482	Sherpa	To lie	ɡjuru	ɡjuru	g.j u + r u	lie/gju lie/ru	3073 98	933	g.j u + r u	[x]
+1727	Tsum	To lie	ləloɡjab	ləloɡjab	l ə + l o.g + j a.b	lie/le lie/log lie/jab	3074 3067 3075	931	l ə + l o.g + j a.b	[x]
+1991	Yolmo	To lie	kaŋtsʰiɹiɲald̪uŋ	kaŋtsʰiɹiɲald̪uŋ	k a ŋ + tsʰ i + ɹ i + ɲ a.l + d̪ u.ŋ	lie/kang lie/tshi lie/ri sleep sleep/dung	99 100 101 3192 3197	930	k a ŋ + tsʰ i + ɹ i + ɲ a.l + d̪ u.ŋ	[x]
+103942	S_Old_Tibetan	To lie	ɲal	ɲal	ɲ a l			102353	- ɲ a l	From Sagart et al.
+103964	S_Old_Chinese	To lie	ŋˤoj←s	ŋˤoj←s	ŋˤ o j s			103648	ŋˤ o j - s	From Sagart et al.
+209	Gyalsumdo	To burn	takɛ	takɛ	t a + k ɛ	burn/ta _:ke-suffix/ke	2886 2840	860	t a + k - ɛ	
+473	Jirel	To burn	tsʰikpat̪e	tsʰikpat̪e	tsʰ i.k + !p/b a + t̪ e	burn _:vrb-suffix/ba _:te-suffix/te	2888 10 9	860	tsʰ i.k + p a + t̪ e	
+474	Jirel	To burn	tsʰikt̪uk	tsʰikt̪uk	tsʰ i.k + t̪ u.k	burn ?	2888 2892	861	tsʰ i k + t̪ u k	
+725	Kagate	To burn	sadze	sadze	s a + dz e	burn/sa _:vb-suffix/dze	2890 13	860	s a + dz e	← Chinese shao
+986	Lowa	To burn	tɕʰikje	tɕʰikje	tɕʰ i.k + j e	burn _:je-suffix	2888 2910	861	tɕʰ i + k j e	
+1233	Nubri	To burn	hɹø	hɹø	h.ɹ ø	burn/hrø	2891	863	h.ɹ ø	
+1485	Sherpa	To burn	hreko	hreko	h.r e + k !o/u	burn/hrø ?	2891 2887	862	h.r e + k ↓o/u	
+1732	Tsum	To burn	tsʰiʔso	tsʰiʔso	tsʰ i.ʔ + s o	burn _:verbal-suffix/so	2888 2813	860	tsʰ i.ʔ + s o	
+1994	Yolmo	To burn	tsʰid̪e	tsʰid̪e	tsʰ i + d̪ e	burn _:vb-suffix	2888 104	860	tsʰ i - + d̪ e	
+100773	S_Old_Chinese	To burn	Cnan	Cnan	C/ n a n			103619	C/ - n a n	From Sagart et al.
+100810	S_Old_Tibetan	To burn	ɴbar	ɴbar	ɴ b a r			102751	ɴ b a r	From Sagart et al.
+100832	S_Old_Chinese	To burn	Cnan	Cnan	C/ n a n			103619	C/ - n a n	From Sagart et al.
+210	Gyalsumdo	To die	ɕi	ɕi	ɕ i	die	2936	882	ɕ i	← Chinese sǐ
+475	Jirel	To die	ɕjapt̪e	ɕjapt̪e	ɕ.j a.p + t̪ e	die _:te-suffix/te	2937 9	883	ɕ.j a.p + t̪ e	? ← Chinese sǐ
+726	Kagate	To die	ɕidze	ɕidze	ɕ i + dz e	die _:vb-suffix/dze	2936 13	882	ɕ i + dz e	← Chinese sǐ
+987	Lowa	To die	ɕije	ɕije	ɕ i + j e	die _:je-suffix	2936 2910	882	ɕ i + j e	← Chinese sǐ
+1234	Nubri	To die	ɕi	ɕi	ɕ i	die	2936	882	ɕ i	← Chinese sǐ
+1486	Sherpa	To die	ɕiu	ɕiu	ɕ i + u	die _:vb-suffix	2936 103	882	ɕ i + u	← Chinese sǐ
+1733	Tsum	To die	ɕiso	ɕiso	ɕ i + s o	die _:verbal-suffix/so	2936 2813	882	ɕ i + s o	← Chinese sǐ
+1995	Yolmo	To die	ɕid̪e	ɕid̪e	ɕ i + d̪ e	die _:vb-suffix	2936 104	882	ɕ i + d̪ e	← Chinese sǐ
+101315	S_Old_Chinese	To die	sijʔ	sijʔ	s i j ʔ			882	) s i j ʔ	From Sagart et al.
+101316	S_Old_Tibetan	To die	ɕi-	ɕi-	ɕ i			882	) ɕ i	From Sagart et al.
+212	Gyalsumdo	To fly	pʰiɹ	pʰiɹ	pʰ i.ɹ	fly	2984	897	pʰ i ɹ	
+477	Jirel	To fly	pʰuɹ	pʰuɹ	pʰ u.ɹ	fly	2984	897	pʰ u ɹ	
+478	Jirel	To fly	pʰuɹat̪e	pʰuɹat̪e	pʰ u.!Ø/ɹ + ɹ a + t̪ e	fly _:vrb-suffix/ra _:te-suffix/te	2984 2989 9	897	pʰ u.ɹ + ɹ a + t̪ e	
+728	Kagate	To fly	urtse	urtse	!Ø/pʰ u.r + ts e	fly _:vb-suffix	2984 13	897	!pu r + ts e	
+989	Lowa	To fly	pʰuɾje	pʰuɾje	pʰ u.ɾ + j e	fly _to	2984 2910	897	pʰ u + ɾ j e	
+1236	Nubri	To fly	pʰuɹ	pʰuɹ	pʰ u.ɹ	fly	2984	897	pʰ u.ɹ	
+1488	Sherpa	To fly	pʰirku	pʰirku	pʰ i.r + k u	fly _to	2984 2887	897	pʰ i.r + k u	
+1735	Tsum	To fly	pʰiɹso	pʰiɹso	pʰ i.ɹ + s o	fly _:verbal-suffix/so	2984 2813	897	pʰ i.ɹ + s o	
+1997	Yolmo	To fly	loŋ	loŋ	l o.ŋ	fly/loŋ	2988	901	l o ŋ	
+102465	S_Old_Tibetan	To fly	ɴpʰur-	ɴpʰur-	ɴ pʰ u r			897	ɴ pʰ - u r - - - -	From Sagart et al.
+102507	S_Old_Chinese	To fly	Cəpər	Cəpər	C/ ə p ə r			897	) C/ ə - p ə r	From Sagart et al.
+213	Gyalsumdo	To walk	kju	kju	k.j u	TO	3289	1013	k j u	
+479	Jirel	To walk	kʰjom	kʰjom	kʰ.j o.m	TO	3289	1013	kʰ.j o.m	
+480	Jirel	To walk	kʰjambat̪e	kʰjambat̪e	kʰ.j a.m + b a + t̪ e	_to _:vrb-suffix/ba _:te-suffix/te	3289 8 9	1012	kʰ.j a.m + b a + t̪ e	
+729	Kagate	To walk	dodze	dodze	d o + dz e	TO _:vb-suffix/dze	3290 13	1012	d o + dz e	
+990	Lowa	To walk	ndoje	ndoje	ⁿd o + j e	TO _:je-suffix	3290 2910	1012	ⁿd o + j e	
+1237	Nubri	To walk	kombaɡjap	kombaɡjap	k o.m + b a.g + j a.p	_to _to TO	3293 3294 3289	1013	k o.m + b a.g + j a.p	
+1489	Sherpa	To walk	dop	dop	d o.p	TO	3290	1012	d o p	
+1736	Tsum	To walk	ndo	ndo	ⁿd o	TO	3290	1012	ⁿd o -	
+1998	Yolmo	To walk	ndo	ndo	ⁿd o	TO	3290	1012	ⁿd o	
+107676	S_Old_Chinese	To walk	Cəgˤraŋ	Cəgˤraŋ	C/ ə gˤ r a ŋ			101996	- C/ ə - gˤ r a ŋ	From Sagart et al.
+107695	S_Old_Tibetan	To walk	ɴgro-	ɴgro-	ɴ g r o			103003	) ɴ g r o -	From Sagart et al.
+214	Gyalsumdo	To run	t̪aɹkjulaŋ	t̪aɹkjulaŋ	t̪ a.ɹ + k.j u + l a.ŋ	TO _to _to	3156 3157 3158	966	t̪ a ɹ + k j u + l a ŋ	
+481	Jirel	To run	tɕʰwabat̪e	tɕʰwabat̪e	tɕʰ.w a + b a + t̪ e	_to _:vrb-suffix/ba _:te-suffix/te	3159 8 9	966	tɕʰ w a + b a + t̪ e	
+730	Kagate	To run	tɕʰjoŋdze	tɕʰjoŋdze	tɕʰ.j o.ŋ + dz e	_to _:vb-suffix/dze	3161 13	966	tɕʰ j o ŋ + dz e	
+991	Lowa	To run	paŋt̪aŋje	paŋt̪aŋje	p a.ŋ + t̪ a + ŋ.j e	_to TO _to	3160 3156 3162	966	p a.ŋ + t̪ a + ŋ j e	
+1238	Nubri	To run	lat̪aŋ	lat̪aŋ	l a + t̪ a.ŋ	_to run	3158 3156	966	l a + t̪ a.ŋ	
+1490	Sherpa	To run	tɕʰjoŋɡu	tɕʰjoŋɡu	tɕʰ.j o.ŋ + g u	TO _to	3161 3157	967	tɕʰ j o ŋ + g u	
+1737	Tsum	To run	tɕʰoŋdo	tɕʰoŋdo	tɕʰ o.ŋ + d o	_to TO	3161 3156	966	tɕʰ o.ŋ + d o	
+1999	Yolmo	To run	tɕʰjuŋd̪uŋ	tɕʰjuŋd̪uŋ	tɕʰ.j u.ŋ + d̪ u.ŋ	_to TO	3161 3156	966	tɕʰ.j u.ŋ + d̪ u ŋ	
+105802	S_Old_Chinese	To run	[ts]ˤoʔ	[ts]ˤoʔ	tsˤ o ʔ			101960	tsˤ o - ʔ	From Sagart et al.
+105814	S_Old_Chinese	To run	pˤur	pˤur	pˤ u r			103661	pˤ u r	From Sagart et al.
+215	Gyalsumdo	To go	to	to	t o	go/to	3017	910	t o -	
+482	Jirel	To go	ɡalat̪e	ɡalat̪e	g a + l a + t̪ e	go/ga _:vrb-suffix/la _:te-suffix/te	3018 3019 9	910	g a + l a + t̪ e -	
+483	Jirel	To go	ŋɡjuk	ŋɡjuk	ⁿg.j u.k	go	3022	915	ⁿg j u k	
+731	Kagate	To go	dodze	dodze	d o + dz e	go/to _:vb-suffix/dze	3017 13	910	d o - + dz e -	
+992	Lowa	To go	ndoje	ndoje	ⁿd o + j e	go/to _:je-suffix	3017 2910	910	ⁿd o - + j e	
+1239	Nubri	To go	to	to	t o	go/to	3017	910	t o -	
+1491	Sherpa	To go	dop	dop	d o.p	go/to	3017	910	d o p	
+1738	Tsum	To go	ndo	ndo	ⁿd o	go/to	3017	910	ⁿd o -	
+1739	Tsum	To go	pyso	pyso	p y + s o	go/py _:verbal-suffix/so	3023 2813	911	p y + s o -	
+2000	Yolmo	To go	soŋ	soŋ	s o.ŋ	go/soŋ	3020	911	s o ŋ	
+216	Gyalsumdo	To come	ɕjo	ɕjo	ɕ.j o	come/sjo	2921	876	ɕ.j o	
+217	Gyalsumdo	To come	oŋ	oŋ	o.ŋ	come/oŋ	2922	875	o.ŋ	
+484	Jirel	To come	ɕjok	ɕjok	ɕ.j o.k	come/sjo	2921	876	ɕ.j o.k	
+732	Kagate	To come	oŋdze	oŋdze	o.ŋ + dz e	come/oŋ _:vb-suffix/dze	2922 13	875	o.ŋ + dz e	
+993	Lowa	To come	uŋje	uŋje	u.ŋ + j e	come/oŋ _to	2924 2925	878	u.ŋ + j e	
+1240	Nubri	To come	oŋ	oŋ	o.ŋ	come/oŋ	2922	875	o.ŋ	
+1492	Sherpa	To come	uŋgu	uŋgu	u.ŋ + g u	come/oŋ _to	2922 2926	875	u.ŋ + g u	
+1740	Tsum	To come	ɕjoʔ	ɕjoʔ	ɕ.j o.ʔ	come/sjo	2921	876	ɕ.j o.ʔ	
+1741	Tsum	To come	leuʑuŋ	leuʑuŋ	l eu + ʑ u.ŋ	come/leu come/zuŋ	2927 2922	875	l eu + ʑ u.ŋ	
+2001	Yolmo	To come	ɕjo	ɕjo	ɕ.j o	come/sjo	2921	876	ɕ.j o	
+101153	S_Old_Tibetan	To come	joŋ-	joŋ-	j o ŋ			102445	j o ŋ	From Sagart et al.
+101179	S_Old_Chinese	To come	mərˤək	mərˤək	m ə rˤ ə k			103410	) m ə - rˤ ə k	From Sagart et al.
+218	Gyalsumdo	To speak	labt̪aŋɡɛ	labt̪aŋɡɛ	l a.b + t̪ a.ŋ + g ɛ	speak/lab _to _to	3211 3212 3213	985	l a b + t̪ a ŋ + g ɛ	
+485	Jirel	To speak	mbat̪kʰabat̪e	mbat̪kʰabat̪e	ⁿb a.t̪ + kʰ a + b a + t̪ e	speak/bat speak/kha _:vrb-suffix/ba _:te-suffix/te	3214 3215 8 9	986	ⁿb a t̪ + kʰ a + b a + t̪ e	
+733	Kagate	To speak	latse	latse	l a + ts e	speak/lab _to	3211 3213	985	l a - + ts e	
+994	Lowa	To speak	naje	naje	n a + j e	speak/na _:je-suffix	3217 2910	991	n a + j e	
+1241	Nubri	To speak	ɕe	ɕe	ɕ e	speak/se	3213	986	ɕ e	
+1242	Nubri	To speak	lab	lab	l a.b	speak/lab	3211	985	l a.b	
+1493	Sherpa	To speak	ləbu	ləbu	l ə + b u	TO _to	3211 3219	985	l ə - + b u	
+1742	Tsum	To speak	lauso	lauso	l au + s o	TO _:verbal-suffix/so	3211 2813	985	l au - + s o	
+2002	Yolmo	To speak	med̪oŋ	med̪oŋ	m e + d̪ o.ŋ	speak/me TO	3220 3212	987	m e + d̪ o ŋ	
+219	Gyalsumdo	To hear/listen	ɲin	ɲin	ɲ i.n	hear/njin	3033	917	ɲ i n	
+486	Jirel	To hear/listen	t̪ʰobat̪e	t̪ʰobat̪e	t̪ʰ o + b a + t̪ e	hear/to _:vrb-suffix/ba _:te-suffix/te	3034 8 9	918	t̪ʰ o - + b a + t̪ e	
+734	Kagate	To hear/listen	kodze	kodze	k o + dz e	hear/ko _:vb-suffix/dze	3037 13	918	k o + dz e	
+995	Lowa	To hear/listen	ɲenje	ɲenje	ɲ e + n.j e	hear/njin _to	3033 3038	917	ɲ e + n j e	
+1243	Nubri	To hear/listen	ɲin̪	ɲin̪	ɲ i.n̪	hear/njin	3033	917	ɲ i.n̪	
+1494	Sherpa	To hear/listen	ŋeŋɡu	ŋeŋɡu	ŋ e.ŋ + g u	hear/njin _to	3033 3039	917	ŋ e.ŋ + g u	
+1743	Tsum	To hear/listen	ɲan	ɲan	ɲ a.n	hear/njin	3033	917	ɲ a.n	
+1744	Tsum	To hear/listen	ɲanso	ɲanso	ɲ a.n + s o	hear/njin _:verbal-suffix/so	3033 2813	917	ɲ a.n + s o	
+2003	Yolmo	To hear/listen	ɲind̪oŋ	ɲind̪oŋ	ɲ i.n + d o.ŋ	hear/njin _to	3033 3034	917	ɲ i.n + d o ŋ	
+121290	S_Old_Tibetan	To hear/listen	tʰos-	tʰos-	tʰ o s			918	) tʰ o s -	From Sagart et al.
+121300	S_Old_Chinese	To hear/listen	mun	mun	m u n			103639	m u n	From Sagart et al.
+220	Gyalsumdo	To look	t̪e	t̪e	t̪ e	look/ta	3096	944	t̪ e	
+487	Jirel	To look	t̪abat̪e	t̪abat̪e	t̪ a + b a + t̪ e	lookt/ta _:vrb-suffix/ba _:te-suffix/te	3096 8 9	944	t̪ a + b a + t̪ e	
+735	Kagate	To look	t̪adze	t̪adze	t̪ a + dz e	look/ta _:vb-suffix/dze	3096 13	944	t̪ a + dz e	
+996	Lowa	To look	nd̪aje	nd̪aje	ⁿd a + j e	look/ta _:je-suffix	3096 2910	944	ⁿd a + j e	
+1244	Nubri	To look	t̪eji	t̪eji	t̪ e + j i	look/ta _to	3096 3100	944	t̪ e + j i	
+1495	Sherpa	To look	hlap	hlap	h.l a.p	look/hlap	3101	949	h l a p	
+1745	Tsum	To look	t̪ø	t̪ø	t̪ ø	look/ta	3096	944	t̪ ø	
+1746	Tsum	To look	t̪eso	t̪eso	t̪ e + s o	look/ta _:verbal-suffix/so	3096 2813	944	t̪ e + s o	
+2004	Yolmo	To look	t̪ed̪oŋ	t̪ed̪oŋ	t̪ e + d̪ o.ŋ	look/te _to	3096 3102	944	t̪ e + d̪ o ŋ	
+225	Gyalsumdo	He	kʰo	kʰo	kʰ o	he	1254	365	kʰ o	[x]
+490	Jirel	He	t̪ʰe	t̪ʰe	t̪ʰ e	he	1255	366	t̪ʰ e	[x]
+739	Kagate	He	kʰo	kʰo	kʰ o	he	1254	365	kʰ o	[x]
+1000	Lowa	He	kʰo	kʰo	kʰ o	he	1254	365	kʰ o	[x]
+1248	Nubri	He	kʰo	kʰo	kʰ o	he	1254	365	kʰ o	[x]
+1499	Sherpa	He	t̪ʰi	t̪ʰi	t̪ʰ i	he	1255	366	t̪ʰ i	[x]
+1750	Tsum	He	kʰo	kʰo	kʰ o	he	1254	365	kʰ o	[x]
+2009	Yolmo	He	kʰe	kʰe	kʰ e	he	1254	365	kʰ e	[x]
+226	Gyalsumdo	She	mo	mo	m o	female	601	718	m o	[x]
+491	Jirel	She	t̪ʰe	t̪ʰe	t̪ʰ e	she	2410	719	t̪ʰ e	[x]
+740	Kagate	She	mo	mo	m o	female	601	718	m o	[x]
+1001	Lowa	She	mo	mo	m o	female	601	718	m o	[x]
+1249	Nubri	She	mo	mo	m o	female	601	718	m o	[x]
+1500	Sherpa	She	t̪ʰi	t̪ʰi	t̪ʰ i	she	2410	719	t̪ʰ i	[x]
+1751	Tsum	She	mo	mo	m o	female	601	718	m o	[x]
+2010	Yolmo	She	mo	mo	m o	female	601	718	m o	[x]
+227	Gyalsumdo	We (inclusive)	ɲi	ɲi	ɲ i	we	3499	1067	ɲ i	
+228	Gyalsumdo	We (inclusive)	ɲija	ɲija	ɲ i + j a	we :plural-suffix/ja	3499 2697	1067	ɲ i + j a	
+229	Gyalsumdo	We (inclusive)	ɲiɹaŋ	ɲiɹaŋ	ɲ i + ɹ a.ŋ	we all/rang	3499 16	1066	ɲ i + ɹ a.ŋ	
+492	Jirel	We (inclusive)	oɹoŋ	oɹoŋ	o + ɹ o.ŋ	we _all/rang	3500 16	1070	o + ɹ o.ŋ	
+493	Jirel	We (inclusive)	ŋɡaŋe	ŋɡaŋe	ⁿg a + ŋ e	we-inclusive all/nge	17 18	1067	ⁿg a + ŋ e	
+741	Kagate	We (inclusive)	u	u	u	we	3500	1070	u	
+1002	Lowa	We (inclusive)	woɾoŋ	woɾoŋ	w o + ɾ o.ŋ	we _all/rang	3500 16	1066	w o + ɾ o.ŋ	
+1250	Nubri	We (inclusive)	woɹoŋd̪o	woɹoŋd̪o	w o + ɹ o.ŋ + d̪ o	we _all/rang _we/do	3500 16 3505	1066	w o + ɹ o.ŋ + d̪ o	
+1501	Sherpa	We (inclusive)	oraŋ	oraŋ	o + r a.ŋ	we all/rang	3500 16	1066	o + r a.ŋ	
+1752	Tsum	We (inclusive)	ɲoɹoŋ	ɲoɹoŋ	ɲ o + ɹ o.ŋ	_we all/rang	3499 16	1066	ɲ o + ɹ o.ŋ	
+1753	Tsum	We (inclusive)	ɲoɹoŋkja	ɲoɹoŋkja	ɲ o + ɹ o.ŋ + k.j a	_we all/rang _:plural-suffix/kja	3499 16 2718	1066	ɲ o + ɹ o.ŋ + k.j a	
+2011	Yolmo	We (inclusive)	ɲiɹaŋ	ɲiɹaŋ	ɲ i + ɹ a.ŋ	we all/rang	3499 16	1066	ɲ i + ɹ a.ŋ	
+107817	S_Old_Tibetan	We (inclusive)	ɦo skol	ɦo skol	ɦ o s k o l			105946		From Sagart et al.
+231	Gyalsumdo	You (plural)	kʰija	kʰija	kʰ i + j a	_you :plural-suffix/ja	3790 2697	1159	kʰ i + - j a	
+494	Jirel	You (plural)	kʰjokjon	kʰjokjon	kʰ j o + k j o n	YOU _you	3791 3792	1159	kʰ j o + k j o n	
+743	Kagate	You (plural)	kʰjokja	kʰjokja	kʰ j o + k j a	_you YOU	3793 3791	1159	kʰ j o + k j a	
+1004	Lowa	You (plural)	kʰekja	kʰekja	kʰ e + k j a	_you YOU	3790 3791	1159	kʰ e + k j a	
+1252	Nubri	You (plural)	kʰed̪o	kʰed̪o	kʰ e + d̪ o	YOU _you	3790 3794	1160	kʰ e + d̪ o	
+1503	Sherpa	You (plural)	kʰiraŋd̪iba	kʰiraŋd̪iba	kʰ i + r a ŋ + d̪ i + b a	YOU _you _you _you	3790 3795 3794 3796	1160	kʰ i + r a ŋ + d̪ i + b a	
+1754	Tsum	You (plural)	kʰeɹaŋkja	kʰeɹaŋkja	kʰ e + ɹ a.ŋ + k.j a	_you _you _:plural-suffix/kja	3790 3795 2718	1159	kʰ e + ɹ a.ŋ + k.j a	
+2013	Yolmo	You (plural)	kʰjapəti	kʰjapəti	kʰ j a + p ə + t i	YOU _you _you	3791 3797 3794	1159	kʰ j a + p ə + t i	
+108528	S_Old_Tibetan	You (plural)	kʰʲod	kʰʲod	kʰ j o d			1159	kʰ j o - d - - - - - - -	From Sagart et al.
+232	Gyalsumdo	They	kʰuŋja	kʰuŋja	kʰ u + ŋ j a	THEY _they	2714 2715	799	kʰ u - + ŋ j a	
+495	Jirel	They	t̪ʰeba	t̪ʰeba	t̪ʰ e + b a	THEY _:ba-suffix/ba	2716 8	800	t̪ʰ e + b a	
+744	Kagate	They	kʰuŋkja	kʰuŋkja	kʰ u ŋ + k j a	THEY _they	2714 2718	799	kʰ u ŋ + k j a	
+1005	Lowa	They	kʰoŋkja	kʰoŋkja	kʰ o ŋ + k j a	THEY _they	2714 2718	799	kʰ o ŋ + k j a	
+1253	Nubri	They	kʰuŋd̪o	kʰuŋd̪o	kʰ u.ŋ + d̪ o	THEY _they	2714 2716	799	kʰ u.ŋ + d̪ o	
+1504	Sherpa	They	t̪ʰibad̪iba	t̪ʰibad̪iba	t̪ʰ i + b a + d̪ i + b a	THEY _they _they _they	2716 2717 2719 2720	800	t̪ʰ i + b a + d̪ i + b a	
+1755	Tsum	They	kʰuŋkja	kʰuŋkja	kʰ u.ŋ + k.j a	THEY _:plural-suffix/kja	2714 2718	799	kʰ u.ŋ + k.j a	
+2014	Yolmo	They	kʰuŋpʰatsi	kʰuŋpʰatsi	kʰ u ŋ + pʰ a + ts i	THEY _they _they	2714 2717 2716	799	kʰ u ŋ + pʰ a + ts i	
+106981	S_Old_Tibetan	They	koŋ.ta	koŋ.ta				100000		From Sagart et al.
+233	Gyalsumdo	Load	kʰuɹpu	kʰuɹpu	kʰ u.ɹ + p u	LOAD _:bu-suffix/pu	1580 1581	463	kʰ u ɹ + p u	
+496	Jirel	Load	kʰuɹbo	kʰuɹbo	kʰ u.ɹ + b o	LOAD _load	1580 1581	463	kʰ u ɹ + b o	
+745	Kagate	Load	kʰurpu	kʰurpu	kʰ u.r + p u	LOAD _load	1580 1581	463	kʰ u r + p u	
+756	Kagate	Load	ɕjuwa	ɕjuwa	ɕ.j u + w a	LOAD _load	1583 1584	466	ɕ j u + w a	
+1016	Lowa	Load	kʰu	kʰu	kʰ u	LOAD	1580	463	kʰ u	
+1265	Nubri	Load	kʰurpu	kʰurpu	kʰ u.r + p u	LOAD _load	1580 1581	463	kʰ u.r + p u	
+1505	Sherpa	Load	kʰurbu	kʰurbu	kʰ u.r + b u	LOAD _load	1580 1581	463	kʰ u r + b u	
+1769	Tsum	Load	kʰuɹu	kʰuɹu	kʰ u + ɹ u	LOAD _load	1580 1582	463	kʰ u + ɹ u	
+2026	Yolmo	Load	kʰuɹpu	kʰuɹpu	kʰ u.ɹ + p u	LOAD _load	1580 1581	463	kʰ u ɹ + p u	
+235	Gyalsumdo	Hailstone	seɹa	seɹa	s e + ɹ a	HAILSTONE _hailstone	1197 1198	347	s e - + ɹ - a -	
+498	Jirel	Hailstone	seɹe	seɹe	s e + ɹ e	HAILSTONE _hailstone	1197 1198	347	s e - + ɹ - e -	
+747	Kagate	Hailstone	serak	serak	s e + r a.k	HAILSTONE _hailstone	1197 1198	347	s e + r a k	
+1008	Lowa	Hailstone	seɾa	seɾa	s e + ɾ a	HAILSTONE _hailstone	1197 1198	347	s e + ɾ a	
+1256	Nubri	Hailstone	kʰaɕjol	kʰaɕjol	kʰ a + ɕ.j o.l	HAILSTONE _hailstone	1199 1200	349	kʰ a + ɕ.j o.l	
+1507	Sherpa	Hailstone	sertɕjuŋma	sertɕjuŋma	s e.r + tɕ.j u.ŋ + m a	HAILSTONE _hailstone _hailstone	1197 1201 1202	347	s e r + tɕ j u ŋ + m a	
+1759	Tsum	Hailstone	seɹa	seɹa	s e + ɹ a	HAILSTONE _hailstone	1197 1198	347	s e - + ɹ - a -	
+1760	Tsum	Hailstone	tɕʰjaɹwa	tɕʰjaɹwa	tɕʰ.j a + ɹ.w a	_hailstone HAILSTONE	1203 1198	348	tɕʰ.j a + ɹ.w a	
+2017	Yolmo	Hailstone	seɹa	seɹa	s e + ɹ a	HAILSTONE _hailstone	1197 1198	347	s e - + ɹ - a -	
+236	Gyalsumdo	Intestine	kjuma	kjuma	k.j u + m a	intestine _:ma-suffix/ma	1441 1442	419	k.j u + m a	[?]
+237	Gyalsumdo	Intestine	kʰjuma	kʰjuma	kʰ.j u + m a	intestine _:ma-suffix/ma	1441 1442	419	kʰ.j u + m a	[?]
+499	Jirel	Intestine	ŋɡjumak	ŋɡjumak	ⁿg.j u + m a.k	intestine _:ma-suffix/ma	1441 1442	419	ⁿg.j u + m a.k	[?]
+748	Kagate	Intestine	kjuma	kjuma	k.j u + m a	intestine _:ma-suffix/ma	1441 1442	419	k.j u + m a	[?]
+1009	Lowa	Intestine	kjuma	kjuma	k.j u + m a	intestine _:ma-suffix/ma	1441 1442	419	k.j u + m a	[?]
+1257	Nubri	Intestine	kjõ	kjõ	k.j !Ø/u + !Ø/m !õ/o	intestine _:ma-suffix/ma	1441 1442	419	k.j !Ø/u + !Ø/m !õ/o	[?]
+1508	Sherpa	Intestine	ɡema	ɡema	g e + m a	intestine _:ma-suffix/ma	1441 1442	420	g e + m a	[?]
+1761	Tsum	Intestine	kjuã	kjuã	k.j u + !Ø/m !ã/a	intestine _:ma-suffix/ma	1441 1442	419	k.j u + !Ø/m !ã/a	[?]
+2018	Yolmo	Intestine	kjuma	kjuma	k.j u + m a	intestine _:ma-suffix/ma	1441 1442	419	k.j u + m a	[?]
+103640	S_Old_Tibetan	Intestine	rgʲu.ma	rgʲu.ma				100000		From Sagart et al.
+238	Gyalsumdo	Yard	kɔɹtsa	kɔɹtsa	k ɔ.ɹ + ts a	YARD _yard	3725 3726	1143	k ɔ.ɹ + ts a	
+500	Jirel	Yard	ɕjaŋka	ɕjaŋka	ɕ.j a.ŋ + k a	yard YARD	3727 3725	1143	ɕ.j a.ŋ + k a	
+749	Kagate	Yard	kot̪oŋ	kot̪oŋ	k o + t̪ o.ŋ	_yard YARD	3725 3728	1142	k o + t̪ o.ŋ	
+750	Kagate	Yard	ild̪o	ild̪o	i l + d̪ o	YARD _yard	3731 3732	1146	i l + d̪ o -	
+1010	Lowa	Yard	jəku	jəku	j ə + k u	YARD _yard	3729 3730	1148	j ə + k u	
+1258	Nubri	Yard	kjaŋ	kjaŋ	k.j a.ŋ	YARD	3727	1145	k.j a.ŋ	
+1509	Sherpa	Yard	t̪ʰaŋsa	t̪ʰaŋsa	t̪ʰ a.ŋ + s a	YARD _yard	3728 3726	1142	t̪ʰ a.ŋ + s a	
+1762	Tsum	Yard	ild̪oʔ	ild̪oʔ	i.l + d̪ o.ʔ	YARD _yard	3731 3732	1146	i.l + d̪ o.ʔ	
+2019	Yolmo	Yard	t̪iŋ	t̪iŋ	t̪ i.ŋ	YARD	3728	1142	t̪ i ŋ	
+2020	Yolmo	Yard	sat̪iŋ	sat̪iŋ	s a + t̪ i.ŋ	_yard YARD	3726 3728	1142	s a + t̪ i ŋ	
+239	Gyalsumdo	To uproot	pi	pi	p i	uproot	3272	1004	p i	
+501	Jirel	To uproot	pʰalat̪e	pʰalat̪e	pʰ a.!Ø/l + l a + t̪ e	uproot/phal _la _:te-suffix/te	3272 3273 9	1004	pʰ a!Ø/l + l a + t̪ e	← Nepal phal (?)
+751	Kagate	To uproot	podze	podze	p o + dz e	uproot _:vb-suffix/dze	3272 13	1004	p o + dz e	
+1011	Lowa	To uproot	pije	pije	p i + j e	uproot _:je-suffix	3272 2910	1004	p i + j e	
+1259	Nubri	To uproot	kɔ	kɔ	k ɔ	uproot/ko	3276	1006	k ɔ	
+1510	Sherpa	To uproot	pʰəlɡu	pʰəlɡu	pʰ ə.l + !g/k u	uproot/phal _:vb-suffix	3277 3276	1006	pʰ ə.l + g u	← Nepal phal (?)
+1763	Tsum	To uproot	waʔ	waʔ	w a.ʔ	uproot/wa	3278	1007	w a.ʔ	
+1764	Tsum	To uproot	waso	waso	w a + s o	uproot/wa _:verbal-suffix/so	3278 2813	1005	w a + s o	
+2021	Yolmo	To uproot	pod̪oŋ	pod̪oŋ	p o + d̪ o.ŋ	uproot _to	3272 3279	1004	p o + d̪ o ŋ	
+240	Gyalsumdo	Oven	t̪ʰab	t̪ʰab	t̪ʰ a.b	oven/thab	2062	603	t̪ʰ a.b	[x]
+502	Jirel	Oven	t̪ʰap	t̪ʰap	t̪ʰ a.p	oven/thab	2062	603	t̪ʰ a.p	[x]
+752	Kagate	Oven	kwaɡa	kwaɡa	kʷ a + g a	oven/kwa _?	2063 2064	604	kʷ a + g a	[x]
+1012	Lowa	Oven	t̪ʰap	t̪ʰap	t̪ʰ a.p	oven/thab	2062	603	t̪ʰ a.p	[x]
+1260	Nubri	Oven	t̪ʰap	t̪ʰap	t̪ʰ a.p	oven/thab	2062	603	t̪ʰ a.p	[x]
+1511	Sherpa	Oven	t̪ʰab	t̪ʰab	t̪ʰ a.b	oven/thab	2062	603	t̪ʰ a.b	[x]
+1765	Tsum	Oven	t̪ʰap	t̪ʰap	t̪ʰ a.p	oven/thab	2062	603	t̪ʰ a.p	[x]
+2022	Yolmo	Oven	koa	koa	k o + a	oven/ko _?	2065	606	k oa	[x]
+241	Gyalsumdo	Heel	t̪iŋpa	t̪iŋpa	t̪ i.ŋ + p a	heel/tiŋ _:ba-suffix	1299 10	372	t̪ i.ŋ + p a	[x]
+503	Jirel	Heel	kuɹkutsa	kuɹkutsa	k u.ɹ + k u + ts a	heel/kur _heel/ku _heel/tsa	1301 1302 106	375	k u.ɹ + k u + ts a	[x]
+753	Kagate	Heel	t̪iŋba	t̪iŋba	t̪ i.ŋ + b a	heel/tiŋ _:ba-suffix	1299 1300	372	t̪ i.ŋ + b a	[x]
+1013	Lowa	Heel	t̪iŋpa	t̪iŋpa	t̪ i.ŋ + p a	heel/tiŋ _:ba-suffix	1299 1019	372	t̪ i.ŋ + p a	[x]
+1261	Nubri	Heel	kaŋbat̪ʰil	kaŋbat̪ʰil	k a.ŋ + b a + t̪ʰ i.l	_leg/kaŋ _:ba-suffix heel/thil	1512 10 1305	372	k a.ŋ + b a + t̪ʰ i.l	[x]
+1512	Sherpa	Heel	t̪iŋba	t̪iŋba	t̪ i.ŋ + b a	heel/tiŋ _:ba-suffix	1299 1300	372	t̪ i.ŋ + b a	[x]
+1766	Tsum	Heel	t̪iŋba	t̪iŋba	t̪ i.ŋ + b a	heel/tiŋ _:ba-suffix	1299 2603	372	t̪ i.ŋ + b a	[x]
+2023	Yolmo	Heel	kaŋbat̪iŋba	kaŋbat̪iŋba	k a.ŋ + b a + t̪ i.ŋ + b a	_lg/kaŋ _:ba-suffix heel/tiŋ _:ba-suffix	1512 10 1299 10	372	k a.ŋ + b a + t̪ i.ŋ + b a	[x]
+245	Gyalsumdo	To plough	møkɛ	møkɛ	m ø + k ɛ	to-plough _:ke-suffix/ke	3133 2840	959	m ø + k ɛ	[x]
+506	Jirel	To plough	mowat̪e	mowat̪e	m o + w a + t̪ e	to-plough _:wa-suffix _:te-suffix/te	3133 3135 9	959	m o + w a + t̪ e	[x]
+757	Kagate	To plough	modze	modze	m o + dz e	to-plough _:vb-suffix/dze	3133 13	959	m o + dz e	[x]
+1017	Lowa	To plough	moje	moje	m o + j e	to-plough _:je-suffix	3133 2910	959	m o + j e	[x]
+1266	Nubri	To plough	mo	mo	m o	to-plough	3133	959	m o	[x]
+1515	Sherpa	To plough	moku	moku	m o + k u	to-plough _:vb-suffix	3133 3134	959	m o + k u	[x]
+1771	Tsum	To plough	t̪ʰoŋtsuso	t̪ʰoŋtsuso	t̪ʰ o.ŋ + ts u + s o	to-plough plough/tsu _:verbal-suffix/so	2149 3134 2813	960	t̪ʰ o.ŋ + ts u + s o	[x]
+2027	Yolmo	To plough	med̪oŋ	med̪oŋ	m e + d̪ o.ŋ	to-plough _:vb-suffix	3133 3136	959	m e + d̪ o.ŋ	[x]
+246	Gyalsumdo	Bond	kamkja	kamkja	k a.m + k.j a	kam gja	268 269	88	k a.m + k.j a	[x]
+508	Jirel	Bond	t̪əmasuk	t̪əmasuk	t̪ ə + m a + s u.k	te _ma-suffix/ma su	270 11 124	93	t̪ ə + m a + s u.k	[x]
+758	Kagate	Bond	siu	siu	s.!i/j u	bond	272	90	s.!i/j u	[x]
+1018	Lowa	Bond	kenka	kenka	k e.n + k a	kam gja	268 269	88	k e.n + k a	[x]
+1268	Nubri	Bond	kamkja	kamkja	k a.m + k.j a	kam gja	268 269	88	k a.m + k.j a	[x]
+1516	Sherpa	Bond	ɕju	ɕju	ɕ.j u	bond	272	90	ɕ.j u	[x]
+1772	Tsum	Bond	kamɡja	kamɡja	k a.m + g.j a	kam gja	268 269	88	k a.m + g.j a	[x]
+2028	Yolmo	Bond	t̪əməsu	t̪əməsu	t̪ ə + m !ə/a + s u	te _ma-suffix/ma su	270 11 272	93	t̪ ə + m !ə/a + s u	[x]
+2029	Yolmo	Bond	kamɡja	kamɡja	k a.m + g.j a	kam gja	268 269	88	k a.m + g.j a	[x]
+247	Gyalsumdo	Beam (main wooden beam)	kuŋkju	kuŋkju	k u.ŋ + k.j u	beam/kuŋ _beam/kju	158 159	57	k u.ŋ + k.j u	[x]
+509	Jirel	Beam (main wooden beam)	d̪əlin	d̪əlin	d̪ ə + l i.n	beam/de beam/lin	160 161	59	d̪ ə + l i.n	[x]
+759	Kagate	Beam (main wooden beam)	maid̪an	maid̪an	m ai + d̪ a.n	beam/mai beam/an	162 119	164	m ai + d̪ a.n	[x]
+1019	Lowa	Beam (main wooden beam)	t̪uŋma	t̪uŋma	t̪ u.ŋ + m a	beam/tung _:ma-suffix/ma	118 11	55	t̪ u.ŋ + m a	[x]
+1269	Nubri	Beam (main wooden beam)	kuŋɕiŋ	kuŋɕiŋ	k u.ŋ + ɕ i.ŋ	beam/kuŋ _tree/siŋ	158 991	57	k u.ŋ + ɕ i.ŋ	[x]
+1517	Sherpa	Beam (main wooden beam)	d̪uŋma	d̪uŋma	d̪ u.ŋ + m a	tree/tung _:ma-suffix	118 11	55	d̪ u.ŋ + m a	[x]
+1773	Tsum	Beam (main wooden beam)	t̪uŋ	t̪uŋ	t̪ u.ŋ	beam/tung	118	55	t̪ u.ŋ	[x]
+2030	Yolmo	Beam (main wooden beam)	t̪uŋma	t̪uŋma	t̪ u.ŋ + m a	beam/tung _:ma-suffix	118 11	55	t̪ u.ŋ + m a	[x]
+248	Gyalsumdo	Rope used to tie animals	t̪ʰakpa	t̪ʰakpa	t̪ʰ a.k + p a	rope _:ba-suffix/pa	2333 10	695	t̪ʰ a.k + p a	[x]
+510	Jirel	Rope used to tie animals	t̪ʰakpa	t̪ʰakpa	t̪ʰ a.k + p a	rope _:ba-suffix/pa	2316 10	695	t̪ʰ a.k + p a	[x]
+760	Kagate	Rope used to tie animals	t̪ʰakpa	t̪ʰakpa	t̪ʰ a.k + p a	rope _:ba-suffix	2333 2334	695	t̪ʰ a.k + p a	[x]
+1020	Lowa	Rope used to tie animals	t̪ʰaɡpa	t̪ʰaɡpa	t̪ʰ a.g + p a	rope _:ba-suffix	2333 1019	695	t̪ʰ a.g + p a	[x]
+1270	Nubri	Rope used to tie animals	hɹeli	hɹeli	h.ɹ e.!Ø/l + l i	rope/hrel _?	2335 2336	697	h.ɹ e.!Ø/l + l i	[x]
+1518	Sherpa	Rope used to tie animals	t̪ʰakpa	t̪ʰakpa	t̪ʰ a.k + p a	rope _rope	2333 10	695	t̪ʰ a.k + p a	[x]
+1774	Tsum	Rope used to tie animals	mit̪aʔ	mit̪aʔ	m i + t̪ a.ʔ	rope/mi rope/tak	2337 2333	166	m i + t̪ a.ʔ	[x]
+2031	Yolmo	Rope used to tie animals	ɹel	ɹel	ɹ e.l	rope/hrel	2335	697	ɹ e.l	[x]
+249	Gyalsumdo	Bread	kja	kja	k.j a	bread	325	109	k.j a	[x]
+259	Gyalsumdo	Bread	kjaŋ	kjaŋ	k.j !aŋ/a	bread	325	109	k.j a.ŋ	[x]
+511	Jirel	Bread	d̪aɹi	d̪aɹi	d̪ a + ɹ i	bread/da bread/ri	326 125	169	d̪ a + ɹ i	[x]
+521	Jirel	Bread	ɕjoben	ɕjoben	ɕ.j o + b e.n	bread/sju bread/ben	331 332	113	ɕ.j o + b e.n	[x]
+761	Kagate	Bread	maŋre	maŋre	m a.ŋ + r e	bread/mang bread/ra	127 327	173	m a.ŋ + r e	[x]
+771	Kagate	Bread	kʰura	kʰura	kʰ u + r a	bread/khu _bread/ra	329 327	107	kʰ u + r a	[x]
+1021	Lowa	Bread	makɾa	makɾa	m a.k + ɾ a	bread/ma bread/ra	126 327	170	m a + k.ɾ a	[x]
+1032	Lowa	Bread	kjaŋ	kjaŋ	k.j !aŋ/a	bread	325	109	k.j !aŋ/a	[x]
+1271	Nubri	Bread	kʰeu	kʰeu	kʰ eu	bread/khu	329	108	kʰ eu	[x]
+1281	Nubri	Bread	kʰoɹa	kʰoɹa	kʰ o + ɹ a	bread/khu _bread/ra	329 327	107	kʰ o + ɹ a	[x]
+1519	Sherpa	Bread	ɡerok	ɡerok	g e + r o.k	bread/ge bread/rok	329 330	171	g e + r o.k	[x]
+1528	Sherpa	Bread	kuri	kuri	k u + r i	bread/khu _bread/ra	329 125	107	k u + r i	[x]
+1775	Tsum	Bread	kja	kja	k.j a	bread	325	109	k.j a	[x]
+1786	Tsum	Bread	pakut	pakut	p a + k u.t	bread/pa bread/kut	333 334	115	p a + k u.t	[x]
+2032	Yolmo	Bread	kja	kja	k.j a	bread	325	109	k.j a	[x]
+2042	Yolmo	Bread	kʰuɹa	kʰuɹa	kʰ u + ɹ a	bread/khu _bread/ra	329 327	107	kʰ u + ɹ a	[x]
+250	Gyalsumdo	To measure	t̪apkɛ	t̪apkɛ	t̪ a.p + k ɛ	measure _:ke-suffix/ke	3113 2840	952	t̪ a p + k ɛ	[x]
+512	Jirel	To measure	t̪ʰapat̪e	t̪ʰapat̪e	t̪ʰ a + p a + t̪ e	measure _:ba-suffix/pa _:te-suffix/te	3113 10 9	952	t̪ʰ a + p a + t̪ e	[x]
+762	Kagate	To measure	t̪aptse	t̪aptse	t̪ a.p + ts e	measure _:vb-suffix	3113 3114	952	t̪ a p + ts e	[x]
+1022	Lowa	To measure	tsʰeɡjabje	tsʰeɡjabje	tsʰ e + g.j a.b + j e	measure/tshe measure/gjab _:je-suffix	3114 3116 3117	953	tsʰ e + g.j a b j e	[x]
+1272	Nubri	To measure	t̪ab	t̪ab	t̪ a.b	measure	3113	952	t̪ a.b	[x]
+1520	Sherpa	To measure	t̪ʰabɡu	t̪ʰabɡu	t̪ʰ a.b + !g/k u	measure _:vb-suffix	3113 3114	952	t̪ʰ a b + g u	[x]
+1776	Tsum	To measure	t̪op	t̪op	t̪ o.p	measure	3113	952	t̪ o.p	[x]
+1777	Tsum	To measure	t̪ʰit̪aŋso	t̪ʰit̪aŋso	t̪ʰ i + t̪ a.ŋ + s o	measure/thi measure/tang _:verbal-suffix/so	3119 3118 2813	953	t̪ʰ i + t̪ a.ŋ + s o	[x]
+2033	Yolmo	To measure	t̪apt̪oŋ	t̪apt̪oŋ	t̪ a.p + t̪ o.ŋ	measure _:vb-suffix	3113 3118	952	t̪ a p + t̪ o.ŋ	[x]
+251	Gyalsumdo	Plank	t̪al	t̪al	t̪ a.l	plank	2134	628	t̪ a.l	[x]
+513	Jirel	Plank	pʰəljak	pʰəljak	pʰ ə.l + j a.k	plank _jak	2135 2136	627	pʰ ə.l + j a.k	[x]
+763	Kagate	Plank	paŋlek	paŋlek	p a.ŋ + l e.k	plank _lep	2137 2136	625	p a.ŋ + l e.k	[x]
+1023	Lowa	Plank	paŋlep	paŋlep	p a.ŋ + l e.p	plank _lep	2137 2138	625	p a.ŋ + l e.p	[x]
+1273	Nubri	Plank	paŋlep	paŋlep	p a.ŋ + l e.p	plank _lep	2137 2138	625	p a.ŋ + l e.p	[x]
+1521	Sherpa	Plank	jend̪ar	jend̪ar	j e.n + d a.r	plank _plank	2139 2140	630	j e.n + d a.r	[x]
+1778	Tsum	Plank	ndɹap	ndɹap	ⁿd.ɹ a.p	plank	2141	632	ⁿd.ɹ a.p	[x]
+2034	Yolmo	Plank	paŋlep	paŋlep	p a.ŋ + l e.p	plank _lep	2137 2138	625	p a.ŋ + l e.p	[x]
+252	Gyalsumdo	Hole	miksaŋ	miksaŋ	m i.k + s a.ŋ	hole/mik _hole/saŋ	1320 1321	380	m i.k + s a.ŋ	[x]
+514	Jirel	Hole	miu	miu	m i + !Ø/j u	hole/mju _hole/ju	1320 1324	380	m i + !Ø/j u	[x]
+764	Kagate	Hole	sup	sup	s u.p	hole/sup	1322	383	s u.p	[x]
+1024	Lowa	Hole	miu	miu	m i + !Ø/j u	hole/mju _hole/ju	1320 1324	380	m i + !Ø/j u	[x]
+1025	Lowa	Hole	miɡzaŋ	miɡzaŋ	m i.g + z a.ŋ	hole/mik _hole/saŋ	1320 1321	380	m i.g + z a.ŋ	[x]
+1274	Nubri	Hole	hoɡt̪uŋ	hoɡt̪uŋ	h o.g + t̪ u.ŋ	hole/hog hole/tuŋ	1323 121	382	h o.g + t̪ u.ŋ	[x]
+1522	Sherpa	Hole	miksaŋ	miksaŋ	m i.k + s a.ŋ	hole/mik _hole/saŋ	1320 1321	380	m i.k + s a.ŋ	[x]
+1779	Tsum	Hole	mijuŋ	mijuŋ	m i + j u.ŋ	hole _hole/juŋ	1320 1324	380	m i + j u.ŋ	[x]
+2035	Yolmo	Hole	om	om	o m	hole/om	1325	385	o m	[x]
+254	Gyalsumdo	Lid (cover)	kʰəptɕu	kʰəptɕu	kʰ ə.p + tɕ u	lid _tsuk	1529 1530	445	kʰ ə.p + tɕ u	[x]
+516	Jirel	Lid (cover)	mbutso	mbutso	ⁿb u + ts o	lid/bu _tso	120 128	446	ⁿb u + - ts - o -	[x]
+766	Kagate	Lid (cover)	kʰaptɕju	kʰaptɕju	kʰ a.p + tɕ.j u	lid _tsuk	1529 1530	445	kʰ a.p + tɕ.j u	[x]
+1027	Lowa	Lid (cover)	kʰabtɕø	kʰabtɕø	kʰ a.b + tɕ ø	lid _tsuk	1529 1530	445	kʰ a.b + tɕ ø	[x]
+1276	Nubri	Lid (cover)	kʰaptɕuk	kʰaptɕuk	kʰ a.p + tɕ u.k	lid _tsuk	1529 1530	445	kʰ a.p + tɕ u.k	[x]
+1524	Sherpa	Lid (cover)	kʰept̪ok	kʰept̪ok	kʰ e.p + t̪ o.k	lid _tsuk	1529 1530	445	kʰ e.p + t̪ o.k	[x]
+1781	Tsum	Lid (cover)	kʰaʑøʔ	kʰaʑøʔ	kʰ a + ʑ ø.ʔ	lid _tsuk	1529 1530	445	kʰ a + ʑ ø.ʔ	[x]
+2037	Yolmo	Lid (cover)	kʰaʑu	kʰaʑu	kʰ a + ʑ u	lid _tsuk	1529 1530	445	kʰ a + ʑ u	[x]
+257	Gyalsumdo	Ghost	nøpa	nøpa	n ø + p a	ghost/no _:ba-suffix/pa	1094 10	317	n ø + p a	[x]
+519	Jirel	Ghost	ləndik	ləndik	l ə + ⁿd i.k	_hla ghost	1096 1097	315	l ə + ⁿd i.k	[x]
+769	Kagate	Ghost	ɦendi	ɦendi	ɦ e + ⁿd i	_hla ghost	1096 1097	315	ɦ e + ⁿd i	[x]
+1030	Lowa	Ghost	nde	nde	ⁿd e	ghost	1097	315	ⁿd e	[x]
+1279	Nubri	Ghost	hlent̪i	hlent̪i	h.l e + !ⁿt̪/ⁿd i	_hla ghost	1096 1097	315	h.l e + !ⁿt̪/ⁿd i	[x]
+1526	Sherpa	Ghost	rendi	rendi	r e + ⁿd i	_hla ghost	1096 1097	315	r e + ⁿd i	[x]
+1784	Tsum	Ghost	hlande	hlande	h.l a + ⁿd e	_hla ghost	1096 1097	315	h.l a + ⁿd e	[x]
+2040	Yolmo	Ghost	hlandi	hlandi	h.l a + ⁿd i	_hla ghost	1096 1097	315	h.l a + ⁿd i	[x]
+258	Gyalsumdo	Manure	ly	ly	l y	manure	1642	475	l y	[x]
+520	Jirel	Manure	tɕʰja	tɕʰja	tɕʰ.j a	manure	1643	476	tɕʰ.j a	[x]
+770	Kagate	Manure	tɕʰja	tɕʰja	tɕʰ.j a	manure	1643	476	tɕʰ.j a	[x]
+1031	Lowa	Manure	ly	ly	l y	manure	1642	475	l y	[x]
+1280	Nubri	Manure	ly	ly	l y	manure	1642	475	l y	[x]
+1527	Sherpa	Manure	tɕʰja	tɕʰja	tɕʰ.j a	manure	1643	476	tɕʰ j a	[x]
+1785	Tsum	Manure	lyʔ	lyʔ	l y.ʔ	manure	1642	475	l y.ʔ	[x]
+2041	Yolmo	Manure	li	li	l i	manure	1642	475	l i	[x]
+260	Gyalsumdo	Corpse	ɹo	ɹo	ɹ o	corpse	570	184	ɹ o	[x]
+522	Jirel	Corpse	ɹo	ɹo	ɹ o	corpse	570	184	ɹ o	[x]
+772	Kagate	Corpse	ro	ro	r o	corpse	570	184	r o	[x]
+773	Kagate	Corpse	pʰumbu	pʰumbu	pʰ u.m + b u	corpse/phum _bu	572 107	185	pʰ u.m + b u	[x]
+1033	Lowa	Corpse	ɹo	ɹo	ɹ o	corpse	570	184	ɹ o	[x]
+1282	Nubri	Corpse	hɹo	hɹo	h.ɹ o	corpse	570	184	h.ɹ o	[x]
+1529	Sherpa	Corpse	ro	ro	r o	corpse	570	184	r o	[x]
+1787	Tsum	Corpse	ɹo	ɹo	ɹ o	corpse	570	184	ɹ o	[x]
+1788	Tsum	Corpse	pʰuŋbo	pʰuŋbo	pʰ u.ŋ + b o	corpse/phum _bu	572 107	185	pʰ u.ŋ + b o	[x]
+2043	Yolmo	Corpse	ɹo	ɹo	ɹ o	corpse	570	184	ɹ o	[x]
+261	Gyalsumdo	Pig	pʰakpa	pʰakpa	pʰ a.k + p a	pig _:ba-suffix/pa	2122 10	623	pʰ a.k + p a	[x]
+523	Jirel	Pig	pʰakpa	pʰakpa	pʰ a.k + p a	pig _:ba-suffix/pa	2122 10	623	pʰ a.k + p a	[x]
+774	Kagate	Pig	pʰa	pʰa	pʰ a	pig	2123	623	pʰ a	[x]
+1034	Lowa	Pig	pʰak	pʰak	pʰ a.k	pig	2122	624	pʰ a.k	[x]
+1283	Nubri	Pig	pʰa	pʰa	pʰ a	pig	2123	623	pʰ a	[x]
+1530	Sherpa	Pig	pʰakpa	pʰakpa	pʰ a.k + p a	pig _ba-suffix	2122 10	623	pʰ a.k + p a	[x]
+1789	Tsum	Pig	pʰaʔ	pʰaʔ	pʰ a.ʔ	pig	2123	623	pʰ a.ʔ	[x]
+2044	Yolmo	Pig	pʰa	pʰa	pʰ a	piug	2123	623	pʰ a	[x]
+105332	S_Old_Tibetan	Pig	pʰag	pʰag	pʰ a g			624	pʰ - a g - - -	From Sagart et al.
+105348	S_Old_Chinese	Pig	l̥ajʔ	l̥ajʔ	l̥ a j ʔ			103653	l̥ a j ʔ	From Sagart et al.
+263	Gyalsumdo	Stick	kjukpa	kjukpa	k.j u.k + p a	stick _:ba-suffix/pa	2584 10	175	k.j u.k + p a	[x]
+524	Jirel	Stick	dəndi	dəndi	d ə + ⁿd i	stick _stick	2586 2587	765	d ə + ⁿd i	[x]
+776	Kagate	Stick	perka	perka	p e.r + k a	stick/per _ka	28 2589	762	p e.r + k a	[x]
+1036	Lowa	Stick	pekjoʔ	pekjoʔ	p e.k + j o.ʔ	stick _jo	2588 2590	762	p e.k + j o.ʔ	[x]
+1285	Nubri	Stick	pikpa	pikpa	p i.k + p a	stick _:pa-suffix/pa	2588 1078	762	p i.k + p a	[x]
+1286	Nubri	Stick	peɹka	peɹka	p e.ɹ + k a	stick/per _ka	28 2589	762	p e.ɹ + k a	[x]
+1532	Sherpa	Stick	t̪oŋləŋ	t̪oŋləŋ	t̪ o.ŋ + l ə.ŋ	stick _leng	2586 2592	177	t̪ o.ŋ + l ə.ŋ	[x]
+1792	Tsum	Stick	perka	perka	p e.r + k a	stick/per _ka	28 2589	762	p e.r + k a	[x]
+2046	Yolmo	Stick	pɹeka	pɹeka	p !ɹ/e.!Ø/ɹ + k a	stick/per _ka	28 2589	762	p !ɹ/e.!Ø/ɹ + k a	[x]
+106659	S_Old_Chinese	Stick	m→traŋʔ	m→traŋʔ	m t r a ŋ ʔ			101550	m t r a - ŋ ʔ	From Sagart et al.
+106664	S_Old_Tibetan	Stick	dbʲug	dbʲug	d b j u g			101554	d b - j u g - - -	From Sagart et al.
+264	Gyalsumdo	Sweat	ŋulna	ŋulna	ŋ u.l + n a	sweat/nul _na	2628 2629	775	ŋ u.l + n a	[x]
+525	Jirel	Sweat	tʰot̪	tʰot̪	tʰ o.t̪	sweat	2630	778	tʰ o.t̪	[x]
+777	Kagate	Sweat	ŋuldʑju	ŋuldʑju	ŋ u.l + dʑ.j u	sweat/nul _dzu	2628 2631	775	ŋ u.l + dʑ.j u	[x]
+1037	Lowa	Sweat	ŋunak	ŋunak	ŋ u + n a.k	sweat/nul _na	2628 2629	775	ŋ u + n a.k	[x]
+1287	Nubri	Sweat	ŋulna	ŋulna	ŋ u.l + n a	sweat/nul _na	2628 2629	775	ŋ u.l + n a	[x]
+1288	Nubri	Sweat	ŋylna	ŋylna	ŋ y.l + n a	sweat/nul _na	2628 2629	775	ŋ y.l + n a	[x]
+1533	Sherpa	Sweat	ŋumn̪a	ŋumn̪a	ŋ u.m + n̪ a	sweat/nul _na	2628 2629	775	ŋ u.m + n̪ a	[x]
+1793	Tsum	Sweat	ŋulʑju	ŋulʑju	ŋ u.l + ʑ.j u	sweat/nul _dzu	2628 2631	775	ŋ u.l + ʑ.j u	[x]
+1794	Tsum	Sweat	ŋulnaʔ	ŋulnaʔ	ŋ u.l + n a.ʔ	sweat/nul _na	2628 2629	775	ŋ u.l + n a.ʔ	[x]
+2047	Yolmo	Sweat	ŋuldʑju	ŋuldʑju	ŋ u.l + dʑ.j u	sweat/nul _dzu	2628 2631	775	ŋ u.l + dʑ.j u	[x]
+265	Gyalsumdo	To chew	leke	leke	l e + k e	chew/le _to	2905 2906	867	l e + k e	[x]
+526	Jirel	To chew	muɹat̪e	muɹat̪e	m u.!Ø/ɹ + ɹ a + t̪ e	bite/mur bite/rab _:te-suffix/te	2863 2908 9	869	m u + ɹ a + t̪ e	[x]
+778	Kagate	To chew	d̪etse	d̪etse	d̪ e + !ts/dz e	chew/de _:vb-suffix/dze	2909 13	868	d̪ e + !ts/dz e	[x]
+1038	Lowa	To chew	leje	leje	l e + j e	chew/le _:je-suffix	2905 2910	867	l e + j e	[x]
+1289	Nubri	To chew	muɹ	muɹ	m u.ɹ	bite/mur	2863	869	m u.ɹ	[x]
+1534	Sherpa	To chew	leku	leku	l e + k u	chew/le chew/ku	2905 2906	867	l e + k u	[x]
+1795	Tsum	To chew	tɹoʔ	tɹoʔ	t.ɹ o.ʔ	chew/tro	2911	873	t.ɹ o.ʔ	[x]
+2048	Yolmo	To chew	muɾt̪oŋ	muɾt̪oŋ	m u.!ɾ/ɹ + !t̪/d̪ !o/u.ŋ	bite/mur bite/dung	2863 2871	869	m u.!ɾ/ɹ + !t̪/d̪ !o/u.ŋ	[x]
+100865	S_Old_Chinese	To chew	dzewk←s	dzewk←s	dz e w k s			101884	dz e w k s	From Sagart et al.
+100889	S_Old_Chinese	To chew	dzewk←s	dzewk←s	dz e w k s			101884	dz e w k s	From Sagart et al.
+100906	S_Old_Tibetan	To chew	ɴtɕʰa	ɴtɕʰa	ɴ tɕʰ a			102742	ɴ tɕʰ a - - -	From Sagart et al.
+266	Gyalsumdo	To swallow	mikɛ	mikɛ	m i + k ɛ	swallow _:ke-suffix/ke	3231 2840	995	m i + k ɛ	[x]
+527	Jirel	To swallow	mikt̪aŋat̪e	mikt̪aŋat̪e	m i.k + t̪ a + ŋ a + t̪ e	swallow ? ? _:te-suffix/te	3231 3233 138 9	995	m i.k + t̪ a + ŋ a + t̪ e	[x]
+779	Kagate	To swallow	ɲiktse	ɲiktse	ɲ i.k + ts e	swallow _vb-suffix	3234 13	997	ɲ i.k + ts e	[x]
+1039	Lowa	To swallow	miɡje	miɡje	m i !g/k + j e	swallow _je-suffix	3231 2910	995	m i ↓g/k + j e	[x]
+1290	Nubri	To swallow	mikʰ	mikʰ	m i.!kʰ/k	swallow	3231	995	m i.!kʰ/k	[x]
+1535	Sherpa	To swallow	mit̪at̪oŋɡu	mit̪at̪oŋɡu	m i + t̪ a + t̪ o.ŋ + g u	swallow ? ?  _ku-suffix	3231 3233 137 3134	995	m i + t̪ a + t̪ o.ŋ + g u	[x]
+1796	Tsum	To swallow	ɲiʔ	ɲiʔ	ɲ i.!Ø/ʔ	swallow	3234	997	ɲ i.ʔ	[x]
+1797	Tsum	To swallow	ɲitsoŋ	ɲitsoŋ	ɲ i + ts o.ŋ	swallow _vb-suffix	3234 139	997	ɲ i + ts o.ŋ	[x]
+2049	Yolmo	To swallow	ɲit̪uŋ	ɲit̪uŋ	ɲ i + t̪ u.ŋ	swallow _vb-suffix	3234 3118	997	ɲ i + t̪ u.ŋ	[x]
+267	Gyalsumdo	To throw	jukɛ	jukɛ	j u + k ɛ	throw _:ke-suffix/ke	140 2840	178	j u + k ɛ	[x]
+268	Gyalsumdo	To throw	juɹkɛ	juɹkɛ	j u.ɹ + k ɛ	throw _:ke-suffix/ke	140 2840	178	j u.ɹ + k ɛ	[x]
+528	Jirel	To throw	kjuɹat̪e	kjuɹat̪e	k.j u.ɹ + a + t̪ e	throw _ra _:te-suffix/te	3252 3254 9	1000	k.j u.ɹ + a + t̪ e	[x]
+780	Kagate	To throw	kurtse	kurtse	k u.r + ts e	throw _vb-suffix	3252 13	1000	k u.r + ts e	[x]
+1040	Lowa	To throw	juɡje	juɡje	j u.!g/kj + j e	throw _je-suffix	140 2910	178	j u.!g/kj + j e	[x]
+1291	Nubri	To throw	juk	juk	j u.k	throw	140	178	j u.k	[x]
+1536	Sherpa	To throw	juku	juku	j u + k u	throw _vb-suffix	140 3134	178	j u + k u	[x]
+1798	Tsum	To throw	kjut	kjut	k.j u.t	throw	3252	1000	k.j u.t	[x]
+1799	Tsum	To throw	kjuɾtsoŋ	kjuɾtsoŋ	k.j u.ɾ + ts o.ŋ	throw _vb-suffix	3252 139	1000	k.j u.ɾ + ts o.ŋ	[x]
+2050	Yolmo	To throw	kjuɹd̪uŋ	kjuɹd̪uŋ	k.j u.ɹ + d̪ u.ŋ	throw _vb-suffix	3252 3118	1000	k.j u.ɹ + d̪ u.ŋ	[x]
+107183	S_Old_Tibetan	To throw	ɴpʰen	ɴpʰen	ɴ pʰ e n			100873	ɴ pʰ e n	From Sagart et al.
+107202	S_Old_Tibetan	To throw	dbʲug	dbʲug	d b j u g			100928	d b j u - g - - - - - - -	From Sagart et al.
+107239	S_Old_Chinese	To throw	dˤo	dˤo	dˤ o			103676	dˤ o	From Sagart et al.
+#@highlight=TOKENS|ALIGNMENT|SEGMENTS
+#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
+#@pinyin=CHINESE
+#@css=menu:show|database:hide
+#@basics=COGID|CONCEPT|DOCULECT|NOTE|TOKENS
+#@_selected_doculects=Gyalsumdo|Jirel|Kagate|Lowa|Nubri|S_Old_Chinese|S_Old_Tibetan|Sherpa|Tsum|Yolmo
+#@_selected_concepts=Finger
+#@sorted_taxa=Gyalsumdo|Jirel|Kagate|Lowa|Nubri|S_Old_Chinese|S_Old_Tibetan|Sherpa|Tsum|Yolmo
+#@sorted_concepts=Body|Face|Breast|Belly|Elbow|Palm|Finger|Leg|Skin|Faeces|Village|House|Broom|Mortar|Pestle|Hammer|Knife|Thread|Cloth|Ring|Sun|Moon|Star|Rain|River|Cloud|Lightening|Wind|Sand|Mud|Leaf|Root|Thorn|Fruit|Banana|Wheat (husked)|Barley|Rice (husked)|Potato|Groundnut|Chilli|Turmeric|Onion|Tomato|Cabbage|Oil|Chicken|Egg|Cow|Milk|Horns|Monkey|Mosquito|Ant|Spider|Woman|Child|Father|Older brother|Older sister|Younger sister|Wife|Boy|Girl|Day|Night|Morning|Noon|Evening|Today|Tomorrow|Month|Good|Bad|Wet|Short|Hot|Right|Left|Near|Big|Small|Above|Below|White|Eight|Twenty|One Hundred|What|Where|How many|That|These|Those|Same|Different|Whole|Few|Many|All|To bite|To be hungry|To be thirsty|To sleep|To lie|To burn|To die|To fly|To walk|To run|To go|To come|To speak|To hear/listen|To look|He|She|We (inclusive)|You (plural)|They|Load|Hailstone|Intestine|Yard|To uproot|Oven|Heel|To plough|Bond|Beam (main wooden beam)|Rope used to tie animals|Bread|To measure|Plank|Hole|Lid (cover)|Ghost|Manure|Corpse|Pig|Stick|Sweat|To chew|To swallow|To throw
+#@display=filedisplay
+#@missing_marker=Ø
+#@separator=	
+#@gap_marker=-
+#@formatter=COGID
+#@root_formatter=COGIDS
+#@note_formatter=NOTE
+#@pattern_formatter=undefined
+#@publish=undefined
+#@_almcol=ALIGNMENT
+#@filename=JML_withSagart.tsv
+#@navbar=true
+#@_morphology_mode=full

@@ -1,0 +1,33 @@
+<itsabeastystatewerein version='2.0' sample='20000000'>
+<statenode id='Tree.t:ALL'>(8:3.5806757321234297,(9:0.0,((((12:0.16508205497329625,0:0.16508205497329625)24:0.32008344552063134,1:0.4851655004939276)25:0.13118027662778953,5:0.6163457771217171)19:0.17942898413612252,((2:0.5980840756342194,(11:0.5617891058223171,((13:0.33210634417438806,4:0.33210634417438806)20:0.17970471820831962,(3:0.35810610971510387,10:0.35810610971510387)21:0.1537049526676038)23:0.04997804343960943)22:0.03629496981190228)14:0.03546153351570269,(7:0.457883179485903,6:0.457883179485903)16:0.17566242966401907)15:0.16222915210791755)18:0.4042252387421603)17:4.8806757321234295)26:0.0</statenode>
+<statenode id='mutationRate.s:ALL'>mutationRate.s:ALL[1 1] (0.0,Infinity): 1.0 </statenode>
+<statenode id='bcov_alpha.s:ALL'>bcov_alpha.s:ALL[1 1] (1.0E-4,1.0): 0.02286121916057838 </statenode>
+<statenode id='bcov_s.s:ALL'>bcov_s.s:ALL[1 1] (1.0E-4,Infinity): 0.2522571328061992 </statenode>
+<statenode id='frequencies.s:ALL'>frequencies.s:ALL[2 1] (0.0,1.0): 0.9510456356811561 0.048954364318846054 </statenode>
+<statenode id='diversificationRateFBD.t:ALL'>diversificationRateFBD.t:ALL[1 1] (0.0,Infinity): 0.7584376852985678 </statenode>
+<statenode id='turnoverFBD.t:ALL'>turnoverFBD.t:ALL[1 1] (0.0,1.0): 0.13019972263642998 </statenode>
+<statenode id='samplingProportionFBD.t:ALL'>samplingProportionFBD.t:ALL[1 1] (0.0,1.0): 0.29726854043508755 </statenode>
+<statenode id='originFBD.t:ALL'>originFBD.t:ALL[1 1] (0.0,13.0): 7.009740306417841 </statenode>
+<statenode id='clockRate.c:ALL'>clockRate.c:ALL[1 1] (0.0,Infinity): 0.04730422953989735 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"bcovAlphaScaler.s:ALL","p":0.20775303183643315,"accept":6969,"reject":11907,"acceptFC":6959,"rejectFC":11897,"rejectIv":19,"rejectOp":19},
+{"id":"bcovSwitchParamScaler.s:ALL","p":0.42562853367045494,"accept":4870,"reject":13905,"acceptFC":4858,"rejectFC":13904,"rejectIv":0,"rejectOp":0},
+{"id":"frequenciesDelta.s:ALL","p":0.03117000466949573,"accept":4112,"reject":14821,"acceptFC":4098,"rejectFC":14810,"rejectIv":0,"rejectOp":0},
+{"id":"FixMeanMutationRatesOperator","p":4478.129236194231,"accept":379059,"reject":0,"acceptFC":378651,"rejectFC":0,"rejectIv":0,"rejectOp":0},
+{"id":"originScalerFBD.t:ALL","p":0.750171516412286,"accept":122274,"reject":447647,"acceptFC":122013,"rejectFC":447260,"rejectIv":175601,"rejectOp":1},
+{"id":"divRateScalerFBD.t:ALL","p":0.27940942746226366,"accept":479542,"reject":1421978,"acceptFC":477860,"rejectFC":1421451,"rejectIv":0,"rejectOp":0},
+{"id":"turnoverScalerFBD.t:ALL","p":0.19198805552173076,"accept":379010,"reject":1522020,"acceptFC":377261,"rejectFC":1521389,"rejectIv":788251,"rejectOp":783228},
+{"id":"samplingPScalerFBD.t:ALL","p":0.2442939066016914,"accept":427936,"reject":1471229,"acceptFC":426304,"rejectFC":1470734,"rejectIv":427115,"rejectOp":424801},
+{"id":"LeafToSAFBD.t:ALL","p":"NaN","accept":2508,"reject":1896622,"acceptFC":2505,"rejectFC":1894389,"rejectIv":1627574,"rejectOp":1627574},
+{"id":"SAWilsonBaldingFBD.t:ALL","p":"NaN","accept":34981,"reject":1865246,"acceptFC":34934,"rejectFC":1863068,"rejectIv":478340,"rejectOp":75594},
+{"id":"SAWideFBD.t:ALL","p":"NaN","accept":35374,"reject":1863237,"acceptFC":35337,"rejectFC":1861098,"rejectIv":1203935,"rejectOp":1203935},
+{"id":"SANarrowFBD.t:ALL","p":"NaN","accept":326711,"reject":1572162,"acceptFC":326386,"rejectFC":1570305,"rejectIv":827135,"rejectOp":827134},
+{"id":"SAUniformOperatorFBD.t:ALL","p":"NaN","accept":1416472,"reject":2380591,"acceptFC":1414850,"rejectFC":2377768,"rejectIv":0,"rejectOp":0},
+{"id":"SATreeRootScalerFBD.t:ALL","p":0.7102847135302153,"accept":42445,"reject":147236,"acceptFC":42241,"rejectFC":147208,"rejectIv":89082,"rejectOp":0},
+{"id":"SATreeScalerFBD.t:ALL","p":0.7920791733065915,"accept":133910,"reject":436047,"acceptFC":133424,"rejectFC":435886,"rejectIv":225327,"rejectOp":4779},
+{"id":"strictClockUpDownOperator.c:ALL","p":0.7228752456852704,"accept":100472,"reject":468203,"acceptFC":100242,"rejectFC":467801,"rejectIv":183486,"rejectOp":17380},
+{"id":"StrictClockRateScaler.c:ALL","p":0.6656047544199315,"accept":143893,"reject":426612,"acceptFC":143706,"rejectFC":426139,"rejectIv":0,"rejectOp":0}
+]}
+-->
