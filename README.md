@@ -4,6 +4,10 @@ Data and code for running Bayesian phylogenetic analyses of Southwest Tibetic la
 
 Dhakal, D. N., List, J-. M-. and Roberts, S. G. (2024) A phylogenetic study of South-Western Tibetic. *Journal of Language Evolution**. [10.1093/jole/lzae008](10.1093/jole/lzae008)
 
+The doi for this dataset is [![DOI](https://zenodo.org/badge/133529713.svg)](https://doi.org/10.5281/zenodo.16994509)
+
+
+
 A lot of the code is for extrating the lexical data from the original dictionary formats and converting to CLDF. However, if you are interested in obtaining the lexical or cognate data, it is better to use the CLDF repository:
 
 [https://github.com/lexibank/dhakalsouthwesttibetic](https://github.com/lexibank/dhakalsouthwesttibetic)
